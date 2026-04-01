@@ -1,0 +1,6226 @@
+[
+  {
+    "category": "Cardiology",
+    "question_darija": "الكفاءة ديال القلب 38%، شنو دير؟",
+    "answer": "هاد النسبة منخفضة وخصك تستاشر طبيب. يمكن يكون عندك مشكل فالقلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عافاك قولي شنو نوع الدعامة لي درتي؟",
+    "answer": "يمكن ليك تسول طبيبك على النوع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضغط دم 100/240، شنو ندير؟",
+    "answer": "خاصك تمشي عند الطبيب دابا. هاد الضغط عالي بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو اسم صوت القلب؟",
+    "answer": "سميتو نبض القلب. هو الصوت لي كيسمع فالقلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي غثيان ودوخة، شنو ندير؟",
+    "answer": "كانقتارح عليك تشوف شي طبيب. هاد الأعراض خاصها اهتمام.",
+    "entities": {
+      "symptoms": [
+        "غثيان",
+        "دوخة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شحال كيدوم عملية قسطرة القلب؟",
+    "answer": "العملية كتاخد وسط 15-20 دقيقة. كتعتمد على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كايتطور القلب من السرطان؟",
+    "answer": "أه، هادشي نادر ولكن ممكن. خاصك تراجع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش شرب القرفة كيسرعان النزول؟",
+    "answer": "الشاي ديال القرفة كيساعد فالتخفيف من الضغط. ولكن خاصك ما تفرطش فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي نبضات قلبية 92 وضغط الدم 130/80.",
+    "answer": "هادشي عادي. خاص غير تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال التهاب الشريان الرفيع؟",
+    "answer": "كاين بزاف ديال الأسباب، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش نتيجة الإيكو طبيعية؟",
+    "answer": "خاص الطبيب يشرح لك النتائج. كل حالة مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيعاني من صعوبة فالتنفس والقيء.",
+    "answer": "خاص يمشي لطبيب فورا. هادشي ممكن يكون خطير.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس",
+        "القيء"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "التكلفة ديال قسطرة القلب؟",
+    "answer": "التكلفة كتختلف حسب المكان. خاص تسول فالمستشفى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي اليوم 120 على 90. واش هادشي عادي؟",
+    "answer": "هادشي طبيعي. ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش التمر كيساعد فتقليص الضغط؟",
+    "answer": "لا، خاص كميات متوسطة. ما كاينش تأثير كبير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الماكلة لي ماخصش تاكلها لي عندو الدهون الثلاثية؟",
+    "answer": "خاص يتجنب الأطباق الدهنية والسكرية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كايتحكمو فالسكات ديال الدماغ؟",
+    "answer": "خاص السيطرة على العوامل الخطيرة. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الكاسك مضر بالناس اللي عندهم مشاكل فالقلب؟",
+    "answer": "إلا كان الإفراط، ممكن يكون مضر. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شحال من نبضة فاللحظة؟",
+    "answer": "النبض الطبيعي هو بين 60 و100 نبضة في الدقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش 133/80 ضغط دم عالي؟",
+    "answer": "ماشي مشكل، هادشي عادي. خاص غير تراقب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "نسبة الدهون في الدم ديالي هي 0.23.",
+    "answer": "هادشي طبيعي. ما كاينش داعي للقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الزنجبيل ضار للمريض اللي عندو داء القلب؟",
+    "answer": "خاص تسول طبيب على السبب. كل حالة مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "التكلفة ديال عملية ثقب البطين؟",
+    "answer": "كتختلف حسب المكان والمستشفى. خاص تسول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضربات ديال القلب كتوصل ل100 فالدقيقة.",
+    "answer": "غالبا ما كايسببش النوبات. خاص تراقب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كاتوقف من شرب الإيزوبيتيل؟",
+    "answer": "خاص تنسيق مع طبيبك. ماشي ساهل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نقدر نعاون شي واحد مصاب بانسداد الشرايين؟",
+    "answer": "خاص يمشي لصبيطار متخصّص. العلاج ضروري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش يمكن قراءة التصوير الطبي ديال القلب؟",
+    "answer": "يمكن قراءة التصوير الطبي، ولكن خاصك تسول طبيب القلب باش يفسر لك النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو اللي خلا ضغط الدم ديالي طالع؟",
+    "answer": "ضغط الدم كيتزاد بسبب عدة عوامل، بحال التوتر أو النظام الغذائي. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "ضغط الدم العالي"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو المعدل الطبيعي للنبضات وكيفاش كيتحسب؟",
+    "answer": "المعدل الطبيعي للنبضات هو بين 60 و 100 نبضة فالدقيقة. كيتحسب بعدد النبضات فالدقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كانحس بالدوخة والغثيان",
+    "answer": "الدوخة والغثيان يمكن يكونو علامات على مشاكل صحية. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "غثيان"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الفرق بين الضربة الصدرية والضربة القلبية؟",
+    "answer": "الضربة الصدرية كتكون مرتبطة بالجهاز التنفسي، بينما الضربة القلبية كتكون مرتبطة بالقلب. خاصك تسول طبيب باش يوضح لك أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شحال من نبضة فالدقيقة؟",
+    "answer": "المعدل الطبيعي هو بين 60 و 100 نبضة فالدقيقة. هادشي كيتعلق بصحة القلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الضغط الطبيعي فسن الخمسين؟",
+    "answer": "الضغط الطبيعي فسن الخمسين خاصو يكون أقل من 140/90. خاصك تراقب ضغط الدم ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال ضربات القلب؟",
+    "answer": "المعدل الطبيعي هو بين 60 و 100 ضربة فالدقيقة. هاد المعدل كيعكس صحة القلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش رفع الأثقال خطير على الناس اللي عندهم ضغط الدم العالي؟",
+    "answer": "رفع الأثقال يمكن يكون خطير على الناس اللي عندهم ضغط الدم العالي. خاصهم يستاشروا مع طبيب قبل ما يبداو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الترخاء فصمام ثلاثي الشرفات؟",
+    "answer": "الترخاء كيعني ضعف الصمام. خاص استشارة طبيب القلب لتحديد الدرجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين علاقة بين الألم ديال لقالون ومشاكل فالصمامات ديال القلب؟",
+    "answer": "ما كاين حتى تأثير بيناتهم. خاص استشارة طبيب إذا كان الألم مستمر.",
+    "entities": {
+      "symptoms": [
+        "الألم ديال لقالون"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كنحس بالخوف وكنتنفس بصعوبة.",
+    "answer": "خاصك تراجع طبيب القلب للفحص. يمكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "صعوبة التنفس"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الكلسترول 0.97 و الدهون الثلاثية 0.94 واش مزيان؟",
+    "answer": "نتائج مزيانة وعادية. خاص غير تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عدد ضربات القلب الطبيعي شحال؟",
+    "answer": "العدد الطبيعي كيتراوح بين 60 و 100 نبضة فالدقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش استعمال الهاتف كايأثر على القلب؟",
+    "answer": "لا، ولكن خاصك ما تفرطش فالاستخدام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضغط 120/66 واش مزيان و السكر 56؟",
+    "answer": "الضغط مزيان، ولكن السكر منخفض. خاص تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي نسبة الكليسترول فالدم؟",
+    "answer": "النسبة الطبيعية هي حتى 200 ملغ%. خاص تراقبها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وجع فالصدر و فالقلب.",
+    "answer": "خاصك تراجع طبيب متخصص فالقلب. يمكن يكون عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كاينعالج ضعف القلب؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مريض القلب خاصو يغسل السنان؟",
+    "answer": "أه، خاصو يغسلهم. النظافة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي نبضات قلبي بزاف وكنحس بالتوتر.",
+    "answer": "يمكن يكون عندك توتر. خاصك تهدأ وتراجع طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "نبضات قلبي بزاف",
+        "التوتر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شحال من نبضة فالدقيقة؟",
+    "answer": "المعدل الطبيعي هو بين 60 و100 نبضة فالدقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "نبض قلبي 90 مرة فالدقيقة، واش هادا طبيعي؟",
+    "answer": "أه، هادشي عادي وكيعتبر ضمن المعدل الطبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الآثار الجانبية ديال قسطرة القلب؟",
+    "answer": "كاينين بعض الآثار الجانبية، بحال النزيف أو العدوى، ولكنها نادرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كانحس براسي بحال إلا كنقلب على سلم باش نطلع، شنو ندير؟",
+    "answer": "خاصك دير فحص شامل عند الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الدوا ديال باراسيتامول كينقص ضربات القلب؟",
+    "answer": "باراسيتامول ما كينقصش ضربات القلب، هو مسكن للألم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو معنى هبوط الضغط؟",
+    "answer": "هبوط الضغط يعني انخفاض ضغط الدم، وكيكون عندو أعراض بحال الدوخة.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال ضربات القلب؟",
+    "answer": "المعدل الطبيعي هو بين 60 و100 نبضة فالدقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "السمنة كتضر القلب؟",
+    "answer": "أه، السمنة كتسبب في ارتفاع ضغط الدم ومشاكل أخرى فالقلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين خطر فاستخدام السيلدينافيد؟",
+    "answer": "خاصك تسول طبيب أو صيدلاني قبل ما تستعمله.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "قست ضغطي الدم 122/66، واش هادشي عادي؟",
+    "answer": "نعم، هاد القراءة عادية ومقبولة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط العالي كايسبب الدوخة؟",
+    "answer": "أه، الضغط العالي ممكن يسبب دوخة وأعراض أخرى.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كايتوقف التنفس فالسكتة القلبية؟",
+    "answer": "أه، فالسكتة القلبية كايتوقف التنفس وكيكون خطر كبير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نقدر نحيد الدهون الثلاثية؟",
+    "answer": "يمكن تحيد الدهون الثلاثية بالرياضة والحمية الغذائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هوما أعراض مرض القلب؟",
+    "answer": "كاينين أعراض بحال الألم فالصدر، الدوخة، والتعب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "دوخة",
+        "تعب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج التهاب الأذن؟",
+    "answer": "خاصك تشوف طبيب الأذن والحنجرة لأنه هو اللي يقدر يعالج الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أذن وحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كاين بنغزة فالصدر ديالي.",
+    "answer": "خاصك تشوف الطبيب ديالك باش يشوف الأعراض ويحدد واش هادشي خطير.",
+    "entities": {
+      "symptoms": [
+        "بنغزة فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش العلماء متافقين بلي ارتفاع ضغط الدم كيجي من ارتفاع الكوليسترول؟",
+    "answer": "فشي حالات إيه، ولكن خاص استشارة طبيب لتوضيح الأمور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كانحس براسي ناعس ومرخي وقلبي كيدق بزاف.",
+    "answer": "خاصك دير فحص طبي عاجل باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ناعس",
+        "مرخي",
+        "دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الحمل خطير على المرا اللي عندها ثمنية أسابيع؟",
+    "answer": "عندك خاص تشوفي طبيب النساء باش يحدد لك الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "نساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط العالي خطير.",
+    "answer": "صحيح، خاصك تشوف الطبيب لأنه ممكن يكون عندك مشاكل صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ما سمعتش نبضات قلبي.",
+    "answer": "خاصك تمشي للطبيب لأنه هادشي ممكن يكون خطير.",
+    "entities": {
+      "symptoms": [
+        "ما سمعتش نبضات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "بغيت نعرف شنو كايعني هاد التقرير.",
+    "answer": "التقرير كيبين بلي الأوعية الدموية للقلب صالحة، ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي علاج لضعف القلب؟",
+    "answer": "نعم، العلاج كيتحدد حسب نوع الضعف وسببه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش القلوع كيضر القلب؟",
+    "answer": "أه، يقدر يسبب ألام في القلب.",
+    "entities": {
+      "symptoms": [
+        "ألام في القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج ديال انخفاض ضغط الدم؟",
+    "answer": "الماء والملح والمشروبات الحليبية كيساعدو في العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش قياس ضغط الدم 113/71 مزيان؟",
+    "answer": "أه، هاد القياس طبيعي وما كاينش داعي للقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "معدل ضغط الدم العادي للناس اللي عندهم 40 عام؟",
+    "answer": "الضغط العادي هو 130 على 80 و85 مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو التأخر في النمو عند الأطفال؟",
+    "answer": "خاصك تشوف طبيب مختص في الأطفال. هو اللي يقدر يحدد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نعالج اللسان لي فيه الدوالي؟",
+    "answer": "خاصك تشوف طبيب مختص في جراحة الأوعية الدموية.",
+    "entities": {
+      "symptoms": [
+        "دوالي اللسان"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي قياس ديال لديليرول 217، واش هادشي خطير؟",
+    "answer": "هاد القياس عالي بزاف. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش دوا ديال باراسيتامول كايتأثر على الناس اللي عندهم ارتفاع في الدم؟",
+    "answer": "خاصك تسول الطبيب أو الصيدلي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كايبان بلي نبضات القلب ديالك كتر من العادي؟",
+    "answer": "خاصك تشوف طبيب مختص في القلب.",
+    "entities": {
+      "symptoms": [
+        "نبضات القلب"
+      ],
+      "medical_field": "طب القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نمنعو تصلب الشرايين؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتبتعد عن التدخين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "وقتاش خاصني ناخد دوا ديال ليبيتور أتورڤاستاتين؟",
+    "answer": "خاصك تاخدو قبل منتصف الليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الخل كينقص من الضغط؟",
+    "answer": "نعم، الخل كيساعد في تقليل الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج ديال ضعف القلب؟",
+    "answer": "كل حالة عندها علاج خاص بها. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضعف القلب"
+      ],
+      "medical_field": "طب القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كايضرني اليسار ديال الصدر.",
+    "answer": "يمكن يكون بسبب الم في العمود الفقري. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الصدر"
+      ],
+      "medical_field": "طب القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هوما أعراض مرض القلب؟",
+    "answer": "أعراض مرض القلب كتشمل ضيق التنفس، ألم فالصدر، والتعب. خاص استشارة طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس",
+        "ألم فالصدر",
+        "التعب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاج الابهر بالكتف اليسار والرجل؟",
+    "answer": "خاصك تشوف طبيب القلب والشرايين. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالكَتف اليسار",
+        "ألم فالرجل"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش واحد اللي عندو مشاكل فالقلب يقدر يحمل؟",
+    "answer": "أي، يقدر يحمل ولكن خاصو متابعة طبية. الحالة الصحية مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط ديالي 110 على 60 مزيان؟",
+    "answer": "الضغط 110 على 60 يعتبر طبيعي، ولكن خاصك تراقبي صحتك بشكل عام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو قياس ضغط الدم العادي؟",
+    "answer": "ضغط الدم العادي هو 120-139 على 70-89. خاص تراقبي الضغط ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مضرور جهاز ماساج كهربائي للمرضى ديال القلب؟",
+    "answer": "بشكل عام، ما كاينش ضرر. ولكن خاص استشارة الطبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الدعامات مع الوقت كيتقلص القلب؟",
+    "answer": "لا، هاد الفكرة خاطئة. الدعامات كتحسن تدفق الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي العلاقة بين ارتفاع ضغط الدم و ضربات القلب السريعة؟",
+    "answer": "غالبا كاينة علاقة، حيث ارتفاع الضغط يقدر يسبب تسارع فنبضات القلب.",
+    "entities": {
+      "symptoms": [
+        "ضربات القلب السريعة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي علاج ل انسداد الوتر البابي؟",
+    "answer": "أكيد، العلاج كيتحدد حسب نوع الانسداد وسببو. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي نسبة الدهون فالجسم ديالي مرتفعة بزاف. شنو هو العلاج؟",
+    "answer": "خاصك تتبعي نظام غذائي صحي وتديري الرياضة. استشيري طبيب التغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال تضيق الصمام الابحي؟",
+    "answer": "التضيق كيتسبب غالبا فمشاكل وراثية أو التهابات. خاص تشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو النظام الغذائي اللي كيناسب مرضى ارتفاع ضغط الدم فسنينهم الأخيرة؟",
+    "answer": "خاصهم يتبعوا ريجيم ناقص من الملح والدهون. الخضار والفواكه مهمين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي دوا باش نداوي الصدر؟",
+    "answer": "بالطبع، العلاج كيعتمد على نوع الصدرية وسببها. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضرر في الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي أسرع طريقة باش تداوي الفلونزا؟",
+    "answer": "الراحة وتناول بزاف ديال السوائل. خاصك تهتم بصحتك.",
+    "entities": {
+      "symptoms": [
+        "فلونزا"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كيعطي الأموكليفين ديال 1000 مغ لمرضى الضغط العالي؟",
+    "answer": "ما كاين حتى شي تعارض مع الضغط العالي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هوما الأدوية لي كينقصو الضغط الانبساطي؟",
+    "answer": "كاينين عدة أدوية، بحال الأمل والنية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "إلا نسيت ما ناخدش دوا الضغط ديالي، شنو خاصني ندير؟",
+    "answer": "خاصك تحاول تتفكر تاخدو في الوقت. إذا نسيت، استشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كيتحدد طول الضغط؟",
+    "answer": "الطبيب كايستعمل جهاز خاص باش يقيس ضغط الدم. العملية بسيطة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديال الدم ديالي هو 83/131، واش عادي؟",
+    "answer": "هاد الرقم عادي بالنسبة لعمر 18 عام. خاصك غير تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مريض بصمام القلب يقدر يسافر بالطيارة؟",
+    "answer": "على حسب نوع الإصابة ودرجة تقدمه. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي نبضات قلب متقطعة، شنو ندير؟",
+    "answer": "خاصك دير تخطيط كهربائي للقلب. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "نبضات قلب متقطعة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الشوكولاتة الكحلة مضرة للمرضى ديال الكوليسترول؟",
+    "answer": "نعم، خاصة إذا كانوا كياكلو منها بزاف. خاصهم يتجنبوها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش صحيح أن البرتقال كينقص من الضغط؟",
+    "answer": "بكميات متوسطة، ماكاينش مشكل. لكن خاص الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال الضغط عند الناس الكبار؟",
+    "answer": "المعدل الطبيعي للضغط هو 120 على 80. إلا كان الضغط أقل من 90 على 60، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نتعامل مع السكتة القلبية؟",
+    "answer": "خاصنا نتصرف بسرعة وندير الإنعاش القلبي الرئوي. من بعد، خاصنا نتصلوا بالإسعاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط النفسي كيأثر على ضغط الدم؟",
+    "answer": "نعم، الضغط النفسي والغضب يمكن يسببوا ارتفاع ضغط الدم. خاصنا نتحكموا في التوتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي هو 121 على 85. واش هادشي عادي؟",
+    "answer": "نعم، هاد الضغط عادي وما كاينش داعي للقلق. خاصك غير تتبع صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ما سبب هبوط الضغط عند الحامل؟",
+    "answer": "هبوط الضغط عند الحامل كيكون بسبب توسع الشرايين. هاد الشي عادي ففترة الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كيعالجو ضعف الجنس عند المرضى بالسرطان؟",
+    "answer": "خاصك تستاشر مع طبيب مختص. كاينين طرق علاجية مختلفة حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "بطء ضربات القلب، واش هادا مرض؟",
+    "answer": "بطء ضربات القلب يمكن يكون عادي أو مرضي. خاص تقييم طبي لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "العلاج ديال الصداع النصفي؟",
+    "answer": "العلاج كيتحدد حسب نوع الصداع. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديال القلب عندي 90 فالدقيقة. واش هادشي عادي فعمري 19 عام؟",
+    "answer": "أه، هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندها 18 عام، الضغط ديالها كان عالي بزاف.",
+    "answer": "خاصك تشوف الطبيب باش يقيم الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم عالي"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضغط دم مرتفع، شنو تنصحني؟",
+    "answer": "رجع للطبيب ديالك باش يتقيم ويدير العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم مرتفع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ألم في القلب بعد الجماع.",
+    "answer": "عافاك شوف طبيب القلب.",
+    "entities": {
+      "symptoms": [
+        "ألم في القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أنا ديما متوتر وكنحس نبغي نبكي.",
+    "answer": "الخطوة اللولة هي معالجة التوتر.",
+    "entities": {
+      "symptoms": [
+        "توتر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الماكلة المزيانة للمصابين بانسداد الصمام الأذيني؟",
+    "answer": "على حساب نوع الإصابة وشحال هي خطيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو خطر تضخم القلب الخفيف؟",
+    "answer": "خاص تعرف السبب ومعالجتو على هاد الأساس.",
+    "entities": {
+      "symptoms": [
+        "تضخم القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ارتفاع في مستويات الكوليسترول.",
+    "answer": "الريجيم اللي كينقص الكوليسترول هو الحل.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الكوليسترول"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وجع فالصدر وقلبي كيدق بزاف.",
+    "answer": "خاصك تخطيط القلب باش نعرفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر",
+        "دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "هل التحليل كيبين مرض القلب؟",
+    "answer": "نعم، هاد التحليل كيبين واحد من عوامل الخطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "لقيت ضغط الدم ديالي 78/132. واش هادشي عادي؟",
+    "answer": "أه، هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي التهاب فالرجلين وخاصني برنامج ديال الرجلين.",
+    "answer": "ما كاينش شي برنامج غذائي خاص.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالرجلين"
+      ],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ما مرتابطش وأنا كناخد الدوا.",
+    "answer": "كنصحك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ضغط غير مستقر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "نصائح لمرضى القلب عند الجماع.",
+    "answer": "كل واحد عندو مرض القلب عندو علاج ووقاية خاصة بيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ضربات القلب بمعدل 60 ولا 65 هو طبيعي؟",
+    "answer": "هاد المعدل طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الملح والليمون والخل مزيانين للصحة ديال القلب؟",
+    "answer": "إلا ماكانش بزاف، ماكاين التا مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شحال كيسوى قسطرة القلب فالسبيطار؟",
+    "answer": "حسب البلد لي كاينة فيه العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو الماكلة لي كتزيد نبضات القلب؟",
+    "answer": "الماكلة لي فيها لمكلاصات بحال القهوة كتقدر تزيد نبضات القلب.",
+    "entities": {
+      "symptoms": [
+        "نبضات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الضغط الطبيعي للدم؟",
+    "answer": "الضغط الطبيعي هو 120 على 80. إذا كان الضغط ديالك 130 على 80، راه مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو المدى الطبيعي ديال ضغط الدم عند الأربعين عام؟",
+    "answer": "المدى الطبيعي هو ما فوق 140 على 90. خاصك تراقب الضغط ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كايتعامل مع هبوط الضغط؟",
+    "answer": "إذا كان عندك هبوط في الضغط، خاصك تشرب الماء وتستريح. إذا استمر، عافاك استاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "هبوط الضغط"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "تقلق و ضغط من القلب؟",
+    "answer": "كانصحك تدير فحص طبي باش تعرف الحالة مزيان. هادشي مهم باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ضغط من القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كاتعافا من لوبس؟",
+    "answer": "خاصك تتبع مع أطباء مختصين باش يتحكمو فالأعراض. العلاج كيتطلب صبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المناعة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاج انفجار الشعيرات الدموية؟",
+    "answer": "العلاج كيتحسب حسب الموقع وسبب النزيف. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي العلاقة بين ضغط الدم المنخافض والقلب؟",
+    "answer": "ضغط الدم المنخافض كيتعلق بصحة القلب. خاص تقييم دقيق للحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط على الصدر والضغط على القلب مختلفين؟",
+    "answer": "الضغط على الصدر والضغط ديال القلب كيحتاجو يتقيمو. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضغط على الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو معدل الضغط ديال الدم لواحد عندو 40 عام؟",
+    "answer": "المعدل الطبيعي للضغط هو أقل من 140 على 90.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هوما أعراض الكوليسترول العالي؟",
+    "answer": "الكوليسترول العالي ما عندوش أعراض واضحة، ولكن يقدر يسبب أمراض الشرايين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الرجوع الصمام التاجي اللي كاين فيه مشكل يقدر يتفاقم؟",
+    "answer": "نعم، يمكن يتفاقم حسب نوع المشكلة وسببها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عافاك، بغيت نعرف الأعراض اللي كاينة عند الشخص اللي عندو مشكل فالقلب.",
+    "answer": "الأعراض كيمكن تكون ألم فالصدر، ضيق في التنفس، أو تعب غير عادي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "ضيق في التنفس",
+        "تعب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج ضغط الدم؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص لتحديد العلاج المناسب لحالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كايعالجو الضغط المنخفض؟",
+    "answer": "يمكن علاج الضغط المنخفض بالأدوية المناسبة، وأيضاً بتناول الموالح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش نقص الحديد كيخلي نبضات القلب تزيد؟",
+    "answer": "نعم، فقر الدم بسبب نقص الحديد يمكن يسبب تسارع في نبضات القلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال نقصان نبضات القلب؟",
+    "answer": "نقصان نبضات القلب يمكن يكون بسبب عدة عوامل، مشي غير قلبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش قلبي كيدق بزاف ملي كنشوف شي واحد شاب؟",
+    "answer": "هادشي عادي، كيمكن يكون نتيجة التوتر أو الحماس. إذا كان كيتكرر بزاف، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي صداع قاتل ملي كانقرا.",
+    "answer": "خاصك تمشي عند طبيب العيون باش يقيس ليك النظر. يمكن يكون السبب هو ضعف البصر.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الم كاينة فالصدر والرقبة والظهر والكتف.",
+    "answer": "خاصك تراجع طبيب مختص. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ألم في الصدر",
+        "ألم في الرقبة",
+        "ألم في الظهر",
+        "ألم في الكتف"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الحبوب تحت السنان خطيرة؟",
+    "answer": "نعم، إلا استعملتيها بطريقة خاطئة. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حبوب تحت السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضغط الدم مرتفع جديد.",
+    "answer": "خاصك تشوف طبيب باش يحدد ليك العلاج المناسب. الأدوية كيمكن تكون فعالة.",
+    "entities": {
+      "symptoms": [
+        "ضغط الدم المرتفع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو غادي يكون التأثير ديال المضاد الحيوي على شي واحد عندو دعمات في القلب؟",
+    "answer": "ما كاين حتى تأثير كبير. ولكن خاصك تستاشر مع طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش التهاب غشاء القلب كيسبب ألم فالفك؟",
+    "answer": "نعم، يمكن يكون عندو علاقة. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ألم في الفك"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي دوا ديال البروكسيستين كتنقص من الضغط؟",
+    "answer": "البروكسيستين ماشي دوا معروف لخفض الضغط. خاصك تسول طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش حبوب ميجافيش فعالة فتنقيص الكوليسترول؟",
+    "answer": "حبوب ميجافيش كتعتمد على الحالة الصحية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الضغط الطبيعي؟",
+    "answer": "الضغط الطبيعي هو أقل من 130 على 90. إذا كان أكثر، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ملح الليمون كيزيد من ارتفاع ضغط الدم؟",
+    "answer": "لا، ملح الليمون ما كيزيدش الضغط. يمكن تستهلكه بلا خوف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي أعراض الذهان؟",
+    "answer": "أعراض الذهان كتشمل الهلوسة والخلل في التفكير. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "هلوسة",
+        "خلل في التفكير"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ماقدرتش نتنفس مزيان و نبض قلبي تقيل",
+    "answer": "خاصك دير رسم قلب عند طبيب. هاد الشي مهم.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس",
+        "نبض ثقيل"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ما كاينش شي سبب لهاد الضيق",
+    "answer": "خاصك تشوف طبيب مختص فالمصران. يمكن يكون عندك مشكلة تحتاج تشخيص.",
+    "entities": {
+      "symptoms": [
+        "ضيق"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الجماع خطير على ضغط الدم؟",
+    "answer": "لا، الجماع ما فيه حتى خطر على ضغط الدم. يمكن تمارس بشكل عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج ديال جرح الشريان الأبهر؟",
+    "answer": "العلاج غالبا جراحي. كيعتمد على شحال هو الجرح وخطورته.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ضربات قلبك بزاف؟",
+    "answer": "التخطيط ديال القلب عادي. إذا كان عندك قلق، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضربات قلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مزيان لوالدتي تشرب الباراسيتامول إلا كانت عندها ارتفاع في الضغط؟",
+    "answer": "ماكاين حتى عائق طبي. لكن خاصها تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "نبض القلب الطبيعي ديال دري عندو 120 نبضة ف الدقيقة.",
+    "answer": "النبض الطبيعي هو بين 80 و 110. خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "العلاج ديال الجلطات الدماغية المتكررة... وشحال من واحد كيتضرر",
+    "answer": "العلاج كيركز على معالجة السبب. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هوما الأسباب ديال الضغط العالي؟",
+    "answer": "الأسباب كتكون متعددة، من بينها التغذية والعوامل الوراثية. خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "النعاس اللي ما كيساليش ولا النعاس بزاف",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "نعاس مفرط"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "وقتاش غادي توقف استعمال الحبوب ويبداو بالدوميت؟",
+    "answer": "ملي كتكون حاملا، خاصك تكون تحت رعاية طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كيوقع ملي كيتسد الشريان ديال الرجلين فالصمام الأمامي ديال القلب؟",
+    "answer": "كيوقع نقص في تدفق الدم. خاص تقييم طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش لسانك عندو تأثير على القلب؟",
+    "answer": "بالطبع، كل الأعضاء كتأثر على بعضها. خاصك تعتني بصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي صعوبة فالتنفس.",
+    "answer": "خاصك تمشي عند الطبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو ماخصش ناكل للي عندو مشاكل فالقلب؟",
+    "answer": "خاص يتجنب المقليات والمأكولات الدهنية. خاص يركز على الأكل الصحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي مرتفع، شنو ندير؟",
+    "answer": "خاصك تمشي للصبيطار أو تزور طبيب القلب. العلاج ضروري.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كيتعالج ارتفاع ضغط الدم؟",
+    "answer": "الطبيب كيعطي العلاج حسب الحالة ديالك. خاص الكشف الأول.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كيبان التهاب القلب فالإيكو؟",
+    "answer": "الإيكو كيمكن يبين بعض الخصائص ديال القلب. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاينة علاقة بين مرض القلب والسودور؟",
+    "answer": "بعض الأنواع ما كيتأثروش. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "بغيت دوا للتوتر مع قياس الضغط.",
+    "answer": "شرب الماء كيساعد، ولكن خاصك طبيب يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التوتر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كيتستعمل فيسكور للكوليسترول العالي؟",
+    "answer": "نعم، ولكن خاص الطبيب يحدد العلاج حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الكوليسترول"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش العلاقة السرية كتأثر على القلب؟",
+    "answer": "لا، إلا كان عند الشخص التهاب أو مرض. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط 155/90 عالي؟",
+    "answer": "نعم، خاصك تتابع مع طبيب القلب. العلاج ضروري.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كلينيل 250 كيسبب حريق فالصدر؟",
+    "answer": "نعم، من الأعراض الجانبية ديالها هو الخفقان. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حريق فالصدر",
+        "الخفقان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي 160/90، واش هادشي خطير؟",
+    "answer": "نعم، خاصك تتابع مع طبيب القلب. العلاج ضروري.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الكريم لي كيساعد الدورة الدموية؟",
+    "answer": "الرياضة هي الحل الأمثل. خاصك تحافظ على النشاط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط 121/93 مزيان؟",
+    "answer": "الضغط مرتفع شوية، خاصك تراقب حالتك. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو ندير مع الضغط العالي المفاجئ؟",
+    "answer": "خاصك تشوف طبيب مختص فالقلب. الضغط العالي يمكن يكون خطير وخصو علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال ضربات القلب؟",
+    "answer": "المعدل الطبيعي هو ما بين 60 و100 ضربة فالدقيقة. إذا كان عندك أي مشكل، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الخوف كيأثر على القلب؟",
+    "answer": "نعم، الخوف كيزيد من ضربات القلب. خاصك تحاول تهدأ.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال نوبات القلب؟",
+    "answer": "غالبا كيكون القلق أو مشاكل صحية أخرى. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كيتشخص ضعف القلب؟",
+    "answer": "كيتم التشخيص باستعمال الفحص الطبي والتصوير بالسونار. هاد الشي كيعطي فكرة واضحة على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كيعني نتيجة الفحص للتربونين 'غير متفاعل'؟",
+    "answer": "هاد النتيجة تعني أنه ما كاينش آثار للجلطة. خاصك تستاشر مع طبيب باش يفهمك أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نعرف بلي عندي جلطة فالرجلين؟",
+    "answer": "الأعراض كتشمل الألم والتورم. خاصك تشوف طبيب للتشخيص.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "تورم"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "زيادة نبضات القلب فوق 100 شنو كتعني؟",
+    "answer": "زيادة النبضات فوق 100 يمكن تشير لمشكل صحي. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "زيادة نبضات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش السكوتشات القلبية كايتباعو للناس لي فوق 19 عام؟",
+    "answer": "السكوتشات القلبية كيتباعو للناس اللي عندهم مشاكل قلبية، خاص استشارة طبيب قبل الشراء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو النجاح ديال العملية؟",
+    "answer": "النجاح كيعتمد على نوع التضيق ومكانه. كل حالة عندها خصوصياتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو دوا بديل لدياكسيلمون للضغط العالي؟",
+    "answer": "خاصك تشاور مع طبيب الأعصاب، هو اللي يقدر يحدد لك البديل المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي زيادة فحركة القلب فالتهاب الأبليك؟",
+    "answer": "نعم، التهاب الأبليك يمكن يسبب زيادة فحركة القلب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن علاج للجلطة فالدماغ؟",
+    "answer": "العلاج كيعتمد على مكان الجلطة وحجمها. خاص تقييم طبي دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن علاج للضغط البدائي، التينورمين ولا الكونكور؟",
+    "answer": "التينورمين والكونكور كيتستعملو، ولكن الكونكور هو الأكثر فعالية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كاينعالجو التهاب القلب؟",
+    "answer": "كل حالة عندها علاج خاص بها، حسب السبب والنوع. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش تثبيت الصمام الاكليلي خطير؟",
+    "answer": "غالبا لا، ولكن خاص تقييم طبي للخطورة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "دقات قلبي ديما ماشي منتظمة.",
+    "answer": "خاصك تشوف هادشي من خلال تخطيط كهربي للقلب. ضروري زيارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "عدم انتظام دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كان عندي نزيف دموي.",
+    "answer": "كاين بزاف د الأسباب، وأحسن حاجة هي زيارة الطبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "نزيف دموي"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الأسباب ديال تمدد الأوعية الدموية.",
+    "answer": "تمدد الأوعية الدموية يمكن يكون نتيجة لمشاكل صحية أو طبيعية. خاص تقييم طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "قلبي كيدق بزاف وكنحس براسي مقلوب.",
+    "answer": "خاصك تمشي للطوارئ للتشخيص. هاد الحالة ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "دقات قلب سريعة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ولدي عندو تضيق أبهري، واش العلاج فعال من ناحية التكلفة؟",
+    "answer": "العلاج كيعتمد على النوع والدرجة. خاص تقييم طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الناس اللي عندهم الكوليسترول عالي خاصهم يحيدو الفاصوليا؟",
+    "answer": "الفاصوليا مفيدة، ولكن خاصهم يتبعو نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط ديالي عادي؟",
+    "answer": "الضغط كيتقاس بقيم انقباضية وانبساطية. خاصك تشوف الطبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو اللي كيخليك تحس بلي ضربات القلب بطيئة؟",
+    "answer": "الضربات الطبيعية كيتراوحو بين 60 و100. إذا كانت أقل، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضربات قلب بطيئة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الويتون ممكن يكون ضار للمرضى ديال الضغط؟",
+    "answer": "إذا كنت تقصد أوراق الزيتون، فهي مفيدة ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضربات ديال القلب هي 50 فالدقيقة فالراحة، واش هادشي عادي؟",
+    "answer": "إذا ما كانش عندك أعراض، فهادشي عادي. ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش سيريتيد غادي يزيد ضربات القلب؟",
+    "answer": "نعم، عند بعض الأشخاص يقدر يسبب تسارع فالدقات. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تسارع دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ألم فالصدر.",
+    "answer": "كاين بزاف د الأسباب للألم فالصدر. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مريض القلب يقدر يصوم؟",
+    "answer": "حسب نوع المرض القلبي والعلاج لي كيتبع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كيتعالج الكوليسترول العالي؟",
+    "answer": "العلاج كيعتمد على نوع الاضطراب الشحمي وسببه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وجع فالصدر وقلبي وطبيب عطاني دوا 'موزيرام' 500 مغ.",
+    "answer": "استعمل الدوا ونتسنا النتائج.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كيتقاس ضغط الدم؟",
+    "answer": "الطبيب عندو جهاز خاص غادي يشرح لك كيفاش تستعملو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كنحس براسي عييان ملي كانوقف وكنهبط ليه ضغط الدم.",
+    "answer": "خاصك تفحص مزيان عند الطبيب وتدير فحوصات مخبرية.",
+    "entities": {
+      "symptoms": [
+        "عياء",
+        "هبوط ضغط الدم"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو السبب لنبض القلب يكون بزاف فاش كنعس؟",
+    "answer": "ماشي مشكل، هادشي عادي. ولكن إذا كان مستمر، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نبض القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الرياضة ديال بناء العضلات كتضر القلب؟",
+    "answer": "حسب نوعية المرض القلبي. خاص استشارة طبيب لتحديد المخاطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج نزيف الدماغ؟",
+    "answer": "كل حالة عندها علاج خاص بها، حسب حجم النزيف والسبب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدماغ",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضغط دم مرتفع. واش نمشي للصالة؟",
+    "answer": "نعم، ولكن من بعد ما يتعالج. خاصك تراقب الضغط ديالك.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم مرتفع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي 108/65. واش هادشي عادي؟",
+    "answer": "نعم، هادو قياسات طبيعية. ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو خاصني ندير ملي كيهبط الضغط؟",
+    "answer": "خاصك تشرب الماء وتاكل شي حاجة. إذا بقى هابط، خاصك تمشي للسبيطار.",
+    "entities": {
+      "symptoms": [
+        "هبوط الضغط"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "وقتاش كيتطلب القلب عملية جراحية؟",
+    "answer": "فبزاف د لمرات، العلاج ديال المرض هو الحل. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هوما الأعراض ديال مرض القلب؟",
+    "answer": "المشاكل ديال القلب متنوعة، بحال ضيق التنفس أو ألم فالصدر. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس",
+        "ألم فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هوما أعراض مرض القلب؟",
+    "answer": "أعراض مرض القلب كتشمل ضيق التنفس، التعب، والألم في الصدر. خاص استشارة طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس",
+        "التعب",
+        "الألم في الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط العالي خطر؟",
+    "answer": "نعم، الضغط العالي كيشكل خطر على الصحة. خاص متابعة طبية للحد من المخاطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش العصبية كيمكن تكون بسبب نقص هرمون؟",
+    "answer": "ممكن، ولكن ماشي بالضرورة. خاص تقييم طبي شامل.",
+    "entities": {
+      "symptoms": [
+        "العصبية"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كايعاود ليكم مرض القلب الأعراض ديالو؟",
+    "answer": "نعم، الأعراض كيمكن تعاود. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو دواء ديوفان؟",
+    "answer": "ديوفان هو دوا كيتستعمل لعلاج الضغط العالي وفشل القلب. خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ممكن فتح الشرايين بلا عملية قسطره؟",
+    "answer": "ممكن، ولكن خاص تحديد نوع الانسداد. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش النوبة القلبية كتسبب الصداع؟",
+    "answer": "ممكن، ولكن غالبا كيترافق مع أعراض أخرى. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الصداع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش يمكن لي نحبس دواء الإيزوبتيل؟",
+    "answer": "من الأفضل يكون تحت إشراف طبيب. ماشي كل واحد يقدر يوقف الدوا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش البيض كيزيد ف الضغط؟",
+    "answer": "ماكاينش علاقة مباشرة بين البيض والضغط. خاص نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش القهوة خطيرة على مريض القلب؟",
+    "answer": "كاس ديال القهوة ما كيضرش، ولكن خاص الاعتدال. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "القياس ديال الضغط ديالي اليوم هو 154/90. واش هادشي عادي؟",
+    "answer": "هاد القياس كيتعتبر ارتفاع ضغط الدم. خاص مراجعة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ارتفاع ضغط الدم كيسبب نزيف؟",
+    "answer": "نعم، ارتفاع ضغط الدم كيمكن يسبب نزيف. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش النيفوروكساسيد كيتفاعل مع الفوارين؟",
+    "answer": "ما كاينش دليل علمي على هاد الشي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصيدلة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أحسن طريقة باش تتحكم فالضغط العالي هي شنو؟",
+    "answer": "أحسن طريقة هي الريجيم مع الدوا. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الانسحاب ديال السوايل و التورم فالجسم كامل و رجلي؟",
+    "answer": "خاص تشوف طبيب مختص فالمصران. هاد الحالة تحتاج تقييم.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي دوخة بزاف مع عدم الاستقرار وسرعة القلب.",
+    "answer": "هادي أعراض انخفاض ضغط الدم. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "عدم الاستقرار",
+        "سرعة القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي قلق وضيق تنفسي وصداع.",
+    "answer": "كل حالة عندها علاج خاص بيها. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "قلق",
+        "ضيق تنفسي",
+        "صداع"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نقدر نقصو من الضغط ديال الدم؟",
+    "answer": "خاصك تشوف طبيب مختص للتشخيص والعلاج. يمكن ينصحك بتغييرات في النظام الغذائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مرض الذبحة الصدرية مزمن وخطير؟",
+    "answer": "مرض الذبحة الصدرية يمكن يكون خطير، ولكن كل حالة تختلف. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كايعالجو انخفاض ضغط الدم؟",
+    "answer": "العلاج كيتطلب تغييرات في النظام الغذائي وشرب السوائل. خاصك تتجنب الماكلة المالحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن علاج لتجلط الدم فالرجلين؟",
+    "answer": "خاصك تسول أخصائي جراحة أوعية دموية. كل حالة عندها علاج خاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن دوا للضغط؟",
+    "answer": "أحسن علاج كيتحدد من طرف طبيب بعد الفحص. كل مريض عنده احتياجات مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كانحس براسي بدوار خفيف وصعيب نركز.",
+    "answer": "يمكن يكون عندك انخفاض فخضاب الدم. خاصك تدير تحليل.",
+    "entities": {
+      "symptoms": [
+        "دوار",
+        "صعوبة التركيز"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ممكن تعافا من التوسع الأبهر الصغير اللي كيوصل ل 3.9 سم؟",
+    "answer": "نعم، ولكن خاص تشخيص دقيق. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو المعدل الطبيعي لنبض القلب للشباب اللي عندو 30 عام؟",
+    "answer": "المعدل الطبيعي هو بين 60 و100 نبضة في الدقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وجع بسيط فالشريان الوريدي، كيفاش نقدر نحافظ على صحتي؟",
+    "answer": "خاصك تخفض مستويات الدهون في الدم. حاول تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالشريان الوريدي"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كنحس بألم فالصدر كيمشي لليد والزرق",
+    "answer": "هاد الأعراض ممكن تكون خطيرة. خاصك تمشي للطبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "ألم فليد",
+        "زرق"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو مرض الكوليسترول؟",
+    "answer": "الكوليسترول هو مادة دهنية فالجسم. كيتعالج بالمكلة الصحية والرياضة، وإذا ما نفعوش، كاين الأدوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش هاد الدوا كيزيد نبضات القلب؟",
+    "answer": "إيوا، بعض الأدوية تقدر تسبب تسارع فنبض القلب. خاصك تسول الطبيب على التأثيرات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش التسارع بضربات القلب خطير إلا ما تعالجش؟",
+    "answer": "التسارع ممكن يكون خطير حسب السبب. خاصك تشوف طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "تسارع ضربات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الانقطاع من الدوا ديال الضغط كيجيب مشاكل؟",
+    "answer": "إيوا، الانقطاع يقدر يؤدي لمشاكل صحية خطيرة. خاصك ما تنساش تستمر فالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هوما الأسباب الرئيسية ديال احتشاء عضلة القلب؟",
+    "answer": "الأسباب الرئيسية هي تضيق الشرايين بسبب الكوليسترول وارتفاع الضغط. خاصك تحافظ على نمط حياة صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضربات ديال القلب 60، واش كاين شي خطر؟",
+    "answer": "ما كاينش مشكل إلا ما كانوش أعراض أخرى. خاصك تراقب الحالة ديالك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي 180/100، واش كاين شي حل؟",
+    "answer": "خاصك تقييم طبي شامل وتحاليل ديال الدم. العلاج كيتحدد على حساب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كيعني التقرير لي فيه التهاب رئة بكورونا؟",
+    "answer": "هاد التقرير كيشير لوجود التهاب رئة بسبب فيروس كورونا. خاصك متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش تدفق الدم في الشرايين أكبر من الشعيرات؟",
+    "answer": "حيت الشرايين عندها قطر أكبر، وهادشي كيساعد في تدفق الدم بشكل أسرع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الوسط 96، واش خطر؟",
+    "answer": "كاين خطر، خاصك تقييم عند الطبيب. هاد القيمة كيتعتبر عالية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي صعوبة فالتنفس فالجنب اليسار، واش عندي التهاب؟",
+    "answer": "يمكن يكون عندك التهاب جداري. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضيق فالقفص الصدري، شنو ندير؟",
+    "answer": "كاين بزاف ديال الأسباب، أحسن حاجة هي دير تقييم عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ضيق فالقفص الصدري"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط منخفض، واش خاصني ناخد دوا؟",
+    "answer": "إلا ما كانوش أعراض بحال الدوخة، ما كاينش داعي. خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش خروج الدم عندو علاقة بالقلب؟",
+    "answer": "يمكن يكون عندو علاقة، ولكن كاينين أسباب أخرى بزاف. خاص تقييم طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي صعوبة فالتنفس، واش ممكن يكون السبب الإبهر؟",
+    "answer": "خاصك تشوف الطبيب لتحديد السبب الحقيقي. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو أسباب تصلب الشرايين؟",
+    "answer": "غالبا بسبب تراكم الدهون في جدران الأوعية الدموية. خاص الحذر من العادات الغذائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش التوتر والاكتئاب كيزيدو من ضربات القلب؟",
+    "answer": "نعم، التوتر والاكتئاب كيزيدو من ضربات القلب. خاصك تدير مجهود لتخفيف الضغط النفسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الجلطة كتأثر بالسفر لمسافات طويلة؟",
+    "answer": "نعم، السفر لمسافات طويلة يمكن يكون سبب في مرض الانسداد الرئوي. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي نبضات قلبية بزاف، واش هادشي خطير؟",
+    "answer": "لا، إلا ما كانوش أعراض أخرى، ما كاينش داعي للقلق. خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج ديال بلوكاج القلب اليسرى؟",
+    "answer": "العلاج كيتحدد على حساب السبب ودرجة الحالة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "إذا كان هرمون الكورتيزول مرتفع، واش كيسبب ارتفاع ضغط الدم؟",
+    "answer": "نعم، ارتفاع هرمون الكورتيزول يمكن يسبب ارتفاع ضغط الدم. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كايتعالجو نوبات القلب بسبب الضغط النفسي؟",
+    "answer": "العلاج كيتضمن تقنيات للاسترخاء وتخفيف الضغط النفسي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش القلب ما كيتصابش بالسرطان؟",
+    "answer": "كاين سرطان ولكن نسبة الإصابة قليلة. القلب عندو خصائص خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "قلة شرب الما، واش هي السبب فالدوران والخفقان؟",
+    "answer": "نعم، قلة شرب الما يمكن تسبب الدوخة والخفقان. خاصك تشرب كفاية من الماء.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "خفقان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كيوقع ملي كتحرك الدعامة ديال القلب؟",
+    "answer": "ملي كتحرك الدعامة، ممكن تسبب توتر فالقلب. خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شحال كيسوى عملية قسطرة للقلب وتركيب شبكتين؟",
+    "answer": "ثمن العملية كيتغير حسب المركز الطبي والمكان. خاصك تسول فالمركز لي غادي تدير فيه العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شحال كيدق القلب فالدقيقة؟",
+    "answer": "المعدل كيتراوح بين 60 و100 دقة فالدقيقة. كيعتمد على العمر والنشاط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش انخفاض ضغط الدم خطير؟",
+    "answer": "إيلا ما تعالجش مزيان، يقدر يسبب مضاعفات خطيرة. خاصك تراقب الضغط ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مشكل كبير هاد القلب الصغير؟",
+    "answer": "إلا كان القلب خدام مزيان، ما كاينش مشكل. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال ألم القلب المفاجئ؟",
+    "answer": "الأسباب كيمكن تكون متعددة، خاصك تشوف الطبيب باش تعرف السبب الحقيقي.",
+    "entities": {
+      "symptoms": [
+        "ألم القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاجات ضغط الدم 140/100؟",
+    "answer": "هاد الضغط مرتفع، خاصك تراجع طبيب مختص. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش معدل ضربات القلب 108 عادي؟",
+    "answer": "نعم، كيدل على نشاط الجسم. ولكن خاصك تراقب الوضعية ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي سبب طبي لخفقان القلب؟",
+    "answer": "خفقان القلب كيمكن يكون نتيجة للقلق أو مشاكل صحية. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "خفقان القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو اللي كيسبب ليك الحرارة فالصدر والخفقان؟",
+    "answer": "يمكن تكون نتيجة للقلق أو مشاكل فالقلب. خاصك دير تخطيط قلب.",
+    "entities": {
+      "symptoms": [
+        "حرارة فالصدر",
+        "خفقان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي ضرر إلا طلع الضغط ل140؟",
+    "answer": "هاد الضغط مازال فالمستويات العادية. ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال ضغط الدم اللي كيتراوح ما بين 94/51؟",
+    "answer": "هاد الضغط غالبا عادي، ولكن خاصك تشوف طبيب للتأكد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو النزيف تحت الجلد؟",
+    "answer": "خاص يتعالج النقصان تحت إشراف طبي.",
+    "entities": {
+      "symptoms": [
+        "نزيف تحت الجلد"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وجع فالقلب بحال شي خيزو صغير كيدخل ليا فقلبي.",
+    "answer": "خاصك تشوف طبيب دابا، هاد الشي ممكن يكون خطير.",
+    "entities": {
+      "symptoms": [
+        "وجع فالقلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي زيادة فالسعات ديال القلب شي مرات.",
+    "answer": "خاصك تقلل من شرب الكحول أو تقطعو نهائيا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي كان مرتين مرتفع بزاف. وصل ل 140/85 و 160/90.",
+    "answer": "خاصك تشوف طبيب باش يتأكد واش عندك مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي صعوبة فالتنفس ملي كنهز يديا اليمنى.",
+    "answer": "خاصنا نديرو صورة للرية ونشوفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو اللي كيتعافى بسرعة أكثر، انسداد الشريان الرئيسي ولا الشريان المغذي للقلب؟",
+    "answer": "هاد الشي كيعتمد على نوع ونسبة الانسداد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كاين شي علاج لرفرفة القلب؟",
+    "answer": "كاين بزاف دالحلول، ولكن خاص نحددو نوع الرفرفة والسبب ديالو.",
+    "entities": {
+      "symptoms": [
+        "رفرفة القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نحدد الضغط العالي؟",
+    "answer": "كيكون الضغط فوق المستوى الطبيعي للفئة العمرية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ممكن تذكر نوع دوا ديال الضغط العالي؟",
+    "answer": "مايمكنش نحدد دوا بلا ما تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي أعراض النوبة القلبية؟",
+    "answer": "بعض المرضى كيتقاسمو أعراض مختلفة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "أعراض النوبة القلبية"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الأدوية لي كتعالج هبوط الضغط؟",
+    "answer": "كل حالة عندها علاج خاص بها حسب السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش كا نحس بضعف دقات القلب ملي كاندير العادة السرية؟ واش هادشي مضر؟",
+    "answer": "هاد الشي ممكن يكون عادي، ولكن خاصك ما تفرطش.",
+    "entities": {
+      "symptoms": [
+        "ضعف دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج ديال الجلطة فالكاحل؟",
+    "answer": "كل حالة عندها علاج خاص بها حسب المكان والسبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "العلاج ديال مرض القلب ممكن يتعطى ليك بلا شروط؟",
+    "answer": "بالطبع، ولكن خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مزيان تحس بالضربات ديال القلب فشي بلايص مختلفة فالجسم؟",
+    "answer": "يمكن يكون طبيعي، ولكن خاصك تشوف طبيب إذا كان مستمر.",
+    "entities": {
+      "symptoms": [
+        "الضربات ديال القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش طلع ليه الضغط؟",
+    "answer": "السبب الرئيسي هو مرض، وما كاينش شي سبب آخر كيتسبب فيه أكثر من 90%.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ضعف القلب كيأدي للإرهاق؟",
+    "answer": "بالتأكيد، حسب الدرجة والنوع.",
+    "entities": {
+      "symptoms": [
+        "ضعف القلب",
+        "الإرهاق"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو اللي كيوقع للي كياخد بزاف ديال الدوا ديال القلب؟",
+    "answer": "على حساب نوع الدوا والجرعة، خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو النسبة الطبيعية ديال الدهون الثلاثية؟",
+    "answer": "خاصها تكون أقل من 150 ملغ/ديسيلتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو خاصني ندير؟",
+    "answer": "خاصك تقيس الضغط ديالك و تمشي عند الطبيب باش يحدد لك خطة العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ارتفاع في ضغط الدم. واش ممكن تعالجني بالثوم وكيفاش؟",
+    "answer": "الثوم ممكن يساعد، ولكن خاصك تاخد دوا و تستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع في ضغط الدم"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي التعليمات قبل وبعد العملية ديال التصوير بالرنين المغناطيسي للقلب؟",
+    "answer": "ماكاينش تعليمات خاصة، ولكن خاصك تتبع توجيهات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "لقيت ضغط الدم ديالي 10.5/06. واش هادشي عادي؟",
+    "answer": "إلا ما كانش عندك أعراض، ما كاينش داعي للقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو مستوى الضغط المنخافض؟",
+    "answer": "الضغط المنخفض هو أقل من 90 للضغط الانقباضي و 60 للضغط الانبساطي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كنشوفو شحال من واحد كيتهدد بالصمطة فشي جهاز إيكو؟",
+    "answer": "كنستعملو بيانات الفحص الطبي والفحوصات المساعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الإيبوفلام مزيان للقلب؟",
+    "answer": "الإيبوفلام مزيان إلا كان تحت مراقبة طبية وضمن استطباب واضح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي أعراض شبيهة بالأنفلونزا من بعد ما خديت شي دوا ديال الضغط العالي.",
+    "answer": "خاصك تقولي شنو هي هاد الأدوية باش نقدر نساعدك.",
+    "entities": {
+      "symptoms": [
+        "أعراض شبيهة بالأنفلونزا"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الشعور بعدم الخفقان شي مرات كيعني ضعف فالقلب؟",
+    "answer": "لا، ماشي صحيح، خاصك تستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "عدم الخفقان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش السيليبيراتور كايتأثر بالقلب؟",
+    "answer": "كاين بعض الحالات لي كيبان فيها ردود فعل قلبيّة غير مرغوب فيها، خاص الواحد يتجنبها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الدوا اللي خاص مريض باركنسون ياخذو؟",
+    "answer": "خاص استشارة طبيب مختص لتحديد الدوا المناسب حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي مشكل فالقلب و ملي ما كناخدش الدوا كنحس بالدوخة والغثيان.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب لحالتك.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "غثيان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي هو ١٢/العالي والضغط ديال الوطا هو ٩/٨، واش يمكن لي ناخد دوا ديال الضغط؟",
+    "answer": "الضغط ديالك عادي وما كيتعالجش، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي تضخم فالقلب، واش الدوخة ديالي مزيانة؟",
+    "answer": "الدوخة عرض شائع عند مرضى القلب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "قمت بقياس الضغط ديالي ولقيتو 13.5/6.5. واش هادشي عادي بالنسبة لواحد عندو 38 عام؟",
+    "answer": "أه، هادشي عادي بالنسبة لسنك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش قلة النعاس كتأثر على الضغط ديال الدم؟",
+    "answer": "نعم، قلة النعاس كتزيد من الضغط ديال الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أسباب النوبات القلبية؟",
+    "answer": "كاين بزاف د الأسباب، قلبي وعصبي ودموي ونفسي، خاص تقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش يمكن لي نعرف واش عندي شي مرض من أمراض القلب؟",
+    "answer": "خاصك تراقب الأعراض بحال الألم أو الدوخة، وضروري تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "نبض قلبي هو 87، واش هادشي عادي فعمري 18 عام؟",
+    "answer": "النبض الطبيعي هو بين 60 و90 نبضة فالدقيقة، هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط 14/9 و النبض 55 مزيان؟",
+    "answer": "الضغط 14/9 عادي، ولكن النبض 55 قليل. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضغط الدم",
+        "نبض"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كنحس بلي نبضتي بطيء.",
+    "answer": "يمكن يكون عندك بطء فنبض القلب. خاصك دير فحص طبي.",
+    "entities": {
+      "symptoms": [
+        "نبض بطيء"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضربات القلبية كيتكررو بزاف من بعد ما كناكول، واش هادشي عادي؟",
+    "answer": "نعم، هادشي عادي إلا ما كانش شي أعراض أخرى. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "ضربات قلبية متكررة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي إحساس بالبرد فالصدر، واش هادشي عادي؟",
+    "answer": "لا، خاصك دير فحص طبي. هاد الإحساس ممكن يكون علامة على شي مشكل.",
+    "entities": {
+      "symptoms": [
+        "إحساس بالبرد فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "وصلت ل 53/123 قبل الفطور اليوم. واش هادشي عادي؟",
+    "answer": "نعم، هادشي عادي. الضغط كيبقى في المعدل الطبيعي.",
+    "entities": {
+      "symptoms": [
+        "ضغط الدم"
+      ],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الأوميكا 3.6.9 مفيدة للشرايين بالنسبة لمرضى السكري؟",
+    "answer": "الأوميكا 3.6.9 تقدر تعاون فصحة الشرايين، ولكن ماشي بديل للعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش اللب الأبيض بلا ملح كينقص الكوليسترول؟",
+    "answer": "أه، كاين شي دراسات كاتبين هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو الأسباب ديال ارتفاع الضغط الانبساطي؟",
+    "answer": "كاين بزاف دالأسباب، ولكن الضغط النفسي هو الأكثر شيوعا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أنا كنحس بألم فقلبي من بعد ما نصحى من النوم.",
+    "answer": "يمكن يكون توتر أو حاجة أخرى، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فقلبي"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي تضخم فعضلة القلب وعندي 19 عام، بغيت برنامج غذائي.",
+    "answer": "خاصك استشارة طبيب مختص باش يعطيك نصائح ملائمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "راجل عندو 96 نبضة فالدقيقة فالمستشفى.",
+    "answer": "هادشي عادي فهاد العمر، ولكن خاص متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش خاصني عملية على القلب؟",
+    "answer": "ماكاين حتى مشكل، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "نبض القلب كيتسارع ملي كنشوف الخوف.",
+    "answer": "هادشي عادي، حيت كاين زيادة فالأدرينالين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ضغط الدم ديالي 85/136 وعندي 18 عام.",
+    "answer": "مزيان، ولكن خاصنا نراقبوا الماكلة والوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ضغط الدم الانقباضي ديالي هو 154/80 وعندي 24 عام. واش هادشي عادي؟",
+    "answer": "لا، الضغط طالع، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أنا تحت ضغط كبير ومضغوط بزاف.",
+    "answer": "خاصك تشوف طبيب، الدوخة ماشي علامة ديال ارتفاع الضغط.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش توقف دوا ضغط الدم يقدر يجيب مشاكل أخرى؟",
+    "answer": "أه، الضغط العالي كيسبب مضاعفات، خاصك تكون واعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن وقت باش ناخد دوا الضغط؟",
+    "answer": "خاصك تسول الطبيب على نوعية الدوا ووقته.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش أموكيسلين آمن للناس اللي عندهم مشاكل فالقلب؟",
+    "answer": "خاصك تسول الطبيب، الما المعدني يقدر يضر القلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ضغط الدم و دقات القلب ديالي 80/98 خطيرة؟",
+    "answer": "لا، ولكن خاصك تراقبهم باش ما يوقعوش مضاعفات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "نقصان ضربات القلب بعد دوا 'لوپريسور' ب50 مڭ.",
+    "answer": "أه، هادشي من تأثيراته العادية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش نقدر ندير الحجامة للمريض اللي عندو نزيف دم صغير؟",
+    "answer": "ماعندها حتى تأثير سلبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مزيان نتمشاو لناس لي عندهم مشاكل فالقلب؟",
+    "answer": "بدا ب10 دقايق ديال المشي يوميا، وزيد بشوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين علاقة بين التهاب القولون وارتفاع ضغط الدم؟",
+    "answer": "إلا كان بسباب نفسي، يمكن يكون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "معدل ضغط الدم ديالي هو 130/100 بلا سبب، وعندي 43 عام.",
+    "answer": "خاصك تدير تحليل دم كامل وتراقب الكلى ونمط الدهون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج ارتفاع ضغط الدم 155/100؟",
+    "answer": "كاينين بزاف د العلاجات لارتفاع ضغط الدم، ولكن خاص استشارة طبيب باش يحدد العلاج المناسب حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مزيان للمريض ديال الضغط يسيروم؟",
+    "answer": "الصيام مزيان لمرضى الضغط، ولكن خاصهم يتبعو نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو اللي خلا الضغط ينزل و الجسم ديالي يتنمل؟",
+    "answer": "خاصنا نديرو تحاليل باش نعرفو السبب الحقيقي وراء هاد الأعراض.",
+    "entities": {
+      "symptoms": [
+        "تنمل"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي حاجة فصبع اليد اليسرى لي كتسبب ليا النبض؟",
+    "answer": "ماكاينش سبب واضح، ولكن خاصك تشوف طبيب باش يتأكد.",
+    "entities": {
+      "symptoms": [
+        "نبض"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الفرق بين العلاج ديال الضغط بالأملودابين والنورموترين؟",
+    "answer": "الأملودابين والنورموترين كيتستعملو لتحسين ضغط الدم، ولكن كل واحد عندو طريقة عمل مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش سمبيكورت كيعطي نتيجة للناس اللي عندهم ضغط دم عالي؟",
+    "answer": "ممكن يتستعمل، ولكن خاصو يتراقب من طرف الطبيب باش ما يكونش تأثير سلبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش أدوية السيولة كتحسن الضغط ولا كتخففو؟",
+    "answer": "أدوية السيولة كيمكن تساعد في تنظيم الضغط، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أنا مسكين بزاف، شنو ندير؟",
+    "answer": "خاصك تعرض على طبيب قلب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال الصداع المستمر؟",
+    "answer": "كاين بزاف ديال الأسباب، بحال التوتر أو مشاكل صحية أخرى. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع مستمر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الوجع فالصدر واليد اليسرى واش هو نفسو نفس الحالة؟",
+    "answer": "غالبا كيكونو بسبب التوتر أو مشاكل قلبية، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر",
+        "وجع ف اليد اليسرى"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ارتفاع ضغط الدم عندو علاقة بالجنس؟",
+    "answer": "أه، إلا ما تعالجاتش مزيان يمكن يكون عندها عواقب على الصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ممكن الضغط ديال الموقف يأثر على الجماع؟",
+    "answer": "أه، الضغط النفسي يمكن يأثر على الأداء الجنسي، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كنحس بالدوخة كل صباح، شنو ندير؟",
+    "answer": "يمكن يكون عندك نقص في السوائل أو ضغط منخفض، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيعاني من تقلصات فالصدر فالجانب اليسار و انخفاض ضغط الدم، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يدير لك رسم قلب ويعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "تقلصات فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ارتفاع في الكوليسترول 245. شنو هو العلاج المناسب؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتستاشر مع طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كيعني الضغط ديال القلب؟",
+    "answer": "هو الضغط اللي كيتعرض ليه الشريان أثناء ضخ الدم. خاص يكون متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كياكل اللي عندو ضغط دم عالي؟",
+    "answer": "خاص يتجنب الملح ويعتمد على الخضار والفواكه. النظام الغذائي مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كايلعب دور الهبوط فنتائج تخطيط القلب؟",
+    "answer": "نعم، الهبوط كيعتمد على شدته ومدة حدوثه. خاص استشارة طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "هبوط"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كانحس بشي إحساس فوسط الصدر ملي كانضغط فبلاصة محددة.",
+    "answer": "خاصك دير راديو الأشعة السينية باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "إحساس فوسط الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج أوديم؟",
+    "answer": "العلاج كيتطلب تقليل كمية الما اللي كيتسرب. خاص تعرف السبب وهادشي غالبا كيتعلق بالجهاز البولي.",
+    "entities": {
+      "symptoms": [
+        "أوديم"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أنا عندي 62 عام، وقلبي كيدق ب 83 نبضة. واش هادشي عادي؟",
+    "answer": "إلا ماكاينش أعراض أخرى، راه هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي صعوبة فالتنفس وضربات القلب مجهدة.",
+    "answer": "خاصك دير رسم قلب وتراقب الحالة ديالك. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس",
+        "ضربات القلب مجهدة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كيتستعمل ديكلوفيناك لعلاج مرضى القلب؟",
+    "answer": "ما كايتعاملش مع الديكلوفيناك فحالات القلب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الدواء اللي أثر سلبا على القلب؟",
+    "answer": "الأدوية كتأثر حسب الجرعة واستجابة الشخص. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الطريقة باش تشخص ارتفاع ضغط الشريان الرئوي؟",
+    "answer": "كيتم قياس ضغط الدم الرئوي عن طريق القسطرة. هاد الطريقة دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "خاصني ترجمة تقرير طبي.",
+    "answer": "التقرير كيعطي معلومات على فتحة بطينية وضغط شرياني طبيعي. خاص تفهم التفاصيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مزيان ناخد باراسيتامول مع أملوديبين للضغط العالي؟",
+    "answer": "إلا كان تحت إشراف طبي، ماكاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نفرق بين نوبات ارتفاع وانخفاض ضغط الدم؟",
+    "answer": "خاصك تقيس الضغط بانتظام. هادشي هو الحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاينة علاقة بين ارتفاع نسبة الهيموغلوبين وارتفاع ضغط الدم عند النسا؟",
+    "answer": "أه، ممكن يكون عندهم علاقة. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الضغط المثالي لمريض القلب و ضعيف عضله القلب؟",
+    "answer": "هادشي كيعتمد على نوع الإصابة و الحالة الصحية للمريض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نقدر نتحكم في الكوليسترول؟",
+    "answer": "العلاج كيتحدد حسب مستوى الكوليسترول و الأسباب المرتبطة به.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين علاقة بين الدوخة و مرض القلب؟",
+    "answer": "فشي حالات، الدوخة يمكن تكون مرتبطة بمشاكل القلب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "ملي كيكون القلب مسدود، كيجيني نغزات فالصدر؟",
+    "answer": "النغزات فالصدر يمكن تكون علامة على مشكل فالقلب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نغزات فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش لحبة الزنك ممكن تضرني؟",
+    "answer": "ما كاين حتى مشكل، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كياكل واحد عندو ضغط دم عالي؟",
+    "answer": "خاصو يتجنب الماكلة المليحة و الملح، و ياكل الخضار و الفواكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش رفع الأثقال خطير على الناس اللي عندهم ضغط دم منخفض؟",
+    "answer": "لا، رفع الأثقال يمكن يكون مفيد، ولكن خاص يكون تحت إشراف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو اللي كيسبب ارتفاع الحرارة فالصدر؟",
+    "answer": "إذا كانت الحرارة غير منتظمة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الحرارة فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كانحس بالوجع فالقلب ملي كانلهت.",
+    "answer": "إذا كان الوجع مستمر، خاصك تراجع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "وجع فالقلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج تضيق في الأوعية الدموية؟",
+    "answer": "العلاج كيتحدد حسب السبب و درجة التضيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أنا عندي 16 عام و ضغط الدم ديالي 152/98. واش هادشي عادي؟",
+    "answer": "هاد الضغط ماشي عادي، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي علاج لعضلة القلب؟",
+    "answer": "العلاج كيتحدد حسب السبب و الحالة الصحية للمريض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي مشاكل في النبضات و النقصان في الضغط.",
+    "answer": "خاصك تخطيط قلب و مراقبة الضغط.",
+    "entities": {
+      "symptoms": [
+        "مشاكل في النبضات",
+        "نقصان في الضغط"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش يمكن اكتشاف الذبحة الصدرية بالسونار؟",
+    "answer": "لا، خاص تفاصيل أكثر باش نعرفو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي واحد لمشا ف قلبي شنو ندير؟",
+    "answer": "من الأفضل تشوف شي مركز طوارئ ولا شي طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "لمشا ف القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي منخفض بين 111/60 و 88/48، شنو رأيك؟",
+    "answer": "إلا كنتي كتقصد 110 على 80، هادشي عادي. ولكن خاصك تراقب الضغط ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش نسبة الكسر القذفي الطبيعية هي 85٪؟",
+    "answer": "نعم، هاد النسبة طبيعية وكتعكس قوة العضلة القلبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الفطور المزيان للي عندهم انسداد الشرايين؟",
+    "answer": "خاصهم ياكلو أطعمة خالية من الدهون والشحميات. هادشي غادي يساعدهم يحافظو على صحتهم.",
+    "entities": {
+      "symptoms": [
+        "انسداد الشرايين"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وجع قاتل في صدري وما قدرتش نتنفس، شنو ندير؟",
+    "answer": "من الأفضل تشوف الطبيب باش يدير تقييم شامل لحالتك. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع في الصدر",
+        "صعوبة في التنفس"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيبان القلب بحال شي نغزات متتالية، شنو ندير؟",
+    "answer": "من الأفضل تدير تخطيط للقلب وفحص ضغط الدم. هادشي غادي يساعدك تعرف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "نغزات في القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ارتفاع في الكوليسترول، شنو هو العلاج؟",
+    "answer": "خاصك تتبع نظام غذائي صحي، وإذا ما نفعش، يمكن تحتاج أدوية. استشر طبيبك.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الكوليسترول"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "مريض القلب يقدر يتزوج؟",
+    "answer": "نعم، يقدر يتزوج ولكن خاصو يتبع مع طبيب القلب. هادشي مهم لضمان صحة جيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "صديقتي عندها ثقب في القلب، واش هاد الشي خطير؟",
+    "answer": "ثقب القلب يمكن يكون خطير حسب الحالة. خاصها تقييم من طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ثقب في القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واحد الراجل عندو 40 عام وكيطلع ليه الضغط، واش خاصو ياخد الدوا؟",
+    "answer": "خاصو يتبع مع طبيب ويهتم بصحته. العلاج يعتمد على الحالة ديالو.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش رسمة القلب كتعني بلي عندو جلطة؟",
+    "answer": "إيوا، يمكن تكون علامة على وجود جلطة. خاص استشارة طبيب لتأكيد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي حاجة غالطة فهاد الضغط ديال الدم؟",
+    "answer": "الضغط طبيعي، ولكن خاص يتأكد من الانبساطية من خلال فحص طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "أنا كايتحسن لي الضغط ديالي شي مرات.",
+    "answer": "هادشي عادي، كيعتمد على نوع ردة فعل الجسم. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تحسن الضغط"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين علاقة بين ارتفاع الضغط و النبض؟",
+    "answer": "كاينة علاقة، ولكن ماشي دائما. خاص تقييم طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الموت كيتعلن بعد توقف القلب؟",
+    "answer": "الإعلان عن الوفاة كيتكون بعد توقف القلب بساعتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش النوبة القلبية كتسبب الصداع النصفي؟",
+    "answer": "لا، النوبة القلبية ما كاتسببش عادة في الصداع النصفي.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "النشاط البدني الخفيف مزيان للي عندهم ارتفاع ضغط الدم؟",
+    "answer": "إيوا، النشاط البدني الخفيف مزيان. خاص يكون حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وجع فكرشي، واش ممكن يكون بسباب الضغط؟",
+    "answer": "ماشي ضروري، ولكن خاص متابعة مع الطبيب. يمكن يكون عندك أعراض أخرى.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش عندو مشاكل في القلب؟",
+    "answer": "إذا كان عندو قلب مفتوح، خاصه متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش هاد النتائج ديال التحليل مزيانة؟",
+    "answer": "إيوا، النتائج مزيانة. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تحليل الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي مشكلة فالصيام، قلبي كيرتاح و كاحس بالضيق فالصدر.",
+    "answer": "هادشي خاصو تقييم طبي. يمكن يكون عندك أعراض أخرى.",
+    "entities": {
+      "symptoms": [
+        "ضيق فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "إلى كان ضربات القلب كتوصل ل 100 نبضة فالدقيقة، واش هادشي خطير للي عندو ضغط دم عالي؟",
+    "answer": "لا، ولكن خاص نعرفو السبب. من الأفضل تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كيجيب الموت التهاب فعضيات الدم؟",
+    "answer": "ممكن، حسب موقع الأوعية الدموية الملتهبة ودرجة تقدمها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي واحد عندو ألم فكرشو وكتخلي نبضات القلب تزيد؟",
+    "answer": "نعم، ممكن بزاف، خاصة إلا كان عندك مشاكل فالقولون.",
+    "entities": {
+      "symptoms": [
+        "ألم فكرش"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط العالي يقدر يسبب ارتفاع درجة حرارة الجسم؟",
+    "answer": "شي دراسات كتشير لنقصان قليل في ضغط الدم، ولكن ماشي بالضرورة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيعاني من تقلصات فالصدر و نبضات قلب متقطعة.",
+    "answer": "من الأفضل أنك دير تخطيط قلب. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "تقلصات فالصدر",
+        "نبضات قلب متقطعة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال رعشة القلب؟",
+    "answer": "الأسباب كتختلف، من المجهول حتى لأسباب فسيولوجية نفسية وعضوية.",
+    "entities": {
+      "symptoms": [
+        "رعشة القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو سبب تضخم القلب وشنو هي أعراضو؟",
+    "answer": "الأعراض كتتعدد وكتعتمد على السبب لي سبب هاد التضخم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي طلع 105/60، واش هادشي منخفض بزاف وشنو خاصني ندير؟",
+    "answer": "إلا ما كانش شي أعراض، ما كاينش داعي للقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش خاصني ناخد ايبارين غير للرية ولا للقلب؟",
+    "answer": "إذا كان عندك خثرة، خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش قوة عضلة القلب كتبدل من وقت لآخر؟",
+    "answer": "أه، كتتغير حسب متطلبات الجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش كا يزيدو ضربات القلب ملي كا يمشي شي واحد؟",
+    "answer": "هادشي عادي حيت كاين زيادة فالحاجة للأكسجين. الجسم كيتطلب أكثر من الأكسجين فهاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ألم حاد فالصدر من الجهة اليسرى.",
+    "answer": "عافاك دير تخطيط قلب. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ألم حاد فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضغط دم عالي واخا خديت كونكور.",
+    "answer": "من الأفضل تشوف الطبيب باش تناقش الخطة العلاجية. خاصك متابعة دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ألم مفاجئ فالصدر.",
+    "answer": "خاصك دير تخطيط مبدئي وعرض على طبيب مختص. هاد الحالة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ألم مفاجئ فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "نبضات قلبي 108. واش هادشي عادي؟",
+    "answer": "نبض القلب الطبيعي هو بين 60 و120. إذا كان عندك نشاط بدني، هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مرض القلب كيسبب السخانة؟",
+    "answer": "نعم، يقدر يسبب استفراغ وأعراض هضمية أخرى. خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "استفراغ"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج المناسب للدهون فالشرايين؟",
+    "answer": "الرياضة والتغذية الصحية هما الأساس. خاصك تحافظ على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الشرايين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كاين شي علاقة بين الحزن وارتفاع ضغط الدم؟",
+    "answer": "نعم، ممكن فبعض الحالات. هادشي معروف باسم القلب المكسور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نقدر نقص من الضغط ملي كيطلع؟",
+    "answer": "كاين بزاف د الطرق، ولكن خاصك تشوف الطبيب باش يعرف السبب ويدير لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج تضارب نبضات القلب؟",
+    "answer": "يمكن استعمال حاصرات بيتا أو حاصرات كالسيوم، ولكن خاص استشارة الطبيب قبل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي 29 عام، وضغط الدم ديالي ما بين 11 و 12. واش هادشي عادي؟",
+    "answer": "نعم، هادشي عادي. ولكن خاصك تراقب ضغط الدم ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش العادة السرية كتأثر على القلب؟",
+    "answer": "لا، إلا كان القلب صحي. العادة السرية ما عندهاش تأثير مباشر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "يمكن نبدلو ميتوبرولول ب اتينولول؟",
+    "answer": "يمكن، ولكن خاصك دير هاد الشي تحت إشراف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "زيادة ف ضربات القلب، شنو ندير؟",
+    "answer": "خاصك دير موجات صوتية وتستاشر طبيب جراح. هاد الشي مهم.",
+    "entities": {
+      "symptoms": [
+        "زيادة ف ضربات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كيتشخص الارتجاف البطيني؟",
+    "answer": "كيتشخص بالتحليل الكهربائي للقلب. هاد التحليل مهم بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش عدم انتظام نبضات القلب كيأدي لنقصان الأوكسجين فالدماغ؟",
+    "answer": "نعم، ممكن. خاصك تراقب الحالة ديالك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الشيشة الإلكترونية مزيانة للصحة؟",
+    "answer": "لا، الدراسات كتشير أنها أخطر من التدخين العادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وريد مسدود فاليد اليسرى. واش ممكن تفتحو بالقسطرة؟",
+    "answer": "يمكن، ولكن خاصك تشوف الطبيب باش يعرف السبب والموقع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن دوا للضغط العالي؟",
+    "answer": "كل مريض عندو وضعية خاصة، خاص استشارة الطبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كيتسمى هاد الشي 'م في الصدر ونفسات في القلب'؟",
+    "answer": "خاصك دير التحاليل واختبارات القلب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الغريب فروت كيتعارض مع الدوا ديال ضغط الدم؟",
+    "answer": "نعم، كيتعارض مع بعض الأدوية بحال مثبطات الكالسيوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش السكر ولا الملح ضروريين باش ينقصو من الضغط ديال الدم؟",
+    "answer": "طبعا، الما الزايد كايسبب الضغط و أمراض القلب. خاص توازن فالاستهلاك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ضغط الدم ديال واحد عندو 29 عام و ضغطو 9/14 خطير؟",
+    "answer": "خاصو يتبع القياسات ديالو. الضغط كيبان عادي فهاذ العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كايعالجو ارتجاع صمام القلب؟",
+    "answer": "كل حالة عندها علاج خاص حسب نوع الإصابة وسببها. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كا يضر الكفتة الحمرا و الماكلة الحارة للصحة ديال القلب؟",
+    "answer": "لا، بالعكس، ضروري، غير ما تتجاوزش الحدود. خاص الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "قمت بقياس ضغطي وظهرت 127 على 74، واش هادشي مزيان؟",
+    "answer": "هاد القياس مزيان. حاول تبقى متفائل وتهتم بصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الدوا ديال السكري كيزيد ف الضغط ديال الدم؟",
+    "answer": "إلا كان تحت إشراف طبيب، ماكاينش داعي للقلق. خاص متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش فحص الكالسيوم على الشرايين كافي باش يكتاشف ضيق الشرايين ديال القلب؟",
+    "answer": "لا، ماشي كافي. خاص فحوصات إضافية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الشاي الأحمر مزيان للمصابين بضغط الدم العالي؟",
+    "answer": "أه، ولكن بلا متتابع. ماشي بديل للعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الشخص اللي عندو نزيف فالراس خاصو يتعالجو ويمشي؟",
+    "answer": "حسب الحجم والمكان، خاص استشارة طبيب فوري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نعرف واش الأعراض ديالي هي أعراض جلطة الدم؟",
+    "answer": "خاصك تشوف طبيب فورية. الأعراض كتكون خطيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش طبيعي يتقلب القلب 130 مرة فالدقيقة؟",
+    "answer": "هادشي ممكن يكون عادي، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش دوا ثيوتاسيد 600 كايهتم بتوسيع الشرايين فالرجلين؟",
+    "answer": "يمكن، ولكن ماكاينش شي دراسة علمية كتعطي دليل قوي على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نقص الدهون ف الدم بسرعة؟",
+    "answer": "خاصك تتبع نظام غذائي منخفض الدهون وتستعمل أدوية اللي كتخفف الدهون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ارتفاع ضغط الدم عندو علاقة بالأرق؟",
+    "answer": "بلا شك، كل واحد فيهم يقدر يسبب لخر. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم",
+        "الأرق"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ممكن يتوقف النزيف ف الدماغ بعد استعمال الأدوية؟",
+    "answer": "حسب حجم النزيف والمكان والأسباب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش طالع ليا الضغط بلا ما نعرف؟",
+    "answer": "90% من ارتفاع الضغط ما كيكونش فيه أعراض، و غير 10% اللي كيكونو فيه الأعراض.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج ارتفاع ضغط الدم؟",
+    "answer": "خاصك تشوف طبيب مختص باش يتأكد ويدير ليك تحاليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج وجع القلب؟",
+    "answer": "الأسباب و أنواع الآلام القلبية مختلفة، وكل وحدة عندها علاج خاص. خاص تشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "وجع القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش عدم انتظام نبضات القلب كيعني شي حاجة خطيرة فالمستقبل؟",
+    "answer": "علا حساب نوعو وسببو، كل نوع عندو الخصوصية ديالو.",
+    "entities": {
+      "symptoms": [
+        "عدم انتظام نبضات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كاين ألم فالصدر وكيحس بالضيق ملي كانستنشق؟",
+    "answer": "خاصك تشوف الطبيب باش يدير تقييم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "ضيق فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاج ارتفاع ضغط الدم؟",
+    "answer": "خاصك ترجع للطبيب ديالك باش يشوف حالتك ويقرر شنو هو أحسن علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي تسارع ف ضربات القلب حتى ل 95 ف الدقيقة. واش هادشي عادي؟",
+    "answer": "النظم ضمن الحدود الطبيعية، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "تسارع ف ضربات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "إلى خديتي جرعة خاطئة من دواء الضغط، شنو خاصك دير؟",
+    "answer": "خاص تاخد الجرعة فورا بعد ما تتفكرك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "وقت الجماع كيجيني الخفقان فالصدر.",
+    "answer": "هادشي ممكن يكون بسبب الضغط النفسي أو الجهد. خاصك تشوف طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "الخفقان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج المناسب لمرض الانسداد الشرياني التاجي؟",
+    "answer": "العلاج كيعتمد على نتائج قسطرة القلب. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نحسن رئتيا ونزيد نبض قلبي؟",
+    "answer": "ممارسة النشاط البدني بانتظام كتحسن الصحة العامة. خاصك تهتم بالتغذية كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط ديالي هو 140 على 72. واش هادشي عادي؟",
+    "answer": "الضغط كيبان عادي، ولكن خاصك تشوف طبيب إذا كان عندك أمراض أخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ألم فالقلب وصعوبة فالتنفس. شنو السبب؟",
+    "answer": "هاد الأعراض خطيرة، خاصك تشوف طبيب فورا.",
+    "entities": {
+      "symptoms": [
+        "ألم فالقلب",
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط المرتفع عندي هو 160/90. واش هادشي خطير؟",
+    "answer": "إيوا، إلا ما تعالجش غادي يكون خطير على صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاج ارتفاع ضغط الدم؟",
+    "answer": "خاصك الدوا وتغيير نمط الحياة، بحال الرياضة ونقصان الملح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش اللب الأبيض بلا ملح مزيان للي عندهم الكوليسترول العالي؟",
+    "answer": "إي، اللب الأبيض بلا ملح مزيان للي عندهم الكوليسترول العالي. كيساعد على تحسين مستوى الكوليسترول فالجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال الجلطات عند النساء فالثلاثينات قبل سن اليأس؟",
+    "answer": "الجلطات عند النساء فهاد العمر كتكون بسبب عوامل متعددة، بحال الضغط العالي أو السكري. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "مزيان، التوتر كيجي معاه الخفقان والإحساس بالسقوط.",
+    "answer": "التوتر كيسبب مشاكل فالقلب، خاصنا نعالجو التوتر ونعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "الخفقان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن علاج لفشل القلب؟",
+    "answer": "علاج فشل القلب كيتطلب تقييم دقيق من طبيب. كل حالة عندها علاج خاص بها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الأعراض ديال لحم زائد فالقلب؟",
+    "answer": "الأعراض كتختلف حسب نوع اللحم ومكانه. خاص فحص طبي لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن أداة لقياس ضغط الدم؟",
+    "answer": "الأجهزة الإلكترونية الحديثة مزيانة، ولكن الزجاجية كتعطي نتائج دقيقة إذا استعملت بشكل صحيح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كنحس بنغزات فالقلب وقرقعة فالصبع ديال الصبعان ملي كانحل فمي.",
+    "answer": "هاد الأعراض خاصها فحص طبي عاجل. يمكن تكون عندك مشكلة فالقلب.",
+    "entities": {
+      "symptoms": [
+        "نغزات فالقلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي وجع فالقلب.",
+    "answer": "وجع القلب خاصو فحص طبي فوري. يمكن يكون عندك مشكلة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالقلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كاين واحد النزيف صغير فجهة القلب، واش ممكن يكون السبب؟",
+    "answer": "النزيف فجهة القلب خاصو تقييم طبي. يمكن يكون عندك مشكلة تحتاج للعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "بنتي عندها 33 عام وكتعاني من ذبحة الصدر.",
+    "answer": "خاصها فحص طبي عاجل. يمكن تحتاج لعلاج خاص.",
+    "entities": {
+      "symptoms": [
+        "ذبحة الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "القياس ديال الضغط هو 65/130 وعمري 21. واش هادشي عادي؟",
+    "answer": "هاد القياس طبيعي، ما كاينش داعي للقلق. خاصك غير تتابع صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كاين عندي نزيف فالقنت داليمين ديال الصدر.",
+    "answer": "خاصك تشوف طبيب باش يدير ليك تخطيط القلب ويشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "نزيف",
+        "ألم في الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي أعراض ارتفاع ضغط الدم؟",
+    "answer": "من بين الأعراض كاين الوجع فـالراس اللي ما كيتحكمش فيه. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع في الرأس"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الحد الأدنى من هيموجلوبين فالدم حتى تخرج الأم طبيعيًا؟",
+    "answer": "خاص الهيموجلوبين يكون على الأقل 12 غرام. هادشي مهم لصحة الأم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كان عندي إحساس بالسخانة فصدري، كاينة جهة القلب.",
+    "answer": "ما يمكنش نتأكدو بلا ما ندير ليك فحص. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "سخانة في الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ضغط الدم ديالي 100/60 راه منخفض؟",
+    "answer": "ضغط الدم الطبيعي كيتراوح بين 90/60. خاصك تراقب حالتك.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "التباين في نبضات القلب.",
+    "answer": "خاصك تشوف طبيب إذا كاين مشكل فنبض القلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي صداع قاتل ملي كنكون متوتر.",
+    "answer": "خاصك دير فحص طبي باش نتأكد من أي مشكل فالعروق.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ضربات القلب فوق 170 نبضة فالدقيقة خطيرة على الناس الكبار في السن؟",
+    "answer": "بالطبع، خاصو يتقيم و يتعالجو. هاد الحالة خطيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش هاد القياس ديال الضغط ديال الدم عادي؟ 130/74.",
+    "answer": "هاد القياس عادي، ماكاينش داعي للقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش كاينخافض نسبة الكوليسترول فالدم؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وممارسة الرياضة. استاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكوليسترول",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي مشكل فالقلب، واش الفلوكورد مناسب ليا؟",
+    "answer": "خاصك تشوف طبيب قلب باش يحدد لك واش هاد الدوا مناسب لحالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو علاج ارتفاع ضغط الدم و ضعف القلب؟",
+    "answer": "العلاج كيتحدد على حسب الحالة والأسباب. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم",
+        "ضعف القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيعطيني صداع فكرشي، و نبضات قلبي كتيرة.",
+    "answer": "خاصك تشوف طبيب القلب ديالك باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "نبضات قلب كثيرة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش نبض القلب عادي؟ واخا وصل ل 38؟",
+    "answer": "نبض القلب منخفض بزاف، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نبض القلب منخفض"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضغط دم مرتفع هادي خمس سنين.",
+    "answer": "خاصك تتابع مع طبيب وتاخد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم مرتفع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين شي مشروبات كتنبه بلا تأثير على القلب؟",
+    "answer": "كاينين مشروبات كتنبه، ولكن خاصك تكون حذر. من الأفضل تستاشر مع طبيب قبل ما تشرب شي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش مريض القلب ما يقدرش ينعس؟",
+    "answer": "ممكن يكون بسبب عدم قدرة القلب على ضخ الدم بشكل كافي. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كاين عندي ألم تحت الابط و جهة القلب بحال شي عافية.",
+    "answer": "الألم فالجانب اليسار ما كيعنيش بالضرورة مشكل فالقلب. خاصك تشوف طبيب للتأكد.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت الابط"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي حرقة فالصدر وكنحس بالسخانة فوسط الليل، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب متخصص و دير تخطيط للقلب باش تعرف السبب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "حرقة فالصدر",
+        "سخانة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي أعراض مرض القلب؟",
+    "answer": "الأعراض كتختلف حسب نوع المرض، ولكن كاين علامات مشتركة بحال الألم فالصدر و ضيق التنفس.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "ضيق التنفس"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كريستور كيأثر على عضلة القلب؟",
+    "answer": "كريستور هو دوا كينقص الكوليسترول وما فيهش ضرر على القلب. خاصك تستاشر مع طبيب قبل ما تستعمله.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو النسيج العقدي في القلب؟",
+    "answer": "هو نسيج عصبي مسؤول على تنظيم الإشارات الكهربائية فالقلب. كيساعد القلب باش يضرب بشكل منتظم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شحال هو المعدل الطبيعي ديال ضربات القلب لراجل رياضي؟",
+    "answer": "المعدل الطبيعي كيتراوح بين 55 و75 ضربة فالدقيقة. كيتعلق بحالة اللياقة البدنية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كانحس بألم فالصدر فالجانب اليسار وحتى فالكتف اليسار.",
+    "answer": "خاصك دير تخطيط للقلب و تشوف طبيب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "ألم فالكتف"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش القلق كيضر القلب؟",
+    "answer": "نعم، القلق ممكن يسبب مشاكل فالقلب. خاصك تحاول تدير تقنيات الاسترخاء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج ديال الضغط المنخفض المزمن؟",
+    "answer": "العلاج كيتطلب تدخل طبي شامل. خاص الطبيب يحدد العلاج المناسب حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش كيدير القلب ضربات متكررة؟",
+    "answer": "كاين أسباب بزاف، بحال التوتر أو الكافيين. خاصك تشوف الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ضربات القلب المتكررة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الأعراض ديال فشل القلب؟",
+    "answer": "الأعراض كتشمل صعوبة فالتنفس، التعب، والدوخة. خاص استشارة طبيب للتشخيص.",
+    "entities": {
+      "symptoms": [
+        "صعوبة في التنفس",
+        "التعب",
+        "الدوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نتبع ضغط الدم فالدّار؟",
+    "answer": "خاصك تراقب الضغط بانتظام وتاخد الدوا اللي وصفه الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش التدخين كيزيد ضغط الدم؟",
+    "answer": "نعم، التدخين كيساهم فارتفاع ضغط الدم. خاصك تحاول تبعد عليه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ارتفاع فالكوليسترول، شنو ندير؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتبتعد عن الدهون. الرياضة مهمة كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نحافظو على الشرايين؟",
+    "answer": "بالتغذية الصحية وممارسة الرياضة بانتظام. خاصك تتجنب الأطعمة الضارة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الماكلة مزيانة لارتفاع ضغط الدم؟",
+    "answer": "خاصك تتجنب الماكلة اللي فيها الصوديوم. ركز على الخضار والأسماك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش كاين ألم فالصدر بعد عملية زرع القلب؟",
+    "answer": "من الطبيعي تحس بألم بعد العملية، ولكن خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين علاقة بين الكوليسترول وارتفاع معدل التخثر؟",
+    "answer": "ما كاينش علاقة مباشرة بيناتهم. كل واحد عندو تأثيرات مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش فيفادول آمن بعد زرع القلب؟",
+    "answer": "إلا كان تحت إشراف طبي، ما كاينش مشكل. خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ضغط دم مرتفع، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب فورا وتدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيفاش نعرف إذا كان عندي جلطات؟",
+    "answer": "خاصك تشوف الطبيب، هو اللي يقدر يدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش المكملات الغذائية كيمكن تسبب الموت المفاجئ؟",
+    "answer": "نعم، ممكن حسب نوع المكملات. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاين علاقة بين الخفقان و فترة الانفطاع؟",
+    "answer": "نعم، التوتر العصبي والهرموني كيمكن يكونو السبب.",
+    "entities": {
+      "symptoms": [
+        "الخفقان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو العلاج ديال ارتفاع الكوليسترول؟",
+    "answer": "خاصك تتبع نظام غذائي صحي، وممكن تحتاج أدوية بحال ليبيتور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش شرب الليمون فالصباح كيضر القلب؟",
+    "answer": "ما كاينش دراسات كيدعمو هاد الشي. شرب الليمون عموماً مفيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي أعراض النزيف فالرجلين؟",
+    "answer": "الأعراض كتختلف حسب شحال خطيرة الحالة. غالبا كيترافقو معاها الكحة والسخانة.",
+    "entities": {
+      "symptoms": [
+        "نزيف فالرجلين",
+        "كحة",
+        "سخانة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي وظيفة الأوردة الجوفية؟",
+    "answer": "الأوردة الجوفية كتنقل الدم من الجسم للقلب. هادي هي الوظيفة الأساسية ديالها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش ضعف القلب كيأثر على الزوائد تحت الجلد؟",
+    "answer": "الزوائد تحت الجلد كيمكن تكون بسبب أمراض أخرى. خاص تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي نعاس وصداع وضربات قلب سريعة.",
+    "answer": "خاصك تشوف طبيب يدير ليك فحص طبي كامل. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "نعاس",
+        "صداع",
+        "ضربات قلب سريعة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الدوا ديال باراسيتامول كيزيد ضربات القلب؟",
+    "answer": "نعم، بعض المرضى كيتعرضو لهاد الشي بعد استعمال جرعة عالية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الاستخدام الطويل ديال الاندرال ضار؟",
+    "answer": "لا، ولكن خاص يكون تحت إشراف طبي. هادشي مهم لصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاينة حالة ديال تمدد فالشرايين ديال القلب؟",
+    "answer": "كاين حالات ممكن ترجع للوضع الطبيعي، ولكن خاص تقييم دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو العلاج ديال الضغط والهبوط لمرأة عندها 78 عام؟",
+    "answer": "خاصها متابعة طبية مستمرة. الضغط كيتقلب بين الارتفاع والانخفاض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي نزيف دم وغزارة وضربات قلب متقطعة.",
+    "answer": "خاصك دير تحاليل للدم. هاد الأعراض خطيرة وكتحتاج رعاية طبية.",
+    "entities": {
+      "symptoms": [
+        "نزيف دم",
+        "ضربات قلب متقطعة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كيعني 'إي إف 57' فالأيكو؟",
+    "answer": "يعني أن الدم كيدخل ليه تقريبا 57% من الدم اللي جاي ليه. هاد النسبة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي إرهاق مستمر، درت تحاليل ديال الغدة الدرقية والضغط والكبد والكلى.",
+    "answer": "الحمد لله، التحاليل مزيانة. خاصك تغدي مزيان وتاخد مكملات غذائية.",
+    "entities": {
+      "symptoms": [
+        "إرهاق مستمر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش أحسن ناخدو دوا ديال الضغط فالصباح أولا فالليل؟",
+    "answer": "ما كاينش وقت محدد، ولكن من الأفضل تتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط طلع بزاف.",
+    "answer": "أول علامة هي الصداع، وضروري تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هي الفحوصات اللي خاصني ندير باش نتأكد من صحة القلب و الضغط؟",
+    "answer": "الفحوصات كتشمل الفحص السريري، الأشعة السينية، والتخطيط الكهربائي للقلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش مزيان نستعملو فيغا ديال حب لناس لي عندهم ارتفاع ضغط الدم و السكري؟",
+    "answer": "يمكن ولكن خاصك تستاشر مع الطبيب قبل ما تستعملو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش فاش كنوض من النعاس كنحس براسي سكران؟",
+    "answer": "هذا ممكن يكون بسبب انخفاض ضغط الدم، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو أحسن دوا لعلاج ارتفاع ضغط الدم؟",
+    "answer": "كاين بزاف د الأدوية، والطبيب هو اللي يحدد الأنسب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال نوبات القلب؟",
+    "answer": "الأسباب ممكن تكون من القلب نفسه أو من مشاكل أخرى في الجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش زيادة الوزن كتسبب ألم فالصدر وصداع مستمر؟",
+    "answer": "زيادة الوزن ممكن تسبب مضاعفات، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "صداع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش اضطراب دقات القلب خطير؟",
+    "answer": "خاص تحديد نوع الاضطراب باش نعرفو شحال من خطير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو السبب ديال تقلصات القلب؟",
+    "answer": "كاينين بزاف د الأسباب، خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاجات ارتفاع ضغط الدم.",
+    "answer": "كاينين بزاف د الأدوية، والطبيب هو اللي يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كيجي هاد الشي بزاف وكيخلي القلب يتقلق؟",
+    "answer": "عافاك، خاصك تدير رسم قلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كان عندي سكتة دماغية قبل، وهادي مدة قصيرة بزاف.",
+    "answer": "خاصك دير هولتر وتراقب الضغط لمدة 24 ساعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ارتفاع في ضغط الدم.",
+    "answer": "شحال من مرة قستي الضغط ديالك؟ خاصك تراقب الضغط بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو حسن، سولرابايدين ولا بانادول؟",
+    "answer": "هاد الشي كيعتمد على نوع الصداع وسببو. خاصك تشاور طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي مشاكل فالقلب، نغزات متكررة.",
+    "answer": "خاصك تشوف الطبيب باش يدير تقييم وفحوصات. هادشي مهم باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "نغزات فالقلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو هو الأفضل للناس اللي دارو عملية القسطرة؟",
+    "answer": "خاصهم يتبعو نظام غذائي متوازن. هادشي كيساعدهم فالتعافي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش التدخين كيأثر على ضغط الدم؟",
+    "answer": "آه، التدخين كيزيد من ضغط الدم وكيأثر على الصحة العامة. خاصك تحاول تقلل منه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كاينة علاقة بين الزنجبيل وارتفاع الضغط؟",
+    "answer": "الزنجبيل عندو فوائد، ولكن ما يكفيش بوحدو. خاصك تراقب الضغط ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "علاش كيدق قلبي بجوج مرات كل 3 سوايع؟",
+    "answer": "خاصك دير تخطيط للقلب باش تتأكد. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الضغط ديالي عالي؟",
+    "answer": "لا، ولكن خاصك تأكد من الطبيب. مهم تعرف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الأسباب ديال ارتفاع الضغط الانبساطي شنو هي؟",
+    "answer": "خاصك تشوف طبيب القلب. يمكن يكون السبب هو الصمام الأبهر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش الدوا ديال الباراسيتامول كينقص من الضغط؟",
+    "answer": "الباراسيتامول ما عندو علاقة بالضغط، هو غير مسكن. خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي ارتفاع فضغط الدم وكنت كناخد إيريستابكس. شنو سبب ارتفاع الضغط؟",
+    "answer": "الضغط كيرجع طبيعي، ولكن خاصك تراقب حالتك. طبيبك هو اللي يقدر يشرح ليك السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الأسباب ديال ارتفاع الكوليسترول شنو هي؟",
+    "answer": "كاين بزاف دالأسباب، بحال الوراثة ونمط الحياة. خاصك تحاول تحسن الأكل ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عندي غثيان ودوخة وضغط عالي. شنو ندير؟",
+    "answer": "خاصك تراجع الطبيب. هاد الأعراض ما خاصهاش تتساهل فيها.",
+    "entities": {
+      "symptoms": [
+        "غثيان",
+        "دوخة",
+        "ضغط عالي"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "والدتي راقدة فالصدر وكتجري بزاف.",
+    "answer": "خاصك تشوف طبيب القلب باش يتأكد من حالتها.",
+    "entities": {
+      "symptoms": [
+        "راقدة فالصدر",
+        "كتجري بزاف"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "المريض بانسداد الشرايين، واش يقدر يدير الجنس؟",
+    "answer": "حسب نسبة الانسداد والحالة الصحية ديالو، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "شنو كيسبب ضربات القلب السريعة؟",
+    "answer": "الرياضة كتكون سبب طبيعي عند الشباب، ولكن خاص التحقق من الحالة.",
+    "entities": {
+      "symptoms": [
+        "ضربات القلب السريعة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "كانحس بنغزة فالقلب.",
+    "answer": "هاذ الإحساس ممكن يكون نتيجة القلق أو الضغط. خاص استشارة طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "نغزة فالقلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "عدم انتظام ضربات القلب بعد التهاب اللوزتين، شنو هو العلاج؟",
+    "answer": "خاص معالجة التهاب اللوزتين مزيان باش يرجع النبض طبيعي.",
+    "entities": {
+      "symptoms": [
+        "عدم انتظام ضربات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "حرق جانبي الرقبة، درت راديو وما لقيت حتى شي حاجة.",
+    "answer": "يمكن تكون تقلصات فعضلات الرقبة، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرق جانبي الرقبة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "واش كينفع الأسبرين فصداع النص؟",
+    "answer": "أه، ولكن خاص يكون تحت إشراف طبي.",
+    "entities": {
+      "symptoms": [
+        "صداع النص"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cardiology",
+    "question_darija": "الضغط العالي فالزوال.",
+    "answer": "خاصك تأكد من الضغط بعمل قياس لمدة 24 ساعة.",
+    "entities": {
+      "symptoms": [
+        "ضغط عالي"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  }
+]

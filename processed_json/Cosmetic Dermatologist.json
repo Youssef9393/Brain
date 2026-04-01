@@ -1,0 +1,5032 @@
+[
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نخبي الوشم",
+    "answer": "الليزر هو أحسن علاج لإزالة الوشم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أفضل صابون للوجه؟",
+    "answer": "خاصك تختار صابون مناسب للبشرة ديالك. استشيري طبيب الجلد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "علاش كاينين لمعانات ف حدا لعينين؟",
+    "answer": "المعانات حدا العينين كيمكن تكون بسبب التعب أو العوامل الوراثية.",
+    "entities": {
+      "symptoms": [
+        "معانات حدا العينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو كيسبب السواد حدا العين؟",
+    "answer": "السواد حدا العين كيمكن يكون وراثي أو بسبب التعب.",
+    "entities": {
+      "symptoms": [
+        "سواد حدا العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "علاج قشرة الشعر؟",
+    "answer": "استعمل الشامبوان 3 مرات في الأسبوع. خاصك تكون صبور.",
+    "entities": {
+      "symptoms": [
+        "قشرة الشعر"
+      ],
+      "medical_field": "الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقي بشرتي؟",
+    "answer": "استعمل واقي الشمس ومناسب للبشرة. زيد شرب الماء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نستخدم كبسولة بوليجيناكس؟",
+    "answer": "خاصك تسول الصيدلاني على طريقة الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصيدلة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الصيام مزيان للناس اللي عندهم صداع؟",
+    "answer": "الصيام كيعتمد على الحالة الصحية ديال الشخص. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج لتساقط الشعر؟",
+    "answer": "جلسات نقل البلازما كتعطي نتائج مزيانة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الشعر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نحيدو الترهلات ديال الصدر بالرياضة؟",
+    "answer": "الرياضة ما كافياش بوحدها. خاص استشارة طبيب مختص لتحديد الحلول المناسبة.",
+    "entities": {
+      "symptoms": [
+        "ترهلات الصدر"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي كريم للبشرة ناعمة.",
+    "answer": "يمكن تستعملي كريمات مرطبة مخصصة للبشرة. خاص تختاري واحد مناسب لنوع بشرتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو المرهم اللي كينظف مزيان و كيساعد فالتهاب الجلد؟",
+    "answer": "كاينين مراهم بزاف فالصيدليات، خاص تختاري واحد مناسب لحالتك. استشيري طبيب إذا كان الالتهاب قوي.",
+    "entities": {
+      "symptoms": [
+        "التهاب الجلد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو لعلاج ديال شقوق الجلد؟",
+    "answer": "يمكن استعمال مرهم فازلين مع سالسيلك أسد. هاد التركيبة كتعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [
+        "شقوق الجلد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو اللي كيسبب الدم يطلع مع الحكة؟",
+    "answer": "كاين شي التهاب أو حساسية. خاص تشوف طبيب لتشخيص الحالة.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "نزيف"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو كيساعد فالتخسير؟",
+    "answer": "خاصك تأكل قليل وتتحرك بزاف. استشارة طبيب تغذية غتكون مفيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت تمارين نقصو من الثدي.",
+    "answer": "ما كاينش تمارين فعالة، خاصك تفكري فالجراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الأعشاب كتسبب سرطان القولون؟",
+    "answer": "بزاف د الأعشاب ما عندهم حتى علاقة. خاصك تكوني حذرة وتستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي واحد الشعور فالرأس وكيتعرق.",
+    "answer": "عافاك، خاصك تشوف طبيب نفسي.",
+    "entities": {
+      "symptoms": [
+        "التعرق"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نعالج النيف المعقوف؟",
+    "answer": "خاصك تشوف طبيب مختص، العلاج غالباً جراحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت علاج للبقع فوجه.",
+    "answer": "يمكن لك تستعملي كريمات مخصصة أو تشوفي طبيب جلد.",
+    "entities": {
+      "symptoms": [
+        "البقع"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كاينين دوايات للحب الشباب؟",
+    "answer": "كاينين بزاف، خاصك تشوفي طبيب يحدد ليك الأنسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج الشعر الكيرلي؟",
+    "answer": "يمكن لك تديري فرد بالكيراتين الطبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شحال كيدوم عملية التجميل ديال النيف؟",
+    "answer": "العملية كتدوم تقريباً ساعة ونص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نزيد الحجم ديال الشفايف بلا جراحة؟",
+    "answer": "يمكن لك تستعملي مواد حشو أو زيوت طبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش كايتكبر الحلم ديال الثدي؟",
+    "answer": "خاصك تشوفي طبيب تجميل، هو لي غادي يعاونك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نتعامل مع البثور؟",
+    "answer": "استعملي وصفات طبيعية أو كريمات مخصصة.",
+    "entities": {
+      "symptoms": [
+        "البثور"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش لما بارد كايسدّ عليك الصدر؟",
+    "answer": "إذا كان عندك مشكل، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي لبسة حمرا فالتحت وكيتقشر.",
+    "answer": "من فضلك، اتصلي بطبيب جلد.",
+    "entities": {
+      "symptoms": [
+        "لبسة حمرا",
+        "تقشر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نتعامل مع الخشونة فبعض المناطق؟",
+    "answer": "استعملي مرطب بحال الفازلين.",
+    "entities": {
+      "symptoms": [
+        "خشونة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو الحل لتنظيف البشرة؟",
+    "answer": "استعمل مرطب مناسب للبشرة. زيت الزيتون زوين كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن وسيلة لعلاج الهالات السوداء؟",
+    "answer": "استعمل كريمة مخصصة للهالات السوداء. خاص تكون غنية بالفيتامينات.",
+    "entities": {
+      "symptoms": [
+        "الهالات السوداء"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نستعمل ترافوكورت كريم؟",
+    "answer": "استعمله جوج مرات فالنهار. خاص تدير كمية صغيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن كريم للبشرة الجافة؟",
+    "answer": "استعمل كريم مرطب خاص بالبشرة الجافة. خاص يكون غني بالزيوت.",
+    "entities": {
+      "symptoms": [
+        "بشرة جافة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نوسع الخدود؟",
+    "answer": "يمكن لك تستعمل حقن الدهون أو الفيلر. استشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نزيد حجم الشفايف بلا جراحة؟",
+    "answer": "يمكن لك تدير فيلرز أو تستعمل دهون. استشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج لسرعة القذف؟",
+    "answer": "عافاك شوف طبيب مختص. كاين طرق مختلفة للعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو البقع تحت الجلد؟",
+    "answer": "استعمل كريمات مخصصة. وضروري تحمي البشرة من الشمس.",
+    "entities": {
+      "symptoms": [
+        "بقع تحت الجلد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الليزر كيسبب العقم؟",
+    "answer": "ما كاينش دليل علمي واضح. استشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نزيد فالوزن؟",
+    "answer": "خصك تأكل مزيان وتستعمل مكملات غذائية. استشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ضروري نحيي الشامات؟",
+    "answer": "لا، ما كاين حتى شي ضرر. لكن استشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نشد الثدي؟",
+    "answer": "يمكن لك تشوف طبيب تجميل. كاين طرق مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي تساقط الشعر بزاف.",
+    "answer": "يمكن استعمال الريسيرفون بنسبة 5% مرتين في اليوم.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو نقدر نستعمل باش نشد وجهى؟",
+    "answer": "يمكن الحقن في اللحم أو حبوب الخميرة ديال البيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي بقع داكنة فالشعر، شنو ندير؟",
+    "answer": "خاصك تستشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "بقع داكنة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو سبب النقط البيضاء على الإظافر؟",
+    "answer": "غالبا كترجع للفطريات.",
+    "entities": {
+      "symptoms": [
+        "نقط بيضاء"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي حاجة تزيد فالحجم ديال الثدي.",
+    "answer": "كاينين طرق مختلفة، خاصك تسولي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت كريم تبييض الوجه.",
+    "answer": "عافاك جيب لي كريم أربوتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو الحبوب لي طاحو فالصحة؟",
+    "answer": "يمكن استعمال كورتزون كحقن موضعي.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي علاج لسن اليأس؟",
+    "answer": "للأسف، ما كاينش علاج طبي مؤكد علميا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت علاج طبيعي للكلف.",
+    "answer": "خاصك تمشي عند طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "كلف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي الزيت لي كايتستعمل باش نزيد فالطول ديال الشعر؟",
+    "answer": "زيت اللوز عندو فوائد للشعر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نوسع الصدر بطرق طبيعية؟",
+    "answer": "يمكن استعمال السيليكون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت كريم لاصق.",
+    "answer": "كريم كيتضمن كلايك أسد مع كوج أسد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة باش تزيد فالوزن ديال الثديين بلا عملية؟",
+    "answer": "ما كاينش شي طريقة مضمونة بلا عملية. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد المسامات الكبار فالجبهة؟",
+    "answer": "يمكن استعمال الليزر أو كريمات خاصة. خاص استشارة طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "مسامات كبيرة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش عندك شي علاج للبثور والعيوب فالوجه؟",
+    "answer": "يمكن استعمال كريمة الريتينويد كل ليلة. خاص صبر على النتائج.",
+    "entities": {
+      "symptoms": [
+        "البثور",
+        "عيوب الوجه"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "البشرة ديالي جافة، بغيت شي حاجة ترطبها بحال بشرة الدراري الصغار.",
+    "answer": "يمكن استعمال كريم الجلسرين أو الألوفيرا. هاد الكريمات غادي ترطب البشرة مزيان.",
+    "entities": {
+      "symptoms": [
+        "بشرة جافة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو اللي كايطول الشعر؟",
+    "answer": "يمكن تناول حبوب الزنك بجرعة 50 ملغ بعد الفطور. خاص صبر على النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أنا طويل وكنتمنى الكتب يزيدو فالصدر.",
+    "answer": "يمكن استعمال السيليكون فهاد العملية. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال حب الشباب عند الحوامل؟",
+    "answer": "يمكن استعمال مرطب كاسرين أو ألوفيرا. خاص استشارة طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شحال كيدوم الفلوس تحت العيون؟",
+    "answer": "كيدوم بين 4 و 6 شهور حسب نوع المادة المستعملة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي وجع في رجلي من يومين.",
+    "answer": "خاصك تشوف طبيب مختص. يمكن يكون عندك إصابة.",
+    "entities": {
+      "symptoms": [
+        "وجع في الرجل"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي دوا مزيان للصداع.",
+    "answer": "يمكن تستعمل مسكنات مثل باراسيتامول. استشر طبيب إذا استمر الألم.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن علاج لإنبات الشعر فالحاجب؟",
+    "answer": "يمكن دير فحص ديال تستوستيرون. العلاج يعتمد على السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش كايتحيد النمش من الوجه؟",
+    "answer": "أحسن علاج هو الليزر. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "نمش"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو مرض الهمنجيما؟",
+    "answer": "هو ورم حميد يتكون من أوعية دموية. ماشي خطر على الصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد الشامام من الوجه؟",
+    "answer": "يمكن دير هاد الشي غير بالعملية. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج للمسام الواسعة ف الوجه؟",
+    "answer": "يمكن ليك تستافد من جلسات الليزر. هاد الجلسات كتساعد على تصغير المسام.",
+    "entities": {
+      "symptoms": [
+        "المسام الواسعة"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو خاصني ندير لصدري الكبير والمترهل؟",
+    "answer": "يمكن يتدار عملية تجميل للثديين عن طريق الجراحة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "صدر كبير",
+        "صدر مترهل"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نزيد الحجم ديال الصدر بشكل طبيعي؟",
+    "answer": "يمكن ليه حقن الدهون إلا كان عندو هاد الخدمة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو شعر الزغب؟",
+    "answer": "هو شعر طبيعي، لونو بيج وكثافته واطية. كيتواجد فبزاف من المناطق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال الصدفية فطرف الصبعان؟",
+    "answer": "دير دوا ديال دياڤوبت مرة واحدة فالنهار. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "الصدفية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت وصفات باش نوسع الصدر.",
+    "answer": "ما كاينش علاج فعال لزيادة حجم الثدي غير الجراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش زيت الخروع كيساعد فكبر الصدر؟",
+    "answer": "ما كاين حتى زيادة فاللحم إلا بالعملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي علاج طبيعي للكبر الصدر؟",
+    "answer": "الماكلة الصحية المتوازنة وتدريب العضلات ديال الصدر كيساعدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش نفخ المؤخرة ديالو آمن؟",
+    "answer": "نعم، العملية آمنة ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج تضخم الثدي؟",
+    "answer": "تقدر تصلح ليه الجراحة التجميلية وتقدر تقلص الحجم حسب الحاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة باش نحيدو الحبوب اللي بقاو فالدقن؟",
+    "answer": "استعمال كريم فوكودين بعد الحلاقة كيساعد.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش تصلح النيف؟",
+    "answer": "التصحيح كيتدار بالجراحة التجميلية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي ضرر فاش كيتحيد شعر البطن بالليزر؟",
+    "answer": "ما فيه حتى شي ضرر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الليزر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي وصفة طبيعية باش تزيد فالحجم ديال الثديين؟",
+    "answer": "استعمال مواد التجميل الطبيعية كيساعد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقصو من الأنف الكبير؟",
+    "answer": "خاصك تدير عملية تجميل باش ينقص. ما كاينش شي طريقة أخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نداوي باها صغيرة؟",
+    "answer": "استعمل مرهم فيه كلوبيتازول. غادي يعاونك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج للجرب؟",
+    "answer": "مصل ديكتوميثرين 5% هو العلاج المناسب. خاصك تستعمله بانتظام.",
+    "entities": {
+      "symptoms": [
+        "الجرب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي شعيرات دم في وجهي، شنو ندير؟",
+    "answer": "كينصح باستشارة طبيب الجلد. غادي يعطيوك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "شعيرات دم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نحيد الشعر نهائيا؟",
+    "answer": "يمكن ليك تمشي للصالون ديال الليزر. هادي طريقة فعالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد الشامات بالطبيعة؟",
+    "answer": "الشامات كيتعالجوا بالجراحة أو بالليزر. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "شامات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي مرض جلدي ما عرفتش سميته من القط.",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يشخص الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي علاج للخطوط البيضا.",
+    "answer": "الليزر هو من أحسن العلاجات للخطوط البيضا. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الخطوط البيضا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نتخلص من الشعر الزايد؟",
+    "answer": "كاين طرق متعددة بحال الليزر أو الشمع. خاصك تختار الطريقة اللي تناسبك.",
+    "entities": {
+      "symptoms": [
+        "شعر زايد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج تمدد الثدي؟",
+    "answer": "تمدد الثدي يمكن يتعدل بسهولة. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تمدد الثدي"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد لحمر تحت الصبعان؟",
+    "answer": "يمكن استعمال الكريمات أو الليزر. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "لحمر تحت الصبعان"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش يمكن لي نحيدو الشعر اللي فالجسم كامل؟",
+    "answer": "الليزر هو من أفضل الطرق لإزالة الشعر. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "شعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي علاج لندبه القديم؟",
+    "answer": "الندبات القديمة يمكن علاجها بالليزر أو الكريمات. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ندبة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن طريقة لزيادة حجم الصدر؟",
+    "answer": "كاين طرق بحال حقن الدهون أو السليكون. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "الطريقة اللي كتستعمل بزاف باش نقصو من حجم الصدر هي تقنية التكميم.",
+    "answer": "عملية التكميم هي من أفضل الحلول لتقليل حجم الصدر. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العشبة اللي كتحيد الشعر للأبد؟",
+    "answer": "ما كاينش شي عشبة مضمونة لإزالة الشعر للأبد. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الشيب كيطلع مع تقدم العمر؟",
+    "answer": "نعم، الشيب كيبان مع تقدم العمر. هادشي طبيعي.",
+    "entities": {
+      "symptoms": [
+        "شيب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كريم أيديال مزيان للناس؟",
+    "answer": "ما خاصكش تستعمل أي دوا بلا ما تشاور الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي تدي كبير و بغيت شي علاج باش يرجعو لحالتي الطبيعية.",
+    "answer": "يمكن يكون العلاج الجراحي هو الحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال الحبوب فالمناطق الحساسة؟",
+    "answer": "الأدوية المضادة للالتهابات بحال فيوسيدين كتعالج هاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش جرح ديال تلاتة مليمتر خاصو بزاف ديال الغرزات؟",
+    "answer": "علا حساب شحال من جرحة و فين كاينة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن علاج للبثور ديال الوجه؟",
+    "answer": "الحقن الذاتي أو المملوء كيعطيو نتائج مزيانة.",
+    "entities": {
+      "symptoms": [
+        "بثور"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نقص حجم الثدي، واش كاين شي حل طبي بلا جراحة؟",
+    "answer": "للأسف، ما كاينش حل بلا جراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي آثار ديال الجروح في رجلي اليمني ويساري.",
+    "answer": "خاصك تشاور طبيب تجميل.",
+    "entities": {
+      "symptoms": [
+        "آثار الجروح"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش تقدر تكون عندك انف صغير وكبير وشكلو مميز؟",
+    "answer": "الحل هو الجراحة التجميلية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شامبوان ديال النمو.",
+    "answer": "كاين شامبوانات ديال الريحان اللي كتنفع فزيادة الطول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقصو من النيف؟",
+    "answer": "الجراحة هي الحل الوحيد لتصحيح شكل الأنف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي علاج طبيعي للكبر الصدر؟",
+    "answer": "الماكلة الصحية والتمارين ديال الصدر كيمكن يساعدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن نقصو من الحجم ديال النيف بلا ما نديرو شي عملية جراحية؟",
+    "answer": "ما كاين حتى واحد آخر غير الجراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "علاش كيبانو ليا شي حبّات فحاجبيا؟",
+    "answer": "خاصك وصفة شاملة للحالة.",
+    "entities": {
+      "symptoms": [
+        "حبّات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نقص من الوزن",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتدير الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الجنتاميسن مزيان للبشرة؟",
+    "answer": "الجنتاميسن ممكن يتسبب في تهيج البشرة، خاصك تستاشر طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عاني من مرض الحب اللي ما كيتعالجش",
+    "answer": "خاصك تشوف طبيب مختص باش يحدد العلاج المناسب لحالتك.",
+    "entities": {
+      "symptoms": [
+        "مرض الحب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "مازال كاين التهاب فالصبع ديالي",
+    "answer": "يمكن لك تستعمل كريم هيدروكورتيزون، ولكن خاصك تشوف طبيب إذا ما تحسنش.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي منتوج ديال ترطيب البشرة حيت البشرة ديالي جافة",
+    "answer": "يمكن لك تستعمل جليسوليد أو كريم دوف لترطيب البشرة.",
+    "entities": {
+      "symptoms": [
+        "بشرة جافة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي آثار ديال الجروح في رجلي",
+    "answer": "خاصك تشاور طبيب تجميل باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آثار الجروح"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقصو من الانف لكبير؟",
+    "answer": "كاين عملية تجميل للأنف، خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة طبيعية باش نطولو الرموش؟",
+    "answer": "يمكن لك تستعمل زيت الخروع، راه مفيد للرموش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي علاج لندبة قديمة؟",
+    "answer": "يمكن دير عملية تجميلية، خاصك تشوف طبيب تجميل.",
+    "entities": {
+      "symptoms": [
+        "ندبة قديمة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو استخدام كريم واحد اللمسة؟",
+    "answer": "عافاك حط اسم الكريم باش نقدر نساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي انحناء فالقضيب واش كيأثر على الإنجاب؟",
+    "answer": "الانحناء يمكن يأثر على الإنتصاب، خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "انحناء فالقضيب"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش زيت الخروع كيساعد فكبر الصدر؟",
+    "answer": "ما كاينش دليل علمي على هاد الشي، خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاينة شي طريقة باش نزيدو من حجم الثدي بعد السن اليأس؟",
+    "answer": "لا، هادشي غير خرافات وما كاينش شي حاجة مضمونة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "إلا كانتي كتلبسي الماكياج وكتنعسي، واش هادشي مزيان؟",
+    "answer": "الماكياج كيتراكم وكيضر البشرة، خاصك تحيديه قبل النوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش حليب الصوجا كيزيد فالوزن؟",
+    "answer": "لا، حليب الصوجا ما كيزيدش فالوزن، يمكن يكون مفيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش غادي يزهر الضفر مرة اخرى من بعد ما تقطعات؟",
+    "answer": "آه، الضفر غادي يزهر من جديد مع الوقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن نقصان حجم النيف بلا ما نحتاجو لشي عملية جراحية؟",
+    "answer": "الطبيب هو اللي يقدر يحدد الحلول المتاحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "مرحبا، شحال من مرة فالنهار خاصني نستعمل زيت الخروع باش نطوي رموشي؟",
+    "answer": "يمكنك تستعملي زيت الخروع جوج مرات فالنهار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نزيد الشعر فالسيمانة؟",
+    "answer": "خاصك تشاور مع طبيب الجلدية باش يعطيك النصائح المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش تلوث الشعر كيدر؟",
+    "answer": "أيوة، كيزيد من تساقط الشعر وكيخلي فروة الراس حساسة.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد شعر بين الحاجبين؟",
+    "answer": "أحسن طريقة هي الليزر، خاصك تشوف خبير تجميل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حب الشباب فالعنق والذقن، شنو ندير؟",
+    "answer": "يمكن تستعمل جل بنوكسايد، ولكن خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كل شعيرات دموية سطحية هي دوالي؟",
+    "answer": "لا، ماشي كلهم دوالي. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي قشور بيضاء فوجه، شنو ندير؟",
+    "answer": "خاصك تزور طبيب الجلدية باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "قشور بيضاء"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش ننقيو الحبوب السودا فالنيف؟",
+    "answer": "يمكن تستعمل الصابون الطبي مرة فالنهار.",
+    "entities": {
+      "symptoms": [
+        "حبوب سوداء"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نوسعو الصدر والافخاذ بلا ما نبانو؟",
+    "answer": "ما كاينش طريقة سهلة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش صحيح أن الزنجبيل كينقص الحساسية؟",
+    "answer": "الزنجبيل كيساعد فتنقص من حجم النيف.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج لتصغير الشفايف؟",
+    "answer": "كيجريو عملية صغيرة لتصغير الشفايف من الداخل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي جفاف فاليدي ورجلي ففصل الشتاء، شنو ندير؟",
+    "answer": "استعمل كريم فيه كليسرين لترطيب اليدين والرجلين.",
+    "entities": {
+      "symptoms": [
+        "جفاف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد المسامات الكبار فوجهي؟",
+    "answer": "الجلسات ليزر سبيكترا هي الحل الأفضل لهاذ المشكل.",
+    "entities": {
+      "symptoms": [
+        "مسامات كبيرة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أسرع كريم للتخلص من البقع تحت العيون؟",
+    "answer": "استعمل كريم تريتينوين 0.05% مرة يوميا حتى الشفاء.",
+    "entities": {
+      "symptoms": [
+        "بقع تحت العيون"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي صدري كبير ومترهل، شنو ندير؟",
+    "answer": "الجراحة هي الحل الأفضل لتقليل حجم الثدي.",
+    "entities": {
+      "symptoms": [
+        "صدر كبير ومترهل"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال تساقط الشعر المبكر؟",
+    "answer": "الحشيش ممكن يساعد، ولكن ما كاينش دوا دوائي.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي خصر قصير ووجه نحيف، بغيت نزيد فالوزن.",
+    "answer": "يمكن استعمال حقن الدهون لزيادة الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حب الشباب، شنو الحل؟",
+    "answer": "خاصك تشاور مع طبيب جلدية باش يحدد لك العلاج المناسب. ممكن تحتاجي كريمات أو أدوية.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي ترهيلات فالصدر والظهر، عمري 18 عام.",
+    "answer": "الحل غير جراحي، ولكن خاصك تستشيري مع طبيب مختص. كاينين تقنيات غير جراحية بحال الليزر.",
+    "entities": {
+      "symptoms": [
+        "ترهيلات"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش عملية تمديد الصدر كتأثر على الرضاعة؟",
+    "answer": "لا، ما كتأثرش على الرضاعة. العملية آمنة من هاد الناحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أحسن واقي شمس للبشرة المختلطة اللي عندها حب الشباب؟",
+    "answer": "خاصك واقي شمس خفيف ومناسب للبشرة الدهنية. تأكدي من أنه غير كوميدوجينيك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش كايتدار عملية تكميم الشفاة بالليزر و واش كاينة شي آثار جانبية؟",
+    "answer": "العملية كتتم تحت التخدير المحلي. ممكن تكون آثار جانبية خفيفة بحال تورم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "خاصني كريم للبشرة دهنية.",
+    "answer": "استعملي كريم فيه حمض الساليسيليك أو زيوت طبيعية. هاد الكريمات كتساعد فتنظيم الدهون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن نقص حجم النيف بلا عملية جراحية؟",
+    "answer": "ما كاينش طرق فعالة بلا جراحة. خاصك تستشيري مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي شعر بزاف فالجسم كامل.",
+    "answer": "الليزر هو أحسن علاج لإزالة الشعر. كيعطي نتائج دائمة.",
+    "entities": {
+      "symptoms": [
+        "شعر زائد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن حل لمشكل الشعر المموج؟",
+    "answer": "الشعر المموج مزيان، ولكن إذا بغيت تحسني مظهره، استعملي منتجات مرطبة.",
+    "entities": {
+      "symptoms": [
+        "شعر مموج"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي ضرر فاش كايتحيد الشعر بالليزر من الشفاه؟",
+    "answer": "ما كاين حتى ضرر، العملية آمنة. ولكن خاصك تتبعي تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن ليا نستعمل روايكوتين بلا وصفة طبية؟",
+    "answer": "لا، خاصك وصفة طبية. استعماله بلا استشارة ممكن يكون خطير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال تضخم الثديي و شكون هو الطبيب لي كيعالج هاد المرض؟",
+    "answer": "العلاج كيتطلب استشارة مع طبيب جراحة تجميلية. كاينين خيارات متعددة.",
+    "entities": {
+      "symptoms": [
+        "تضخم الثدي"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نوصفها كبر الصدر.",
+    "answer": "ما كاينش علاج طبي باش تكبر الصدر، غير الجراحة أو الحقن بالدهون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الدوا 'بيفريل' كيعالج البثور فالعينين؟",
+    "answer": "هاد الدوا كيعالج الفطريات، ولكن ماشي للبهاق.",
+    "entities": {
+      "symptoms": [
+        "البثور"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي آثار حرق قديمة على وجهي، كيفاش نحيدها؟",
+    "answer": "يمكن تستعملي كريمات مخصصة أو تراجعي طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "آثار حرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد السواد تحت العين؟",
+    "answer": "يمكن تستعملي كريم مبيض أو تديري جلسات كاربوكسي ثرابي.",
+    "entities": {
+      "symptoms": [
+        "السواد تحت العين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نخرج من حب الشباب بطريقة طبيعية؟",
+    "answer": "يمكن استعمال الروكوتان ولكن خاص وصفة طبية.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حرق فاليد، كيفاش كايعالجوه؟",
+    "answer": "خاصك تمشي للطبيب إلا كان الحريق جديد.",
+    "entities": {
+      "symptoms": [
+        "حرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد التجاعيد فالمساحة ديال الفم؟",
+    "answer": "يمكن استعمال البوتكس أو المواد الفيلر.",
+    "entities": {
+      "symptoms": [
+        "التجاعيد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش عملية تكبير الصدر كتأثر على الرضاعة؟",
+    "answer": "لا، عملية تكبير الصدر ما كتأثرش على الرضاعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال الفطريات اللي كتنتشر على الجسم؟",
+    "answer": "يمكن تستعمل لوكومازول أو شامبوان ضد الفطريات.",
+    "entities": {
+      "symptoms": [
+        "فطريات"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي طريق باش نوسع الصدر.",
+    "answer": "أحسن طريقة هي استعمال البروتيز أو حقن الشحم الذاتي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش يمكن نحيدو الحلمة ديال الصدر عند الرجال بلا ما نديرو العمليات؟",
+    "answer": "ما كاين غير العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال تضخم الثدي؟",
+    "answer": "الجراحة هي الحل، وخصك طبيب متخصص.",
+    "entities": {
+      "symptoms": [
+        "تضخم الثدي"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو النقط السوداء فوجهنا؟",
+    "answer": "يمكن تدهن بمحلول مضاد حيوي بحال فيوسيديك.",
+    "entities": {
+      "symptoms": [
+        "نقط سوداء"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي دوا ديال حب الشباب.",
+    "answer": "يمكن تستعمل أدوية مخصصة لحب الشباب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش يمكن ليا نزيد فالوزن؟",
+    "answer": "يمكن تستعمل أبر أو جراحة أو حقن الدهون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج المناسب لتكبير الصدر عند المرأة؟",
+    "answer": "يمكن استعمال الحلبة والحصير كعلاج طبيعي. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي ضرر فاش كنستعملو الحلاوة باش نحيدو الشعر الزايد فالمناطق الحساسة؟",
+    "answer": "لا، استعمال الحلاوة آمن. ولكن خاص تكوني حذرة من البشرة الحساسة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هوما المواد الطبيعية اللي كتحافظ على الجلد عند الرجال؟",
+    "answer": "كاين بزاف ديال المواد الطبيعية بحال زيت الأركان. خاص استعمالها بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة بعيدة على الجراحة باش نقصو من حجم الانف؟",
+    "answer": "ما كاينش شي طريقة غير الجراحة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نحل التجاعيد.",
+    "answer": "يمكن استعمال كريمات مضادة للتجاعيد. خاص استشارة طبيب التجميل.",
+    "entities": {
+      "symptoms": [
+        "التجاعيد"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "الأنف كبير بزاف كيقلقني، واش كاين شي حل آخر من غير الجراحة؟",
+    "answer": "ما كاينش شي حل غير الجراحة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي مضار الجلسات ديال التكسير؟",
+    "answer": "ما كاينش مضار كبيرة، ولكن النتائج ماشي مضمونة. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طبيب تجميل لبيض الركبة؟",
+    "answer": "خاص تبحثي على طبيب مختص فالتجميل. كاينين بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أنا بديت كنفكر ندير عملية تجميل للأنف، ولكن خايف شنو رأيك؟",
+    "answer": "إذا كنتي خايف، خاصك تفكر مزيان. استشارة طبيب مختص مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي حاجة باش نحيدو الدهون من الشفايف و نقصو من الحجم ديالهم؟",
+    "answer": "ما يمكنش يتقلص الحجم بشكل طبيعي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كاين شي طريقة باش نحيد لحاجا من النيف بلا ما نديرو شي عملية تجميلية؟",
+    "answer": "كاين طرق غير جراحية، ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة أخرى باش نصلحو الصدر بلا جراحة بالشعران ولا الهرمونات؟",
+    "answer": "ما كاينش طرق أخرى مضمونة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي كريم مرطب للبشرة.",
+    "answer": "كاين بزاف د الأنواع مزيانين فالصيدليات. خاص تختاري اللي يناسب بشرتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "السبب ورا ضهور الحبوب الحمرا فوجه الدراري مازال ما معروفش.",
+    "answer": "يمكن يكون عندك إكزيما. خاص استعمال كريم كوتيڤات.",
+    "entities": {
+      "symptoms": [
+        "حبوب حمراء"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش تنعيم الشعر بطرق فعاله وسريعة الإنتاج؟",
+    "answer": "يمكن استعمال كيرتين أو شامبو خاص. خاص تجربي وتلقاي الأنسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة باش نحيدو التاتة من الحاجب غير بالليزر؟",
+    "answer": "الليزر هو أحسن طريقة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو الحلمة الصغار فالصدر عند الرجال بلا جراحة؟",
+    "answer": "ما كاينش طريقة بلا جراحة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حلمة صغار"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد النمش ديال التفاح؟",
+    "answer": "ما كاينش علاج فعال للنمش ديال التفاح. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "نمش"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش عملية تجميل الحاجب كا تدار بالتخدير العام ولا الخاص؟",
+    "answer": "يمكن تديرها بالتخدير الموضعي. هادشي كيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش كايتعالجو البقع الداكنة فالبشرة؟",
+    "answer": "يمكن استعمال الليزر أو التقشير الكيمائي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "بقع داكنة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحارب البقع الداكنة فوجهي لي عندو بشرة حساسة؟",
+    "answer": "يمكن استعمال التقشير الكيمائي أو الليزر. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "بقع داكنة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو التجاعيد حدا العينين؟",
+    "answer": "خاصك تشوف طبيب تجميل. يقدر يوصي بمنتجات مناسبة.",
+    "entities": {
+      "symptoms": [
+        "تجاعيد"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال المسام الواسعة فوجهي مع البشرة الخشنة؟",
+    "answer": "يمكن استعمال منتجات مضادة للانتفاخ. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "مسام واسعة",
+        "بشرة خشنة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحمي شعري من الخسارة؟",
+    "answer": "خاصك تجنب المواد الكيميائية والسشوار. استعمل منتجات طبيعية.",
+    "entities": {
+      "symptoms": [
+        "خسارة الشعر"
+      ],
+      "medical_field": "الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "وجهي كيخرج منو قشور بيض، شنو يمكن لي ندير؟",
+    "answer": "خاصك تفحص عند طبيب. يمكن يكون عندك حالة جلدية.",
+    "entities": {
+      "symptoms": [
+        "قشور بيض"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي عملية تجميل للرجلين المشوهين؟",
+    "answer": "خاصك تشوف طبيب جلدية باش يقيم الحالة ديالك ويقترح لك الحلول المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نفتح المنطقة الحساسة و شحال خاصني من الوقت؟",
+    "answer": "يمكنك استعمال كريمات أو جلسات ليزر، ولكن خاصك استشارة طبيب قبل ما تبدا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي مشاكل فالمؤخرة والوجه وبغيت نزيد فالوزن.",
+    "answer": "يمكن لك تدير حقن الدهون أو تفكر في زرع الشعر، ولكن خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو النفط السوداء فالبشرة الدهنية؟",
+    "answer": "خاصك تحدد شنو كاتقصد، واش النمش ولا الزيوت ولا البثور، وداكشي غادي يحدد العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي آثار ديال ندوب قديمة من علاج 20 عام.",
+    "answer": "خاصك تشوف جراح تجميل باش يقيم الحالة ديالك ويعطيك الحلول المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي احمرار فوجهي و البشرة دهنية.",
+    "answer": "استعمل منتوجات كتحيد الدهون وكبسولات دوا ديال البكتيريا، وكريم ديال البيريدول.",
+    "entities": {
+      "symptoms": [
+        "احمرار الوجه"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج الدوالي فالرجلين؟",
+    "answer": "العلاج كيعتمد على نوع الدوالي، السطحية تحتاج تقليص الوزن والرياضة، والمتوسطة بالحقن، والعميقة بالإزالة الجراحية.",
+    "entities": {
+      "symptoms": [
+        "دوالي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حبة جافة فصبّاطي وكنحس براسي كنهرق.",
+    "answer": "الحل الجراحي هو اللي خاصك تشوف جراح، حيث الحالة تحتاج تقييم.",
+    "entities": {
+      "symptoms": [
+        "حبة جافة",
+        "حرقة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كاين شي كدمة كبيرة فصبّع الرجل الكبير وطلعات ليه صبع أصفر.",
+    "answer": "استعمل كريم باكتروبان مرتين فالنهار، وراقب الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "كدمة",
+        "صبّع أصفر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الحساسية من الريتين كتكمل بلا علاج؟",
+    "answer": "يمكن تسبب التهاب، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "التهاب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو شعر المنطقة الحساسة؟",
+    "answer": "خاص استعمال كريم خاص لإزالة الشعر نهائيا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو الفوايد ديال الدوش بالبخار؟",
+    "answer": "كيعاون على تنقية البشرة وكيحيد الجلد الميت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش شرب ماء الورد كيزيد الصدر؟",
+    "answer": "ماشي صحيح، ما عندو حتى تأثير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو أحسن واقي من الشمس للبشرة الذهبية؟",
+    "answer": "من الأحسن تختار واقي بوقاية بين 30 و50.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي بشرة مشحونة، شنو ندير؟",
+    "answer": "دير فحوصات للدم واتباع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [
+        "بشرة مشحونة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة باش نحيدو السموم من البوتكس؟",
+    "answer": "ما كاينش طريقة معروفة لإزالة السموم من البوتكس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي شوية دالحبوب فوجهي.",
+    "answer": "خاصك تستعمل غسول مناسب للبشرة. وديما دير مرطب.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج تقشير الشفايف؟",
+    "answer": "خاصك تستعمل مرطب وواقي من الشمس. هادشي غادي يعاونك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي أعراض الحصبة؟",
+    "answer": "الأعراض هي سخانة عالية، وجع العينين، وصداع. كيبدا التهيج من الراس حتى للرجلين.",
+    "entities": {
+      "symptoms": [
+        "سخانة",
+        "وجع العينين",
+        "صداع"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "الأسباب ديال الشقوق فالفم وطرق العلاج ديالها.",
+    "answer": "السبب هو الاستخدام المتكرر للما والصابون. خاصك تحافظ على رطوبة الفم بمكملات مثل البانتينول.",
+    "entities": {
+      "symptoms": [
+        "شقوق فالفم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن نحيد الخانة الزرقا بلا ما نضر الجهة الأخرى؟",
+    "answer": "خاصك تستشيري طبيب مختص. كاينين طرق آمنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أحسن كريم للبشرة الدهنية والمنتفخة بلا ما يسبب مضاعفات.",
+    "answer": "المرهم اللي فيه بيتاميثازون وكالسيبوتراين مزيان. خاصك تستعملو بانتظام.",
+    "entities": {
+      "symptoms": [
+        "بشرة دهنية",
+        "بشرة منتفخة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش مزيان نستعمل الليزر باش نحيد الشعر فالرضاعة؟",
+    "answer": "نعم، الليزر آمن للمرضعات. ولكن خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "الراس كحل فوجهو إلا ضغطتي عليه غادي يخرج شي حاجة بيضا.",
+    "answer": "استعمل صابون كبريت مع كريم ريتينويد فالليل. هادشي غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "الراس كحل"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نبييض المنطقة الحساسة؟",
+    "answer": "تقدر تستعمل كريمات التفتيح الخاصة بهاد المنطقة. خاص تكون حذر وتستعملها بطريقة صحيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج البهاق؟",
+    "answer": "البهاق هو نقص في صبغة الجلد. كاينين علاجات مختلفة، ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "البهاق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش تساقط الشعر من أعراض جانبية ديال العلاج ديال السل؟",
+    "answer": "يمكن يكون تساقط الشعر بسبب المرض أو العلاج. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو الحل للرؤوس السوداء في النيف؟",
+    "answer": "يمكن تستعمل كريم أدفرين 0.1% ودهون مساء. خاص تديرها لمدة شهر.",
+    "entities": {
+      "symptoms": [
+        "الرؤوس السوداء"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نحيد آثار الحصى على رجلي.",
+    "answer": "استعمل الكريمات لي فيها البارافين والمرطبات. غادي تعاونك باش تحيد الآثار.",
+    "entities": {
+      "symptoms": [
+        "آثار الحصى"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش حلاقة شعر المؤخرة مزيانة؟",
+    "answer": "ما فيها حتى ضرر، ولكن خاص تكون حذر فالتقنيات المستعملة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج ديال تعرق الصبعان؟",
+    "answer": "أحسن علاج هو زرع الجلّاج. هاد الطريقة كتساعد فالتقليل من التعرق.",
+    "entities": {
+      "symptoms": [
+        "تعرق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي تقبض فالفم وباغي علاج.",
+    "answer": "خاصك تشوف طبيب الجلدية باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تقبض فالفم"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "علاج اسمرار البشرة بسبب الشمس؟",
+    "answer": "كاين كريمات بحال باراسيتامول ولا وصفات طبيعية. خاصك تحمي بشرتك من الشمس.",
+    "entities": {
+      "symptoms": [
+        "اسمرار البشرة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو كيسبب الخطوط البيضا فالصبعان؟",
+    "answer": "الخطوط البيضا كيتسبب فيها نقص الكالسيوم أو الزنك. خاصك تراقب صحتك الغذائية.",
+    "entities": {
+      "symptoms": [
+        "خطوط بيضا"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شي حاجة فعالة لزيادة حجم الصدر.",
+    "answer": "يمكن لك تدير جراحة تجميلية أو حقن الدهون. خاصك تستشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو الحل باش نحيد السواد اللي تحت العين؟",
+    "answer": "يمكن لك تدير جلسات كاربوكسي ثرابي أو ميزو. هاد الطرق فعالة.",
+    "entities": {
+      "symptoms": [
+        "سواد تحت العين"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج المسام الواسعة؟",
+    "answer": "استعملي كريم لاصيد كل ليلة قبل النوم لمدة شهر. غادي تحسي بتحسن.",
+    "entities": {
+      "symptoms": [
+        "مسام واسعة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو السبب ديال التثدي عند الرجال وشنو هو الحل؟",
+    "answer": "التثدي عند الرجال كيتسبب فعدة عوامل. خاصك تستشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "تثدي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أنا عندي 20 عام وماعنديش شعر، بغيت علاج سريع.",
+    "answer": "يمكن تكون عندك مشكل فبصيلات الشعر. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "عدم وجود شعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن فيتامين؟",
+    "answer": "خاصك تحدد شنو الهدف من استعمال الفيتامين. كل فيتامين عندو فوائد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش نتائج عملية شد ورفع الصدر بالسيلكون مزيانة؟",
+    "answer": "نتائج العملية كيمكن تكون مزيانة، ولكن خاصك تختار طبيب متمكن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حب الشباب في وجهي، شنو السبب وشنو ندير؟",
+    "answer": "حب الشباب كيتسبب فيه عدة عوامل. خاصك تشوف طبيب الجلدية.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحصلو على بشرة نضرة وسافيا؟",
+    "answer": "استعملي الما الزراعي 4 مرات فالأسبوع. غادي تحصلي على نتائج مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين غير العلاج بالليزر؟",
+    "answer": "كاين بزاف ديال العلاجات، خاصك تسول طبيب التجميل باش يشرح ليك الخيارات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن كريم للتفتيح؟",
+    "answer": "خاصك تختار كريم مناسب للبشرة ديالك. من الأفضل تسول طبيب الجلدية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي آثار ديال النمش، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب تجميل باش يقيم الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آثار النمش"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش إزالة الشعر بالليزر كتسبب سرطان الجلد؟",
+    "answer": "لا، ما كيتسببش فسرطان الجلد. العملية آمنة إذا دارت عند طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحميو البشرة من الشمس؟",
+    "answer": "استعمل واقي شمس بمعامل 50. خاصك تجنب التعرض للشمس فالأوقات القوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الفيلر مزيان؟",
+    "answer": "الفيلر آمن إذا استعمل عند طبيب مختص. خاصك تكوني واعية بالمخاطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كاين مخاطر فالقياسات ديال الوجه والفك؟",
+    "answer": "ما كاينش خطر إلا إذا درتيها عند طبيب معروف وموثوق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "ما كاينش علاج غير الجراحة لتهدئة الثديين؟",
+    "answer": "دابا ما كاينش طريقة فعالة غير الجراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن علاج للبثور اللي حدا العين؟",
+    "answer": "تأثير بوتوكس كايمشي من بعد 6 شهور.",
+    "entities": {
+      "symptoms": [
+        "البثور"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي انتفاخات تحت العيون، كيفاش نقدر نعاودها؟",
+    "answer": "أفضل طريقة هي استئصال الدهون الزائدة عن طريق الجراحة الخفيفة.",
+    "entities": {
+      "symptoms": [
+        "انتفاخات تحت العيون"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي ريحة العرق قوية بزاف، شنو ندير؟",
+    "answer": "كيتنصح باستخدام صابون مضاد للبكتيريا.",
+    "entities": {
+      "symptoms": [
+        "ريحة العرق"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد علامة البطن؟",
+    "answer": "ما كاينش دوا كايعالج الشقوق العامة ديال الجلد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نرجع لون الجلد للون الطبيعي بعد الحروق؟",
+    "answer": "يمكن استعمال كريمات الصبار والزيوت الطبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كاين شي علاج لحكة فجنب ودني؟",
+    "answer": "أحسن طريقة باش تعرف السبب ديال الحساسية هي اختبار الجلد.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش التكيسات كتحبس الحمل؟",
+    "answer": "التكيس يمكن يتداخل مع الحمل، ولهذا كيتم استخدام تنشيط المبايض حتى يتولد الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التكيسات",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن علاج للبشرة الدهنية؟",
+    "answer": "كريمات مقشرة بحال ريتينويد أو كلايكولك أسد. أو تقشير كيميائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البشرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن مبيض للبشرة؟",
+    "answer": "كيتضمن كلايكولك أسد مع كوجك أسد، وفيتامين سي و أربيوتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البشرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن طريقة باش نحيد النمش من الوجه؟",
+    "answer": "ماكاينش حل ولكن استعمال واقي الشمس كايمنعو من زيادة.",
+    "entities": {
+      "symptoms": [
+        "نمش"
+      ],
+      "medical_field": "البشرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن نعاودو تشدّ المترهل و نرفعوه مرة أخرى؟",
+    "answer": "نعم، يمكن ليه يرجع ويرفع الثدي المترهل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي علاج للكلف و الخطوط الرفيعة.",
+    "answer": "استعمل كريم فيتامين سي باش تصيفط الصور ليه.",
+    "entities": {
+      "symptoms": [
+        "كلف",
+        "خطوط رفيعة"
+      ],
+      "medical_field": "البشرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عافاك، شنو خاصني ندير باش نحسن بشرتي اللي خشنة ومتشققة؟",
+    "answer": "من فضلك اتصل بالطبيب ديال الجلد.",
+    "entities": {
+      "symptoms": [
+        "بشرة خشنة",
+        "بشرة متشققة"
+      ],
+      "medical_field": "البشرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن نستعمل الخميرة ف الماسكات؟",
+    "answer": "الخميرة لي كيتستعملو ف الماسكات هي خميرة البيرة، وكتعطي نتائج مزيانة للبشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحل مشكل الشعر الزايد ف الجبهة؟",
+    "answer": "استعمال الليزر هو أحسن وأأمن طريقة، وكيعطي نتائج مدهشة.",
+    "entities": {
+      "symptoms": [
+        "الشعر الزايد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج للمناطق الحساسة؟",
+    "answer": "يمكن تستعمل كريم لبيض وكريم لرمم بحال البروبانثين، ولكن خاصك تلتزم بالوقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نداوي حب الشباب؟",
+    "answer": "خاصك تمشي عند طبيب الجلد لتحديد نوع حب الشباب وشنو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو الشعر الزايد من الوجه؟",
+    "answer": "يمكنك تستعمل السعد والزريعة ديال السكر، هادشي كيتباع فالسوق ديال الأعشاب.",
+    "entities": {
+      "symptoms": [
+        "الشعر الزايد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحارب حب الشباب؟",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يحدد لك العلاج المناسب لحب الشباب ديالك.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نعالج السيلوليت؟",
+    "answer": "علاج السيلوليت كيعتمد على الحالة، وأحسن تقنية هي تقنية البلازما.",
+    "entities": {
+      "symptoms": [
+        "السيلوليت"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كريم ريتنيويد مزيان للبشرة ديال 16 عام؟",
+    "answer": "لا، خاصك تكوني حذرة وتتبعي التعليمات، ولبسي نظارات الشمس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شعري كايطيح. واش حبوب البيوتين غادي تعاونني؟",
+    "answer": "نعم، الحقن ديال البلازما مع حبوب البيوتين هو أحسن حل لمشكل تساقط الشعر.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن نستعمل حبوب جلوت أيت فالحمل؟",
+    "answer": "ممنوع استعمالها أثناء الحمل، خاصك تحافظي على صحتك وصحة الجنين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة باش نحيدو الشعر اللي ما بغيناش؟",
+    "answer": "أفضل طريقة هي الليزر عند اختصاصي التجميل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الانف ماحلش بعد العملية ديال تقليص الانف؟",
+    "answer": "يمكن يكون الحل بالليزر أو بالتدخل الجراحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي أحسن طريقة باش نحيدو من الورك و المؤخرة؟",
+    "answer": "خاصك تاكل ماكلة متوازنة وتدير الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش التفاح كيعاون فالحب الشباب؟",
+    "answer": "ما كيعالجش حب الشباب، ولكن كيساعد على تخفيفه.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "ظهور الشيب مبكر بزاف، واش كاين شي علاج؟",
+    "answer": "ما كاينش علاج باش يرجع لون الشعر، ولكن يمكن تصبغ الشعر.",
+    "entities": {
+      "symptoms": [
+        "الشيب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو الرؤوس السودا؟",
+    "answer": "استعمل كريم الريتينويد أو أدابالين قبل النوم.",
+    "entities": {
+      "symptoms": [
+        "الرؤوس السودا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "البشرة ديالي كتحرق بسرعة، واش كاين شي حل؟",
+    "answer": "استعمل واقي شمس ولبس قبعة لحماية بشرتك.",
+    "entities": {
+      "symptoms": [
+        "تحرق البشرة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نحسن شكل الصدر ديالي، عافاك ساعدني!",
+    "answer": "يمكن تكبر الصدر باستعمال البروتيز أو حقن الشحم الذاتي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "اللحية ديالي كتخرج بزاف، واش كاين شي علاج؟",
+    "answer": "أسرع طرق العلاج هي حقن الخلايا الجذعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي شعر جاف ومتقصف، شنو الحل؟",
+    "answer": "الحمام ديل الزيت يقدر يعاونك بزاف.",
+    "entities": {
+      "symptoms": [
+        "شعر جاف",
+        "شعر متقصف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت علاج للهالات السوداء.",
+    "answer": "يمكنك تجربة جلسات كاربوكسي ثرابي أو ميزوثرابي حول العين.",
+    "entities": {
+      "symptoms": [
+        "الهالات السوداء"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كاين شي علاج طبيعي للحب العاطفي؟",
+    "answer": "ما كاينش شي دليل علمي على هاد الشي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي مسامات بزاف فوجهي.",
+    "answer": "يمكنك استعمال العلاج بالليزر لسد المسامات.",
+    "entities": {
+      "symptoms": [
+        "مسامات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن علاج لتهيج الحزام الناري؟",
+    "answer": "كبسول كابابنتين هو علاج فعال.",
+    "entities": {
+      "symptoms": [
+        "تهيج الحزام الناري"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو الحل لسمارة البشرة؟",
+    "answer": "استعمل كريم إيلايدوكوين 4% كل ليلة لمدة شهرين مع واقي الشمس.",
+    "entities": {
+      "symptoms": [
+        "سمارة البشرة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد شعر الجسم بلا ماكينة؟",
+    "answer": "الليزر هو واحد من أفضل الطرق لإزالة الشعر نهائيا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو كيسبب الحكة فالرجلين؟",
+    "answer": "كاين بزاف د الأسباب، خاص طبيب يحددها.",
+    "entities": {
+      "symptoms": [
+        "الحكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حبوب ف رجلي",
+    "answer": "الحبوب كيتعالجو بمرهم خاص بالجلد بحال كيناكورت. خاصك تستعملو مرة وحدة فالسيمانة.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي تصبغات ف وجهي",
+    "answer": "يمكن تستعمل كريم كلايكولك أسد مع كوج أسد، أو تدير جلسات تقشير كيميائي.",
+    "entities": {
+      "symptoms": [
+        "تصبغات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن واقي من الشمس للبشرة؟",
+    "answer": "كاين بزاف د الأنواع فالصيدليات، خاصك تشاور مع الصيدلوان باش يختار ليك المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو العناصر الغذائية اللي كتعاون على نمو الشعر؟",
+    "answer": "زيت الثوم وزيت الصيبار كيعاونو على نمو الشعر وترطيبه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحل مشكلة التقشير؟",
+    "answer": "يمكن تستعمل مرهم فازالين مع الساليس. هاد الشي غادي يساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن نداوي الصلع المبكر؟",
+    "answer": "يمكن تستعمل مرطب الجسم ديال 5% جوج مرات فاليوم. خاصك الصبر.",
+    "entities": {
+      "symptoms": [
+        "صلع"
+      ],
+      "medical_field": "الشعر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي علاج لمسامات الوجه؟",
+    "answer": "يمكن تستعمل كريم الريتينويد مع الكالسيرين وفيتامين إي. أو تدير جلسات ليزر.",
+    "entities": {
+      "symptoms": [
+        "مسامات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي راس كحل على وجهي، شنو ندير؟",
+    "answer": "يمكن تستعمل كريمات تفتيح للبشرة الداكنة مع كريم الشمس.",
+    "entities": {
+      "symptoms": [
+        "رأس كحل"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد الخدوش القديمة من الوجه؟",
+    "answer": "صعيب باش تنحا بالزربة، ولكن يمكن تخفيفها بالليزر أو الحقن ديال البلازم.",
+    "entities": {
+      "symptoms": [
+        "خدوش"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي كريم آمن باش تفتح المنطقة الحساسة؟",
+    "answer": "يمكن تستعمل كريم انلايتيكس أو كريم بريتي. خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شحال كيسوى التجميل دالأنف؟",
+    "answer": "التكلفة كتختلف حسب الحالة. خاصك تزور طبيب تجميل باش يحدد لك الثمن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن علاج للكلف؟",
+    "answer": "كاين بزاف ديال المنتجات فالسوق، ولكن خاصك تستاشر مع طبيب الجلد باش يحدد لك الأنسب.",
+    "entities": {
+      "symptoms": [
+        "الكلف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو السبب ديال هالات سودا تحت العين عند الدراري؟",
+    "answer": "غالبا كتكون بسبب نقص الدم أو العوامل الوراثية. خاص استشارة طبيب إذا كانت الحالة مزعجة.",
+    "entities": {
+      "symptoms": [
+        "هالات سودا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نوسعو الصدر؟",
+    "answer": "أفضل طريقة هي الجراحة التجميلية، سواء بالدهون الذاتية أو بحشوات صناعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نحيد الدهونة بزاف و نحيد الحبوب و النمش؟",
+    "answer": "الروكيوتان كيتدار تحت إشراف طبيب الجلد. خاصك تستاشر معاه.",
+    "entities": {
+      "symptoms": [
+        "حبوب",
+        "نمش"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي أحسن وقت للحمل بعد عملية شد البطن؟",
+    "answer": "على الأقل عامين إذا كان عندك مشكل فالعضلات. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن نستعملو ليزر باش نحيدو الشعر من الجسم مع حب الشباب؟",
+    "answer": "ما يمكنش نستعملو الليزر مع حب الشباب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "إينا واحد حسن كريم بيتازون ولا كريم ريكورت لعلاج البقع ديال الحساسية؟",
+    "answer": "جوج مزيانين، ولكن كريم بيتازون كيتعتبر أكثر فعالية.",
+    "entities": {
+      "symptoms": [
+        "البقع ديال الحساسية"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن للثدي المترهل يرجع للوضع الطبيعي؟",
+    "answer": "نعم، ممكن تعاود رفع وتشد الثدي المترهل باستعمال تمارين خاصة أو كريمات. خاص استشارة طبيب لتحديد الأنسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الجواني كيحيد الشعر من المناطق الحساسة بلا ما يضر؟",
+    "answer": "الليزر هو الخيار الأكثر أماناً وفعالية. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو سبب الخطوط اللي فالصبع وشنو ندير باش نحيدها؟",
+    "answer": "الخطوط ممكن تكون نتيجة جفاف أو نقص في الفيتامينات. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "خطوط فالصبع"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نمنع الشيب المبكر؟",
+    "answer": "ممكن استعمال مكملات غذائية أو زيوت طبيعية. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أنا عندي 19 عام وكنعاني من الشعر الزايد. شنو هو العلاج المناسب؟",
+    "answer": "ممكن يكون السبب هرموني، خاص فحوصات. العلاج بالليزر هو خيار جيد.",
+    "entities": {
+      "symptoms": [
+        "شعر زايد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي الفوائد ديال حقن الميزوثيرابي في نمو الشعر؟",
+    "answer": "كيخدم على تحفيز نمو بصيلات الشعر ويقويها. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "علاش كيبانو النقط البيضا فصبع الضفار؟",
+    "answer": "تقدر تكون علامة على مرض الصدفية أو التهابات. خاص استشارة طبيب للتأكد.",
+    "entities": {
+      "symptoms": [
+        "نقط بيضا فصبع الضفار"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش عملية تكبير الصدر كتأثر على الرضاعة؟",
+    "answer": "ما كاينش تأثير على الرضاعة. العملية كتركز على الشكل فقط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي آثار جانبية من عملية تجميل النيف؟",
+    "answer": "ممكن تكون آثار جانبية، ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الجلوسوليد مع الليمون كيحفّي اللون ديال الجلد؟",
+    "answer": "نعم، يمكن تخلط الجليسوليد مع عصير الليمون لتحسين لون البشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش صحيح بلي زيت جوز الهند و زيت الزيتون كيزيدو فالنمو ديال الشعر؟",
+    "answer": "ما كاينش دليل علمي على هاد الشي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي علاج باش نحيدو الشعر الزايد من الوجه عند الدراري الصغار؟",
+    "answer": "كانقتارح عليك تشوف طبيب تجميل. هو اللي يقدر يساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي الآثار الجانبية ديال إزالة الشعر بالليزر؟",
+    "answer": "إزالة الشعر بالليزر ممكن تسبب احمرار أو تورم. خاص العناية بعد العملية.",
+    "entities": {
+      "symptoms": [
+        "احمرار",
+        "تورم"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هوما العلاجات اللي كيتستعملو باش نحيدو المناطق الداكنة؟",
+    "answer": "كريمات التجميل كتساعد، ولكن خاص تختارها حسب نوع البشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن كريم طبيعي للعناية باليدين والرجلين؟",
+    "answer": "كريم جليسوليد أحمر أصلي هو واحد من الخيارات الجيدة. فازلين طبي حتى هو مفيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حب صغير، شنو هو؟",
+    "answer": "ممكن يكون حساسية أو حب الشباب. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "حب صغير"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي الأدوية لفطريات الصبعان؟",
+    "answer": "العلاج هو قرص تيربينافين 250 مغ فالنهار. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "فطريات الصبعان"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش إزالة حب الشباب بالليزر فعالة؟",
+    "answer": "إزالة حب الشباب بالليزر فعالة، ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نوسع حجم الثدي، شنو الحل؟",
+    "answer": "الجراحة هي الطريقة الوحيدة لزيادة حجم الثدي. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين خطر فعملية زرع السيليكون؟",
+    "answer": "ماكاينش خطر كبير، ولكن خاصك تختار النوع المناسب وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن ندير عملية تجميل للشفرات؟",
+    "answer": "يمكن، ولكن خاصك طبيب عندو خبرة فهاد المجال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن نستعمل عصير الليمون على راس حساس؟",
+    "answer": "عصير الليمون حامض، خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي أسهل طريقة باش تزيد فالطول؟",
+    "answer": "ما كاينش طريقة مضمونة، ولكن خاصك تغدي مزيان وتكون نشيط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة باش نحيدو الشعر بالكامل؟",
+    "answer": "أفضل طريقة هي جلسات الليزر، كتساعد على إزالة الشعر بشكل دائم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كاين شي حب الشباب فالعانة، واش النظافة هي السبب؟",
+    "answer": "حب الشباب كيتطلب علاج خاص. خاصك تشاور طبيب الجلد باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي خطر فعملية زرع السيليكون؟",
+    "answer": "ماكاينش خطر كبير، ولكن خاصك تختار النوع المناسب. من الأفضل تشاور طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن طريقة باش نكبر الشفايف بطريقة طبيعية؟",
+    "answer": "الفيلر هو أحسن طريقة لزيادة حجم الشفايف. خاصك تشاور طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو تبييض الوجه؟",
+    "answer": "تبييض الوجه كيتعلق بتحسين لون البشرة. خاص يتقيم نوع البشرة قبل أي علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو فائدة هاد الكريم؟",
+    "answer": "خاصك تعرف التركيبة ديالو باش نقدر نعاونك. بعض الكريمات كيمكن تكون مفيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن شامبوان للشعر الجاف؟",
+    "answer": "كاين بزاف د الأنواع المزيانة. خاصك تسول الصيدلي باش يعطيك النصيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الجروح كاتعافى؟",
+    "answer": "الجروح خاصها تتعالج مزيان. من الأفضل ما تخليهاش مفتوحة.",
+    "entities": {
+      "symptoms": [
+        "الجروح"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد العرق الزايد من الصدر؟",
+    "answer": "حقن البوتوكس كتعطي نتيجة مزيانة. التأثير كيبقى لمدة 6 شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج للمسام الواسعة فالبشرة الدهنية؟",
+    "answer": "استعمال ناتريزر و جلسات ديرما بن كيمكن يساعدو. خاصك تشاور طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "المسام الواسعة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة باش نقصو من حجم النيف بلا عمليات؟",
+    "answer": "للأسف، ما كاينش طريقة غير الجراحة. خاصك تفكر مزيان قبل ما تدير أي قرار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد الدهون من الجبهة؟",
+    "answer": "كاين طرق لإخراج الدهون. خاصك تشاور طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن يدير عملية تجميل للشفرات؟",
+    "answer": "يمكن تقصير الشفرات بلا ضرر. خاصك تشاور طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أسهل طريقة باش تزيد فالطول؟",
+    "answer": "بروتيز سيلكون كيمكن يكون حل. خاصك تسول طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت كريم تجميل للوجه بلا ضرر.",
+    "answer": "ما كاينش دلائل علمية على فعالية بعض الكريمات. خاصك تختار مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الكريم المرطب كيزيد فالمسامات؟",
+    "answer": "هاد الشي كيعتمد على نوع الكريم. بعض الكريمات كيزيدو فالمسامات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي بنت عندها نقط بيضا فجلدها، واش كاين علاج؟",
+    "answer": "خاصك تمشي عند طبيب الجلد. هو اللي يقدر يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نقط بيضا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش ممكن تزيد الحلمة ديالي؟",
+    "answer": "من الأفضل تشاور طبيب تجميل. هو اللي يقدر يعطيك النصيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش عواصر لخل تنقص الوزن؟",
+    "answer": "ما كافيش بوحدو، خاصك ريجيم. هادشي غير جزء من الحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي بنت عندها ست سنين، واش طول الشعر كيعطي تأثير على الذاكرة؟",
+    "answer": "ما كاين حتى علاقة بين طول الشعر والذاكرة. هادشي غير خرافة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد البقع الكحلين من وجهي؟",
+    "answer": "خاصك تعالج السبب وتستعمل كريم سوليير. من بعد، استعمل كريم تفتيح وغسول مناسب.",
+    "entities": {
+      "symptoms": [
+        "البقع الكحلين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن تقترح عليا شي كريم للنمش؟",
+    "answer": "استعمل كريم ديال التوت كل نهار قبل من الفجر.",
+    "entities": {
+      "symptoms": [
+        "النمش"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي كريم لتكبير الثدي؟",
+    "answer": "ما كاينش كريم لتكبير الثدي، غير الحقن ديال الدهون ولا الصمغ ديال السيلكون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين ضرر فالعلاج بالدم الذاتي للأكزيما؟",
+    "answer": "هادي تقنية قديمة، ومازال ما تبتاتش فائدة علميا.",
+    "entities": {
+      "symptoms": [
+        "الأكزيما"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش جهاز تصغير الأنف فعال؟",
+    "answer": "راهو حل وقتي غير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الجرح في وجهو مازال ما زال؟",
+    "answer": "نعم، يمكن إزالة آثارها بواحد العملية تجميلية بسيطة، شوف جراح التجميل.",
+    "entities": {
+      "symptoms": [
+        "الجرح"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أنا عندي 18 عام وعندي النمش. واش الليزر غادي يأثر على عمري؟",
+    "answer": "الليزر ما كيأثرش.",
+    "entities": {
+      "symptoms": [
+        "النمش"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن علاج للبقع تحت العين؟",
+    "answer": "أحسن طريقة هي استعمال كريمات مخصصة للبقع.",
+    "entities": {
+      "symptoms": [
+        "البقع تحت العين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نتخلص من الكلف؟",
+    "answer": "يمكن استعمال كريمات التصبغ أو الليزر.",
+    "entities": {
+      "symptoms": [
+        "الكلف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج المنزلي لتعرق اليدين؟",
+    "answer": "استعمل شوية ديال الما سخون فداكشي لي فيديك.",
+    "entities": {
+      "symptoms": [
+        "تعرق اليدين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد العلامات السودا ف سيمانا وحدة؟",
+    "answer": "راجع الطبيب ديالك، ولكن فواحد سيمانة ولا جوج، ماكانضنش.",
+    "entities": {
+      "symptoms": [
+        "العلامات السودا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نغسل وجهي؟",
+    "answer": "يمكنك استعمال كريمات مخصصة لإزالة البقع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي بقع صغيرة فوجهي من حب الشباب. شنو هو العلاج؟",
+    "answer": "تيتعالجو البقع بالتقشير الكيمائي والليزر الفراكسل.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي تساقط شعر كبير وخاصني نلقى حل!",
+    "answer": "يمكنك استعمال الميزو.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الشعر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي تجاعيد فالصبعان وباغية نحيدهم. واش كاين شي طريقة بلا عملية؟",
+    "answer": "ما كاين حتى واحد آخر غير الجراحة.",
+    "entities": {
+      "symptoms": [
+        "التجاعيد"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو الدوا اللي كايتعطى باش نحيدو الحبوب بعد الحلاقة؟",
+    "answer": "يمكن استعمال كريم مضاد حيوي بحال فيوسيدك أسد. خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الزنجبيل كينقص من حجم النيف؟",
+    "answer": "هادشي غير صحيح. الزنجبيل ما عندوش تأثير على حجم النيف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن ناخد جلسة ليزر باش نحيد الشعر الزايد من الوجه والرقبة؟",
+    "answer": "نعم، يمكن لك دير الجلسة. ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "إزالة الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو بقع الدم من الوجه؟",
+    "answer": "خاصنا نعرفو شنو هي البقع، واش آثار ديال العرق ولا العشق. العلاج مختلف حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "بقع الدم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شعري تالف، واش كاين شي علاج طبيعي؟",
+    "answer": "يمكن لك تستعمل حبة ديل البيتون فالنهار. خاصك تبتعدي على الفرن والمشطات اللي فيها كرياتين.",
+    "entities": {
+      "symptoms": [
+        "شعر تالف"
+      ],
+      "medical_field": "الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو السبب ديال التشققات فالجسم وشنو العلاج؟",
+    "answer": "التشققات كتكون بسبب جفاف الجلد. خاصك ترطب البشرة بكريم مرطب جوج مرات فالنهار.",
+    "entities": {
+      "symptoms": [
+        "تشققات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أحسن كريم للوجه اللي كيحل التجاعيد حدا العين؟",
+    "answer": "كاين كريمات مزيانة كتحارب التجاعيد، خاصك تسول فالصيدلية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عافاك، بغيت شي كريم ولا دوا باش نحل آثار البوتوكس.",
+    "answer": "البوتوكس ما كيخدمش بشكل دائم. يمكن لك تجرب كريم مرطب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن طريقة باش نحيد الشعر الزايد من الجسم؟",
+    "answer": "أحسن طريقة هي الليزر، حيث آمنة وفعالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "إزالة الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كريم جولييت لازالة الشعر نهائيا آمن؟",
+    "answer": "ما كاينش دراسات علمية كافية على هاد الكريم. خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "إزالة الشعر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي جفاف وقشور فموضع التناسخ.",
+    "answer": "خاصك تشوف طبيب الجلدية باش يدير لك الفحص ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "جفاف",
+        "قشور"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كيضرو النماذج ديال الوجه بالليزر؟",
+    "answer": "الليزر مفيد فبزاف ديال الحالات، ولكن خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي أحسن طريقة تجميلية باش نحسنو تساقط الشعر؟",
+    "answer": "خاصك تشوف طبيب الجلدية لتحديد السبب. العلاج كيتعتمد على نوع التساقط.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش فعلا كريم فير اند لافلى كيسبب السرطان؟",
+    "answer": "ما كاين حتى دليل علمي على هاد الشي. خاصك تكون حذر وتستعمل منتجات موثوقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "ظهور حكة قوية بزربة في الجلد و احمرار شديد.",
+    "answer": "خاصك تشوف الطبيب فورا، هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "احمرار"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي بقع بيضاء ف ضهري اللي ما كيتحلاتش.",
+    "answer": "هادشي ممكن يكون فطري، خاصك تشوف طبيب الجلدية. العلاج كيتطلب أدوية مضادة للفطريات.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضاء"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي مشكل تساقط الشعر في مقدمة الرأس.",
+    "answer": "خاصك تشوف طبيب جلدية باش يتشخص السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كليماستون كيزيد الحجم ديال الثدي؟",
+    "answer": "ماشي بالضرورة كيعطي نتيجة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن ندير عملية تجميل للشفرات؟ واش ممكن تكون ضارة؟",
+    "answer": "إذا كان الجراح عندو خبرة، العملية ممكنة. ولكن خاصك تعرف المخاطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نحيد آثار الجروح القديمة من وجهي؟",
+    "answer": "خاصك تشوف طبيب تجميل مختص باش يقيم الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آثار الجروح"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي شعر شقر وما كايتخلاصش، شنو الحل؟",
+    "answer": "الليزر هو الخيار الأفضل. كيعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [
+        "شعر شقر"
+      ],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بنتي عندها مشكل ف الإظافر، شنو ندير؟",
+    "answer": "خاصك تديها لطبيب الجلد باش يشوف السبب ويعطيها العلاج.",
+    "entities": {
+      "symptoms": [
+        "مشكل ف الإظافر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي ضرر فالجروح من الما الصالح للشرب؟",
+    "answer": "ما كاينش مشكل، ولكن من الأحسن تغطي الجرح مزيان ملي كاتسباح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن وصفة طبيعية لحب الشباب؟",
+    "answer": "من الأحسن تسول طبيب الجلد على الوصفة المناسبة لحالتك.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو البقع من البشرة؟",
+    "answer": "يمكن استعمال كريمات مع تقشير كيميائي أو جلسات ليزر بعد استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "البقع"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج النمش البني في الوجه؟",
+    "answer": "خاصك تحدد واش هي بقع على سطح الجلد ولا حب الشباب، ومن بعد تسول الطبيب.",
+    "entities": {
+      "symptoms": [
+        "النمش البني"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو علامات التعبير على الوجه؟",
+    "answer": "النوع والحجم واللون ديال هاد العلامات كيعتمد على العلاج اللي غادي يعطيك الطبيب.",
+    "entities": {
+      "symptoms": [
+        "علامات التعبير"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "السواد تحت العيون كيفاش نعالجو؟",
+    "answer": "السواد والانتفاخ كيتعالجو بالليزر وكريمات التصبغات.",
+    "entities": {
+      "symptoms": [
+        "السواد تحت العيون"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي كريم للشعر اللي كيعطي الحياة؟",
+    "answer": "ما كاينش شي حاجة كتدوم العمر كامل، خاصك تعتني بشعرك بطرق طبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "المكلة لي فيها الكولاجين، فيتامين سي، والكالسيوم، وزيت النعناع واش ممكن تزيد التصبغات؟",
+    "answer": "التصبغات كتعتمد على عوامل كثيرة، خاص استشارة طبيب جلدية. يمكن يكون العلاج بالليزر فعال.",
+    "entities": {
+      "symptoms": [
+        "التصبغات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي طريقة طبيعية باش نقصو من الانف بلا عملية؟",
+    "answer": "ما كاينش طريقة طبيعية فعالة، العملية هي الحل الوحيد. الزنجبيل ما كيعطيش نتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حبوب كبيرة فالمؤخرة وكتخرج الدم، شنو ندير؟",
+    "answer": "استعمل كريم باكتروبان مرتين فالنهار. خاصك تشوف طبيب إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "حبوب",
+        "خروج الدم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش زيت الحلبة كيساعد فنمو الصدر؟",
+    "answer": "ماشي واضح، من الأفضل تدير تحاليل هرمونية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهرمونات",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي صدري صغير وبغيت نكبره.",
+    "answer": "استعمال بروتيز السيلكون هو الحل الأفضل. عندو نتائج مضمونة وآمنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الثدي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي شعر بطيء النمو، شنو ندير؟",
+    "answer": "استعمل منوكسيديل، فالصباح والعشية لمدة شهرين. غادي تشوف الفرق.",
+    "entities": {
+      "symptoms": [
+        "شعر بطيء النمو"
+      ],
+      "medical_field": "الشعر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش حبوب الصويا كتحسن حجم الثدي؟",
+    "answer": "ما كاينش دليل علمي على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كاين شي حل لعدم التوافق بين الفتحات بعد عملية التكميم؟",
+    "answer": "الحل هو عملية أخرى، ولكن خاص نقصو من الفتحة الأكبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي كريم لبيض الوجه ويدّي.",
+    "answer": "كريمات التبييض كاينين بزاف فالصيدليات، وخصك تشاور مع طبيب الجلدية باش يحدد لك الكريم المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "خاصني شي دوا لزيادة حجم الثدي.",
+    "answer": "ما كاينش شي دوا طبيعي مزيان باش يكبر الثدي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أحسن شامبو لتساقط الشعر وراثي، واش نقدر نستعمل فيناسترايد؟",
+    "answer": "من فضلك اتصل بالطبيب ديال الجلد.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش أقراص الزنك كتأثر على الثدي؟",
+    "answer": "ما كاينش تأثير على الثدي ولا على الشعر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي كريم لي يبيض ويصفي.",
+    "answer": "خاصك تعرف نوع بشرتك، ومن بعد نقررو على الكريم المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو أحسن صابون للبشرة؟",
+    "answer": "أفضل صابون هو صابون زيت الزيتون، كيناسب جميع أنواع البشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي دوا للبهاق والشعر لي ولا بيض.",
+    "answer": "من فضلك اتصل بالطبيب ديال الجلد.",
+    "entities": {
+      "symptoms": [
+        "البهاق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو خاصني ندير قبل عملية تكبير الصدر؟",
+    "answer": "خاصك تدير السونار، وشكل الحشوة كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "جهاز كانيلا جينتل ليزر، واش كيبان مزيان؟",
+    "answer": "معدل زوين بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي حل للمناطق الحساسة.",
+    "answer": "ياسو كير هو منتوج طبيعي فيه زيوت طبيعية وصبار الشوك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي وجع فالصدر.",
+    "answer": "إذا كان التشخيص صحيح، يمكن تحتاج مضاد حيوي، وإلا فشل، خاصك جراحة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو خاصني ندير باش نحل البشرة ديالي؟",
+    "answer": "يمكن لك تستعمل كريم يدوي أو كريم بيرات وايت ليلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي زيت لتكثيف وطول الشعر.",
+    "answer": "خود حبوب الزنك 50 ملغ بعد الفطور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش البانتوجين كيعون على نمو الشعر؟",
+    "answer": "البانتوجين مزيان لتقوية الشعر ومنع تساقطه. خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاينة علاقة بين الكولاجين والليزر فتنقيص البقع؟",
+    "answer": "الليزر وحده كيعطي نتائج فتنقيص البقع. مكملات الكولاجين ممكن تزيد الفائدة.",
+    "entities": {
+      "symptoms": [
+        "البقع"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "علاش كيتعرق وجهي مع واقي الشمس؟",
+    "answer": "التعرق كيبقى طبيعي حتى مع واقي الشمس. الطقس هو السبب الرئيسي.",
+    "entities": {
+      "symptoms": [
+        "التعرق"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كريم العرق كيدر البشرة؟",
+    "answer": "ما كاينش دليل على أنه كيدر البشرة. ولكن خاص تحذير من الاستعمال المفرط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين خطر من البنج الكامل فعملية تجميل الأنف؟",
+    "answer": "كل العمليات الجراحية كتحمل شوية من الخطر. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو نسبة النجاح فعملية شد الدهون؟",
+    "answer": "نسبة النجاح عالية، ولكن خاص استشارة طبيب قبل اتخاذ القرار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي فقاعات ماء على صدري، شنو السبب؟",
+    "answer": "الفقاعات ممكن تكون نتيجة حساسية. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "فقاعات ماء"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الشعر كايتساقط حيت دهني؟",
+    "answer": "كاين بزاف ديال العلاجات للشعر الدهني. خاص اختيار الشامبوان المناسب.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نرجع لون بشرتي ناعمة؟",
+    "answer": "ما كاينش علاج محدد، ولكن الكريمات الطبيعية ممكن تساعد. خاص الصبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي مرض جلدي كيخلي يدي ورجلي قاسين، شنو ندير؟",
+    "answer": "يمكن استعمال مرهم بيتاميثازون مع كالسيبوتراين. خاص متابعة مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "جلد قاسي"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش استعمال كريمات الوجه مضر؟",
+    "answer": "ما كاينش نوع محدد مضر، ولكن خاص اختيار الكريم المناسب للبشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش حلاقة الشعر من الوجه كيدر البشرة؟",
+    "answer": "ما كاين حتى ضرر من حلاقة الشعر. ممكن تكون عادية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش جهاز الديرما وان مزيان للبشرة؟",
+    "answer": "بزاف د الدراسات بينات بلي جهاز الديرما وان كيساعد فتحسين البشرة. خاصك تستشيري مع طبيب الجلد قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو الفوايد ديال زيت السدر للبشرة؟",
+    "answer": "زيت السدر فيه مواد كتعالج التهاب الجلد وكتساعد فترطيب البشرة. كيعاون على تحسين مظهر الجلد.",
+    "entities": {
+      "symptoms": [
+        "التهاب الجلد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شعري طايح بزاف، شنو الحل؟",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يعرف السبب ويدير لك العلاج المناسب. التساقط ممكن يكون بسبب عدة عوامل.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد الشعر اللي كايتزاد فالجسم؟",
+    "answer": "إذا ماكانش سبب مرضي، العلاج بالليزر هو الحل المناسب. كيعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج تساقط الشعر؟",
+    "answer": "خاصنا نديرو تحليل باش نتأكدو من عدم وجود انيميا، ومن بعد نمشيو عند طبيب الجلد. العلاج كيتحدد حسب السبب.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نقدر نحيد الدهون من حواف النيف ديالي؟",
+    "answer": "كنصحك تشوف طبيب ترويض للوجه والحنجرة. غادي يقدر يساعدك فاختيار الطريقة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الوجه",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو الحبوب المليانة؟ واش كاين آثار من بعد؟",
+    "answer": "بإبرة رفيعة، ما كايديرش آثار. خاصك تشوفي طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش جروح الوجه من الالتهاب المزمن كتمشي بلا دوا؟",
+    "answer": "إلا كان عندك الحساسية، حسن تستعملي كريم مرطب. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "جروح الوجه"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شحال من مرة خاصني ندير جلسات تكسير الدهون؟",
+    "answer": "العدد كيعتمد على كمية الدهون الموجودة. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش الخلطات كاين أثرها على الحمل؟",
+    "answer": "علا حساب المواد لي كايتستعملو. خاصك تسولي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي تكشيرة فوجهي، واش كاين شي حل؟",
+    "answer": "حسب نوع بشرتك، كاين كريمات تفتيح. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تكشيرة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت شي علقات باش نوسعو الثدي.",
+    "answer": "ماكاينش شي علاج لزيادة الحجم. كاينين الحقن ولا زرع الكيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيدو العلامات السودا ف الوجه؟",
+    "answer": "استعمل كريم فيه الريتينويد أو أدابالين. خاصك الصبر.",
+    "entities": {
+      "symptoms": [
+        "علامات سودا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو العلاج لترطيب البشرة الجافة؟",
+    "answer": "كاين بزاف د الكريمات. سول صيدلي على شي ماركة معروفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "أنا كانعرق بزاف بلا مجهود.",
+    "answer": "من الأفضل تشوفي طبيب هرمونات. خاصك فحوصات.",
+    "entities": {
+      "symptoms": [
+        "عرق"
+      ],
+      "medical_field": "الهرمونات",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي دوا لحب الشباب؟",
+    "answer": "ما كاينش دوا باش تحيد حب الشباب، ولكن كاينين دوايات كينقصو من البثور.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بشرتي دهنية وكتخرج لي القشور.",
+    "answer": "استعمل كريم الريتينويد. خاصك صبر.",
+    "entities": {
+      "symptoms": [
+        "بشرة دهنية",
+        "قشور"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "علاش هاد المرهم وشنو كيدير للوجه؟",
+    "answer": "هاد المرهم كيتستعمل بعد العمليات أو لحروق الدرجة الأولى. كيساعد على ترطيب البشرة وتسريع الشفاء.",
+    "entities": {
+      "symptoms": [
+        "حروق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش حيدان الشعر بالملح ماغاديش يخلي الشعر يزول؟",
+    "answer": "هاد الشي ماشي صحيح. حيدان الشعر بالملح ماعندوش تأثير كبير على الشعر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي مشكل فالبروستات و الكبدة، واش كاين شي حل؟",
+    "answer": "خاصك تشوف طبيب مختص. كاينين طرق علاجية ولكن خاص تقييم دقيق للحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي والكبد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي تمرين ديال الوجه لرفع الحاجب؟",
+    "answer": "عافاك، هاد السؤال خاصو يتوجه لطبيب عيون. هو اللي يقدر يعطيك النصائح المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت دوا لحب الشباب وفتح المسام.",
+    "answer": "خاصك تزور أخصائي جلدية. هو اللي يقدر يعطيك وصفة مناسبة للبشرة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "طرق التنظيف ديال البشرة؟",
+    "answer": "التقشير العميق هو الأفضل. كاين التقشير السطحي بالكريمات بحال كريم ريتينويد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هو علاج الهالات السوداء تحت العينين؟",
+    "answer": "أحدث طريقة هي حقن الدهون الذاتية. كتساعد على تحسين مظهر الهالات.",
+    "entities": {
+      "symptoms": [
+        "الهالات السوداء"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت نزيد فالوزن ديالي.",
+    "answer": "يمكن تكبير الصدر باستخدام زرعات أو حقن دهني. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "شنو هي فوائد جلسات تكسير الدهون؟",
+    "answer": "الجلسات كتعتمد على كمية الدهون اللي عندك. خاص استشارة طبيب لتحديد الفوائد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "عندي حب الشباب، شنو هو الحل؟",
+    "answer": "استعمل منظفات خاصة بالبشرة الدهنية وشرب الما بكثرة. خاصك صبر باش تشوف النتائج.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد الشعر من المناطق الحساسة؟",
+    "answer": "الليزر هو أحسن طريقة لحيد الشعر بشكل دائم. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش يمكن ناخد فيتامين بعد عملية زرع الشعر؟",
+    "answer": "نعم، تقدر تاخد الفيتامينات بعد العملية. خاصك تتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "بغيت حل لصدري النحيف، واش كاين علاج؟",
+    "answer": "السيليكون هو الحل الأكثر شيوعًا لتكبير الصدر. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "كيفاش نحيد القشرة من شعري؟",
+    "answer": "استعمل شامبوان خاص بالقشرة وكريمات مرطبة. خاصك الصبر باش تشوف النتائج.",
+    "entities": {
+      "symptoms": [
+        "قشرة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Cosmetic Dermatologist",
+    "question_darija": "واش كاين شي فوائد للبشرة من فيتامين أ؟",
+    "answer": "فيتامين أ مفيد للبشرة، كيعالج حب الشباب والبثور. خاص استعماله بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  }
+]
