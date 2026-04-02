@@ -1,0 +1,6104 @@
+[
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نقدر نعالج السكري؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتدير الرياضة بانتظام. هادشي كيساعد فتنظيم مستوى السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "تحليل السكر فاتني بعد أربع ساعات و186 دقيقة.",
+    "answer": "نتا مريض بالسكر، خاصك تراقب مستوى السكر ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن علاج للسكر؟",
+    "answer": "النظام الغذائي المعتدل هو الأساس. خاصك تركز على الأكل الصحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاش السكر كايهبط؟",
+    "answer": "أهم سبب هو قلة النظام الغذائي المتوازن. خاصك تراقب الأكل ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو كيدير الجزر للعين؟",
+    "answer": "الجزر كيعطي فيتامين أ، لي مفيد للصحة ديال العين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو خاصني ندير ملي كيطلع أسيتون؟",
+    "answer": "خاصك تراجع الطواريء، هادشي ممكن يكون خطير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الأسباب ديال السكر شنو هما؟",
+    "answer": "كاينين عوامل وراثية وعوامل بيئية. خاصك تعرف الأسباب باش تقدر تحمي راسك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت شي علاج ديال السكر.",
+    "answer": "خاصك تشوف طبيبك، هو لي غادي يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أحسن أنواع المكسرات للمرضى ديال السكري؟",
+    "answer": "الاعتدال هو الأساس، خاصك تختار المكسرات الطبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال هو معدل السكر؟",
+    "answer": "المعدل الطبيعي للسكر هو أقل من 100.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج لمرضى السكر نوع واحد؟",
+    "answer": "العلاج الأساسي هو الإنسولين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض السكري؟",
+    "answer": "من الأعراض كاين العطش المفرط، التبول المتكرر، و التعب.",
+    "entities": {
+      "symptoms": [
+        "العطش المفرط",
+        "التبول المتكرر",
+        "التعب"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا عيان بزاف و فيا السكر.",
+    "answer": "خاصك تشوف الطبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "عيان"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو التأثير ديال وينيك على السكري؟",
+    "answer": "خاصك تسول الطبيب على هاد الحبوب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المعدل الطبيعي ديال ضغط الدم لمرض السكر؟",
+    "answer": "المعدل الطبيعي هو أقل من 140/80.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض السكر ما هي؟",
+    "answer": "كاين زيادة فالعرق و التبول.",
+    "entities": {
+      "symptoms": [
+        "زيادة فالعرق",
+        "التبول"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "وقتاش خاصني نبدل سنسلة الإنسولين؟",
+    "answer": "خاصك تبدلها كل مرة حسب تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكر مرض خطير؟",
+    "answer": "إلا ما تعالجش و ما تتبعش، يقدر يكون خطير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الأسباب ديال السكري؟",
+    "answer": "الأسباب كترت، بحال الزيادة فالسكر ونقصان الإنسولين. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو الماكلة المسموح بها للمريض ديال السكر؟",
+    "answer": "المريض خاصو يتبع نظام غذائي متوازن. خاص يركز على الخضار والفواكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكري كيضرك الرضيع؟",
+    "answer": "السكري ما كيضرش الرضيع إلا إلا كان عند الأم. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال مرض السكر؟",
+    "answer": "العلاج كيتضمن التغذية السليمة والرياضة. ممكن تحتاج أدوية حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مرضى السكري يقدرو يولدو؟",
+    "answer": "أيوة، مرضى السكري يقدرو يولدو. خاصهم متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي للسكر؟",
+    "answer": "مازال ما كاينش علاج نهائي للسكر. خاص متابعة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الغذاء اللي كيتبعو مرضى السكري؟",
+    "answer": "الغذاء المتوازن هو الأساس. خاص التركيز على الألياف وتقليل السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الشخص اللي عندو السكر خاصو يصوم؟",
+    "answer": "الصيام مزيان ولكن خاصنا نعدلو الجرعات ديال الإنسولين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "لقيت النتيجة ديال التحليل ديال السكر هي 115. واش هادشي مرتفع؟",
+    "answer": "هاد النتيجة كتعتمد على الوقت اللي كتاكل فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عصير القصب خطير على مرضى السكر؟",
+    "answer": "نعم، إلا كان كيتشرب يوميًا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نعرف واش عندي السكري؟",
+    "answer": "دير تحليل السكر فالدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو التأثير ديال الصيام على مرضى السكر؟",
+    "answer": "التأثير كيتغير حسب الحالة ديال المريض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الريجيم ديال السكر شنو هو؟",
+    "answer": "الاعتدال في الأكل والنظام هو الأساس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي مرض كيسببو السكر؟",
+    "answer": "نقص الإنسولين من البنكرياس كيسبب أمراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو مرض السكر لي كيجي من الماكلة؟",
+    "answer": "كيجي من كثرة الأكل الغير صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "نسبة السكر ديالي هي 110. واش هادشي عالية؟",
+    "answer": "النسبة العادية هي بين 75 و125.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاينة شي طريقة باش نصلحو مرض السكر؟",
+    "answer": "مازال ما كاينش علاج نهائي للسكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الماكلة اللي مزيانة لمرض السكري ديال النوع الثاني شنو هي؟",
+    "answer": "خاصك تسول طبيب التغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أهم طرق علاج نقص السكر فالدم شنو هي؟",
+    "answer": "العلاج كيعتمد على السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكر و بغيت شي برنامج غذائي.",
+    "answer": "خاصك تشاور مع خبير تغذية باش يحدد ليك البرنامج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتخزن السكر؟",
+    "answer": "كاين تخزين السكر في الكبد والعضلات. خاص متابعة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "العلاج ديال زيادة إفراز الأنسولين من البنكرياس؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "فين كاين البنكرياس؟",
+    "answer": "البنكرياس كاين في البطن، تحت المعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش بدا العمل بالخلايا الجذعية فالعلاج ديال السكري؟",
+    "answer": "كاينين بزاف د التجارب فهاد المجال. النتائج واعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "تلف الأعصاب بسباب السكر؟",
+    "answer": "أه، راه من بين المضاعفات الشائعة. خاص الحذر.",
+    "entities": {
+      "symptoms": [
+        "تلف الأعصاب"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو السبب ديال نقص السكر عند المرا الحامل؟",
+    "answer": "السوء ديال التغذية كيمكن يكون سبب. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الفواكه اللي مسموح يتاكلو اللي عندهم السكر؟",
+    "answer": "كل أنواع الفواكه مسموحة، ولكن خاص الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش واحد يقدر يحافظ على وزنو ملي عندو مرض السكر؟",
+    "answer": "خاص التوازن فالأكل وممارسة الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش العنب مزيان للناس لي مراض بالسكر؟",
+    "answer": "إلا كانو بأحجام معتدلة، ماكاينش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الغذاء المزيان للي عندهم السكري؟",
+    "answer": "خاصهم يتبعوا حمية متوازنة غنية بالخضار والفواكه. خاصهم يتجنبوا السكريات المكررة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نمنع مرض السكري؟",
+    "answer": "أهم حاجة هي النظام الغذائي المتوازن وممارسة الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض مرض السكر؟",
+    "answer": "من الأعراض الشائعة هي العطش الشديد، التبول المتكرر، والجوع المستمر.",
+    "entities": {
+      "symptoms": [
+        "العطش الشديد",
+        "التبول المتكرر",
+        "الجوع المستمر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السمن كايسبب السكر؟",
+    "answer": "السمن من العوامل اللي ممكن تزيد من خطر الإصابة بالسكري. خاص الحذر في استهلاكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش علاج رامازول مزيان للي عندهم السكري؟",
+    "answer": "رامازول ما عندوش تأثير سلبي على مرضى السكري. لكن خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن علاج لمرض السكر؟",
+    "answer": "العلاج كيتحدد حسب نوع السكري وحالة المريض. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش العسل الأصلي كيزيد السكر ف الدم؟",
+    "answer": "آه، العسل كيزيد السكر إلا استهلك بكثرة. خاص الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال هو المعدل الطبيعي ديال سكر الدم؟",
+    "answer": "المعدل الطبيعي هو أقل من 7% في الفحص التراكمي. خاص المراقبة الدائمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو خاص مرضى السكري يتجنبو من الماكلة؟",
+    "answer": "خاصهم يتجنبو الماكلة اللي فيها سكر بزاف. الاعتدال هو الأساس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كيتستعمل كبسول رويال باور لمرضى السكري؟",
+    "answer": "هاد الكبسولات ما كتعالجش السكري. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو النصائح لمرضى السكري؟",
+    "answer": "خاصهم يعتادوا على نظام غذائي صحي. والابتعاد عن الماكلة اللي فيها سكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج بالأعشاب للسكري؟",
+    "answer": "ما كاينش علاج بالأعشاب للسكري. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال الغليبينكلاميد؟",
+    "answer": "العلاج كيتطلب استشارة طبيب. خاص تحديد الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نتبع نظام غذائي صحي لمرضى السكري؟",
+    "answer": "خاص الاعتدال والتنظيم فالأكل. والابتعاد عن الماكلة الغير صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "نسبة السكر فالدم ديالي 137 بعد الأكل، واش هادشي مرتفع؟",
+    "answer": "نعم، كيبان مرتفع شوية. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال خاص تكون نسبة السكر فالدم فالحمل الطبيعي؟",
+    "answer": "خاص تكون أقل من 100. هادشي مهم لصحة الأم والجنين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج لانتاج الأنسولين العالي فالبنكرياس؟",
+    "answer": "خاص تخفيض الوزن وعلاج بالميتفورمين. هادشي كيساعد فالتوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين علاقة بين السكر وتنميل صبعين الرجلين؟",
+    "answer": "نعم، كاينة علاقة. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نستعمل الحلبة للسكري؟",
+    "answer": "الحلبة ماكاتعالجش السكري، ولكن يمكن تكون مفيدة كجزء من نظام غذائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي انخفاض دائم فالسكر.",
+    "answer": "هاد الشي كيتطلب تقييم شامل عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "انخفاض السكر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي للسكر؟",
+    "answer": "مازال ماكاينش علاج نهائي للسكري، ولكن كاين طرق للتحكم فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عافاك قلّب دقات القلب بسرعة.",
+    "answer": "سير عند الطبيب، هاد الشي يحتاج تقييم.",
+    "entities": {
+      "symptoms": [
+        "دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الميتافريم كينقص من السكر فالدم؟",
+    "answer": "الميتافريم كيساعد فتنظيم مستوى السكر فالدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الحجامة مزيانة للناس لي مراض بالسكر؟",
+    "answer": "يمكن تسبب الحساسية، خاص استشارة الطبيب قبل ما تديرها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "ماكلة صحية للمرضى ديال السكر؟",
+    "answer": "الاعتدال فالمأكولات مهم، وخاص التركيز على الخضار والفواكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بالسكر وعندي التهاب المفاصل.",
+    "answer": "خاصنا نعالجو بجوج، السكري والتهاب المفاصل.",
+    "entities": {
+      "symptoms": [
+        "التهاب المفاصل"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو تحليل السكر المنحني؟",
+    "answer": "تحليل السكر المنحني كيقيس مستويات السكر فالدم على مدى الوقت. كيعطينا فكرة على كيفاش كيتعامل الجسم مع السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي وجع فصبعي و عندي سكر.",
+    "answer": "خاصك تشوف طبيب باش يشوف الحالة ديالك. يمكن يكون عندك مضاعفات بسبب السكري.",
+    "entities": {
+      "symptoms": [
+        "وجع فصبعي"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي المضاعفات ديال السكري؟",
+    "answer": "السكري كيسبب أمراض القلب والشرايين، الفشل الكلوي، والعمى. خاصك تحافظ على مستويات السكر باش تتجنب هاد المضاعفات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتعالج السكر؟",
+    "answer": "كاين علاج بالأنسولين والأدوية، مع نظام غذائي صحي وممارسة الرياضة. خاصك تتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نعرف واش كاين مشكل فالبنكرياس؟",
+    "answer": "خاصك تدير تحليل السكر ف الدم. هاد التحليل غادي يبين لك الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الحبوب ديال منع الحمل مزيانة لناس اللي عندهم السكري؟",
+    "answer": "ماكاينش علاقة مباشرة بين الحبوب و السكري. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مريض السكري يقدر يلعب الباسبول؟",
+    "answer": "أه، يقدر يلعب، ولكن خاصو يكون حذر و يتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش نتيجة التحليل ديال السكر قبل الفطور 5.5 عادية؟",
+    "answer": "نعم، هاد الرقم طبيعي و ما كيشكل حتى خطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي سكر، شنو ناكل؟",
+    "answer": "خاصك تاكل بانتظام و تحاول تتجنب السكريات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كيأثر مرض السكري على الأوعية؟",
+    "answer": "السكري كيمكن يأثر سلبا على الأوعية الدموية. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش عندي السكري؟ كنحس بالبول بزاف.",
+    "answer": "هاد الأعراض كيمكن تكون علامة على السكري. خاصك تدير تحليل.",
+    "entities": {
+      "symptoms": [
+        "كثرة البول"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الماكلة الصحية للمريض ديال السكري؟",
+    "answer": "خاصك تركز على الخضار و الفواكه و تقلل من السكريات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مرض السكري كيتعتبر مرض وراثي؟",
+    "answer": "كاين عامل وراثي وكاين عوامل أخرى كتأثر على الإصابة بالسكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الأسباب الرئيسية ديال السكري؟",
+    "answer": "الأسباب كتكون متنوعة، بحال السمنة، قلة النشاط البدني، والعوامل الوراثية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كتحسب السكر الصائم والفاطر؟",
+    "answer": "السكر الصائم كيتحسب بعد 8 سوايع من الأكل، والفاطر بعد ساعتين من الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الفاكهة اللي مسموح للأشخاص اللي عندهم السكر ياكلوها؟",
+    "answer": "يمكن ليك تاكل أنواع مختلفة من الفواكه، ولكن خاصك تكون حذر في الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي لمرض السكر؟",
+    "answer": "للأسف، مازال ماكاينش علاج نهائي للسكري، ولكن كاين طرق للتحكم فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الحمص كايأثر على السكر؟",
+    "answer": "إلا كليتي بزاف، يقدر يأثر على مستوى السكر في الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي سكر و ضغط الدم عالي، شنو هو أحسن علاج؟",
+    "answer": "خاصك تشاور مع الطبيب لي كيعالجك باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما أعراض انخفاض مستوى السكر؟",
+    "answer": "من الأعراض كاين الترجي، البرد، الجوع، والعرق.",
+    "entities": {
+      "symptoms": [
+        "الترجي",
+        "البرد",
+        "الجوع",
+        "العرق"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت نظام غذائي خاص لمرض السكري.",
+    "answer": "خاصك تشاور مع خبير تغذية باش يحدد لك النظام المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن شي رياضي يتصاب بمرض السكري؟",
+    "answer": "نعم، أي واحد يقدر يتصاب بالسكري، حتى الرياضيين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش التفاح مزيان للي عندهم السكر؟",
+    "answer": "التفاح مزيان، ولكن خاصك تاكلو بشوية. استشر طبيبك على النظام الغذائي المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو أحسن طريقة باش نحيدو السكري؟",
+    "answer": "خاصك تهتم بالوزن ديالك وتراقب الأكل. الرياضة مهمة كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي لمرض السكر؟",
+    "answer": "ما كاينش علاج نهائي، ولكن يمكن التحكم فيه بالأدوية والنظام الغذائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج لمرضى السكري؟",
+    "answer": "نعم، كاين علاج، ولكن خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض انخفاض السكر؟",
+    "answer": "من الأعراض: التعب، الكسل، وضعف التركيز. خاصك تراقب مستوى السكر ديالك.",
+    "entities": {
+      "symptoms": [
+        "تعب",
+        "كسل",
+        "ضعف التركيز"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال التهاب البنكرياس؟",
+    "answer": "العلاج كيتضمن إعطاء الهرمونات والإنزيمات الناقصة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البنكرياس",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "النتيجة ديال التحليل ديال السكر بعد 8 ساعات هي 140 ملغ/للم. شنو كايعني هاد الشي؟",
+    "answer": "هاد النتيجة تشير لوجود مرض السكري. خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "باباه عندو سكر و ضغط الدم ديالو 116/74.",
+    "answer": "ضغط الدم مزيان، خاصك تتابع العلاج ديال باباك. حافظ على نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "وقتاش كيبدا نقصان الوزن عند مرضى السكر؟",
+    "answer": "نقصان الوزن كيبدا إلا كان السكر مرتفع بزاف. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن نتعافاو من السكر نهائيا؟",
+    "answer": "لا، ما يمكنش نتعافاو نهائيا، ولكن يمكن التحكم فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش زرع الكلى لمرضى السكري ناجح؟",
+    "answer": "زرع الكلى يمكن يكون ناجح، ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "زرع الأعضاء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الرجلين تيتنفخو عند مرضى السكري؟",
+    "answer": "ما كاينش علاقة مباشرة، ولكن خاص فحص طبي.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ الرجلين"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الفاصوليا الخضرا مزيانة لمرضى السكري؟",
+    "answer": "الفاصوليا الخضرا مفيدة، ولكن خاص توازن فالمأكولات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نمنعو مرض السكري؟",
+    "answer": "خاص نراقبو الماكلة والنشاط البدني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "من بعد الميتفورمين، كنحس بالنعاس؟",
+    "answer": "هادشي ممكن يكون رد فعل طبيعي لجسمك.",
+    "entities": {
+      "symptoms": [
+        "النعاس"
+      ],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض مرض السكر فالعينين؟",
+    "answer": "يمكن تكون مشاكل فالرؤية، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالرؤية"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاوة على ارتفاع السكر فالدم، شنو كاين؟",
+    "answer": "كاين العرق بزاف والتبول المتكرر.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع السكر فالدم",
+        "العرق",
+        "التبول المتكرر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكري، واش يمكن لي ناكل البرتقال؟",
+    "answer": "يمكن لك، ولكن بشوية وبحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الدوا الأكثر فعالية فتنزيل السكر فالدم؟",
+    "answer": "الإنسولين هو الأكثر فعالية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الميتفورمين كيتأثر بالهرمونات الذكرية؟",
+    "answer": "لا، ما كاينش تأثير مباشر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال السكر؟",
+    "answer": "العلاج كيتطلب نظام غذائي متوازن وعلاجات مع طبيب مختص. خاصك تتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نعرف بلي الأنسولين ماخدامش؟",
+    "answer": "إلا كانو عندك أعراض بحال ارتفاع السكر، خاصك تراجع الطبيب. يمكن تحتاج لتغيير العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايعالجو مرض السكري؟",
+    "answer": "كيعتمد العلاج على نظام غذائي صحي وأدوية مناسبة. خاص كل حالة تتعالج بطريقة مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاش كينصحو مرضى السكري بالسليلوز؟",
+    "answer": "السليلوز كيساعد على تنظيم مستوى السكر في الدم. كيعطي إحساس بالشبع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الدوا ديال مرض السكر؟",
+    "answer": "كاينين عدة أنواع من الأدوية، خاص الطبيب يحدد الأنسب ليك. كل حالة تختلف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاج السكر المرتفع؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتستعمل الأدوية المناسبة. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتعدل السكر؟",
+    "answer": "بالتغذية السليمة والأدوية المناسبة. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "ولدي عندو السكر و بنتي عندها سكريتات فالبول. شنو خاصني ندير؟",
+    "answer": "خاصك تمشي للطبيب مباشرة. هاد الحالة كتشير لمشاكل صحية خاصة.",
+    "entities": {
+      "symptoms": [
+        "سكريتات فالبول"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش القلق هو السبب الرئيسي ديال السكر؟",
+    "answer": "القلق والحزن كيزيدو من مستوى السكر. خاصك تحاول توازن مشاعرك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مزيان ناخدو هاد الدوا للناس اللي عندهم السكري؟",
+    "answer": "خاصك تسول الطبيب على الدوا. كل دواء عندو تأثيرات مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كايتعتبر شرب عصير التوت مزيان للناس لي مراض بالسكر؟",
+    "answer": "إذا كان العصير طبيعي وبكميات قليلة، يمكن يكون مزيان. لكن خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الشخص اللي عندو السكر النوع الأول يقدر يتعافى؟",
+    "answer": "للأسف، السكري النوع الأول مرض مزمن. خاص العناية المستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بابا مريض بالسكر و جاتو غيبوبة ديال السكر.",
+    "answer": "خاصك تمشي للطبيب ديال الغدد الصماء. هاد الحالة خطيرة وتحتاج تدخل سريع.",
+    "entities": {
+      "symptoms": [
+        "غيبوبة ديال السكر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "مستوى السكر بعد الأكل؟",
+    "answer": "خاص يكون أقل من 140 مغ. هادشي مهم للناس اللي ماعندهمش السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الخلايا الجذعية فعلا كتعالج السكري الأول؟",
+    "answer": "مازال فمرحلة التجربة. خاصنا ننتظر نتائج الأبحاث.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش البامية مفيدة للمرضى ديال السكر؟",
+    "answer": "مكاينش معطيات علمية كافية على هادشي. خاص مزيد من الأبحاث.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "التهاب البنكرياس وعلاقتو بمرض السكر؟",
+    "answer": "التهاب البنكرياس يقدر يسبب السكري. خاص العناية بالصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال كيدوم علاج مرض السكر؟",
+    "answer": "هادشي كيعتمد على نوع المرض ومدة العلاج. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "العطش المستمر كيعني السكري؟",
+    "answer": "ممكن يكون علامة على السكري، ولكن خاص تدير تحليل. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "العطش المستمر"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال السكري؟",
+    "answer": "العلاج كيتطلب نظام غذائي صحي وأدوية. خاص تشاور طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكري وعندي 16 عام، واش يمكن نتزوج؟",
+    "answer": "بالطبع، يمكن لك تتزوج وتكون عندك ولاد. خاصك غير تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الأسباب ديال السكري عند الدراري؟",
+    "answer": "الوراثة وعجز البنكرياس هما الأسباب الرئيسية. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الناس اللي عندهم السكري خاصهم ياخدو الأنسولين؟",
+    "answer": "أه، الأنسولين مهم للناس اللي عندهم السكري. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن علاج للقدم السكرى؟",
+    "answer": "خاصك تشاور طبيب مختص فهاد المجال. العلاج كيتطلب رعاية خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحدث دوا ديال التهاب الأعصاب المحيط بمرض السكري؟",
+    "answer": "لاريكا هو من الأدوية الحديثة. خاص استشارة طبيب قبل الاستخدام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الثوم مفيد للمرضى ديال السكري؟",
+    "answer": "ما كاينش دليل علمي قوي على هاد الشي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "مقياس السكر المثبت؟",
+    "answer": "صيام أقل من 100، وماكلتيش أكثر من ساعتين قبل 140. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي تأثير على استخدام الكلوكوفاج مع كونكور 2.5؟",
+    "answer": "لا، ماكاين حتى مشكل فهاد الشي. ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مريض السكر خاصو ياكل العسل؟",
+    "answer": "يقدر ياكل شوية بشوية، ولكن خاصو يحترس من الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو العلاج ديال الأعصاب الطرفين لمرضى السكري؟",
+    "answer": "غابابينتون 300 مگغ فحبة وحدة قبل من الفجر ممكن يكون علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت جدول غذائي لطفلة عندها السكري.",
+    "answer": "خاصك تشاور مع طبيب تغذية باش يدير ليها برنامج مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال خطيرة السكر فالحمل؟",
+    "answer": "إذا كانت عندك مراقبة مزيانة، ما كاينش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المستوى الطبيعي ديال السكر؟",
+    "answer": "المستوى الطبيعي هو 80-110 صائم و140 بعد الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش أومفيل 4 ملغم خطير على الناس اللي عندهم ضعف فالجلد ولا السكر؟",
+    "answer": "لا، ما كيضرش الناس اللي عندهم هاد المشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كينصحو الناس اللي عندهم السكر ياكلو الرمان؟",
+    "answer": "الرمان مزيان للناس اللي عندهم السكري، ولكن العصير ماشي مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الڤاكسان تلقى ولكن السكر مازال طالع. شنو خصني ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يتكلف بالسكر ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نعرف بلي عندي السكري؟",
+    "answer": "خاصك تدير تيست ديال السكر باش تعرف المستوى ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كايعاون الميتفوربين فتنقيص السكر فالدم؟",
+    "answer": "نعم، مع نظام غذائي صحي، الميتفوربين كيساعد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش التمر كيزيد السكر فالدم؟",
+    "answer": "نعم، التمر كيزيد السكر، خاصك تحترس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش منخفض الرقم 97 بعد ساعتين من الأكل؟",
+    "answer": "نعم، هاد الرقم ضمن الحدود الطبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكري وبدات كتنقصني الوزن، واش هادشي عادي؟",
+    "answer": "لا، خاصك تاكل أكثر من اللي محتاجو جسمك.",
+    "entities": {
+      "symptoms": [
+        "نقص الوزن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كاتنقص من السكر فالصباح؟",
+    "answer": "خاصك تفطر مزيان وتاخد الدوا ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكر كيأثر على القدرة على الإنجاب عند النسا؟",
+    "answer": "فالغالب لا، ولكن خاص مراقبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أعراض هبوط السكر؟",
+    "answer": "كيتعرق بزاف، كيرجف، وكيحس براسو كيهبط.",
+    "entities": {
+      "symptoms": [
+        "تعرق",
+        "اهتزاز",
+        "هبوط"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاش السكر كيطالع؟",
+    "answer": "السكر كيطالع بسبب عدة عوامل، بحال التغذية والضغط النفسي. خاصك تراقب نظامك الغذائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن علاج للنعاس من مرض السكري؟",
+    "answer": "غابابينتون 300 مغ قبل الفجر كيعطي نتيجة مزيانة. خاص استشارة طبيب قبل البدء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش ندير ريجيم لولد عندو السكري؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن مع أخصائي تغذية. هادشي كيساعد فتنظيم السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المعدل الطبيعي ديال السكر فالدم؟",
+    "answer": "المعدل الطبيعي فالدم هو بين 70 و100. خاص المراقبة المستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي العوامل اللي كتزيد من خطر الإصابة بالسكر النوع الأول؟",
+    "answer": "ماكاينش عوامل محددة، ولكن الوراثة كتكون عندها دور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الفرق بين لافيدوا ديال 2 مڭ و لافيدوا ديال 3 مڭ؟",
+    "answer": "خاصك تسول طبيب باش يشرح لك الفرق بين الأدوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الأعراض ديال مرض السكر فالرجلين؟",
+    "answer": "الأعراض كتشمل الوجع والتنميل. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "تنميل"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا عندي السكري من النوع الأول، شنو تنصحني؟",
+    "answer": "خاصك تحافظ على نظام غذائي متوازن وتراقب السكر بانتظام. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن ناخد الجلوكوفاج قبل 4 ساعات؟",
+    "answer": "ما كاين حتى مشكل فهاد الشي. ولكن خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن نستعملو الأعشاب الطبيعية باش نداويو السكري؟",
+    "answer": "الأعشاب ما عندهاش دليل علمي كافي. خاصك تعتمد على الأدوية الموصوفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "إلا كان الراجل مصاب بالسكر، واش يقدر ينجيب الدراري؟",
+    "answer": "نعم، يمكن ليه ينجيب الدراري. السكر ما كيأثرش على القدرة الإنجابية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "حليت سكرى فالجهاز ديال الكشف عن المخدرات ولقيت نسبة 66. شنو تنصحني؟",
+    "answer": "هاد النتيجة عادية، ولكن خاصك تراقب السكر ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي للمرض ديال السكر ديالي من النوع 1؟",
+    "answer": "مازال ما كاينش علاج نهائي. خاصك تدير المراقبة والعلاج المستمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكر ديالي طالع حتى ل ٢٠٠ و كايهبط ل ١٦٥، كيفاش نحافظ عليه؟",
+    "answer": "خاصك تراقب النظام الغذائي ديالك وتكون منتظم فالأدوية. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض هبوط السكر؟",
+    "answer": "الأعراض كتشمل الرعشة، التوتر، والعصبية. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [
+        "الرعشة",
+        "التوتر",
+        "العصبية"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي العوامل اللي كتزيد من خطر الإصابة بالسكر الأول ديال النوع 1؟",
+    "answer": "ماكاينش عوامل محددة، ولكن الوراثة كتكون عندها دور. خاصك المراقبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أحسن وقت للمشي لناس لي عندهم السكري ديال النوع الثاني؟",
+    "answer": "المشي فالصباح بكري أو بعد الغروب كيعطي نتائج مزيانة. خاص الانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مزيان نستعملو البندول جويونت لناس لي عندهم السكري و الضغط؟",
+    "answer": "ما كاين حتى ضرر فاستعماله. ولكن خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "ما كاين خير من الصيام على اللي مريض بالسكر؟",
+    "answer": "الصيام كيتغير من حالة لأخرى. خاصك استشارة طبيب قبل ما تصوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال من ساعة خاصني نتسنى قبل التحليل باش نشوف السكر إلا كنت حامل؟",
+    "answer": "خاصك تسنى جوج سوايع قبل التحليل. هادشي كيساعد فالدقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن علاج لمرض السكر؟",
+    "answer": "الأنسولين هو العلاج الأساسي للنوع الأول، وفالنسبة للنوع الثاني خاص نقصان الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال الألم مع مرض السكري بلا مسكنات؟",
+    "answer": "غابابينتون يمكن يكون مفيد، ولكن خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت نعرف آخر التطورات فمرض السكري.",
+    "answer": "كاين بزاف ديال التطورات الجديدة، ولكن خاص تتبع الأخبار الطبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي نقص السكر فدم.",
+    "answer": "خاصك تشوف الطبيب باش يدير ليك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "نقص السكر"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نزيدو جرعة الأنسولين للأطفال لي عندهم خمس سنين؟",
+    "answer": "خاص يكون تحت إشراف الطبيب، لأنه ضروري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الارتباط بين الحمل والسكري؟",
+    "answer": "السكري غير المسيطر عليه يمكن يكون عندو آثار سلبية على الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل ومرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج جديد للسكري النوع الأول؟",
+    "answer": "كاين بزاف د القنوات كايتختبرو، ولكن مازال ما كاينش علاج نهائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الكرز كينقص من نسبة السكر فالدم؟",
+    "answer": "ما كاينش دليل طبي على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ميتفورمين كيأثر على الجفاف والشعر؟",
+    "answer": "ما كيتعتبرش عادة، ولكن خاص تراقب الأعراض.",
+    "entities": {
+      "symptoms": [
+        "جفاف",
+        "تساقط الشعر"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "حليت السكر وأنا صائم. واش هادشي عادي؟",
+    "answer": "أياه، هادشي عادي ولكن خاص تراقب النسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "نسبة السكر فدمك 7.80% واش هادي عالية؟",
+    "answer": "خاص نعرفو واش قبل الوجبة ولا من بعد ساعتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المعدل الطبيعي ديال السكر فالدم؟",
+    "answer": "المعدل الطبيعي هو أقل من 100 صيام، وماكلتيهومش أكثر من ساعتين قبل 140.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كايتأثر السكر بسباب حبوب التخدير؟",
+    "answer": "ماشي مهم بزاف، ولكن خاص تراقب الوضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الصيام مزيان باش تمنع السكري؟",
+    "answer": "الاعتدال والانتظام فالأكل هو الأساس للوقاية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما أحسن الماكلة و المشروبات للمرضى ديال السكر؟",
+    "answer": "الاعتدال والتنظيم هوما المفتاح لحل المشاكل الغذائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال مرض السكري لي كيخلي الواحد ما يقدرش يحكم على راسو فالبول؟",
+    "answer": "السيطرة على مرض السكري مهمة باش تحافظ على صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن تزيد الأنسولين فدمك اللي فيه السكر؟",
+    "answer": "نعم، هادي هي المرحلة الأولى ديال السكري من النوع الثاني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أهمية البصل المشوي في حياة مرضى السكري؟",
+    "answer": "ما كاينش دليل على الأهمية ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بالسكر، واش كاين شي طريقة باش نداويها؟",
+    "answer": "مزيان ولكن خاص استشارة الطبيب قبل أي علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكري وبغيت نقص الوزن.",
+    "answer": "خاصك تتبع نظام غذائي صحي وتستاشر مع طبيب. الرياضة مهمة كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الفواكه المسموح بها للناس لي عندهم السكر؟",
+    "answer": "الفواكه مفيدة ولكن خاصك تاكلها بكمية معقولة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكري ووجع في رجلي. شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب. ممكن يكون عندك مشكل صحي آخر.",
+    "entities": {
+      "symptoms": [
+        "وجع في الرجل"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض السكري؟",
+    "answer": "من الأعراض الشائعة التقرحات والتهيج في الرجلين. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "التقرحات",
+        "التهيجات"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش التمر مزيان للناس لي عندهم السكري؟",
+    "answer": "التمر فيه سكر، خاصك تاكل منه بكمية قليلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي معدل سكر تراكمي 6.5. واش أنا مريض بالسكر؟",
+    "answer": "خاصك تستاشر مع طبيب. هاد المعدل كيعني أنك في خطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بداء السكر من الدرجة الأولى وخاصني علاج.",
+    "answer": "العلاج هو الأنسولين، خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض انخفاض السكر؟",
+    "answer": "من الأعراض العرق، السخانة، والتوتر. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [
+        "العرق",
+        "السخانة",
+        "التوتر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال السكر؟",
+    "answer": "خاصك تتبع نظام غذائي مزيان وتدير الرياضة. استاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بالسكري واش العسل مزيان؟",
+    "answer": "العسل فيه سكر، خاصك تكون حذر وتاكل منه بكمية قليلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكر ضار؟",
+    "answer": "نعم، السكر يمكن يسبب مشاكل صحية خطيرة. خاصك تراقب مستوى السكر ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "إينا دوا كايعطي طبيب لعاب؟",
+    "answer": "الطبيب كيعطي دوا حسب الحالة. خاصك تتبع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "وقتاش كايتاخد الجلوكوز؟",
+    "answer": "الجلوكوز كيتاخد عادة بعد الأكل. خاصك تراقب النسبة ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بالنسبة للمرضى اللي عندهم السكر النوع الثاني، شنو هي الآثار ديال فقدان الوزن؟",
+    "answer": "فقدان الوزن كيساعد على تحسين مستوى السكر. كيمكن يحسن الصحة العامة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاينة شي علاقة مباشرة بين السمنة ومرض السكري؟",
+    "answer": "بالطبع، السمنة كتزيد من خطر الإصابة بالسكري. خاصك تحافظ على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أهلا. واش كاين شي علاج نهائي لمرض السكر؟",
+    "answer": "للأسف، مازال ما كاينش علاج نهائي. ولكن يمكن التحكم فيه بالأدوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مرض السكري دائم؟ واش كاين شي علاج؟",
+    "answer": "مرض السكري كيبقى معاك، ولكن يمكن التحكم فيه. خاصك تتبع العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاش ماكاينش علاج نهائي للسكر؟",
+    "answer": "الأدوية الحالية كتعالج المرض، ولكن ما كاينش علاج نهائي. خاص البحث يستمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي سكر الحمل، كيفاش نعرف واش كاين شي ارتفاع في السكر؟",
+    "answer": "خاصك تراجعي الطبيب بانتظام. التحاليل كتعطيك فكرة على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "درت تحليل للجلوكوز ولقيت النسبة 98. واش هاد النسبة طبيعية؟",
+    "answer": "نعم، النسبة 98 طبيعية. خاصك تبقى تراقبها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي معدلات السكر العادية؟",
+    "answer": "المعدل العادي هو أقل من 100 قبل الأكل. بعد الأكل، أقل من 140.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج غير الأنسولين لمرض السكري من النوع الأول؟",
+    "answer": "مازال ما كاينش علاج بديل. الأنسولين هو العلاج الأساسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا سكري و عندي متوسط ديال التراكمي 10 شهر. شنو هو العلاج اللي مناسب؟",
+    "answer": "المعدل ديالك عالي بزاف. خاصك تمشي للطبيب دابا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الأعراض ديال السكري؟",
+    "answer": "الأعراض كتشمل البول بزاف، العطش بزاف، ونقص فالوزن. ممكن حتى ما يكونوش أعراض.",
+    "entities": {
+      "symptoms": [
+        "البول بزاف",
+        "العطش بزاف",
+        "نقص فالوزن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بالنسبة للسكر 257، دير شي حاجة.",
+    "answer": "عافاك شاور طبيب مختص فالأمراض الداخلية باش يعطي علاج مناسب لحالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الداخلية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش يمكن لينا نحطو السكر تحت 70؟",
+    "answer": "ما كنصحوش بهاد الشي، خاصك تراقب السكر ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش البنجر كينقص السكر؟",
+    "answer": "بالطبع، البنجر كيساعد فتنظيم السكر، ولكن خاصك ما تتجاوزش الكميات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بالسكري و عندي ضغط دم مرتفع و ريجيم نافع.",
+    "answer": "خاصك تشاور مع طبيب تغذية باش يحدد لك النظام الغذائي المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "درت تحليل السكر وخرج 1.11. واش هادشي عادي؟",
+    "answer": "هاد النتيجة عادية، ولكن من الأفضل تدير تحليل السكر التراكمي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكر 112 صايم فوق 8 ساعات.",
+    "answer": "هاد النتيجة كتعني بلي راك فمرحلة الاستعداد للسكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي زيادة الأنسولين فالدم؟",
+    "answer": "زيادة الأنسولين كتعني وجود مقاومة للانسولين، وهادشي كيزيد من خطر السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش من الخطأ يتناول شي واحد 2500 مية ميتفورمين فالنهار؟",
+    "answer": "هي الجرعة المناسبة لمعظم المرضى، ولكن خاص استشارة طبيب قبل ما تبدا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو السبب ديال تصلب الإظافر عند مرضى السكري؟",
+    "answer": "تصلب الإظافر ممكن يكون نتيجة لارتفاع السكر. خاصنا نديرو فحص طبي.",
+    "entities": {
+      "symptoms": [
+        "تصلب الإظافر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مزيان للمريض ديال السكري ياخد كلوفينال؟",
+    "answer": "فحالة الطوارئ، إذا كانت الكلى والقلب بصحة جيدة، ممكن ياخدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا سكران ومعدل السكر ديالي هو 1.34. واش هادشي خطير؟",
+    "answer": "إذا كنت كاتاخد الدوا، راه نتيجة مزيانة. خاصك تراقب مستوى السكر ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكري. شنو خاصني ندير واخا كاينة الشكوى؟",
+    "answer": "خاصك تراجع طبيب، الحالة ممكن تكون خطيرة. ما تتسناش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي دوا كايتستعمل باش يتعالج السكري؟",
+    "answer": "كاينين بزاف د لعلاج، ولكن خاص استشارة طبيب قبل ما تستعمل شي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المعدل الطبيعي ديال نسبة السكر فالدم؟",
+    "answer": "المعدل الطبيعي هو أقل من 100 مليغرام، وأقل من 140 مليغرام بعد جوج سوايع من لماكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كيتعتبر تناول التين الشوكي عامل مساعد للمريض اللي عندو السكر؟",
+    "answer": "ما كاينش شي دراسات طبية كافية باش نأكدو هادشي. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن تعافا من السكري فوقت اكتشافو وانا صغير؟",
+    "answer": "غالبا لا، ما يمكنش الشفاء منو. خاصك تدير علاج مستمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال التهاب الأعصاب عند الشخص اللي عندو السكر؟",
+    "answer": "خاصك تشوف طبيب الأعصاب باش تاخد وصفة ديال علاج اعتلال الأعصاب الطرفي.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأعصاب"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الأسباب ديال هاد النتائج ديال التحليل؟",
+    "answer": "خاصك تشوف طبيب باش يفسر ليك النتائج بشكل دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش البطاطا الحلوة مزيانة للناس لي عندهم السكر؟",
+    "answer": "البطاطا الحلوة مزيانة ولكن خاص تكون بكميات معتدلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الميتفورمين كيتقصى من بعد عام؟",
+    "answer": "لا، الميتفورمين كيبقى فعال ولكن خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن دوا لعلاج نزيف العين الداخلي بسبب السكر؟",
+    "answer": "خاصك تشاور مع طبيب العيون باش يحدد ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نزيف العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو خاصك دير ملي كيكون السكر طالع؟",
+    "answer": "خاصك تتبع تعليمات الطبيب وتراقب مستوى السكر ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كنحس بتنميل فوجهي وعندي السكري.",
+    "answer": "خاصك تشوف الطبيب باش يدير ليك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش عملية الليزر آمنة للناس لي عندهم السكري؟",
+    "answer": "نعم، ولكن خاص التحكم فمستوى السكر قبل العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج باش نحارب السكر؟",
+    "answer": "ما يمكنش يتحيد السكر بالكامل ولكن يمكن التحكم فيه عبر النظام الغذائي والأدوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "والدي عندو السكر وفاتح 221. شنو هو العلاج؟",
+    "answer": "خاصه يراجع طبيب السكري باش يحدد ليه العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش يمكن ليك تاخد دوا ديال الكولوفاج فالشهر الأول من الحمل؟",
+    "answer": "خاصك تحبس من هاد الشي وتستشيري طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحدث علاج للسكر؟",
+    "answer": "كاين بزاف د لعلاجات الجديدة، خاصك تسول طبيبك على الأنسب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي الدوخة بعد الخدمة، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يدير ليك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت علاج لمرض السكر.",
+    "answer": "خاصك تتبع نظام غذائي صحي وتستاشر مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو الأمراض لي كتسبب النزيف والعطش بزاف؟",
+    "answer": "من بين الأمراض اللي كتسبب هاد الأعراض هو مرض السكر.",
+    "entities": {
+      "symptoms": [
+        "نزيف",
+        "عطش"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كايتأثر السكر ف الدم بمنتوجات البان؟",
+    "answer": "ما كاين حتى مشكل، ولكن خاصك تراقب مستوى السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي ماكلة فيها سكر منخفض؟",
+    "answer": "العدس الأسود والترمس مزيانين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو مستوى السكر المثالي فدم مرضى السكر؟",
+    "answer": "مستوى السكر خاصو يكون أقل من 130 قبل الماكلة وأقل من 180 بعد الماكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي مرض السكر، شنو ندير؟",
+    "answer": "خاصك تستعمل حقن الأنسولين وتتابع مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكر والضغط كيسببو الغضب؟",
+    "answer": "لا، كاين عوامل أخرى كتلعب دور أكبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نستعمل قلم انسولين لنتوس؟",
+    "answer": "حط الأنسولين تحت الجلد فالصدر ولا فالكوع حسب تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكر ديالي وصل ل 7.9 بعد الغدا، واش عادي؟",
+    "answer": "أه، هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت خطة غذائية لواحد عندو مرض السكر واعتلال الكلاوي.",
+    "answer": "خاصك تستاشر مع طبيب تغذية مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ركوب الدراجة مزيان للناس لي عندهم السكري؟",
+    "answer": "بالتأكيد، الرياضة مفيدة لمرضى السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتعالج السكري من الدرجة الثانية؟",
+    "answer": "ما يمكنش نتخلصو من الأدوية، خاص متابعة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أعراض هبوط السكر شنو هي؟",
+    "answer": "السخانة، التعب، والدوخة، هادو من الأعراض الشائعة.",
+    "entities": {
+      "symptoms": [
+        "هبوط السكر",
+        "دوخة",
+        "تعب"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتحكمو فالسعرات الحرارية؟",
+    "answer": "بإتباع نظام غذائي صحي والالتزام بالعلاجات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو مرض السكر العالي؟",
+    "answer": "مرض السكري كيتطلب نظام غذائي وعلاجات مع طبيب. خاصك تتابع مع مقدم الرعاية الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما أعراض السكري؟",
+    "answer": "الأعراض كتشمل العطش بزاف، التبول المتكرر، والوزن الخاوي. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "العطش",
+        "التبول المتكرر",
+        "الوزن الخاوي"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نعرف واش شي واحد مصاب بمرض السكري؟",
+    "answer": "خاصنا نديرو تحليل ديال السكر فالدم. هاد التحليل كيعطينا نتيجة دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي نسبة السكر متراكم ديال 8.01%، شنو خاصني ندير؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتستعمل الأدوية اللي وصفها الطبيب. الرياضة مهمة كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي 43 عام و عندي السكري من النوع 2 و عندي مشكل فالإنجاب.",
+    "answer": "خاصك تدير تحليل هرمون التستيرون. هاد التحليل غادي يعاونك تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الهرمون لي كيدير نفس الوظيفة ديال النسولين؟",
+    "answer": "ما كاينش هرمون كيعمل نفس وظيفة الإنسولين. الإنسولين هو الوحيد اللي كيتحكم فمستوى السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "ما هو علاج مرض السكري؟",
+    "answer": "العلاج كيعتمد على نوع السكري وحالة المريض. خاصك تشاور مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال من معدل ديال السكر فالدم بعد ساعتين من الأكل؟",
+    "answer": "المعدل خاصو يكون أقل من 140 مغ/ديسليتر. هادشي مهم لصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "نسبة السكر ديالي هي 118، هادي معقولة؟",
+    "answer": "خاصك تعرف الوقت اللي دارت فيه الفحص. هادشي كيساعدنا نحددوا واش معقولة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكر كيتراوح بين 180 بعد الوجبة لمدة نص ساعة، و104 بعد ساعتين.",
+    "answer": "هادشي ممكن، ولكن خاصك تراقب مستوى السكر ديالك. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكر ديالي تراجع ل 9.7. شنو خاصني ندير؟",
+    "answer": "خاصك تتبع ريجيم مناسب وتاخد دوا مناسب. الرياضة بحال المشي غادي تعاونك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نحيدو الزيادة فالسكر لي تراكمات؟",
+    "answer": "ملي كتنظم السكر مزيان، كايتناقص السكر التراكمي بوحدو. خاصك تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج جديد للسكري نوع واحد عند الدراري؟",
+    "answer": "كاينين بزاف د التجارب على الخلايا الجذعية. هادشي كيبشر بخير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن علاج لآثار الأبر فاليدين و البطن لمرض السكر؟",
+    "answer": "خاصك تبدل البلايص بانتظام. هاد الشي كيساعد على تقليل الآثار.",
+    "entities": {
+      "symptoms": [
+        "آثار الأبر"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "فين كاينين أجهزة قياس السكر لي عندها نتائج مضمونة؟",
+    "answer": "كاينين فمعظم الصيدليات ومحلات الأدوية. خاصك تختار جهاز موثوق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش البيض المسلوق مزيان للناس لي عندهم السكري؟",
+    "answer": "البيض المسلوق مزيان فالغذاء. ولكن خاصك تراقب الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش فيتامين ب ضروري للمريض ديال السكري؟",
+    "answer": "فيتامين ب12 كيعاون الخلايا العصبية وهادشي مهم بزاف لمرضى السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كايضرني راسي بزاف و نتي اللي عندك السكر فالادمان.",
+    "answer": "خاصنا نديرو فحص السكر التراكمي. هاد الفحص كيعطي فكرة واضحة على الحالة.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن تعود للمرحلة اللي قبل السكر مرة أخرى بعد الشفاء منها؟",
+    "answer": "يمكن ليك ترجع للمرحلة السابقة، ولكن خاصك تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الخميرة ديال البيرة ممكن تضر مرضى السكر؟",
+    "answer": "الاستهلاك الزايد عندو آثار سلبية. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الفائدة ديال الحلبة للمريض ديال السكري؟",
+    "answer": "ما كاينش شي دوايات ديال الأعشاب لعلاج مرض السكري. ولكن الحلبة كتعطي فوائد صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مرض السكر من الأمراض المزمنة؟",
+    "answer": "عموما، آه، مرض السكر يعتبر من الأمراض المزمنة. خاص متابعة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الطماطم فيها السكر لمريض بالسكر؟",
+    "answer": "الطماطم فيها سكر ولكن بنسبة قليلة. خاص المريض يتبع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغذاء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش نقدر نوقف السكر بشكل كامل ونلتزم بنظام غذائي صارم؟",
+    "answer": "من الأحسن تبقى تاخد الميتفورين وتلتزم بالنظام الغذائي. هادشي غادي يساعدك في التحكم في السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغذاء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الدوا ديال السكري لي كيعالج النوع الثاني؟",
+    "answer": "الميتفورين هو واحد من الأدوية لي كتعالج السكري من النوع الثاني. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نقدر ننقص من نسبة السكر فالليل وأنا كناخد الأنسولين؟",
+    "answer": "يمكن لك تزيد شوية فالجرعة ديال الأنسولين ديال الليل. ولكن خاصك تشاور مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "دخل سلاح ف رجلي ومريض بالسكر، شنو ندير؟",
+    "answer": "خصك تعيط على الطبيب فورا. هاد الحالة خطيرة خاصها علاج عاجل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كاين شي علاج لمرض السكري؟",
+    "answer": "يمكن التحكم في السكري ولكن الشفاء التام صعيب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الكاوكاو يقدر يزيد من السكر عند المرضى؟",
+    "answer": "كاين احتمال يزيد من السكر حسب نوع البريزة. خاص الحذر في الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغذاء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو نظام غذائي مزيان للمرضى ديال السكري؟",
+    "answer": "خاص التقليل من النشويات والسكر وزيادة الخضرة. استشارة طبيب التغذية مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغذاء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن علاج باش تتحكم فالسكر؟",
+    "answer": "كل علاج عندو فعالية ولكن خاص تقييم الحالة. استشارة الطبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي انخفاض في الضغط والسكر، شنو تنصحني؟",
+    "answer": "خصك تقييم شامل عند الطبيب. هاد الحالة تحتاج متابعة.",
+    "entities": {
+      "symptoms": [
+        "انخفاض الضغط",
+        "انخفاض السكر"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكري الوراثي كيجي من العضلات ولا من بلاصة وحدة؟",
+    "answer": "السكري الوراثي كيجي من عوامل متعددة. خاص استشارة طبيب لفهم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الوراثة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش نسبة السكر التراكمي 6.3 علامة على مرض السكري؟",
+    "answer": "نعم، كتعني كاين خطر ديال السكري. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحليل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش القرفة فعالة فالحل ديال مرض السكر؟",
+    "answer": "ما كاينش دلائل طبية على فعالية القرفة. خاص الاعتماد على الأدوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن تخلصو من الحكة اللي في جسمو؟",
+    "answer": "الحكة ممكن تكون بسبب السكر أو حساسية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الميتفورين؟",
+    "answer": "الميتفورين كيتستعمل للسكري من النوع الثاني. خاص استشارة طبيب لتحديد الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا ديما كانحكم فالسكر، علاش؟",
+    "answer": "هاد الشي كيتطلب تحليل شامل. خاص تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش صحيح بلي الجسم كيصعب مقاومة الميتفورمين؟",
+    "answer": "هاد الهضرة ما عندهاش أساس علمي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "اليوم درت تحليل ديال السايم وخرج 147، شنو يعني؟",
+    "answer": "هاد النتيجة ممكن تشير لسكري. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحليل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش التمر مزيانين للناس لي مراض بالسكر؟",
+    "answer": "ما كاينش ماكلة معينة كتضر السكري، ولكن خاص الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغذاء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين علاج نهائي لمرض السكري من النوع الأول؟",
+    "answer": "كاين علاج بالخلايا الجذعية ولكن باقي تحت التجريب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نتحكم ف مخزون السكر التراكمي؟",
+    "answer": "خاصك تاخد الدوا بانتظام و تقيس السكر ديالك بشكل مستمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مزيان نعطيو الدراري اللي عندهم نسبة السكر عالية حقنة انسولين؟",
+    "answer": "خاص يكون ضمن نظام معين وماشي بشكل عشوائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "لقيت نسبة السكر 96 بعد 5 ساعات من الأكل، واش هادشي عادي؟",
+    "answer": "أيه، هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتعالجو ارتفاع السكر؟",
+    "answer": "مع نظام غذائي معتدل وعلاج السكري تحت إشراف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكر 18.3 مزيان؟ وشنو هو المستوى الطبيعي ديالو؟",
+    "answer": "لا، هاد النسبة عالية بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي أخبار جديدة على علاج السكر؟",
+    "answer": "مازال فالمراحل الأولى ديال التجارب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا كنستعمل جلوكوزاميت 750، واش مزيان؟",
+    "answer": "هاد الشي مزيان، ولكن خاص كل واحد يشوف شنو كيناسبوا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو نظام الأكل ديال مرضى السكري من النوع الأول؟",
+    "answer": "خاص يكون منظم ومتوسط فكميات ووقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي نسبة السكر فالدم الطبيعية فالصباح؟",
+    "answer": "النسبة الطبيعية أقل من 100 ملغ/100 مل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الفحص ديال السكر في الدم جاب النتيجة 68. واش هادشي عادي؟",
+    "answer": "نعم، 68 عادي وما كاين حتى شي أعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "تحليل سكر فاطر 165 كيعني بلي عندك السكر فالدم؟",
+    "answer": "إيلا كان بعد ساعتين من الأكل، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الحزن العميق كيخلي الواحد يسكر؟",
+    "answer": "الحزن يقدر يكون سبب في ارتفاع السكر. خاص متابعة الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أنسولين؟",
+    "answer": "الأنسولين هو هرمون كيطلقو البنكرياس. كيساعد في تنظيم مستويات السكر فالدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش خاصني نعيط ليه بعد ما ياكل شي خمسة ديال السوايع إلا كان عندو 300 غرام؟",
+    "answer": "إي، خاصك تراقب السكر ديالو، راه مرض السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الراجل عندو بزاف د التقرحات و هو مريض بسكر؟",
+    "answer": "خاص يتحكم فالسكر و يتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تقرحات"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما التحاليل اللي خاص يتدارو باش نعرفو واش شي واحد عندو السكر؟",
+    "answer": "خاص دير فحص السكر وفحوصات أخرى مثل الكلى والكبد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي نسبة السكر فالدم لي مزيانة؟",
+    "answer": "النسبة المزيانة أقل من 100 ملغ/100 مل و أقل من 140 بعد جوج سوايع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي لمرض السكري ولا غير عملية جراحية؟",
+    "answer": "ما كاينش علاج نهائي لمرض السكري، ولكن كاين طرق للتحكم فيه بالأدوية والإنسولين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الحليب مع الخبز مزيان للشخص لي عندو السكر الطبيعي؟",
+    "answer": "خاصنا نعتبرو كل أنواع الماكلة، ولكن الاعتدال هو الأساس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نتعاملو مع مرض السكري؟",
+    "answer": "مرض السكري كيتطلب مراقبة مستمرة لمستوى السكر فالدم. كاين أدوية وإنسولين كيساعدو فالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الحوايج لي كتعاون فحالة السكري؟",
+    "answer": "خاص الاعتدال فالفواكه والخضار. ولكن خاص الحذر من الكميات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش معدل السكر في الدم 0.75 بعد الأكل عادي؟",
+    "answer": "إذا كنت تقصد 75، فهادشي عادي وطبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي التهاب في المثانة.",
+    "answer": "خاصك تراجعي طبيب باش يدير لك الفحص اللازم ويحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي خطر من الفاصوليا البلدي على السكر؟",
+    "answer": "يمكن لك تاكل الفاصوليا، ولكن خاصك تحافظ على الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي نسبة السكر فالدم بعد الأكل؟",
+    "answer": "النسبة العادية تكون 140 بعد ساعتين من الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المعدل الطبيعي ديال السكر فالدم؟",
+    "answer": "المعدل الطبيعي هو أقل من 100 فالصيام، وبعد ساعتين من الأكل أقل من 140.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاينة شي حاجة مضمونة للناس لي عندهم السكر؟",
+    "answer": "ما كاينش دراسات علمية تثبت هاد الشي، خاصك تتبع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال من مرة كيتكرر السكر ف 3 شهور؟",
+    "answer": "معدل السكر التراكمي الطبيعي هو بين 4.2 و 6.4.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كتحسب إلا كان السكر ديالك فوق 175 ملي بعد الأكل؟",
+    "answer": "هاد الشي كيتعتبر معيار للتشخيص ديال السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما أعراض السكري ديال النوع 1؟",
+    "answer": "الأعراض كتشمل العطش الزائد والتعب، ولكن ماشي ضروري تكون عندك كل الأعراض.",
+    "entities": {
+      "symptoms": [
+        "العطش الزائد",
+        "التعب"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الزيادة فالسكر فالصباح ل 380 غرام ممكن تكون سبب باش يتحررو شي ناس؟",
+    "answer": "خاصك تاكل الفطور قبل ما تاخد الإنسولين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بعد شحال من وقت من تناول جرعة نوفاماكس الأنسولين خاصك تبدا تاكل؟",
+    "answer": "يمكن لك تاكل بعد 10 دقايق من تناول الإنسولين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت نظام غذائي للناس اللي عندهم السكري فالحمل.",
+    "answer": "خاصك تشوفي نظام غذائي خاص بالسكري فالحمل، حيث كاين احتياجات خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي لمرض السكري النوع 2؟",
+    "answer": "ما كاينش علاج نهائي، ولكن الأدوية والحمية كيساعدو فالتعامل مع المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مرض السكر كيساهم فالتأخر ديال الحمل؟",
+    "answer": "إيلا كانت مستويات السكر مرتفعة، ممكن تأثر على الحمل. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض السكر؟",
+    "answer": "كاينين أعراض بحال العطش المفرط وكثرة التبول. خاصك تراقب مستويات السكر.",
+    "entities": {
+      "symptoms": [
+        "العطش المفرط",
+        "كثرة التبول"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الغذاء اللي مزيان لمرض السكري؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن، مع التركيز على الفواكه والخضار. الاعتدال هو الأساس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "ما هو نسبة السكر في الدم عند الصيام والإفطار؟",
+    "answer": "نسبة السكر عند الصيام هي 126 وعند الإفطار 160. هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاينة شي علاقة بين حصوات المرارة ومرض السكر؟",
+    "answer": "ممكن تكون علاقة فبعض الحالات، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال كتاخد ساعة التحليل ديال السكر؟",
+    "answer": "التحليل كياخد تقريبا 13 ساعة. خاصك تصبر شوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "مراض السكر ما كيتزوجوش؟",
+    "answer": "هادشي ماشي صحيح، مراض السكر يقدرو يتزوجو بحال أي واحد آخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كاين شي علاج جديد للسكر؟",
+    "answer": "كاينين علاجات جديدة ولكن مازال ماكاينش علاج نهائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المعدل ديال السكر فالصباح؟",
+    "answer": "المعدل الطبيعي هو من 70 حتى 110 مليغرام لكل ديسيلتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "مستوى السكر فالدم عند الشخص العادي؟",
+    "answer": "خاص يكون أقل من 100 مليغرام قبل الأكل وأقل من 140 بعد جوج سوايع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بابا عندو سكري وعندو التهاب فالرجلين. عافاك عاونني.",
+    "answer": "خاصو يستاشر مع طبيب باش يتقيم الحالة ديالو.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض السكري؟",
+    "answer": "الأعراض كتشمل: العطش المفرط، التبول بزاف، ونقص الوزن المفاجئ.",
+    "entities": {
+      "symptoms": [
+        "العطش",
+        "التبول",
+        "نقص الوزن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن ناكل السنان للمريض بالسكر؟",
+    "answer": "نعم، ولكن خاص يتأكد من مستوى السكر ديالو قبل ما يمشي عند طبيب السنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مزيان للمرضى ديال السكري يستعملو المحليات الصناعية؟",
+    "answer": "نعم، ولكن خاصهم يتشاوروا مع الطبيب قبل ما يستعملوها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المعدل الطبيعي ديال السكر ف الدم؟",
+    "answer": "المعدل الطبيعي هو أقل من 100 مليغرام وأقل من 140 مليغرام بعد جوج ساعات من الماكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كيتعافاو مرضى السكر فالكعب؟",
+    "answer": "خاصك تشوف طبيب السكري أو طبيب الجراحة لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج الطبيعي لمرض السكري؟",
+    "answer": "مرض السكري كيتعالج عادة بالعلاجات الطبية، وما كاينش علاج طبيعي محدد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش زيت أوميغا 3 وزريعة الكتان مزيانين للناس اللي مصابين بالسكري؟",
+    "answer": "ما كاينش دليل علمي قوي على الفائدة ديالهم لمرضى السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي تأثير ديال البروفيرن على مرضى السكري؟",
+    "answer": "البروفيرن يقدر يأثر على الكلى، من الأفضل ما تستعملوش إلا فالحالات الضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي آثار جانبية لاستخدام قطرة ديكلوجيسيك للمصابين بالسكري؟",
+    "answer": "ما كاينش مشكل معروف، ولكن خاصك تستعملها تحت إشراف طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "سلام. واش كاين شي تأثيرات طويلة المدى من استخدام الأدوية ديال السكر؟",
+    "answer": "ما كاين حتى تأثيرات معروفة على المدى الطويل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن لبنكرياس يعاون مرضى السكري؟",
+    "answer": "لا، البنكرياس ما يمكنش يرجع لوظيفته الطبيعية عند مرضى السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت شي دوا ديال السكر.",
+    "answer": "ما كاينش علاج نهائي، ولكن يمكن التحكم فيه بشكل جيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي القراءة المستهدفة لنتائج تحليل السكري لواحد كياكل 850 غرام فالنهار؟",
+    "answer": "السكر التراكمي خاصو يكون أقل من 7.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "وقتاش كيتستعمل دوا السكر جانوفيا؟",
+    "answer": "كاين استعمالات محددة، ولكن خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "استخدام أكاربوز لعلاج السكر واش كيعني بلي غادي يمنع الهبوط والدوخة والغثيان؟",
+    "answer": "أكاربوز يقدر يكون عندو تأثيرات جانبية، خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما التحاليل المهمة ديال السكري؟",
+    "answer": "خصك تدير فحص السكر التراكمي وفحوصات لوظائف الكلى والكبد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي نسبة السكر الطبيعي فالحامل بعد 10 ساعات ديال الصيام؟",
+    "answer": "النسبة خاصها تكون بين 80 و100.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض ارتفاع السكر؟",
+    "answer": "ما كاينش أعراض واضحة، ولكن من بين الأعراض المهمة هي العرق والتبول المتكرر.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع السكر",
+        "العرق",
+        "التبول المتكرر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي لمرض السكري ديال النوع 2؟",
+    "answer": "ما كاينش علاج نهائي، ولكن كاين علاجات مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي أخبار على علاج السكر وآخر الأخبار على الخلايا الجذعية؟",
+    "answer": "العلاج بالخلايا الجذعية باقي تحت التجربة والتقييم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو ماخصش تاكل لي عندو السكر ولا الضغط العالي؟",
+    "answer": "خاصك تتبع مع أخصائي تغذية باش يحدد لك الماكلة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "البطاطا الحلوة مزيانة لمرضى السكر؟",
+    "answer": "ممكن، ولكن خاصها تكون بكميات صغيرة حيت فيها سعرات حرارية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاش كندير دوخة بعد ما ناكل الحلوى؟",
+    "answer": "خاصنا نقصو من الماكلة الحلوة باش نحميو راسنا من مقاومة الأنسولين.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "الكرز كايسكر الدم ولا لا؟",
+    "answer": "الاعتدال في الأكل هو الأساس، ماشي غير الكرز.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتعامل مع السكري نوع واحد؟",
+    "answer": "خاص نظام غذائي وعلاجات مع طبيب مختص. كل حالة عندها خصوصياتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "درت تيست ديال السكر بعد 14 ساعة ديال الصيام، النتيجة 115. شنو ندير؟",
+    "answer": "دير تيست ساعتين بعد الفطور باش تشوف النتيجة بشكل أدق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أحدث علاج لمرض السكر شنو هو؟",
+    "answer": "كاين بزاف دالعلاجات الحديثة، ولكن خاص تحديد العلاج المناسب لكل مريض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كاينعالجوا الناس لي عندهم رجلين مصابين بالتهاب؟",
+    "answer": "خاصك تشوف طبيب مختص في السكري أو الجراحة.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكر ديال الدرة مزيان لمرضى السكري؟",
+    "answer": "نعم، السكر ديال الدرة آمن لمرضى السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج للارتفاع ديال الأنسولين؟",
+    "answer": "ما كيعالجش ارتفاع السكر بالأنسولين، كيعالجوه بالأدوية بحال الميتفورمين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج لسكر؟",
+    "answer": "كاين بزاف دالعلاجات اللي كتعاون فالتحكم فالمرض، ولكن ماشي علاج نهائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن دوا لعلاج السكر؟",
+    "answer": "ما كاينش دوا أفضل من اللي كيصفه الطبيب حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش القرفة كتعالج مرضى السكري؟",
+    "answer": "ما كاينش دراسات علمية كافية على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندو السكري من الصغر حيت الوزن ديالو بزاف. شنو ندير؟",
+    "answer": "خاص مراجعة الطبيب باش نراجعو العلاج بشكل شامل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نتحكم فالسكر؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتستاشر مع طبيب. العلاج كيساعدك باش تحافظ على مستوى السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن المصاب بالسكر يعمى من الألوان؟",
+    "answer": "ممكن، ولكن هاد الشي نادر. السكري ما كيتسببش مباشرة فالعمي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الثوم كيتفاعل مع أدوية السكر؟",
+    "answer": "ما كاين حتى تفاعل معروف بين الثوم وأدوية السكري. ولكن خاصك تسول طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي 43 عام وكنعاني من مشكل فالإنجاب و السكري ديالي من الدرجة الثانية.",
+    "answer": "خاصك تراجع طبيب مختص فالسكري. يمكن يكون عندك حلول لتحسين الوضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بالسكري، عافاك ساعدني.",
+    "answer": "خاصك تشوف طبيب مختص فالسكري باش يقدر يساعدك. العلاج مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو التأثير ديال النشأ والعسل على مصاب بالسكر من الدرجة الأولى؟",
+    "answer": "النشأ والعسل كيزيدو فالسكر فالدم. خاصك تكون حذر فالأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي تأثير على الكلى من جرعات الأنسولين العالية؟",
+    "answer": "الأنسولين ما كيأثرش سلبيا على الكلى. خاصك تتابع مع طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الكوليسترول والتريسليتريد كايتحكمو فنفس الوقت؟",
+    "answer": "الكوليسترول والتريسليتريد كيتحكمو بشكل مختلف. خاصك تراقبهم مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكوليسترول",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا عندي السكري وما قدرتش نتحكم فالسكر، واش نقدر نستعمل نوفوغيد ولا لنتوس؟",
+    "answer": "خاصك تبع العلاج ديال الطبيب بانتظام. استشارة الطبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي نسبة السكر التراكمى لطفل مصاب بالسكري؟",
+    "answer": "النسبة خاصها تكون أقل من 8%. خاصك تراقب مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كتحافظ على نسبة السكر؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتستاشر مع طبيب. العلاج كيساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج لسكري الدراري بالخلايا الجذعية؟",
+    "answer": "هادشي باقي فمرحلة التجربة. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مرض السكر كيتورث غير بالوراثة؟",
+    "answer": "الوزن الزايد ونمط الحياة كيلعبو دور كبير. خاصك تكون واعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو النظام الغذائي ديال الناس اللي عندهم السكري؟",
+    "answer": "النظام الغذائي خاصو يكون متوازن ومعتدل. خاصك تراقب الكميات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الجماع والحمل خطيرين على المرأة اللي عندها السكر؟",
+    "answer": "لا، ما كاينش خطر إلا كنتي تحت السيطرة. خاصك تراقبي صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن نعرف أعراض السكر؟",
+    "answer": "ممكن تكون أعراض بحال العطش الزايد والتبول المتكرر. خاصك تراقب حالتك.",
+    "entities": {
+      "symptoms": [
+        "العطش الزايد",
+        "التبول المتكرر"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الحل باش نحاربو السكر بشكل دائم؟",
+    "answer": "الحل كيتطلب متابعة مع طبيب وعوامل بزاف. خاصك تكون واعي بنمط حياتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي التأثيرات ديال البقوليات المنبته على مرض السكر؟",
+    "answer": "ماكاينش تأثير مباشر، ولكن خاصك تراقب الكميات. النظام الغذائي المتوازن هو الأساس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن نبدلو السكري بالزريعة؟",
+    "answer": "الزريعة ما كتبدلش السكري، ولكن خاصنا نراقبو الماكلة ديالنا. الخبز والسكر كيحفزو البنكرياس باش يخرج الأنسولين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش 1.10% سكر فالدم كيعني بلي كاين خطر؟",
+    "answer": "لا، ما كاينش مشكل مع هاد النسبة. خاص غير متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أمي عندها السكري و البطن ديالها كبر.",
+    "answer": "خاصها زيارة للطبيب باش يدير ليها الفحوصات اللازمة. كبر البطن ممكن يكون عندو أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "كبر البطن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الجوز مزيان للمريض بالسكر؟",
+    "answer": "الجوز مزيان، ولكن خاصو يكون فكمية معقولة. ما كيعطلش السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين تأثير على الحمل من داء السكري؟",
+    "answer": "كاين تأثير، ولكن خاص استشارة طبيب مختص. هو اللي يقدر يعطيك معلومات دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتعالج السكر من النوع الأول؟",
+    "answer": "مازال ما كاينش علاج نهائي، ولكن كاين طرق للتحكم فيه. العلاج كيتطلب متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو دواء السكر؟",
+    "answer": "كاينين أنواع من الأدوية، ولكن خاص طبيب يحدد ليك العلاج المناسب. السكري نوع 1 و 2 عندهم طرق علاج مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحدث علاج للسكر مع العلم أنني كانخدوم حقن الانسولين؟",
+    "answer": "السوطاغليفلوزين مع حقن الأنسولين كيتعتبر من أحدث العلاجات. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أحسن مكمل غذائي للسكري لي عندو النوع الثاني؟",
+    "answer": "ما كاينش مكمل ضروري، خاص فحص طبي باش يتأكد النقص. كل حالة خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش انخفاض السكر التراكمي لدرجة طبيعية لمدة ست شهور كيعني الشفاء من السكري؟",
+    "answer": "يعني أن السكري متحكم فيه. خاص متابعة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن يتعافى من النوع الثاني ديال السكر؟",
+    "answer": "يمكن التحكم فيه، ولكن الشفاء التام صعيب. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "العلاج ديال انخفاض السكر؟",
+    "answer": "خاص نعرفو علاش طاح السكر، ونتجنبو هاد الشي. ممكن نحتاجو داو أو عاصير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاينة شي آثار سلبية أخرى للكلفوفاج على الجسم اللي ماشي السكري؟",
+    "answer": "ما كايناش آثار سلبية معروفة، ولكن من الأفضل استشارة الطبيب قبل أي علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "فقت هاد الصباح على 95 وانا صائم هادي 8 سوايع، واش هادشي عادي؟",
+    "answer": "أه، هادشي عادي. خاص غير متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو إنزيم الفاجلوكوسيديز وكيفاش كيتعلق بالسكري؟",
+    "answer": "إنزيم الفاجلوكوسيديز كيساعد فحلل السكريات المعقدة لأحماض سكرية بسيطة. هادشي كيسهل الامتصاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي التحاليل اللي كيديرو لمريض السكر؟",
+    "answer": "أهم التحاليل هي فحوصات مستوى السكر في الدم ووظائف الكلى. خاص الطبيب يشوف الحالة كاملة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش عملية زرع الكلى مزيانة لمريض السكري من النوع الثاني؟",
+    "answer": "إيوا، إلا كان السكر مضبوط. خاص متابعة طبية مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مزيان للمريض ديال السكر ياكل البقلاوة؟",
+    "answer": "البقلاوة فيها سكر بزاف، خاص المريض يتجنبها. الماكلة المتوازنة هي الأفضل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ضبط معدل السكر كيخليهم يزيدو فالوزن؟",
+    "answer": "لا، ضبط السكر ماشي هو السبب. الماكلة الزايدة هي اللي كتزيد فالوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض السكر؟",
+    "answer": "ممكن مكاينش أعراض، ولكن إلا كانو، كاينين العطش والتبول بزاف.",
+    "entities": {
+      "symptoms": [
+        "عطش",
+        "التبول"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايعالجو السكار ديال الدراري لي عندهم 12 عام؟",
+    "answer": "كيحتاجو نظام غذائي خاص وعلاج مع طبيب مختص. الرعاية مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن لشي واحد عندو السكري من النوع الثاني يرجع الوزن اللي ضاع ليه؟",
+    "answer": "نعم، ولكن خاص يكون بطريقة صحية. الرياضة والتغذية المتوازنة مهمين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج لسكر الكلب؟",
+    "answer": "كاينين علاجات كتساعد فالتحكم فالمرض، ولكن ماشي علاج نهائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش التهاب الكبد خطير على السكري؟",
+    "answer": "ماكاينش علاقة مباشرة، ولكن خاص متابعة طبية. كل مرض يحتاج اهتمام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض مرض السكر؟",
+    "answer": "ماشي بالضرورة كاينين الأعراض، ولكن إلا كانو، كيعانيو من عطش كبير و التبول بزاف.",
+    "entities": {
+      "symptoms": [
+        "عطش",
+        "التبول"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "معدل السكر ديالي وصل ل 116 بعد 8 ديال السوايع ديال الصيام، واش هادشي عادي؟",
+    "answer": "أيوة، هادشي عادي. خاص متابعة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكر ديالي وصل 115 بعد 8 ساعات من الصيام.",
+    "answer": "هاد الشي كيعني أنك خاصك تراقب السكر ديالك. خاصك تنقص الوزن بطريقة صحية وتكون واعي بالأكل ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج لمرض السكري النوع الأول؟",
+    "answer": "مرض السكري النوع الأول كيتعالج بحقن الأنسولين تحت إشراف طبيب مختص. خاصك متابعة دورية للحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نعدلو مستوى السكر ف الدم؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتستعمل الأدوية اللي وصفها الطبيب. المتابعة مع طبيب السكري ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن دوا ديال أماريل يسبب للبنكرياس الحرق على المدى الطويل؟",
+    "answer": "ما كيتعتبرش الدوا آمن على المدى الطويل. خاصك تراقب الأعراض مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج نهائي للسكر من النوع الثاني؟",
+    "answer": "ما كاينش علاج نهائي للسكر من النوع الثاني. ولكن يمكن السيطرة عليه من خلال الأدوية والتغييرات في نمط الحياة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن مريض السكري يتعافى نهائيا؟",
+    "answer": "لا، ما يمكنش الشفاء التام من السكري. ولكن يمكن التحكم في المرض وتحسين الجودة ديال الحياة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش يمكن نستعملو الجلوكوز مع الانسولين؟",
+    "answer": "نعم، ممكن، ولكن خاصك تكون تحت إشراف طبيب مختص. التوازن مهم باش ما يوقعش أي مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الدوا ديال ميتافرين كينقص السكر؟",
+    "answer": "نعم، ميتافورمين كينقص من نسبة السكر فالدم. خاصك تتابع مع الطبيب باش تعرف الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "مرحبا. واش كاين شي تداخل بين الدوا ديال السكري و الدروبل؟",
+    "answer": "لا، ماكاينش شي تداخل كبير بيناتهم. ولكن خاصك دائما تستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الجذور ديال الأرقطيون والأسطيل الهندي علاج فعال للمرارة؟",
+    "answer": "لا، ماشي علاج فعال. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب البديل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض السكري؟",
+    "answer": "ممكن مكاينش أعراض، ولكن إذا كانو، كاين العطش والتبول بزاف.",
+    "entities": {
+      "symptoms": [
+        "العطش",
+        "التبول"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما القيم ديال السكر لي خاص تكون عند المرا الحامل؟",
+    "answer": "خاص السكر يكون أقل من 90 قبل الأكل وأقل من 140 بعد الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي ضعف فالرؤية و عندي السكري.",
+    "answer": "خاصك دير فحص العين عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "ضعف فالرؤية"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الرياضة اللي مفيدة للناس اللي مراض بالسكر؟",
+    "answer": "كل أنواع الرياضات مزيانة، ولكن الرياضات العنيفة ما كينصحوش بها للناس اللي كيتعتمدو على الأنسولين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الرياضة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي نسبة السكر التراكمي فدم الشخص اللي عندو السكري؟",
+    "answer": "خاص تكون أقل من 7% في معظم الحالات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو سبب مرض السكر الكاذب؟",
+    "answer": "يمكن يكون وراثي أو نتيجة لعدة أسباب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كاين شي علاج نهائي للسكري؟",
+    "answer": "ما كاينش علاج نهائي، ولكن كاينين علاجات كتساعد ف التحكم فمستوى السكر. خاصك تحذر من الأخبار الكاذبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج للسكر من نوع ثاني؟",
+    "answer": "آه، كاينين أدوية كتساعد ف تخفيض مستويات السكر. الطبيب هو اللي كيحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكر وكنحس بتنميل فالفم.",
+    "answer": "يقدر يكون نقص السكر فالدم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "ولدي عندو مرض السكري والسكر ديالو طالع بزاف.",
+    "answer": "خاص تحديد نظام غذائي وجرعة دوا. النشاط البدني مهم كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الأسباب ديال هبوط السكر المتكرر وشنو هوما المضاعفات ديالو؟",
+    "answer": "السبب الرئيسي هو عدم الالتزام بنظام غذائي محدد. المضاعفات يمكن تكون خطيرة إذا ما تمش مراقبة السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايخدم النسولين نوفورابيد؟",
+    "answer": "هاد الأنسولين كيساعد الجسم على استهلاك السكر من الماكلة بسرعة. كيتاخد قبل الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكري ما زال عالي بعد ما استعملت العلاج.",
+    "answer": "هاد الحالة كيتطلب نظام غذائي متوازن وعلاج إضافي. خاصك تشوف الطبيب ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو علاج السكر البولي؟",
+    "answer": "إذا كنتي كتقصد السكري، فهو مرض خفيف وما كيحتاجش لعلاج خاص. خاصك غير تراقب مستويات السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش المكسرات مزيانة للمريض بالسكر؟",
+    "answer": "المكسرات مفيدة ولكن خاص الاعتدال في الكمية. ما كاين حتى مشكل فالتكاليف ديالها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "ما كاينش شي ضرر فهاد قرصات السكر؟",
+    "answer": "ما كاينش ضرر كبير ولكن كاينين آثار جانبية بسيطة بحال الإسهال. خاصك تكون واعي بها.",
+    "entities": {
+      "symptoms": [
+        "الإسهال"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش خاصني نتزوج حيت عندي السكر؟",
+    "answer": "ماكاين حتى مشكل ف الزواج، بل يمكن يكون مفيد ليك. خاصك غير تحافظ على صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الماكلة اللي كتخلي السكر ينزل؟",
+    "answer": "ما كاينش ماكلة خاصة تنزل السكر ولكن كاينين أطعمة ما كترفعش السكر. خاصك تركز على الخضار والفواكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أقوى علاج للسكر؟",
+    "answer": "أقوى علاج هو الأنسولين، ولكن خاصك تتبع نظام غذائي صحي. العلاج الفعال هو اللي كيرجع السكر لمستواه الطبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش يمكن لي نحافظ على مستويات السكر بلا إنسولين؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن ومراقبة مستمرة لمستويات السكر. هادشي كيتطلب استشارة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو اللي حسن للمريض ديال السكران من خلال الأكل؟",
+    "answer": "الاعتدال في الأكل هو الأساس. خاصك تتجنب الأطعمة الغنية بالسكر والكربوهيدرات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الديسيلوز كايزيد ف الوزن ديال مرضى السكر؟",
+    "answer": "إذا ماكانش نظام غذائي متوازن، غادي يزيد الوزن. خاصك تحافظ على نظام صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "النتيجة ديال التحليلة ديال السكر فالدم بعد ساعتين من الأكل هي 96. شنو كيعني هاد النتيجة؟",
+    "answer": "هاد النتيجة عادية وما كتشير لشي مشكل. خاصك غير تراقب السكر بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كايسكر القهوة اللي فيها القرفة؟",
+    "answer": "ما كاينش علاج بالأعشاب بحال القرفة. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش ننقص من السكر فالدم بسرعة؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتدير الرياضة. استاشر طبيب لمتابعة الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي بديل للمنظمة اللي كتعطي هاد الشي مع الماريل؟",
+    "answer": "الأمريكان هوما أحسن حاجة، ولكن خاص الطبيب يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كايتعتبر شرب الما و الملعقة ديال زيت الزيتون من بعد الفطور فاش كتدير التحليل ديال السكر؟",
+    "answer": "شرب الما وزيت الزيتون مزيان، ولكن خاصك تراقب مستوى السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش نسبة السكر ديالي غالية بزاف بعد ما ناكل؟",
+    "answer": "146 ملي مزيان، ولكن خاصك تدير تيست ديال التحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "التأثيرات الجانبية ديال العلاج ديال السكر فالمرضى اللي كياخدو دواء لمدة 10 سنين؟",
+    "answer": "ما كاينش آثار جانبية مهمة، ولكن خاص المريض يتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج المكثف لمريض كبير فالعمر ومصاب بالسكري وعندو التهاب فالبنكرياس؟",
+    "answer": "الإنسولين هو الحل، ولكن خاص الطبيب يحدد الجرعة.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "صاحبتي لقات السكر ديالي وصل ل 445. شنو خاصني ندير؟",
+    "answer": "خاصك تستاشر طبيب على وجه السرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاش كيتنقص جرعة غليمبيريد للمريض اللي عندو السكر ملي كيتزادو ليه جرعة ديال الأنسولين؟",
+    "answer": "باش يتفادى نوبات السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت نعرف الخطر ديال مرض السكري.",
+    "answer": "كاين بزاف ديال العواقب السلبية بحال تدهور الأعصاب والعين والكلى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاش مرض السكر كيخلي الواحد يعرق بزاف؟",
+    "answer": "مريض السكر يقدر يعرق بزاف بسبب مشاكل فالجهاز العصبي.",
+    "entities": {
+      "symptoms": [
+        "عرق"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "قيت السكر ديالي ساعتين من بعد ما كليت وراه جاتني 93. واش عندي السكر؟",
+    "answer": "لا، هادشي عادي وما كاينش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "اسأل عن مرض السكري كيفاش تدبر بلا دوا وشنو هوما الوجبات اللي مزيانين؟",
+    "answer": "خاصك تاكل بانتظام وتجنب السكريات، وديما تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي ألم فالراس ديالي و عندي السكري و كانعالج بالأنسولين و عندي تقلصات فكرشي.",
+    "answer": "خاصك تستاشر طبيب، هادو مشاكل منفصلين.",
+    "entities": {
+      "symptoms": [
+        "ألم الرأس",
+        "تقلصات"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الفرق بين السكر العادي ومرض السكر؟",
+    "answer": "السكر العادي ما كاينش، ومرض السكر خاصو متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "مريضة سكر وبرضع امتة اخد جرعة ديال الأنسولين فالرمضان؟",
+    "answer": "خاصها تستاشر طبيب على حسب حالتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي تأثير على الزواج ديال شي واحد عندو السكر ومنتظم فالعلاج؟",
+    "answer": "ما كاينش تأثير كبير، ولكن خاص التواصل مع الشريك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السلام عليكم، واش كاين شي خطر إلا كناكلنا بزاف ديال الفاكهة الحمرا، خاصة للناس لي عندهم السكري؟",
+    "answer": "الأكثر من أي حاجة ما كيديرش، ولكن خاص الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الماكلة اللي مزيانة للناس اللي عندهم السكري؟",
+    "answer": "خاصهم ياكلو الخضار والفواكه ويمشيو على ريجيم متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا عندي 50 عام وولدي عندو السكري. واش ممكن نبرع بالدم ولا نحجام؟",
+    "answer": "التبرع بالدم ما كيتعارضش مع السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الفوايد ديال رويال باور 2000 للمرضى ديال السكر؟",
+    "answer": "ما كاينش دليل علمي قاطع على الفوايد ديال رويال باور 2000 لمرضى السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "قست السكر ساعتين ونص، والنتيجة كانت 123. واش هادشي عادي؟",
+    "answer": "هاد النتيجة عادية، ما كاينش ما يدير القلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي 31 عام، السكر ديالي طلع جوج مرات: 91 و 84. واش هادشي عادي؟",
+    "answer": "نعم، هادشي عادي ومش ضروري تقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت نقص شوية فالوزن وعندي مشكل فالأنسولين. الجسم ديالي كيرفضو.",
+    "answer": "خاصك تتبع نظام غذائي صحي وتزيد الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي خطر على واحد عندو مرض السكر من الماكلة فهاد المطعم؟",
+    "answer": "يمكن تاكل ولكن خاصك تكون حذر من الكميات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي 120 على 100 و 6.20 درهم فالمخزون. واش كاين شي دوا ضروري؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتزيد الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج لمرض السكري؟",
+    "answer": "نعم، كاينين دوايات و الأنسولين حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش مهم نتجنبو شرب الما قبل التحليل؟",
+    "answer": "لا، شرب الما قبل التحليل ما كيسببش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن يتعافى من السكري النوع الثاني؟",
+    "answer": "ما يمكنش يتعافى نهائياً ولكن يمكن التحكم فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "سمعت أن شرب الحليب بعد الأكل كيسبب السكري، واش هادشي صحيح؟",
+    "answer": "ما عندو حتى علاقة بالسكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش يمكن لي ناخد شي دوا ديال السكر؟",
+    "answer": "نعم، يمكن تاخد دوايات حسب وصفة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش نوفوميكس 30 كيساعد على زيادة الوزن؟",
+    "answer": "آه، نوفوميكس 30 كيساعد حيت من الأعراض الجانبية ديالو هي الزيادة ف الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكر ديال الدم ديالي وصل ل 7.4 ملي، واش خاصني نقلق؟",
+    "answer": "دير التحليل فمخبر آخر للتأكد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن نعاودو العملية ديال البنكرياس؟",
+    "answer": "غالباً لا، ولكن يمكن تقليل الضرر بالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البنكرياس",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش يمكن لي نبدل هيمولين 70/30 ل هيمولين 50/50؟",
+    "answer": "ما يمكنش دير هادشي بلا استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنسولين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي علاج لمرض البنكرياس؟",
+    "answer": "خاص تحديد نوع الالتهاب ومدى التأثير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البنكرياس",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الأدوية الحمضية تأثر على البنكرياس؟",
+    "answer": "ما عندها حتى علاقة بالبنكرياس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البنكرياس",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش يمكن لي نخرج من مرض السكري؟",
+    "answer": "يمكنك التحكم فيه ولكن ما تقدرش تنساه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن تعطيني طريقة حساب جرعات الانسولين لشخص عندو 359؟",
+    "answer": "خاصك تسول الطبيب باش يعطيك الطريقة الصحيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنسولين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن تعطيني شي اسم طبيعي بديل للسكر الأبيض؟",
+    "answer": "يمكن تستعمل العسل أو سكر القصب كبديل، ولكن خاصك تحترم الكميات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شحال هو المعدل ديال نسبة السكر فالدم للي ماشي مرضي؟",
+    "answer": "نسبة السكر الصائم خاصها ما تقلش على 100 ملغ/دل. هاد النسبة كتكون ثابتة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كتحس بشي أعراض ديال هبوط السكر مع مستوى السكر ديالك اللي هو 250؟",
+    "answer": "مستوى السكر 250 يعتبر مرتفع. خاصك تراقب الأعراض بحال التعب أو الدوخة.",
+    "entities": {
+      "symptoms": [
+        "هبوط السكر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاج ديال نقص السكر فالدم؟",
+    "answer": "العلاج كيتحدد حسب السبب. خاصك تشوف الطبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نقص السكر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كيتم اكتشاف مرض السكر؟",
+    "answer": "يمكن اكتشافه عن طريق تحليل السكر العادي أو التراكمي. كل واحد عندو فائدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا عندي السكري، واش كاين شي علاج غير الانسولين؟",
+    "answer": "كاين أدوية أخرى بحال الميتفورمين، ولكن خاص الطبيب يحدد لك الأنسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا عندي 18 عام و عندي السكري و طولي 163 سم، واش طولي عادي؟",
+    "answer": "خاص الطبيب يقيم طولك ووزنك. كل واحد عندو معايير مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الآثار الجانبية ديال جيلفوس على الشخص اللي عندو السكر؟",
+    "answer": "جيلفوس ما عندوش آثار جانبية خطيرة، وكيكون فعال لمرض السكري من النوع الثاني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "مرحبا، أنا حامل ودرت تحليل السكر بعد الأكل ووصل النتيجة ل 70. واش هادشي عادي؟",
+    "answer": "نتيجة 70 عادية، ولكن خاصك تراقبي مستويات السكر ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شفت مستوى السكر ديالي وهو 112. واش هادشي عادي؟",
+    "answer": "إذا كانت النتيجة فوق 110، خاصك تعاود الفحص. راقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نعرف واش عندي السكر ولا الضغط؟",
+    "answer": "خاصك تقيس الضغط ديالك و تدير تحاليل السكر. استشر الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "البنت ديالي عندها السكر، دابا كتعاني من أعراض متكررة.",
+    "answer": "خاصك تشوف طبيب مختص باش يشوف الحالة ديالها.",
+    "entities": {
+      "symptoms": [
+        "أعراض متكررة"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "العين متضررة بسباب السكري، شنو هو العلاج؟",
+    "answer": "العلاج هو الحفاظ على نسبة السكر فالدم. خاصك تتبع نظام غذائي صحي وتستعمل الأدوية إذا احتاج الأمر.",
+    "entities": {
+      "symptoms": [
+        "ضرر العين"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي نسبة سكر 103 و132. واش هادشي خطر؟",
+    "answer": "هاد النسبة كتشير لمرحلة الوقاية من السكري. خاصك تراقب صحتك وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "تحليل مخزون السكر ديالي هو 6.30. واش أنا مريض بالسكر؟",
+    "answer": "خاصك تعاود التحليل بعد مدة. هاد النتيجة ممكن تشير لمشكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش التبول بزاف كيعني أنك مصاب بالسكري؟",
+    "answer": "التبول بزاف ممكن يكون علامة على السكري، ولكن كاين أسباب أخرى بحال التهاب المسالك البولية.",
+    "entities": {
+      "symptoms": [
+        "التبول بزاف"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض السكري من النوع 1؟",
+    "answer": "من بين الأعراض كاين العطش الزايد، التبول المتكرر، وفقدان الوزن.",
+    "entities": {
+      "symptoms": [
+        "العطش الزايد",
+        "التبول المتكرر",
+        "فقدان الوزن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "صباح الخير، السكر ديالي كان 89 بعد صيام 8 ساعات. واش هادشي عادي؟",
+    "answer": "أه، هادشي عادي ومقبول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكري يقدر يأثر على الجنين؟",
+    "answer": "بالطبع، السكري ممكن يأثر على الجنين، خاصك تتبعي مع طبيب النساء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش السكر 150؟",
+    "answer": "نعم، هاد النسبة مرتفعة. خاصك تعاود التحليل بعد ساعتين من الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "هبوط حاد فالغذاء والرعشة كيبين بلي عندي السكر.",
+    "answer": "دير تحليل السكر فالدار باش تعرف واش عندك مشكلة.",
+    "entities": {
+      "symptoms": [
+        "هبوط حاد",
+        "الرعشة"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش جوز الهند خطير على مرضى السكر؟",
+    "answer": "جوز الهند ممكن يكون مقبول بكميات محدودة، ولكن خاصك تحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما مضاعفات مرض السكرى فصيام رمضان؟",
+    "answer": "المضاعفات كتعتمد على الحالة الصحية لكل شخص. خاصك تراقب صحتك وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما أعراض السكر؟",
+    "answer": "من الأعراض كاين العطش الزايد، التبول المتكرر، وفقدان الوزن.",
+    "entities": {
+      "symptoms": [
+        "العطش الزايد",
+        "التبول المتكرر",
+        "فقدان الوزن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا تبور وعندي عطش وجوع. واش ممكن يكون عندي السكري؟",
+    "answer": "ممكن تكون عندك علامات السكري، ولكن خاصك تتأكد من طبيب.",
+    "entities": {
+      "symptoms": [
+        "تبور",
+        "عطش",
+        "جوع"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين علاقة بين السكر وعملية الجرح؟",
+    "answer": "ما كاينش علاقة مباشرة بين السكر وعملية الجرح. خاصك تحافظ على مستوى السكر في الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش عادي نقيسو السكر قبل الفجر؟",
+    "answer": "لا، ماشي عادي، ولكن خاصنا نعرفو الظروف ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي مرض السكر، شنو هو العلاج؟",
+    "answer": "يمكن ليك تاخد غابابينتون 300 مڭ فالنهار مرة وحدة قبل الفجر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نزيد الفعالية ديال الميتفورمين؟",
+    "answer": "ما يمكنش تزيد الجرعة فوق 3 غرام في اليوم. خاصك تلتزم بالجرعة المحددة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو كيسبب الجوع المتكرر؟",
+    "answer": "ممكن يكون بسبب تراكم الإنزيمات الحمضية فالمعدة. خاصك تراقب الأكل ديالك.",
+    "entities": {
+      "symptoms": [
+        "الجوع المتكرر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكري وانا عندي 15 عام. واش السكري كيأثر على الطول؟",
+    "answer": "ماشي علاقة مباشرة بين السكري والطول. خاصك تراقب صحتك بشكل عام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي 71 عام وكنهبط فالوزن، واش خاصني نقص فالماكلة؟",
+    "answer": "خاصك تنقص من الماكلة وتراقب مستوى السكر. استشر طبيبك.",
+    "entities": {
+      "symptoms": [
+        "هبوط الوزن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "صبعي اليسار كيحرقني وانا مريض بالسكر.",
+    "answer": "خاصك تاخد فيتامين ب12. استشر طبيبك إذا استمر الألم.",
+    "entities": {
+      "symptoms": [
+        "حرقان في الأصابع"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي صداع مزمن وكيزيد ملي كناكل الحلويات.",
+    "answer": "خاصك تتجنب الحلويات وتراقب مستوى السكر. استشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع مزمن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكري، واش ولادي غادي يصابو بنفس المرض؟",
+    "answer": "ماشي بالضرورة، ولكن كاينة احتمالات. خاصك تراقب صحتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن شي واحد عندو السكر يوصل ل 400 ملي كياكل الدوا؟",
+    "answer": "الأدوية وحدها ما كافياش. خاصك تشوف طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي تأثير سلبي من استعمال كميات كبيرة من إبر الأنسولين؟",
+    "answer": "نعم، استعمال كميات كبيرة من الأنسولين يمكن يسبب انخفاض السكر في الدم. خاصك تكون حذر وتراقب مستويات السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بالسكري وكنتساءل واش استخدام الأدوية مضر؟",
+    "answer": "إلا كانت الأدوية مستعملة بطريقة صحيحة، فهي مفيدة. خاصك تتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "علاجات لعلاج انخفاض السكر؟",
+    "answer": "خاصك تعرف السبب وراء انخفاض السكر. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما المعدلات الطبيعية ديال السكر فالدم؟",
+    "answer": "المعدل الطبيعي للسكر بعد الصيام كيتراوح بين 70 و110 مغ/ديسيلتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "تحليلتي ديال السكر بعد ماكلتي كانت 95. واش هادشي عادي؟",
+    "answer": "هاد النتيجة طبيعية. خاصك تراقب مستويات السكر ديما.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو العلاقة بين ارتفاع نسبة الكوليسترول وارتفاع السكر فالدم؟",
+    "answer": "ماكاينش علاقة مباشرة، ولكن ارتفاع الكوليسترول ممكن يزيد من خطر الإصابة بالسكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو النسب ديال التحليل السكري الطبيعي؟",
+    "answer": "المعدل الطبيعي للسكر خاصو يكون أقل من 100 مغ/ديسيلتر. بعد الماكلة، أقل من 140 مغ/ديسيلتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كنحس بالعطش والدوخة والمرارة. شنو خاصني ندير؟",
+    "answer": "خاصك تدير تحليل سكر فالدم. هاد الأعراض ممكن تكون علامة على ارتفاع السكر.",
+    "entities": {
+      "symptoms": [
+        "عطش",
+        "دوخة",
+        "مرارة"
+      ],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو السكر الخفي؟",
+    "answer": "السكر الخفي هو مرحلة ما قبل السكري. خاصك تكون واعي وتراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بغيت نعرف واش السكري كيأثر على العلاقة الحميمية؟",
+    "answer": "نعم، السكري كيمكن يأثر على الانتصاب. خاصك تتبع العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الميتفورمين كيتأثر بالبنكرياس؟",
+    "answer": "أيوة، الميتفورمين كيزيد من إفراز الإنسولين فالجسم. خاص استشارة طبيب إذا كان عندك تساؤلات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الكركم كينقص السكر فالدم عند المصابين بالسكري 2؟",
+    "answer": "ما كاينش دليل علمي كافي على هاد الشي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السكر ديالي وصل ل 95 بعد الفطور، واش هادشي عادي؟",
+    "answer": "95 عادي، ولكن خاص تراقب السكر ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "والدي عندو السكر وجرحة فالمقدمة. شنو ندير؟",
+    "answer": "خاص التلقيح باش نمنعو العدوى ومراجعة طبيب الجراحة.",
+    "entities": {
+      "symptoms": [
+        "جرحة"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش نخفض السكر؟",
+    "answer": "خاص نظام غذائي متوازن ومراقبة طبية. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي مشاكل فالرجلين بسباب السكر.",
+    "answer": "خاصك تشوف طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالرجلين"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايتعالج السكر فالدم؟",
+    "answer": "كيحتاج نظام غذائي وعلاجات طبية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي الآثار ديال نقص فيتامين د على مرضى السكري؟",
+    "answer": "نقص فيتامين د كيمكن يأثر على العظام. خاص دعم بالكالسيوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو معدل السكر الصحي؟",
+    "answer": "معدل السكر الصحي هو أقل من 130 قبل الأكل وأقل من 180 بعد جوج سوايع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن تزيد السكر فالمشروبات الصحية لطفلة عندها 5 سنين؟",
+    "answer": "خاصنا نراقبو كمية السكر اللي كنديرو فالمشروبات. من الأفضل نتشاور مع طبيب الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو الحل باش نقصو من السكر عند اللي عندهم السرطان؟",
+    "answer": "الحل كيعتمد على الحالة الصحية للمريض. خاص استشارة طبيب مختص لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي السكر و عندي ضعف فالجنسي.",
+    "answer": "خاصك تتحكم فمستوى السكر. من بعد، خاصك دير فحص الهرمونات مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ضعف جنسي"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو المعدل ديال السكر اللي كيتراكم خطير؟",
+    "answer": "معدل السكر اللي كيتجاوز 11 غرام كيتعتبر خطير. خاص مراقبة دقيقة للتغذية والعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي دوا فعال على مرض السكر؟",
+    "answer": "كاينين أدوية كتساعد على التحكم فمستوى السكر، ولكن خاص نظام غذائي متوازن مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن نداويو السكر من النوع الثاني؟",
+    "answer": "ما كاينش علاج نهائي، ولكن يمكن السيطرة على المرض عبر تغيير نمط الحياة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما أعراض السكري؟",
+    "answer": "من بين الأعراض المعروفة كاين العطش الزايد وكثرة التبول. خاص تشخيص دقيق عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "العطش الزايد",
+        "كثرة التبول"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن ماكلة كتعطي للناس لي مراض بالسكر؟",
+    "answer": "الناس لي عندهم السكري خاصهم ياكلو الخضرة والفواكه، ويبعدو على الحلويات والسكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيتسبب انخفاض مستوى السكر فالوقت لي كيكون فيه الدورة الشهرية. واش الدورة عندها تأثير على السكر؟",
+    "answer": "نعم، الدورة الشهرية كتأثر على مستوى السكر. خاص تعديل الجرعة فهاد الفترة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كيعاقب السكري ديال النوع الثاني العجز الجنسي؟",
+    "answer": "نعم، السكري كيتعتبر سبب من أسباب ضعف الجنس. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ضعف جنسي"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "العسل ديال النحل خطير على الناس اللي عندهم السكر.",
+    "answer": "العسل فيه كمية كبيرة ديال السكر، وكيكون خطر على مرضى السكري. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو أحسن علاج لمرض السكر؟",
+    "answer": "ما كاينش دوا واحد، خاص نظام شامل كيختلف من واحد لآخر حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "مضار الرز الأسمر على مرضى السكر؟",
+    "answer": "ما كاينش قيود محددة، ولكن من الأفضل ما تكترش من الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بالسكر وباغي علاج فعال.",
+    "answer": "خاصك نظام غذائي متوازن وعلاج تحت إشراف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش ممكن يكون عندي السكري؟",
+    "answer": "لا، النتائج ديالك طبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما أحسن الحالات اللي ممكن يتعرض ليها واحد عندو السكري؟",
+    "answer": "من بين الأخطار كاين فشل الكلوة وفقدان البصر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هوما الماكلا اللي كاتنقص من السكر ف الدم؟",
+    "answer": "ما كاينش ماكلة معينة، خاص التوازن فكمية الماكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش القرفة فيها السكر وشنو طريقة الاستعمال ديالها؟",
+    "answer": "هادشي معقد وما كاينش علاج مؤكد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الضغط ديالي مناسب وأنا مصاب بالسكر؟",
+    "answer": "من الأفضل يكون أقل من 120/80.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "بنتي عندها السكري وكتقيس السكر ديالها اللي كيوصل ل ٢٠٠. المشكل عندها هو...؟",
+    "answer": "خاصك تشوف طبيب نفسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هي أعراض مرض السكري؟",
+    "answer": "مكاينش أعراض واضحة، ولكن من بين الأهم هو زيادة فالعرق والتبول.",
+    "entities": {
+      "symptoms": [
+        "زيادة فالعرق",
+        "التبول"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "أنا مصاب بالسكري ونتيجة الكرياتينين كانت 12.09 ملغرام/ديسلتر. واش هادشي عادي؟",
+    "answer": "يستحسن تشاور مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "عندي دوخة وكنت قاصح السكر بعد الفطور وراه 96. واش هادشي طبيعي؟",
+    "answer": "نعم، راه طبيعي وما عندو علاقة بالدوخة.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "درت اختبار ديال السكر فزوج مختبرات. النتائج كانت 102 و104. شنو تعني هادشي؟",
+    "answer": "كاين خطر ديال السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيفاش كايعالجو مرض السكر؟",
+    "answer": "كيحتاج نظام شامل مع أوقات وجبات وكمية غذائية مناسبة، وعلاجات تحت إشراف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش كاين شي تأثير سلبي على مستويات السكر فدم مرضى السكر منين كترتفع درجات الحرارة؟",
+    "answer": "ما كاينش علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "واش الشخص اللي عندو السكر يقدر ياخد ديكسيميد؟",
+    "answer": "يمكن لو إلا كان ضروري، ولكن تحت إشراف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "شنو هو علاج السكر؟",
+    "answer": "كاينين جوج أنواع: العلاج بالإنسولين والعلاج بدون إنسولين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "السهر ممكن يكون عندو تأثير سلبي على مرضى السكري؟",
+    "answer": "أي حاجة كتسبب مشاكل فالنظام عندها تأثير سلبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "وقتاش كيتعتبر السكري مسيطر؟",
+    "answer": "ملي كيكون معدل السكر التراكمي أقل من 7%.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "مرض السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Diabetes Mellitus",
+    "question_darija": "كيعاني من كثرة التبول وعطش قوي وتحليل السكر العشوائي 115. شنو خاصني ندير؟",
+    "answer": "ضروري نعاودو التحليل فمختبر معتمد مع فحص السكر فالعروق.",
+    "entities": {
+      "symptoms": [
+        "كثرة التبول",
+        "عطش قوي"
+      ],
+      "medical_field": "مرض السكري",
+      "urgency": "عالي"
+    }
+  }
+]
