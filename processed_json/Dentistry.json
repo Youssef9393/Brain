@@ -1,0 +1,5590 @@
+[
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سواد حدا الفم.",
+    "answer": "خاصك تمشي عند طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "سواد حدا الفم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب فالفم مزمن.",
+    "answer": "خاصك تراجع طبيب الجهاز الهضمي.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالفم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش السبيجيك كيعالج آلام السنان؟",
+    "answer": "نعم، السبيجيك كيعالج الآلام.",
+    "entities": {
+      "symptoms": [
+        "آلام السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو اسم دوا ديال السنان؟",
+    "answer": "كاين باراسيتامول وكاتافلام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي حساسية فالفم.",
+    "answer": "راجعي طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالفم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي بياض ففمي.",
+    "answer": "خاصك تمشي عند الدونتيست.",
+    "entities": {
+      "symptoms": [
+        "بياض فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ريحة فمي ونزيف الدم.",
+    "answer": "هاد الشي كيتسبب فالجير على السنان.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم",
+        "نزيف الدم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بغيت علاج لوجع السن.",
+    "answer": "خاصك تمشي عند الطبيب ديال السنان.",
+    "entities": {
+      "symptoms": [
+        "وجع السن"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الأسنان كيتحلو بعد الخلع.",
+    "answer": "يمكن تاخد إيبوبروفين.",
+    "entities": {
+      "symptoms": [
+        "وجع الأسنان بعد الخلع"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ارتخاء ف الركابي.",
+    "answer": "خاصك تمشي عند طبيب فكين.",
+    "entities": {
+      "symptoms": [
+        "ارتخاء ف الركابي"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "لساني كيخدم بحال المنشار.",
+    "answer": "خاصك تمشي عند الطبيب ديال السنان.",
+    "entities": {
+      "symptoms": [
+        "لسان كيخدم بحال المنشار"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "فمي كيتنفخ ويعورني.",
+    "answer": "خاصك ترجع للأسنان فأقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ الفم",
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عالج الوجع ديال الضرصا.",
+    "answer": "يمكن تستعمل المسكنات وكيسد الأسنان المنخورة.",
+    "entities": {
+      "symptoms": [
+        "وجع الضرصا"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج ديال التهابات اللثة بلا جراحة؟",
+    "answer": "خاصك تدير فحص طبي.",
+    "entities": {
+      "symptoms": [
+        "التهابات اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بغا يبان ليه تورم بعد ما كلا السنه.",
+    "answer": "خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تورم بعد الأكل"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو أحسن دوا ديال الألم ديال السنان؟",
+    "answer": "يمكن تستعمل إيبوبروفين.",
+    "entities": {
+      "symptoms": [
+        "ألم السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تسوس فسناني.",
+    "answer": "خاصك تمشي عند أقرب عيادة.",
+    "entities": {
+      "symptoms": [
+        "تسوس الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بغيت شي حل باش نصلح تسوس سنان القط ديالي.",
+    "answer": "عافاك اتصل بالبيطري.",
+    "entities": {
+      "symptoms": [
+        "تسوس سنان القط"
+      ],
+      "medical_field": "البيطرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم فالفم.",
+    "answer": "عافاك شوف طبيب الباطنة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالفم"
+      ],
+      "medical_field": "الباطنة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هي العواقب ديال ابتسامة هوليوود؟",
+    "answer": "العواقب كيمكن تكون سلبية على صحة الأسنان. خاصك تهتم بالنظافة و تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو الدوا ديال الساد فالفم؟",
+    "answer": "خاصك تسول طبيب الأسنان باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ساد"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي خروج من لساني.",
+    "answer": "خاصك تشوف الطبيب باش يشوف الحالة ديالك و يعالج مشكل السنان.",
+    "entities": {
+      "symptoms": [
+        "خروج من اللسان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تسوس الأسنان معدي؟",
+    "answer": "لا، تسوس الأسنان ماشي مرض معدي. خاصك تهتم بالنظافة.",
+    "entities": {
+      "symptoms": [
+        "تسوس الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تقويم الأسنان يقدر يسد الثغرات؟",
+    "answer": "أه، تقويم الأسنان يقدر يساعد في سد الثغرات. خاصك تستاشر طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عطش، جفاف فالفم، نقصان فالوزن.",
+    "answer": "هاد الأعراض كيمكن تكون علامة على مشكل صحي. خاصك تشوف الطبيب باش يدير لك التحاليل.",
+    "entities": {
+      "symptoms": [
+        "عطش",
+        "جفاف الفم",
+        "نقصان الوزن"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تسوس فسناني وولدي عندو عامين.",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يشوف الحالة ويعطي العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "فمي مسدود وما قادرش نحكم راسي.",
+    "answer": "خاصك تمشي عند الطبيب للفحص، يمكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "فم مسدود"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج لتسوس السنان وأنا حامل؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، هو اللي يقدر يحدد العلاج المناسب لك.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي جفاف فالفم.",
+    "answer": "خاصك تمشي عند الطبيب للفحص، يمكن يكون عندك مشكل يحتاج للعلاج.",
+    "entities": {
+      "symptoms": [
+        "جفاف الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي حزازة منبسطة فالفم.",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "حزازة فالفم"
+      ],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو كايعني لون اللثة؟",
+    "answer": "لون اللثة كيعكس صحة الفم، خاصك تشوف طبيب الأسنان إذا كان عندك مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تقرحات فالفم، شنو الأسباب؟",
+    "answer": "الأسباب غالباً نفسية أو باطنية، خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "تقرحات فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحيدو ريحة الفم الكريهة؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، هو اللي يقدر يساعدك في هاد المشكل.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم الكريهة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "سنان بنتي كاملين مسوسين، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يعالجهم.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش عادي يكون عندي صعوبة فالمضغ بسباب التقويم؟",
+    "answer": "أه، هادشي عادي فبعض الحالات. خاصك تراقب الوضعية ديالك مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالمضغ"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "خاصني نزرع سن آخر؟",
+    "answer": "إذا كان السن مفقود، يمكن نحتاجو نزرع سن جديد. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كايتعالج النزيف ف اللثة؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نزيف ف اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بغيت نغلق جوج سنان، شنو هو الحل؟",
+    "answer": "خاصك تسول طبيب الأسنان باش يعطيك أحسن نصيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج ديال تمزق الضفر؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تمزق الضفر"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تورم فطرف لساني.",
+    "answer": "خاصك ترجع للطبيب باش يتفحص ويشوف السبب ديال الورم.",
+    "entities": {
+      "symptoms": [
+        "تورم فطرف اللسان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كايتصلح السواد و كايتبدل اللون؟",
+    "answer": "عافاك شاور شي طبيب جلدي. هو اللي يقدر يساعدك فهاد المشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "تقرحات في شفتي.",
+    "answer": "استعملت مضاد للبكتيريا كعلاج فمّي. خاصك تشوف الطبيب إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "تقرحات في الشفتين"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش الضروس الزائدة المطمورة حالة نادرة؟",
+    "answer": "ماشي بزاف، كيتكرر فبعض الحالات. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ميكروبات ف السنان، شنو الحل؟",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي خراج مؤلم، شنو السبب؟",
+    "answer": "يمكن يكون بسبب التهاب أو عدوى. خاصك تمشي للطبيب باش يعالجك.",
+    "entities": {
+      "symptoms": [
+        "خراج مؤلم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو السبب لي كيسبب لسانو يتحمر و ينتفخ؟",
+    "answer": "يمكن يكون التهاب أو حساسية. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "لسانو يتحمر",
+        "ينتفخ"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين بزاف دالفطريات ففمي، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب الجلد باش يعالج الفطريات. العلاج كيتطلب وصفة طبية.",
+    "entities": {
+      "symptoms": [
+        "فطريات فالفم"
+      ],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هوما الأسباب ديال التهاب اللثة و الطلع ديال السنان؟",
+    "answer": "من الأسباب الرئيسية كاين مرض السكر وسوء العناية بالفم. خاصك تحافظ على نظافة الفم.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة",
+        "الطلع ديال السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كايسبب ارتفاع حمض اليوريك مشكل ف ريحا سنانك؟",
+    "answer": "أه، ارتفاع حمض اليوريك يمكن يسبب مشاكل فالفم. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "مشكل ف ريحا سنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش عندي ريق حلو فكل مرة؟",
+    "answer": "يمكن يكون عندك مشكل فالفم أو فالصحة العامة. خاصك تمشي عند الطبيب باش يدير ليك الفحص.",
+    "entities": {
+      "symptoms": [
+        "ريق حلو"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "طفلة عندها ست شهور وعندها تقرحات ف لسانها.",
+    "answer": "من الأفضل تشوف طبيب الأطفال باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "تقرحات ف اللسان"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش خاصني نمشي عند الطبيب ولا غير عادي؟",
+    "answer": "إذا كان عندك مشكل فظهور الأسنان، من الأفضل تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاج ارتخاء الفك كيفاش؟",
+    "answer": "على حسب الحالة، من الأفضل مراجعة طبيب مختص فالفكين.",
+    "entities": {
+      "symptoms": [
+        "ارتخاء الفك"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فسناني.",
+    "answer": "خاصك تمشي عند الطبيب باش يشخص الحالة ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب ف اللسا.",
+    "answer": "خاصك ترجع للطبيب باش يدير ليك الفحص ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب ف اللسا"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاج ألم السن كيفاش؟",
+    "answer": "خاصك تمشي عند الطبيب باش يقيم الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم السن"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشكل مع الإحساس بالدوخة.",
+    "answer": "من الأفضل تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "طب الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "وجع قاتل في السن.",
+    "answer": "خاصك ترجع الطبيب باش يدير ليك فحص شامل ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف السن"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "المسكا زوينة لسنان؟",
+    "answer": "طبعا، راه مفيد وخاصنا نستعملوه للتنظيف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش عندك مرض الغدد اللعابية؟",
+    "answer": "أه، يمكن تتصاب الغدد اللعابية بالالتهابات. خاصك تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عافاك عالج ليا الضرس اللي تهرسات.",
+    "answer": "خاص العصب يتعاود يتعالجو. من الأفضل تمشي عند طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "اللثة ديالي كتوجعني بزاف و عندي تورم.",
+    "answer": "خاصك تمشي للطبيب باش تاخد تشخيص دقيق وتعالجات مناسبة.",
+    "entities": {
+      "symptoms": [
+        "وجع اللثة",
+        "تورم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "وقتاش كايتلصق الضرس الصناعي بعد الخلع؟",
+    "answer": "من الأحسن نتسناو شي شهراين. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كايعاون البوكس فموقف الابتسامة؟",
+    "answer": "نعم، يمكن علاجها بالبوتكس إن شاء الله. خاصك تشاور مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج الألم ديال السنان؟",
+    "answer": "العلاج كيعتمد على السبب. عافاك سير عند الطبيب باش يدير ليك فحص.",
+    "entities": {
+      "symptoms": [
+        "ألم السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب اللثة و التهاب فالفم.",
+    "answer": "استشارة طبيب فنان لسنان للتشخيص والعلاج. خاصك تعتني بنظافة الفم.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة",
+        "التهاب الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج جفاف اللثة؟",
+    "answer": "التقشير والنظافة مهمين. خاصك تشاور مع طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "جفاف اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مضيضة ف السنان.",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب ويعالجك.",
+    "entities": {
+      "symptoms": [
+        "مضيضة ف السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ريحة فم خايبة، شنو ندير؟",
+    "answer": "خاصك تمشي عند الطبيب وتنظف سنانك واللثة.",
+    "entities": {
+      "symptoms": [
+        "ريحة فم خايبة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج التهاب الحلق؟",
+    "answer": "خاصك تمشي عند الطبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فكاسك صغير فالتسلسيل، شنو ممكن يكون السبب؟",
+    "answer": "خاصك تشوف الطبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فكاسك"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عافاك وريني كيفاش نحيد ريحتي الكريهة.",
+    "answer": "خاصك تمشي عند طبيب الأسنان الأول.",
+    "entities": {
+      "symptoms": [
+        "ريحة كريهة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب فالفم وباين شي كرة، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يدير ليك فحص.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي الأسنان كيوجعوني، شنو ندير؟",
+    "answer": "خاصك تعتني بالنظافة ديال الأسنان وتزور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هي اللثة؟",
+    "answer": "السبب هو التهاب اللثة، خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي صداع فالنص",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بغيت علاج سريع للأسنان واللثة",
+    "answer": "الدونتيست هو اللي كيهتم بالأسنان واللثة، خاصك تزور طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر نحسن السنان واللثة؟",
+    "answer": "خاصك تراجع طبيب الأسنان باش يعطيك النصائح والعلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فأسناني، شنو ندير؟",
+    "answer": "خاصك تراجع طبيب الأسنان باش يعرف السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "وجع فأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب اللثة، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأسنان للتشخيص والعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كيتعالج التهاب السنان؟",
+    "answer": "التهاب السنان كيتطلب زيارة طبيب الأسنان. العلاج غالباً كيكون عن طريق علاج العصب.",
+    "entities": {
+      "symptoms": [
+        "التهاب السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فالجسم وجفاف فالفم، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان. الجفاف فالفم ممكن يكون عندو أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالجسم",
+        "جفاف فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كاين علاقة بين الصداع وتسوس السنان؟",
+    "answer": "نعم، ممكن يكون تسوس السنان سبب للصداع. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "الصداع",
+        "تسوس السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج قرحة الفم؟",
+    "answer": "خاصك تحدد السبب ديال القرحة. من الأفضل تزور طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "قرحة الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كيتستعمل الخيط الأسنان؟",
+    "answer": "الخيط كيتستعمل من بعد ما تغسل السنان. كيساعد فتنظيف المسافات بين الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش الفراولة كتنفع للأسنان؟",
+    "answer": "ما كاينش دراسات علمية تثبت هاد الشي. خاصك تركز على العناية بالأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سنان معمرة وعندي ورم فالفم، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب الأسنان باش يشوف الحالة. الورم ممكن يكون عندو أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "ورم فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شحال من مرة يمكن يزرعوا السنان الفوق والسفل؟",
+    "answer": "على حسب الحالة ديال الفك وعدد الأسنان المفقودة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "المعجون ديال سنان الدراري واش خطير؟",
+    "answer": "من الأفضل استعمال المعاجين الخاصة بالأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش دهن الفازلين على السنان مزيان؟",
+    "answer": "ما كايعطيش شي فايدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كايتحيد الجير من السنان؟",
+    "answer": "كيتم التحيد باستخدام جهاز الموجات الصوتية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش البلاتين ضار؟",
+    "answer": "ما كاين مشكل، ولكن خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بغيت مضمض مزيان لللثة.",
+    "answer": "ممكن تجرب معجون الأسنان بارودونتاكس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "اللعب بزاف فالفم كيضر؟",
+    "answer": "ممكن يسبب التهابات اللثة، خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "إلى كان عندك قلع فالفم، واش ممكن يكون بسباب الضغط العالي؟",
+    "answer": "أه، ممكن، ولكن خاصك تبلغ الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "اللثة كتنزف والعظام كيتحركو.",
+    "answer": "خاص تحيد الرواسب وتستعمل مضمة.",
+    "entities": {
+      "symptoms": [
+        "نزيف اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو اللي كيخلي السان يبان بييض؟",
+    "answer": "غالبا كيكونو فطريات، خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو السبب ديال التهابات الفم المتكررة؟",
+    "answer": "خاص يتختبر باش يتشخص، ومن بعد كاين العلاج.",
+    "entities": {
+      "symptoms": [
+        "التهابات الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو أحسن علاج لنزول اللثة؟",
+    "answer": "التقشير ديال الأسنان والغسل الفمي.",
+    "entities": {
+      "symptoms": [
+        "نزول اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نداوي الأسنان؟",
+    "answer": "خاصك تزور الطبيب باش يعالج لك المشكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش يمكن ناخد سيبراكس لالتهاب اللثة؟",
+    "answer": "السبيراميسين هو أحسن علاج لالتهاب اللثة.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "أنا عندي 45 عام، واش كاين شي حاجة للتقويم؟",
+    "answer": "نعم، كاين إمكانية لعمل تقويم للأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ريحة فمي خانزا من شحال هادي.",
+    "answer": "خاصك تحيد الرواسب وتغسل الجيوب.",
+    "entities": {
+      "symptoms": [
+        "رائحة الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "درت سنان، ولكن ماخدّامش.",
+    "answer": "سير عند الطبيب ديالك باش يدير لك عملية جديدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم فأسناني.",
+    "answer": "من الأفضل تزور طبيب الأسنان أقرب وقت ممكن.",
+    "entities": {
+      "symptoms": [
+        "ألم الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "المنطقة تحت السنان كتتعفن",
+    "answer": "خاصك تمشي للطبيب باش يشوفك ويدير ليك الأشعة باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "تعفن"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الدم كيجري من فمي",
+    "answer": "يمكن يكون عندك التهاب اللثة أو التهاب اللوزة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي خروج من اللثة، شنو هو الدوا؟",
+    "answer": "خاصك مضاد حيوي، ولكن خاصك تمشي للطبيب باش يكتب ليك الوصفة.",
+    "entities": {
+      "symptoms": [
+        "خروج من اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشكل فأسنان",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "دائرة بيضا ف لسانك",
+    "answer": "خاصو يتحلل باش نتأكدو. يمكن يكون فيه ميكروبات.",
+    "entities": {
+      "symptoms": [
+        "دائرة بيضا"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو أحسن طريقة باش نداوي الآلام ديال السنان؟",
+    "answer": "أحسن حاجة هي تشاور مع طبيب الأسنان ديالك، هو اللي غادي يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آلام السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "أنا حامل، واش نقدر ناخد شي مسكن للألم الأسنان؟",
+    "answer": "يمكنك تاخدي مسكنات، ولكن خاصك تسولي الطبيب قبل ما تاخدي أي حاجة.",
+    "entities": {
+      "symptoms": [
+        "ألم الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش خلع ضرس واحد كيأثر على سنان الباقية؟",
+    "answer": "أه، خلع ضرس واحد يمكن يأثر على السنان الباقية. خاصك متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "خلع ضرس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الوجع السنوي عادي؟",
+    "answer": "الوجع السنوي ماشي عادي، خاصك تشوف الطبيب. إيبوبروفين يقدر يخفف الألم مؤقتا.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "فين كاين طبيب فهاد المنطقة؟",
+    "answer": "خاصك تمشي عند الطبيب باش يعرف السبب ديال الحمى.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو سبب الحبة ففمي؟",
+    "answer": "ما عندها علاقة بالفطريات.",
+    "entities": {
+      "symptoms": [
+        "حبة فالفم"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كنعالج خراج الضرس؟",
+    "answer": "كيخدم الطبيب بفرشة باش يحفر سنو، ويدير شقوق، وغسلو، ومن بعد كيحطو فيه الصمغ.",
+    "entities": {
+      "symptoms": [
+        "خراج"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو أحسن كريم لتفتيح الشفاه؟",
+    "answer": "خاصك تمشي عند طبيب الجلدية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش كايتعقدو الشفايح؟",
+    "answer": "الجفاف والاكتئاب يقدرو يسببو لبثور.",
+    "entities": {
+      "symptoms": [
+        "شفايح متعقدة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كنعالج السوس فالسنان؟",
+    "answer": "التسوس كيتعالجو عند طبيب الأسنان بالغسل والتملق.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش خاصني نحيد الضروس حيت أنا حامل؟",
+    "answer": "خاصك تستشيري طبيب الأسنان بعد الولادة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "اللسان ديالي تبلع، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الفم.",
+    "entities": {
+      "symptoms": [
+        "لسان متورم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب عصبي وكيخرج الدم، شنو ندير؟",
+    "answer": "خاص نراجعو لعيادة الأسنان باش يعالجو العصب.",
+    "entities": {
+      "symptoms": [
+        "التهاب عصبي",
+        "خروج الدم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نعالج اللثة المتحسرّة؟",
+    "answer": "خاص تهتم بالنظافة ديال الأسنان، وممكن يتعالجو جراحيا.",
+    "entities": {
+      "symptoms": [
+        "لثة متحسرّة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن نديرو سوارت للفم بعد ما نحييو السنان؟",
+    "answer": "على حساب الحالة، خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحيد ريحة الكريما من فمي؟",
+    "answer": "العناية الفموية المستمرة هي الحل.",
+    "entities": {
+      "symptoms": [
+        "ريحة كريما"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش دكتور ماريك يقدر يدير لي سنان بيضين؟",
+    "answer": "الطريقة العلمية مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش التقويم كيأثر على الجسم؟",
+    "answer": "التقويم القياسي ما كايأثرش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو الدوا ديال احمرار الشفايف؟",
+    "answer": "خاصك دير فحص عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "احمرار الشفايف"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو دوا ديال النعاس؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يشوف ليك السبب ديال الألم.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب اللثة، شنو أحسن علاج؟",
+    "answer": "خاصك تشوف طبيب الأسنان باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو السبب فريحة فمي الخايبة؟",
+    "answer": "يمكن يكون عندك مشكل فالجهاز الهضمي، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ريحة فم خايبة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي بنتي 11 شهر، واش عندها رائحة فم خايبة؟",
+    "answer": "خاصك تشوف الطبيب باش يدير ليها فحص طبي.",
+    "entities": {
+      "symptoms": [
+        "رائحة فم خايبة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج الفطريات فالفم؟",
+    "answer": "خاصنا نعرفو السبب ونتعالجو. استعمل باراسيتامول أو دكتارين.",
+    "entities": {
+      "symptoms": [
+        "فطريات فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش كيخرج الدم فاش كتنظف السنان؟",
+    "answer": "يمكن يكون عندك التهاب فاللثة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "دم فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش الحشيش كيعوض السن المكسور؟",
+    "answer": "نعم، الحشيش كيتستعمل لتعويض الجزء المفقود من السن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن تبان الابتسامة من بعد التقويم؟",
+    "answer": "خاصو يتصلح عند الطبيب باش يقدر يوقف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الم فالسنان واش يقدر يسبب النعاس؟",
+    "answer": "نعم، الألم فالسنان يمكن يسبب التعب. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كان عندي سيلان قوي فاش كنت نائم.",
+    "answer": "خاصك تشوف طبيب الغدد أو طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "سيلان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش هاد التوسوس عادي؟",
+    "answer": "يمكن يكون بداية تسوس، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو العلاج ديال التسوس؟",
+    "answer": "العلاج كيتطلب زيارة طبيب الأسنان لي يدير لك الفحص والعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شحال كياخد الضروس ديال العقل باش يكبرو؟",
+    "answer": "ما كاينش وقت محدد، كل واحد وكبرتو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "النزيف دام أكثر من 6 ساعات، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب إذا استمر النزيف.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر نحيد الصفراء من السنان؟",
+    "answer": "غسل السنان عند الطبيب هو الحل، ومن بعد استعمل معجون مزيان.",
+    "entities": {
+      "symptoms": [
+        "صفراء فالسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نصلح سناني؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يقيم الحالة ويحدد العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش غسول الفم يومين مزيان؟",
+    "answer": "ما كاين حتى ضرر من استعمالو يومين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش كتسبب نزول اللثة؟",
+    "answer": "يمكن يكون بسبب التهاب اللثة أو أسباب هرمونية.",
+    "entities": {
+      "symptoms": [
+        "نزول اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي حب فالفم، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب تجميل فم مزيان.",
+    "entities": {
+      "symptoms": [
+        "حب فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج قرحة الفم؟",
+    "answer": "عسل النحل طلع على القرحة تلات مرات فالنهار ونتا بخير.",
+    "entities": {
+      "symptoms": [
+        "قرحة الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي الم بعد خلع الضرس، شنو ندير؟",
+    "answer": "خود إيبوبروفين. الوجع غادي يتلاشى تدريجيا فواحد الأيام القليلة.",
+    "entities": {
+      "symptoms": [
+        "الم بعد خلع الضرس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي شقوق ففمي من لفوق، شنو هو أحسن حل؟",
+    "answer": "خاصو يتختبر باش نعرفو شنو هو السبب.",
+    "entities": {
+      "symptoms": [
+        "شقوق فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كاينة شي ضرر للجسم إلا كان شي واحد كياكل التلبيسة ديال السنان؟",
+    "answer": "غالبًا لا تخرج مع البراز.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي جفاف الشفايف من فوق، شنو ندير؟",
+    "answer": "خاصك تشرب بزاف ديال لما والمشروبات المعدة للشفاء.",
+    "entities": {
+      "symptoms": [
+        "جفاف الشفايف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كنت كنحس بالوجع فسناني وكنت كاندير التزيف، شنو ندير؟",
+    "answer": "سدّ الشاشا لمودّات دقايق.",
+    "entities": {
+      "symptoms": [
+        "وجع فسناني",
+        "التزيف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كايتدار التخدير الموضعي فوقت عملية التكميم الثانية؟",
+    "answer": "نعم، إلا كان ضروري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي خراج فالسنان، شنو السبب؟",
+    "answer": "غالبًا تحتاج لحشو عصب. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "خراج"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن نحط حشوة جذر فالسنان اللي فيها خروج؟",
+    "answer": "أه، بشكل عام ممكن. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "خروج"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو أحسن طريقة باش نبيضو سناني؟",
+    "answer": "يمكن تستعمل مواد تبييض خاصة. ولكن من الأفضل تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحيد التسوس ف الدار؟",
+    "answer": "التسوس ما يمكنش يتحيد من غير عند طبيب الأسنان. خاصك زيارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن تعاود تزرع السنان اللي تخرجات بعد 15 عام؟",
+    "answer": "إلا كان العظم باقي صحيح، ممكن. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو الفيتامين اللي خاصني ناخد باش نداوي التهاب اللثة؟",
+    "answer": "فيتامين ج مزيان لعلاج التهاب اللثة. خاصك تركز عليه.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش خاصني نمشي عند طبيب الأسنان؟",
+    "answer": "أه، خاصك تشوف طبيب الأسنان. مهم للصحة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سنان كحلين ماصلحتهومش.",
+    "answer": "خاصك تشوف طبيب الأسنان. كلما بديتي بكري، كلما كان أحسن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ريحة فمي مرعوبة.",
+    "answer": "خاصك تشوف طبيب الأسنان. ممكن تكون عندك مشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "ريحة فم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش نيميسويليد مسكن فعال ومجفف للأسنان؟",
+    "answer": "نعم، هو مسكن فعال للأسنان. خاصك تستعمله بحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم فالعضلات وما قادرش نفتاح فمي.",
+    "answer": "خاصك دير فحص وتصوير راديو باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعضلات",
+        "عدم القدرة على فتح الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو العلاج ديال عدم التطابق بين السنان العليا والسفلى؟",
+    "answer": "يمكن يتعالج بالتقويم. عافاك اتصل بطبيب تقويم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نعالج الألم العميق فالسنان؟",
+    "answer": "خاصك تشوف الطبيب باش يتأكد من التشخيص. يمكن تاخد إيبوبروفين لتخفيف الألم.",
+    "entities": {
+      "symptoms": [
+        "ألم عميق فالسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو أسهل طريقة لتبييض الأسنان بلا ليزر؟",
+    "answer": "يمكن تستخدم القوالب أو الزوم لتبييض الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "اللسان ديالي بيض ومنفوخ، شنو ندير؟",
+    "answer": "عافاك شوف طبيب الأذن والأنف.",
+    "entities": {
+      "symptoms": [
+        "لسان أبيض ومنفوخ"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم فالسنان بسبب ريحان ملتهب.",
+    "answer": "خاصك تزور الطبيب باش يحدد سبب الألم وطريقة العلاج.",
+    "entities": {
+      "symptoms": [
+        "ألم فالسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو الاسم العلمي للأسناخ فالفم؟",
+    "answer": "هي الحواف ديال العظام لي دايرة على السن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ريحة فمي قاسحة، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باطني لعمل تحليل مخبري للدم.",
+    "entities": {
+      "symptoms": [
+        "ريحة قاسحة فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تزييت السنان بالفضة خطير؟",
+    "answer": "نعم، راه فيه الزئبق لي يمكن يكون خطير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش الزركون عندو نفس التصبغات بحال السنان الطبيعية؟",
+    "answer": "إلا كانت الجودة ديالها ماشي مزيانة، يمكن تكون عندها تصبغات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كاين شي حالة ما يمكنش فيها تدير سنان؟",
+    "answer": "ما كاينش حالات لي تمنعك من تركيب السنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش التهاب وانتفاخ اللثة يقدر يسبب تلف دماغ؟",
+    "answer": "لا، ولكن كايخالي سنانك طايحين.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة",
+        "انتفاخ اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ولدي تعرض لحادث و تقاسو سنانه الأمامية، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان دابا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو خطورة بنج الأسنان على الرضاعة؟",
+    "answer": "كاين بنية خاصة لرضع، وخاص ماترضعش لمدة 12-24 ساعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي فلك بين السنان فالفك العلوي، شنو ندير؟",
+    "answer": "تقدر دير موكعب ولا عدسات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش دوا ديال كيزاب مزيان باش يعالج الصداع ديال السنان؟",
+    "answer": "أه، يمكن يتاخد بحال البروفيون.",
+    "entities": {
+      "symptoms": [
+        "صداع ديال السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو الأسباب ديال النزيف ف اللثة؟",
+    "answer": "التهاب اللثة الحاد، الجروح، وطريقة تفريش الأسنان الخاطئة.",
+    "entities": {
+      "symptoms": [
+        "نزيف ف اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "تمنيت شي سيمانا و ضراسي كايتنفخو و كايلقاوني كايعيّوني بزاف، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب فأقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ ف الضراس",
+        "ألم ف الضراس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش عملية زرع الأسنان ساهلة ولا صعيبة؟",
+    "answer": "الزراعة ديال الأسنان ما زال ما كانتش صعيبة بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج تسوس السنان؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يتشخص الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تسوس السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش كا يرتعش الفم من فوق ملي كا يتقلب؟",
+    "answer": "هاد الارتعاش كيمكن يكون رد فعل عصباني طبيعي. إذا كان مستمر، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي طبقة تكسوية فاللسان كتنزول منين كنزيد نتنفس. شنو السبب؟",
+    "answer": "ممكن يكون الدخان هو السبب. خاصك تشوف طبيب للتشخيص.",
+    "entities": {
+      "symptoms": [
+        "طبقة تكسوية"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كا يعالج السنان العظام؟",
+    "answer": "خاصك تشوف طبيب الأسنان باش يحدد المشكل ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج ديال اللثة من النزيف؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان للتشخيص والعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نزيف اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كتحيد الطبقة البيضا لي كتكون على السنان؟",
+    "answer": "خاصك تنظف اللسان بالفرشاة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "تنظيف الأسنان عندو تأثير على الأسنان؟",
+    "answer": "التنظيف مزيان وضروري للحفاظ على صحة الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ولدي كيشكي من انتفاخ فوق ضروسو.",
+    "answer": "خاصك تمشي عند طبيب الأسنان، يمكن يحتاج مضاد حيوي.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ فوق الضرس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ما هو علاج تقرحة الشفة؟",
+    "answer": "خاصك تشوف طبيب باش يعطيك كريم مرطب وشي فيتامينات.",
+    "entities": {
+      "symptoms": [
+        "تقرحة الشفة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج ديال الحريق فالفم بعد استعمال العضة؟",
+    "answer": "خاصك ماتستعملش العضة، وضروري تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حريق فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش خطير ندير عملية بليزر فالفم؟",
+    "answer": "ما كاين حتى خطر، ولكن خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تأخر فنمو الأسنان عند الرضع.",
+    "answer": "ماشي مشكل، ولكن خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "تأخر فنمو الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي حزاز فالفم والجسم، واش كاين شي علاج؟",
+    "answer": "خاصك تشوف طبيب باش يحدد السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حزاز"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن تزرع الغدة اللعابية؟",
+    "answer": "ما كاينش زراعة للغدد اللعابية، خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي زوائد لحمية تحت السنان، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يشخص الحالة ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "زوائد لحمية"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو أسباب الفطريات فالفم؟",
+    "answer": "الفطريات كتجي من سوء العناية بالفم أو تناول المضادات الحيوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الفموية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تقرحات فالفم، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تقرحات فالفم"
+      ],
+      "medical_field": "الأمراض الفموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي احتقان فالفم، شنو هو العلاج؟",
+    "answer": "خاصك تشوف طبيب باش يشخص الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "احتقان فالفم"
+      ],
+      "medical_field": "الأمراض الفموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هي أسرع طريقة باش نبيضو السنان؟",
+    "answer": "يمكن تستعمل معجون خاص لتبييض الأسنان، ولكن خاصك تحترم التعليمات. من الأفضل تشاور طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي شقوق فالفم بسباب الشيشة، شنو هو العلاج؟",
+    "answer": "خاصك تستعمل مرهم مخصص للجروح، وضروري تشاور الطبيب إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "شقوق فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش زركون الفضة مفيد للأسنان اللي متفرقة؟",
+    "answer": "زركون الفضة كيعطي نتائج مزيانة، ولكن خاص استشارة طبيب الأسنان قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيتوجعو بزاف سناني.",
+    "answer": "عافاك وصف لي الألم، فين كاين وشنو كتحس بيه. هاد الشي غادي يعاونني نفهم مزيان.",
+    "entities": {
+      "symptoms": [
+        "ألم في الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج ضرس فوق اللثة؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش علاج التسوس مؤلم؟",
+    "answer": "ماشي مشكل، الطبيب كيعطيك مخدر قبل العملية باش ما تحسش بالألم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سنان بيضين مع حمى فالفم.",
+    "answer": "يمكن يكون التهاب فطري، خاصك تشاور الطبيب ديالك باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حمى فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سنان من سبع سنين و دابا انكسر، شنو الحل؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان ديالك باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب فمي.",
+    "answer": "دير صورة بانورامية للفكين ديالك وصيفطها لطبيب الأسنان باش يشوف لك كولشي.",
+    "entities": {
+      "symptoms": [
+        "التهاب فمي"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هي أضرار سوء الإطباق فالمستقبل؟",
+    "answer": "سوء الإطباق كيمكن يأثر على الأسنان واللثة والمفصل ديال الفك. خاصك تشاور طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو أحسن نوع ديال السنان؟",
+    "answer": "أحسن أنواع التلبيسات السنية هي الزيركون. كيتعتبر زيركون من الأفضل فالسوق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي فطريات فالفم.",
+    "answer": "استعمل مرهم مضاد للفطريات بحال داكترين 3 مرات فاليوم. خاصك تراجع الطبيب إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "فطريات فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نداوي اللثة المتورمة؟",
+    "answer": "خاصك تزور طبيب الأسنان باش يشخص الحالة. العلاج كيتضمن العناية الفموية.",
+    "entities": {
+      "symptoms": [
+        "اللثة المتورمة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر نحيدو لاصفرار ديال السنان؟",
+    "answer": "تقدر تدير جلسة تنظيف عند طبيب الأسنان. هاد الجلسة غادي تساعدك فتنظيف السنان.",
+    "entities": {
+      "symptoms": [
+        "اصفرار السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ضرس داير جروح.",
+    "answer": "عافاك زور طبيب الأسنان فالأقرب وقت. هاد الحالة خاصها علاج.",
+    "entities": {
+      "symptoms": [
+        "جروح فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج المنزلي لتسوس الأسنان؟",
+    "answer": "ما كينش علاج منزلي فعال. خاصك تفرشي سنانك بانتظام وتزور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تسوس الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب فمي.",
+    "answer": "عافاك زور طبيب الأسنان للفحص والعلاج. خاصك تشوف السبب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فمي"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هي الفوايد ديال المضمضة بزيت السمسم؟",
+    "answer": "زيت السمسم كيتستعمل لعلاج الالتهابات فالفم والأسنان. كيساعد فتهدئة الألام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ورم فالصبع بسبب الضروس.",
+    "answer": "الورم كيدل على شي مشكل، خاصك تشوف طبيب الأسنان باش يشخص الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي الحق فالسنان الأمامية، شنو العلاج؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، هو اللي يقدر يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حق فالسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج لريحة الفم الكريهة؟",
+    "answer": "خاصك تحافظ على نظافة الفم، وممكن تحتاج تشوف طبيب الأسنان إذا استمرت المشكلة.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم الكريهة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب فاللثة، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، العلاج كيتطلب تدخل طبي لتفادي المضاعفات.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي نفخة تحت الفك، شنو خاصني ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، هو اللي يقدر يشخص الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نفخة تحت الفك"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن للحامل تركب سنان؟",
+    "answer": "نعم، ممكن، ولكن خاصها تستاشر طبيب الأسنان قبل ما تدير أي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كاين خطر فبييض السنان بليزر؟",
+    "answer": "إلا كان تحت إشراف طبيب مختص، فممكن يكون آمن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاج عدم التطابق بين السنان شنو هو؟",
+    "answer": "يمكن علاجها بالتقويم، وهاد الشي كيعالج حتى الالتهابات إذا كانت موجودة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كاين شي حاجة باش نحيدو السوس من السنان كاملين؟",
+    "answer": "كاين علاج سميتو كومبوزيت، ولكن خاصك تمشي عند طبيب الأسنان باش يحدد لك أحسن حل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش يمكن ليك تقويم تاج الأسنان؟",
+    "answer": "نعم، ممكن تقويم تاج الأسنان، ولكن خاصك تشوف طبيب التقويم باش يحدد لك الطريقة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نبرد السخانة؟",
+    "answer": "يمكن لك تاخد إيبوبروفين، ولكن خاصك تمشي عند الطبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "السخانة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي اصفرار فحواف السن. واش كاين شي حل؟",
+    "answer": "خاصك تبدل الحشوة أو تعالجها عند طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "اصفرار حواف السن"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "سواد أسنان تحت السنان مع تآكل اللثة.. واش يمكن إزالتو؟",
+    "answer": "خاصك تشوف طبيب الأسنان باش يعرف شنو هو أحسن علاج لحالتك.",
+    "entities": {
+      "symptoms": [
+        "سواد الأسنان",
+        "تآكل اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كتحيد السنان العاسيين؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يدير لك فحص ويحدد لك الطريقة المناسبة لإزالة الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "اللوزة بيضاء و كاينة شي بقع حمرا صغار فالتحت.",
+    "answer": "يمكن تكون فطريات، خاصك تشوف الطبيب باش يتأكد من التشخيص ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "اللوزة البيضاء",
+        "بقع حمراء"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش مضر للأسنان إلا غسلتي سنانك بالما والملح كل نهار قبل النعاس؟",
+    "answer": "لا، ماكاين حتى شي ضرر من غسل الأسنان بالما والملح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الأسباب ديال الفطريات فالفم.",
+    "answer": "الفطريات فالفم ممكن تكون بسبب سوء العناية بالفم أو تناول المضادات الحيوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كنعالج سن ف الفك العلوي لي عندو انحراف؟",
+    "answer": "خاصك تزور طبيب الأسنان باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "انحراف السن"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش فيها ريحة فمّها؟",
+    "answer": "كاين بزاف د الأسباب، بحال النظافة الخايبة أو التسوس. خاصك زيارة طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي الأسنان اللي فوق خارجين، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب الأسنان باش يخطط لك العلاج.",
+    "entities": {
+      "symptoms": [
+        "أسنان خارجين"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شحال من مرة خاصني ناخد دوا ديال الخلع؟",
+    "answer": "من الأفضل تستاشر طبيب الأسنان، هو اللي يحدد لك الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تقدر تصلح ليا السنان؟",
+    "answer": "بالطبع، الطبيب هو اللي يحدد العلاج المناسب لحالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش التباطؤ فحركة الدم حدا السنان يقدر يأدي لأضرار؟",
+    "answer": "إيوا، هادشي كيأثر على صحة الأسنان. خاصك زيارة طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر نغسل سناني؟",
+    "answer": "استعمل فرشاة خاصة بالأسنان وداوم على التنظيف اليومي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشكل ففتح الفم، شنو ندير؟",
+    "answer": "يمكن يكون عندك ضرس عقل كيبغي يتهرس، خاصك زيارة طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "مشكل ففتح الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج ديال اللثة لي كتنزف؟",
+    "answer": "إزالة الرواسب الكلسية فعيادة الأسنان هي الحل.",
+    "entities": {
+      "symptoms": [
+        "نزيف اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو اللي كيضرني من بعد ما حشيت سناني؟",
+    "answer": "يمكن يكون فالحشوة شي خطأ، خاصك مراجعة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم بعد الحشوة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علق شي خيط د السنان ف سناني، شنو ندير؟",
+    "answer": "استعمل خيط آخر باش تخرج اللول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي لون مختلف فاللوزان، شنو ندير؟",
+    "answer": "يمكن تكون تصلبات أو تصبغات، خاصك زيارة طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "لون مختلف فاللوزان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش عندك شي فكرة على نوع العلاج المناسب؟",
+    "answer": "خاص الطبيب يدير فحص ويحدد السبب باش يعالجك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي شفايف حمرا، واش هادشي عادي؟",
+    "answer": "هادشي طبيعي، ولكن إذا كان عندك شي أعراض أخرى خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عينيهم ولاو زرقين فجأة، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب بشري باش يشخص الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "زرقين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تسوس فسناني، شنو ندير؟",
+    "answer": "خاصك تمشي عند الطبيب باش يعالج التسوس.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحيدو ريحة الفم؟",
+    "answer": "خاصنا نعرفو السبب ديال ريحة الفم ونعالجوها.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي لعاب سميك ولزج، واش هادشي خطير؟",
+    "answer": "هادشي ممكن يكون طبيعي، ولكن إذا كان مزعج خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "لعاب سميك ولزج"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نصلحو اللثة؟",
+    "answer": "خاصك تهتمي بنظافة الفم وتزوري الطبيب إذا كان عندك مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ملي شفت الدم من سناني، شنو السبب؟",
+    "answer": "هادشي ممكن يكون التهاب اللثة، خاصك تمشي لطبيب السنان.",
+    "entities": {
+      "symptoms": [
+        "دم من سنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الم شديد فسناني، شنو ندير؟",
+    "answer": "عافاك سير لطبيب سنان قريب، هادشي ماشي عادي.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش نقدر نستعمل البروفين للألم ديال السن؟",
+    "answer": "البروفين يقدر يساعد فالتخفيف من الألم، ولكن خاصك تشوف طبيب الأسنان قبل ما تاخدو.",
+    "entities": {
+      "symptoms": [
+        "الألم ديال السن"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "فاش من عمر كيبداو الدراري يطيحو الطواحين؟",
+    "answer": "تقريبا فعمرو 10 سنين، كيبداو يطيحو الطواحين ديال الخشب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "فاش من عمر كايتفضل تركيب السنان؟",
+    "answer": "كاينين حالات مختلفة، ولكن غالبا من 6 سنين وفوق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كاينعالج التكلس؟",
+    "answer": "التكلس كيتعالج بالتقليح باستخدام جهاز السكيلر، ماشي غير بالليزر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم حاد فالسنيات، شنو أحسن دوا؟",
+    "answer": "خاصك تمشي للطبيب باش يتشخص الحالة. إيبوبروفين يقدر يكون مزيان للتسكين.",
+    "entities": {
+      "symptoms": [
+        "ألم حاد فالسنيات"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو كيسبب لون الشفايف كحل عند الدراري؟",
+    "answer": "من الأفضل تمشي عند طبيب الأطفال باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تنظيف الأسنان بالملح مضر؟",
+    "answer": "لا، ولكن خاص يكون بطريقة صحيحة باش ما يضرش الميناء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش نقدر نخلط بابونج مع الحليب للرضيع؟",
+    "answer": "ماشي مزيان فهاد العمر، خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كاينعالج الضرس؟",
+    "answer": "العلاج كيتضمن إزالة العصب أو الضرس إذا كان متحرك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي انتفاخات فالسقف ديال السنان، واش كاين علاج؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، يمكن تحتاج عملية.",
+    "entities": {
+      "symptoms": [
+        "انتفاخات فالسقف ديال السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كاينعالج التهاب اللثة؟",
+    "answer": "خاصك تشوف طبيب الأسنان باش يعرف السبب ويدير العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تسوس فسناني، كيفاش نحل؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، هو اللي يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن نصلحو سنان الزيركون اللي تصلحات بالضغط؟",
+    "answer": "خاصك تشوف طبيب الأسنان، هو اللي يقدر يحسب ويعطيك الحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي اصفرار فسناني، شنو ندير باش نحيدو؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، هو اللي يقدر يساعدك فهاد المشكل.",
+    "entities": {
+      "symptoms": [
+        "اصفرار الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "خرجت واحد السن مؤلم بزاف.",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يتعالج السن اللي مؤلم.",
+    "entities": {
+      "symptoms": [
+        "ألم الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ريحة الفم القوية صعيب تحيدها.",
+    "answer": "السبب كاين بزاف، وأكبر واحد هو التهاب اللثة. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كايتعامل مع الحساسية د السنان؟",
+    "answer": "سنسوداين هو معجون أسنان اللي كيعاون باش يفرد الأسنان. خاصك تستعمله بانتظام.",
+    "entities": {
+      "symptoms": [
+        "حساسية الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج ضمور اللثة؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان، هو اللي يقدر يشخص الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضمور اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "وقتاش نقدر نشربو المشروبات السخونة بعد العملية؟",
+    "answer": "خاصك تستنى على الأقل تلتيام. من الأفضل تسول الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نعالج التهابات الأمعاء؟",
+    "answer": "خاصك تشاور طبيب، هو اللي يقدر يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نعالج ريح الفم؟",
+    "answer": "خاصك تشاور طبيب باش نعرفو السبب، واش من السنان ولا من المعدة.",
+    "entities": {
+      "symptoms": [
+        "ريح الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش الملح فالما كيموت فيه البشر؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يحيد ليك الجير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كاينة الكنديدا فالفم؟",
+    "answer": "الكنديدا هي نوع من الفطريات اللي كاينة فالفم، خاصك تشوف طبيب إذا كانت عندك مشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحيدو العرق من السنان إلا ما قدرناش نعيطو للطبيب؟",
+    "answer": "خود شي مسكنات بحال إيبوبروفين 400.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هي أحسن طريقة باش نغسل سناني؟",
+    "answer": "التنظيف بالفرشاة والمعجون مرتين فالنهار هو الأفضل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ولدي عندو تسع شهور ومازال ما خرج ليه سنانو.",
+    "answer": "خاصك تشوف طبيب أسنان متخصص، يمكن يكون عندو تأخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش التنظيف ديال السنان كايتكفي باش يحيد البكتيريا والفطريات؟",
+    "answer": "إلا درتيها مزيان، غادي تحيد البكتيريا والفطريات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي اللثة بعيدة على السنان، وهاد الشي كيسبب ليا مشاكل.",
+    "answer": "خاصك تشوف طبيب الأسنان، يمكن يحتاج الأمر لجراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "مرحبا. التهاب اللثة خاصك تذهب للطبيب.",
+    "answer": "زيارة الطبيب هي أحسن حل، غادي يقدر يساعدك.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين اسمرار ف الجهة التحتانية د سناني و كيتعرض للما سخون و كايدير الصداع.",
+    "answer": "هاد السوس خاصو حشو، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كا يضر إلا سحبتي العصب؟",
+    "answer": "إذا تبعتي الخطوات الصحيحة، ماغاديش يكون مؤلم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "أنا مجروح وما قادرش ناكل بسبب الألم.",
+    "answer": "خاصك تفحص عند الطبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "وقتاش نستعملو فرشاة السنان؟",
+    "answer": "من الأفضل تستعملها بعد كل وجبة، خصوصا فالعشرين دقيقة الأولى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشكل فالسيني اليمني.",
+    "answer": "الضرس ديال العقل خاصو يتحيد. خاصك تمشي عند طبيب السنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين شي علاج للأسنان الوسطى؟",
+    "answer": "يمكن تحتاج التقويم. خاصك تشوف طبيب السنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شحال الوقت باش يتسالا الخروج من بعد ما تهرسات السن؟",
+    "answer": "على حسب التشخيص ديال الطبيب والموقع ديال الخروج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحيد جير الأسنان؟",
+    "answer": "خاصك تمشي عند طبيب السنان. هو لي يقدر ينظف لك الجير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كتنظف السنان من الأطعمة والبكتيريا؟",
+    "answer": "بلاستعمال الفرشاة والمازوط. خاصك تغسل فمك مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي خطوط بيضا فأسناني، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب السنان. هو لي يقدر يعالج لك هاد المشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش كا يضرني اللثة والسنان؟",
+    "answer": "يمكن بسبب قلة النظافة الفموية. خاصك تهتم بالنظافة اليومية.",
+    "entities": {
+      "symptoms": [
+        "ألم اللثة",
+        "ألم الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "سيني انصدم و تلاح على الأرض، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب بسرعة. يمكن يكون عندك ضرر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي صداع و كا نتلف، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب السنان. هو لي يقدر يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشاكل فأسناني، و7 منهم فيهم سوسة.",
+    "answer": "خاصك تمشي للطبيب. خاصو يشوف الضروس المسوسة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ورم داخل ضرس متسوس، واش كاين خطر؟",
+    "answer": "خاصك تمشي للطبيب ديال السنان. هو لي يقدر يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي نزيف مستمر، شنو السبب؟",
+    "answer": "يمكن يكون نزيف من اللثة. خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي 18 عام و عندي تقدم فالتقدم السفلي، واش كاين علاج بلا جراحة؟",
+    "answer": "خاصك تشوف طبيب السنان. يمكن يقدر يعالج لك الحالة بلا جراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بغيت دوا آخر لعلاج آلام الضروس من البروفين.",
+    "answer": "كاين بزاف د الأدوية لعلاج وجع الأسنان، بحال النابروكسين وديكلوفيناك الصوديوم.",
+    "entities": {
+      "symptoms": [
+        "ألم الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تنظيف الأسنان بالمنظف ديال السنان يقدر يزيد الحساسية؟",
+    "answer": "نعم، يمكن يسبب حساسية لبعض الناس.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تبييض الأسنان بالليزر كيسبب الحساسية وكيزيد تسوسهم؟",
+    "answer": "تبييض الأسنان بالليزر ممكن يسبب حساسية لبعض الناس. خاصك تستاشر طبيب الأسنان قبل ما تدير أي إجراء.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي انتفاخ فالدريسة وبغيت شي مهدئ للوجع.",
+    "answer": "يمكن لك تستعمل ديكلوفيناك الصوديوم، ولكن خاصك تستاشر طبيب قبل ما تاخد أي دواء.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ",
+        "وجع"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الجسر هو نفس الشي بحال السن المتحرك؟",
+    "answer": "لا، الجسر ثابت بينما السن المتحرك يمكن يتنحى. كل واحد عندو استعمال خاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "طيحت طاحوني هادي جوج سيمانات ودابا كاينة شي حاجة بيضا تحت منو.",
+    "answer": "خاصك تمشي للعيادة باش يتفحصوك ويعطيوك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "شي حاجة بيضا"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نمنع نفاخ اللثة؟",
+    "answer": "خاصك تهتم بالنظافة الفموية، تستعمل الفرشاة والمساعد السني بانتظام.",
+    "entities": {
+      "symptoms": [
+        "نفاخ اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بغيت معجون أسنان آمن باش نحيد آثار الشاي والقهوة.",
+    "answer": "الأحسن هو أنك تمشي عند طبيب الأسنان باش يدير لك تنظيف احترافي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "أنا حاملا من الشهر التاسع وعندي ألم فأسناني.",
+    "answer": "خاصك تشوفي الطبيب باش يعالج لك الألم بطريقة آمنة للحمل.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الم أسود في السن وطعم مسيء.",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يصلح لك السن.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "طعم مسيء"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ما السبب ديال وجود جوج طبقات من السنان في الفك العلوي؟",
+    "answer": "هادشي كيسمى تراكم الأسنان. الحل هو التقويم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش نبييض سناني و نركب سنان أمامية؟",
+    "answer": "يمكن لك تبييض الأسنان، ولكن خاصك تستاشر طبيب الأسنان قبل ما تدير أي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو السبب ديال الحمى فالشفتين وشنو العلاج؟",
+    "answer": "الحمى فالشفتين ممكن تكون بسبب عدوى أو التهاب. خاصك تشوف طبيب باش يحدد السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حمى فالشفتين"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش لبثور ديالي ما تحسناتش مع الدوا؟",
+    "answer": "يمكن يكون السبب حاجة أخرى. خاصك تشوف طبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "لبثور"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب اللثة وخرج مني، استعملت مضاد حيوي.",
+    "answer": "الأوكسيسيللين يمكن يكون مفيد، ولكن خاصك تراجع طبيب الأسنان إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحيدو ريحت الفم الكريهة؟",
+    "answer": "خاصك تنظف أسنانك بانتظام وتستعمل غسول فم. إذا ما تحسنتش، شوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم الكريهة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو أحسن علاج للتسوس؟",
+    "answer": "خاصك تشوف طبيب الأسنان باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تسوس الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش التلقيح ديال الأسنان يقدر يأثر على الحمل؟",
+    "answer": "ما كاين حتى ضرر. ولكن خاصك تستشيري طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي عروق زرقاء وحمراء فطرف فمي. واش هادشي عادي؟",
+    "answer": "ماشي عادي، ولكن ماكاينش داعي للقلق. خاصك تشوف طبيب إذا كنتي خايفة.",
+    "entities": {
+      "symptoms": [
+        "عروق زرقاء وحمراء"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نعتني بأسناني فالدار؟",
+    "answer": "تنظيف الأسنان مرتين فاليوم مهم. خاصك تستعمل معجون أسنان جيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كتبيض الأسنان؟",
+    "answer": "الأفضل تشوف طبيب الأسنان، غادي يشرح ليك الطرق المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو السبب لضرسي كيتحلو من البارد؟",
+    "answer": "يمكن يكون تسوس أو حشو مكسور. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "تحلل الضرس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن يتدار استئصال العصب فحالة التهاب شديد؟",
+    "answer": "نعم، هادشي ممكن بعد تقييم الحالة من طرف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تقنية التنظيف ديال السنان مزيانة؟",
+    "answer": "فالبداية يقدر يكون مزعج، ولكن مع الوقت كيتلاشى. خاصك تكوني صابرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تقويم الأسنان كيعون فتوسيع الفك عند الكبار؟",
+    "answer": "ممكن، ولكن خاصك تشاور مع خبير. كل حالة عندها خصوصياتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو السبب اللي خلا سنينتو ما تبانش؟",
+    "answer": "السبب الرئيسي هو نقص فيتامين د. خاصك تعملي تحليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فمي بحال شي فقاعات صغار كاينة فيه.",
+    "answer": "خاصك تشوف الطبيب باش يدير ليك الفحص. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فمي",
+        "فقاعات"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشاكل فأسناني. بغيت شي مسكن.",
+    "answer": "المسكنات ما كيحلوش المشاكل الأساسية. خاصك تزور طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "القيح والريحة الكريهة من النيف والفم، شنو فيه وشنو كايتعالجو؟",
+    "answer": "خاصك تدير فحوصات. يمكن يكون التهاب أو عدوى.",
+    "entities": {
+      "symptoms": [
+        "قيح",
+        "ريحة كريهة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش عندك شي بديل للحشوة البيضة للسنان الأمامية؟",
+    "answer": "البورسلين هو بديل جميل. كيعطي مظهر طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو الفوائد والأضرار ديال جهاز التبييض الأسنان المنزلي؟",
+    "answer": "جهاز التبييض ممكن يكون عندو فوائد، ولكن كيمكن يسبب حساسية. خاص الحذر فاستعمالو.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ناب مقهور وباين فيه مشاكل صحية، شنو ندير؟",
+    "answer": "من بعد القلع، الألم كيبقى شي يامات. خاصك تاخد مسكن للألم.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سناني مفارقين و الپيست ديالي مخنوقة، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأسنان باش يدير ليك فحص شامل ويقترح عليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ثقب ف سقف الفم، شنو خاصني ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيعاني من مشكل فالفك السفلي، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب ديالك باش يدير ليك كشف طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي لحمية زائدة ففمي، شنو ندير؟",
+    "answer": "خاص مراجعة الطبيب لي دار العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج التهاب اللثة؟",
+    "answer": "علاج التهاب اللثة كيتطلب تنظيف جيد وزيارة الطبيب. خاصك تحافظ على نظافة الفم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي واحد الحبة فطرف لساني، بييضاء و بارزة شوية، و لكن ما كاضرنيش.",
+    "answer": "خاصنا نحددو السبب ديالها مباشرة. من الأحسن تمشي عند طبيب باش يشوفها.",
+    "entities": {
+      "symptoms": [
+        "حبة فطرف اللسان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج اللي مناسب لواحد عندو ألم حاد فأسنانو؟",
+    "answer": "خاصك تمشي عند طبيب السنان باش يشوف ليك السبب ديال الألم ويعالج ليك. العلاج كيتغير حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم حاد فأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيكون النزيف مع ظهور الطبقة الداخلية للسن.",
+    "answer": "خاصك تمشي عند الدونتيست باش يشوف ليك سنيكس ديالك ويدير ليك أي علاج ضروري.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو اللي كيسبب الجفاف والتقشر فالفم؟",
+    "answer": "السبب هو التغيرات ف الجو والتنفس من فمك ماشي من نيفك. خاصك تشرب الماء بزاف.",
+    "entities": {
+      "symptoms": [
+        "جفاف فالفم",
+        "تقشر فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نبيضو سناني ف الدار؟",
+    "answer": "مرحبا. كنقترح عليك معجون الأسنان لي كينظف ويبيض الأسنان. خاصك تستعملو بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فسناني لتحت.",
+    "answer": "إذا كانت الحكة هي السبب، خاصك تشوف طبيب السنان.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سناني ضعاف بزاف.",
+    "answer": "دير تركيبات قوية وما تخليهاش تتحرك.",
+    "entities": {
+      "symptoms": [
+        "ضعف الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين خط بيض كيمتد من ورا الخد.",
+    "answer": "أحسن حاجة هي تراجع الطبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "خط بيض"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ورم صغير فطرف اللسان.",
+    "answer": "خاصك تمشي للطبيب باش تشوف السبب وتتعالج.",
+    "entities": {
+      "symptoms": [
+        "ورم في اللسان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ريحة فمي خايبة بزاف.",
+    "answer": "كاين بزاف د الأسباب لريحة الفم، خاصك تشوف طبيب باش تعرف شنو هو السبب.",
+    "entities": {
+      "symptoms": [
+        "ريحة فم خايبة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشكل فالعضة.",
+    "answer": "يمكن يتعالجو بواحد التوقيت.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالعضة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم فقلبي.",
+    "answer": "سؤال ما عندوش معنى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سؤال على الغدد الفموية.",
+    "answer": "طبيب فم أو طبيب غدد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم ف الأسنان مع وجود نخر.",
+    "answer": "خاصك تشوف طبيب الأسنان باش يراجع ليك القلوع ديال الضروس.",
+    "entities": {
+      "symptoms": [
+        "ألم ف الأسنان",
+        "نخر"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر نحيد السنان لي فيها تسوس.",
+    "answer": "ماتقدرش. غير الطبيب اللي عندو الحق.",
+    "entities": {
+      "symptoms": [
+        "تسوس الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي خروج كبير ففمي وزرق.",
+    "answer": "خاصك تشوف طبيب باش يعرف شنو السبب ويعالجها.",
+    "entities": {
+      "symptoms": [
+        "خروج كبير فالفم",
+        "زرق"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج ديال التدخين؟",
+    "answer": "العلاج كيتطلب استشارة طبيب لتحديد الطريقة المناسبة لكل حالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش استئصال الضرس المدفون تحت اللثة عملية عامة؟",
+    "answer": "فبعض الحالات نادرة كتكون ضرورية، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش كاين الدم فالفم مع البلغم؟",
+    "answer": "غالبا كاينة وراها التهاب بالبكتيريا، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "دم فالفم",
+        "بلغم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فسناني كيوجعني بالليل.",
+    "answer": "وجع الأسنان الليلي كيدل على التهاب العصب. عافاك شوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فسناني"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب في العمود الفقري من بعد ما درت التقويم.",
+    "answer": "خاصني ندير فحص سريري باش نشوف واش كاين شي تخلخل.",
+    "entities": {
+      "symptoms": [
+        "التهاب في العمود الفقري"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج اللثة؟",
+    "answer": "يمكن استعمال غراغر معقمة فيها كلوكسيدين. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحيد طبقات التسوس من السنان؟",
+    "answer": "خاصك تدير فحص طبي، ومن بعد كيتحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاج لحمر لعروق.",
+    "answer": "خاص تعالج تقرحة اللسان إلا عرفتي السبب ديالها، إما من الأسنان ولا من الجسم.",
+    "entities": {
+      "symptoms": [
+        "لحمر لعروق"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فالفم من تحت.",
+    "answer": "خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "وجع فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الدم كينزل من فمي ملي كاتفيق.",
+    "answer": "هذا كيدل على التهاب اللثة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "الدم من الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي انتفاخ ف اللثة.",
+    "answer": "خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ ف اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شحال من مرة باش نحيد جير السنان؟",
+    "answer": "على حساب عدد الوجبات الجيرية، إما جلسة وحدة أو جوج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش يمكن لي ناخد مسكن الألم بحال باراسيتامول بعد عملية جراحية فالعقل؟",
+    "answer": "نعم، يمكن لك تشري باراسيتامول بعد العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش التأمين الصحي كيدخل فيه التقويم الشفاف؟",
+    "answer": "على حسب نوع التأمين، خاصك تسولهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين شي دوا مزيان للثور لي كاين فمنطقة ضروس العقل؟",
+    "answer": "يمكن لك تستعمل مضمضة فيها تركيز الأكسجين. خاصك تسول طبيبك على الأفضل.",
+    "entities": {
+      "symptoms": [
+        "ثور فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فالدندنة وخصني شي مهدئ.",
+    "answer": "المسكنات ما كتعالجش المشكلة. خاصك تمشي عند طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "وجع فالدندنة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش نقدر نغسل سناني وانا مركب تقويم الأسنان؟",
+    "answer": "نعم، تقدر تغسل سنانك بلا مشكل. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر ننقي سناني بلا ما نتعيا؟",
+    "answer": "يمكن يكون عندك التهاب، خاصك تمشي عند طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي انتفاخ تحت الفك مع ألم خفيف.",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يشوف السبب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ",
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين التهاب فاللثة والنزيف من الشفة.",
+    "answer": "خاصك تمشي عند طبيب الأسنان لتنظيف اللثة.",
+    "entities": {
+      "symptoms": [
+        "التهاب فاللثة",
+        "نزيف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين دم كايخرج لي من فمي.",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "خروج الدم من الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي خراج فالسنان.",
+    "answer": "خاصنا نعاودو علاج الجذر.",
+    "entities": {
+      "symptoms": [
+        "خراج"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر نحيد ريحتي الكريهة؟",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ريح كريهة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تورم فالفم وجفاف.",
+    "answer": "الجفاف فالفم كيتسبب فالتورم. خاصك تشرب الماء بزاف وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "تورم",
+        "جفاف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي وجع فالفك وصداع بعد خلع ضرس العقل.",
+    "answer": "هادشي عادي، خاصك تبع نصائح الطبيب وتستعمل المرايات الباردة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالفك",
+        "صداع"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نحافظ على أسناني؟",
+    "answer": "خاصك تعتني بأسنانك يومياً بالمعجون والفرشاة، وزيارة طبيب الأسنان كل 3-6 شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج ديال التهاب اللسان؟",
+    "answer": "خاصنا نعرفو السبب باش نقدروا نعطيو علاج مناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللسان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشكل فم كيتحرق.",
+    "answer": "التهاب اللثة هو السبب الرئيسي. خاصك تستاشر طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "تحرق فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هوما الأسباب ديال ضعف السنان عند الكبار؟",
+    "answer": "الأسباب كترتبط بالماكلة الزوينة، والعناية بالأسنان، والوراثة. خاص العناية المستمرة باش تحافظ على صحة السنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش يمكن لي نستعمل دكتارين جل للجروح الملتهبة في اليد؟",
+    "answer": "الدكتارين هو مضاد للفطريات وماشي مخصص للجروح الملتهبة. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو اللي جاب ليا الجفاف فالفم؟",
+    "answer": "الجفاف فالفم يمكن يكون بسبب التنفس من الفم أو قلة شرب الماء. خاصك تحاول تشرب الماء بزاف.",
+    "entities": {
+      "symptoms": [
+        "جفاف الفم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تسوس الأسنان و الهشاشة ديال السنان عندك وراثيا و شنو هو العلاج؟",
+    "answer": "التسوس والهشاشة يمكن يكون عندهم عامل وراثي، ولكن العناية هي الأساس. خاصك تهتم بنظافة الفم والأسنان.",
+    "entities": {
+      "symptoms": [
+        "التسوس",
+        "الهشاشة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش التقويم مناسب للدراري الصغار لي عندهم قل من 14 سنة؟",
+    "answer": "نعم، التقويم مناسب للأطفال، ولكن خاص استشارة طبيب مختص. كل حالة تختلف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش السنان غادي يرجعو للوسط من بعد ما يتثبتو؟",
+    "answer": "نعم، التقويم كيرجع السنان لمكانهم الصحيح. خاص العناية المستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "سحبت عصب للسن و بعد يوم حسيت بوجع فتحت السن.",
+    "answer": "خاصك تشوف الطبيب باش يتأكد من الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين شي ورم فطرف اللسان.",
+    "answer": "من الأفضل تراجع طبيب مختص باش يتشخص الورم ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج ديال التقرحات المتكررة فالفم؟",
+    "answer": "خاصنا ناخدو خزعة ونتعالجو عليها. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "تقرحات فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم فسناني وخاصة اللور.",
+    "answer": "خاصك تمشي عند طبيب السنان باش يشوف شنو السبب ديال الألم ويعالجها.",
+    "entities": {
+      "symptoms": [
+        "ألم فالسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو الدواء لعلاج خراج السنان؟",
+    "answer": "خاصك تمشي عند طبيب السنان باش يعالج ليك سنانك. الأدوية اللي عندك ما كافياش.",
+    "entities": {
+      "symptoms": [
+        "خراج السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش يمكن لي نستعمل لاصقات التبييض إلا كان عندي التهاب السنان؟",
+    "answer": "خاصنا نعالجو الالتهاب أولا. من بعد يمكن نفكروا فالتبييض.",
+    "entities": {
+      "symptoms": [
+        "التهاب السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو اللي سبب السواد فسناني؟",
+    "answer": "تسوس أو زيادة فالكالسيوم أو أمراض أخرى. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "سواد فسناني"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كايتلصقو السنان على الحامل؟",
+    "answer": "التلبيس ما كيأثرش على الحمل، ولكن من الأحسن تسول طبيب الأسنان ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو معنى التنكس السني؟",
+    "answer": "التنكس السني هو اضطراب كيتبدل فيه الخلايا ديال السنان. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كاين شي علاج لتسوس السنان؟",
+    "answer": "إيوا، خاصك تمشي عند طبيب الأسنان باش يحفر السنان ويحيد التسوس، ومن بعد كايتلصق الحشية.",
+    "entities": {
+      "symptoms": [
+        "تسوس السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الأسنان ديالي كاعيين.",
+    "answer": "الأسباب الشائعة هي التهاب السنان، التسوس، والتهاب اللثة. خاصك تزور طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "ألم الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "وقتاش كايتوقفو سناني النمو؟",
+    "answer": "النمو كيتوقف عادة ما بين 16 و18 سنة. هادشي كيتعلق بالعظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ممكن يكون عندك التهاب فالفك السفلي و الأسنان ما طلعوش بعد ما جرحنا ضرسة العقل.",
+    "answer": "خاصك تأكد من وضع المفصل بعد الإصابة. من الأحسن تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش الحشوة ديال الفضة كتمنع الحمل؟",
+    "answer": "ما كاين حتى علاقة بين الحمل والحشوات الفضية. ما تخافيش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش عادي يبان الناب عند بنتي فعمرو 8 شهور؟",
+    "answer": "ماشي عادي، حسن تدير راديو عند طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الما مع السخونة والرطوبة.",
+    "answer": "يمكن يكون عندك التهاب فالسنان. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش كندخل الهوا ففمي وكيجرحوني سناني؟",
+    "answer": "يمكن تكون عندك أسنان حساسة أو نخور. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "وجع الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش القوالب ولا الشرائح مزيانين للسنان؟",
+    "answer": "القوالب والشرائح يمكن يكونو مزيانين، ولكن خاصك تسول طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو الأسباب لميلان السنان؟",
+    "answer": "الأسباب كتكون التهاب اللثة أو تآكل العظام. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش المخدرات ديال النعاس كتحسن السنان لي تورمو؟",
+    "answer": "لا، المخدرات ما كتساعدش فهاد الحالة. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "بنتي عندها 4 سنين وعندها مشكل فأسنانها.",
+    "answer": "ماشي خطير، ولكن خاصها تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين شي طريقة نبييضو بها السنان بلا ليزر؟",
+    "answer": "نعم، يمكن تبييض السنان بالزووم أو بالقالب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش الطبيب كيحط المايلة الكلوريد بزاف؟",
+    "answer": "باش ينظف قنوات العصب مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو كيسبب الجفاف فالحلق؟",
+    "answer": "يمكن يكون بسبب التنفس العالي أو التهاب الغدد اللعابية.",
+    "entities": {
+      "symptoms": [
+        "جفاف الحلق"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شحال من سنان عندها فعمرو 27 عام؟",
+    "answer": "إذا كانو الضراس ديال العقل تزادو، العدد غادي يكون 32.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش السناني ما عندهومش فراغات؟",
+    "answer": "نعم، ممكن حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ضرتي العقل هادي ساعة وما عرفتش شنو ندير للوجع.",
+    "answer": "خاصك تتبع تعليمات الطبيب وتاخد الدوا لي وصف ليك.",
+    "entities": {
+      "symptoms": [
+        "وجع الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش كاين السواد فالفم؟",
+    "answer": "يمكن يكون بسبب التدخين أو التهاب اللثة.",
+    "entities": {
+      "symptoms": [
+        "سواد الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي جفاف فالفم، فالجهة اليسرى.",
+    "answer": "إذا عندك جفاف، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "جفاف الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو الفرق بين السيراميك والبورسلين فالسنان؟",
+    "answer": "الإثنين هو نفس الشي، بحال التلبيسات الخزفية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش نبيضو سناني قبل ما ندير لاصقة السن؟",
+    "answer": "من الأحسن نبيضو قبل ما نديرو اللاصقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش تنظيف الأسنان خطير؟",
+    "answer": "ما كاين حتى تأثير، خاصك تنظف كل 3-6 شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش مزيان نستعملو الضو اللي فيه التجميد؟",
+    "answer": "إذا كنتي كتاكل شي حبة، ماكاين مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش ما بغاش يفتح فمو؟",
+    "answer": "يمكن يكون بسباب اضطراب فالمفصل الفكي.",
+    "entities": {
+      "symptoms": [
+        "عدم القدرة على فتح الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين شي علاج لهاد الحالة لي فيها العظام كايتذابو؟",
+    "answer": "خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب فالعصب ديال الفك، شنو الأعراض؟",
+    "answer": "الأعراض كتشمل ألم شديد وصعوبة فالمضغ. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ألم شديد",
+        "صعوبة فالمضغ"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تسوس فالدنس، شنو ندير؟",
+    "answer": "التسوس غالبا كيتطلب علاج أو خلع. خاصك تزور طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كايعالج التهاب الفم؟",
+    "answer": "بعد الفحص، الطبيب كيعالج النخور والتهاب اللثة وكيوصف مضادات حيوية إذا كان ضروري.",
+    "entities": {
+      "symptoms": [
+        "التهاب الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاش اللثة كتحك؟",
+    "answer": "الحكة فاللثة كيمكن تكون بسبب التهاب أو تسوس. خاصك تشوف طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "حكة فاللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم فالعظم داليمين، شنو ندير؟",
+    "answer": "خاصك تدير فحص عند طبيب الأسنان باش نعرفو السبب. ممكن يكون التهاب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعظم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نختار معجون أسنان لبيض السنان؟",
+    "answer": "من الأفضل تختار معجون يحتوي على الفلورايد. استشر طبيب الأسنان إذا كان ممكن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سنان مسدود، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأسنان باش يحدد العلاج المناسب. يمكن يحتاج تدخل.",
+    "entities": {
+      "symptoms": [
+        "سنان مسدود"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي إحساس بشد فالعروق ديال الزور و بغيت نسحب اللسان.",
+    "answer": "ممكن يكون عندك التهاب فالحلق. عافاك شوف طبيب الأنف والأذن والحلق.",
+    "entities": {
+      "symptoms": [
+        "شد فالعروق",
+        "التهاب فالحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "السنان كيتحركو، وواحد الجانب الأيمن كيدير شي حاجة.",
+    "answer": "حركة السنان عندها بزاف دالأسباب، والسبب كيحدد العلاج.",
+    "entities": {
+      "symptoms": [
+        "حركة السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "إلى شكون نمشي إلا كان عندي نزيف فالعظم؟",
+    "answer": "جراح الوجه والفكين هو الخبير الأفضل اللي يقدر يساعدك.",
+    "entities": {
+      "symptoms": [
+        "نزيف فالعظم"
+      ],
+      "medical_field": "جراحة الوجه والفكين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش يمكن نزرعو سنين اللي ضاعو من بعد ما نحيدو التقويم؟",
+    "answer": "نعم، يمكن ليكم تديرو زهر أقوى ولا بعد المعالجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كيبقى الخراج بعد ما كتحل الضرسة؟",
+    "answer": "إلا ما تنظفناش مزيان، كيبقى أثر منو شي مرات.",
+    "entities": {
+      "symptoms": [
+        "الخراج"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي صعوبة فالنطق ديال الحروف.",
+    "answer": "راجع شي طبيب ديال النطق.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالنطق"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي خاتم زرقا على لساني و حمر حدا السنان، شنو هاد المشكل؟",
+    "answer": "خاصك تشوف طبيب، هاد الشي ممكن يكون التهاب.",
+    "entities": {
+      "symptoms": [
+        "خاتم زرقا",
+        "احمرار"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "علاج التهاب اللثة شنو هو؟",
+    "answer": "عافاك شوف طبيب فنان سنان و غادي يخطط معاك و يشرح ليك الخطوات.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش الزراعة ديال الأسنان كتحتاج زراعة عظم للفك؟",
+    "answer": "إلا كان الطبيب محتاج، غادي يديرها. خاص استشارة طبيب الأسنان لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو أحسن طريقة باش تقيم الأسنان بلا ما تبان؟",
+    "answer": "التقويم الشفاف المخفي هو الخيار الأفضل. كيعطي نتائج مزيانة بلا ما يبان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو ندير إذا كان عندي حبوب فمي؟",
+    "answer": "خاص يتحلل السبب. يمكن يكون بسبب التهاب أو عدوى.",
+    "entities": {
+      "symptoms": [
+        "حبوب فمي"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "اللوزة قاصحة بزاف، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يتأكد من الحالة. يمكن تحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "قاصحة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سن كبير ف الفك و تهرس، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة. يمكن تحتاج علاج أو تركيب.",
+    "entities": {
+      "symptoms": [
+        "سن كبير"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو أحسن دوا للراحة من الألم ديال الراس؟",
+    "answer": "يمكن تستعمل باراسيتامول أو بروفين 600. خاصك تتبع التعليمات.",
+    "entities": {
+      "symptoms": [
+        "ألم الرأس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي اعوجاج ف الفك العلوي، واش غادي تصلح؟",
+    "answer": "أه، يمكن ليه يصلحو. خاصك استشارة طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "اعوجاج"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الضغط كيسبب ليا ألم فالسنان.",
+    "answer": "خاصك دير فحص عند طبيب الأسنان باش يشوف واش كاين شي مشكل فالمسام.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "إلا كانو سنانك متورمتين، واش يمكن نعاودو تثبيتهم؟",
+    "answer": "إلا كان عظم قوي حدا السن، ممكن نعاودو التثبيت.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كيتحيد الجير من السنان؟",
+    "answer": "الجير كيتحيد فعيادة الطبيب باستعمال أدوات خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "سمعت صوت فأسناني بحال صوت الزجاج. شنو السبب؟",
+    "answer": "يمكن يكون بسبب استعمال معجون السيراميك.",
+    "entities": {
+      "symptoms": [
+        "صوت فأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج لبشرة الفم؟",
+    "answer": "خاصك ترجع للطبيب باش يتأكد من تنظيف السنان، وإلا بقى الصفراء ممكن يولي بيض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عافاك عطيني شي سبب علاش الشفايف كيتشققو؟",
+    "answer": "جفاف الشفايف هو عرض من أعراض نقص الدم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "جفاف الشفايف"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو العلاج لألم فالفم ملي كيشرب الما السخون؟",
+    "answer": "خاصك تشوف الطبيب باش يعالج المشكلة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي إحساس غريب فالفم ملي كاناكول الموز. واش هادشي عادي؟",
+    "answer": "خاصك تراجع الطبيب للفحص.",
+    "entities": {
+      "symptoms": [
+        "إحساس غريب فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شحال كيبقى تقويم الأسنان ملي كيتخلعو الطواحين؟",
+    "answer": "كيبقى من عام ونص لعامين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو سبب الشقوق فالسنان و التغيير ف لونهم؟",
+    "answer": "كاين بزاف د الأسباب، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "شقوق فالسنان",
+        "تغيير ف لون السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش ممكن نداويو تقرحات الفم بالدوا ديال الدار؟",
+    "answer": "ممكن تستعمل الما والملح أو الأعشاب بحال البابونج.",
+    "entities": {
+      "symptoms": [
+        "تقرحات الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي شقوق فالفم، شنو السبب؟",
+    "answer": "ممكن يكون الجفاف أو فقر الدم. خاصك ترطب شفايفك وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "شقوق فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم تحت السنان من ست سنين، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأسنان باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سناني السفلية كيتحركو، شنو ندير؟",
+    "answer": "خاصك تزور طبيب الأسنان باش يشوف الحالة ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "تحرك الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو السبب اللي كيخلي الشفايف متشقكين؟",
+    "answer": "ممكن يكون فقر الدم أو نقص الفيتامينات. من الأفضل تدير فحص شامل.",
+    "entities": {
+      "symptoms": [
+        "شفايف متشقكين"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تسيل فالفم، شنو ندير؟",
+    "answer": "ممكن يكون بسبب التهاب أو مشروبات ساخنة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "تسيل فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي فطريات فالفم، ما قدرتش نهضر ولا نشرب.",
+    "answer": "خاصك تشوف طبيب مختص باش يعطيك مضاد للفطريات.",
+    "entities": {
+      "symptoms": [
+        "فطريات فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي التهاب فالسنان، شنو العلاج؟",
+    "answer": "خاصك تزور طبيب الأسنان باش يشوف حالتك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كايعالجو الناس مشكل لثة ضعيفة؟",
+    "answer": "خاصك تشوف طبيب الأسنان فورا، حيت كاينين بزاف الأسباب.",
+    "entities": {
+      "symptoms": [
+        "لثة ضعيفة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي ألم فالدنس، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأسنان، يمكن يحتاج يتعالج التهاب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالدنس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هو علاج لحساسية د السنان؟",
+    "answer": "العلاج كيختلف حسب السبب. خاصك تشوف طبيب الأسنان باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الأسنان ديالي كايتحركو وكنحس أنهم غادي يطيحو.",
+    "answer": "خاصك تشوف طبيب الأسنان باش يدير ليك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "تحرك الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو كيسبب لسانو يتنفخ؟",
+    "answer": "يمكن يكون بسبب العض أو الالتهاب. خاصك ترجع للطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ اللسان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي حبة حمرا فالجنب لخر ديال الساك ديالي.",
+    "answer": "ماشي مشكل إلا كان نفس الحجم ديما. خاصك تراقبها وتراجع الطبيب إلا تغيرت.",
+    "entities": {
+      "symptoms": [
+        "حبة حمرا"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي تسوس مع تغيير لون السنان ديالي للخضر.",
+    "answer": "خاصك ترجع للطبيب ديال الأسنان باش يتأكد من الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تسوس الأسنان",
+        "تغيير لون الأسنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو هي أسباب البقع الزرقة اللي فالفم؟",
+    "answer": "ممكن يكون بسبب عضه أو احتقان دموي. خاصك تشوف الطبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "بقع زرقاء في الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش كاين شي علاج لمرض السنان؟",
+    "answer": "عالج السبب اللي خلاها تظهر. خاصك تشوف طبيب الأسنان باش يتأكد من الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي مشكل فالبطن وريحة الفم قوية.",
+    "answer": "خاصك تشوف طبيب مختص فالهضم باش يقيم الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كاين شي علاج لإنحسار اللثة بلا عملية؟",
+    "answer": "خاصك تشوف طبيب السنان باش يقيم الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "إنحسار اللثة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو السبب فأن الأسنان ما طاحوش؟",
+    "answer": "خاصك تستاشر طبيب السنان باش يدير ليك فحص ويشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش كاتعالج التهاب الجيوب؟",
+    "answer": "خاصك تشوف طبيب باش يعطيك العلاج المناسب. بلا علاج، الالتهاب غادي يبقى.",
+    "entities": {
+      "symptoms": [
+        "التهاب الجيوب"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر نتخلص من ريحة الفم؟",
+    "answer": "غسل سنانك كل نهار، وابتعد عن الأطعمة اللي كتعطي ريحة.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ما علاج قلاع الفم؟",
+    "answer": "إلا كان متكرر، خاصك دير فحص باش نعرفو السبب. أول مرة، استعمل مرطب للفم.",
+    "entities": {
+      "symptoms": [
+        "قلاع الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي سنان زرقا، علاش؟",
+    "answer": "هي علامة طبيعية، ولكن إذا كان عندك أعراض أخرى، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "سنان زرقا"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "فين نقدر نلقى طبيب سنان؟",
+    "answer": "يمكنك تسول فالمستشفيات أو العيادات القريبة منك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "عندي حمى ففمي.",
+    "answer": "عافاك شاور طبيب مختص واستعمل معجون للفم.",
+    "entities": {
+      "symptoms": [
+        "حمى ففم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "شنو كيسبب الغثيان ملي كنعطي البنجة للأسنان؟",
+    "answer": "الخوف والحالة النفسية كيمكن يكونو السبب.",
+    "entities": {
+      "symptoms": [
+        "الغثيان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "وقتاش كتكبر السنان ديال الدري؟",
+    "answer": "السنان كيبداو يكبرو من 6 شهور حتى 3 سنين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "ما سبب لاصفرار فبعض السنان وكيفاش نحيدو لاصفرار؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "اصفرار السنان"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش التسوس لي كاين فسن الضرية يمكن يتنقل للسنين الأخرى؟",
+    "answer": "التسوس ما كيتنقلش من ضرس لآخر، ولكن خاصك تعالج التسوس قبل ما يتفاقم.",
+    "entities": {
+      "symptoms": [
+        "التسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نقدر ننقي سنانو اللي فيها خراج؟",
+    "answer": "خاصك تاخد مضادات حيوية لمدة خمسة أيام، ومن بعد تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "خراج"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "الأسباب ديال التقرحات فالفم؟",
+    "answer": "التقرحات كيمكن تكون بسبب مشاكل نفسية أو سلوكيات سيئة بحال عض الخد أو اللسان.",
+    "entities": {
+      "symptoms": [
+        "تقرحات فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "كيفاش نعرف واش كاين مشكل فالفم عند ولدي؟",
+    "answer": "إذا كان عندو ألم أو مشاكل فالأكل، خاصو يمشي عند طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "ألم فالفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "واش يمكن لي نستعمل الضغط بصبّاط ديالي باش نتقوى سناني الأمامية؟",
+    "answer": "هاد الطريقة ما كتنفعش بزاف، خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dentistry",
+    "question_darija": "إخراج السنان، واش كاين شي طريقة باش تمنعو بلا ما تمشي للطبيب؟",
+    "answer": "ما كاينش طريقة آمنة، خاصك تمشي عند طبيب الأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "طارئ"
+    }
+  }
+]

@@ -1,0 +1,4775 @@
+[
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو الفوايد ديال الزنجبيل؟",
+    "answer": "الزنجبيل عندو بزاف ديال الفوايد، كيساعد فالهضم وكيعزز المناعة. كيمكن تاخدو فالشاي أو مع الماكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نخسّس؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتدير الرياضة بانتظام. هادشي غادي يعاونك فخسارة الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كايتحسب لوسود؟",
+    "answer": "يمكن لك تستعمل ميزان خاص بالوزن. خاصك تعرف شحال كاتوزن باش تقدر تحسب لوسود ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "علاش لبيض كايعطي إحساس ديال شبعا؟",
+    "answer": "حيت فيه بزاف ديال البروتينات، كيساعد فالشعور بالشبع. هادشي كيخلي الناس يأكلو أقل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت فيتامينات لزيادة الوزن.",
+    "answer": "فيتامين ب والخميرة ديال البيرة كيساعدو فهاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت وصفة للدايت.",
+    "answer": "خصك تقولي شنو وزنك وطولك باش نعاونك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الفاكهة كتزيد فالسمنة؟",
+    "answer": "إوا كيعتمد على الكميات لي كتخدي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نزيد فالوزن ديالي، كيفاش؟",
+    "answer": "خصك تأكلي كاربوهيدرات أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الجينسنغ كايعاون فزيادة الوزن؟",
+    "answer": "مخصكش تستعملو بلا ما تكون عارف شنو كيدير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين فيتامين إي فهاد السماك؟",
+    "answer": "أه، كاين فيه فيتامين إي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش المنشطات كتسبب السمنة؟",
+    "answer": "حسب نوع المنشطات، كاين لي كيسبب السمنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لحام لباڭري كايتزاد؟",
+    "answer": "لا، راه حسن ليهوم الهضم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "السمنة فرجليك ماشي دواها.",
+    "answer": "يمكن تعالجها بالرياضة.",
+    "entities": {
+      "symptoms": [
+        "السمنة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لقهوا لخضرا كاتعاون فالتخسيس؟",
+    "answer": "أه، كاتعاون فالتخسيس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كتغلب على السمنة؟",
+    "answer": "خصك تزيدي فشي حاجة وتبدي فشي حاجة خرى.",
+    "entities": {
+      "symptoms": [
+        "السمنة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الزبدة مضرة لمرضى النقرس؟",
+    "answer": "لا، الزبدة ماشي مضرة لمرضى النقرس، ولكن خاصهم ياخدوها بكميات معتدلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الحبوب لحليب مزيان؟",
+    "answer": "الحبوب لحليب مزيان وماعندها حتى أضرار، ولكن خاص الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المثالي لطولي 152 سنتيمتر وعندي 19 عام؟",
+    "answer": "الوزن المثالي كيتراوح بين 46 و51 كيلوغرام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو لعلاج ديال النحافة؟",
+    "answer": "خاصك تستشيري طبيب، واش كاين شي مرض كالغدة الدرقية؟",
+    "entities": {
+      "symptoms": [
+        "نحافة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي خاصو لواحد طولو 170 سنتيمتر؟",
+    "answer": "الوزن المثالي كيتراوح بين 63 و75 كيلوغرام، حسب الجنس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي دوا باش تكبر لعافيا؟",
+    "answer": "الرياضة هي أحسن وسيلة. خاصك تغدي مزيان وتكون عندك إرادة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المثالي لواحد الشخص طولو 170 سنتيمتر؟",
+    "answer": "الوزن المثالي تقريبا هو 57 كيلو. خاصك تحافظ على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش عشبة الكثيرة ضاريا للمرا الحاملا؟",
+    "answer": "لا، راه مزيانة. ولكن خاصها تتشاور مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لحليب غادي يزيد ف السدان؟",
+    "answer": "لا، حليب كايتستعمل باش يزيد ف الصهد. خاصك تغدي مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو الفوايد ديال عشبة المرقدوش؟",
+    "answer": "عشبة المرقدوش عندها فوائد بزاف، كتعون على الهضم وكتساعد فالتخفيف من التوتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كول ليمون بزاف ضار؟",
+    "answer": "ملي كتاكل ليمون، خاصك ما تفوتش تلاتة ف النهار باش ما تضرش المعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان تاكل الزنك بلا ما تشاور مع طبيب؟",
+    "answer": "من الأحسن تشاور مع طبيب قبل ما تاخد الزنك، حيث كل واحد عندو احتياجات مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 18 عام، شنو الوزن اللي مزيان ليا؟",
+    "answer": "الوزن المثالي كيتحدد حسب الطول، خاصك تشوف طبيب أو مختص فالتغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الكركم كايتحك؟",
+    "answer": "الكركم مزيان للصحة، ولكن خاصك ما تكثرش منه حيث يقدر يسبب تحسس.",
+    "entities": {
+      "symptoms": [
+        "تحسس"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو التأثير ديال الفلفلة الحلوة على المعدة؟",
+    "answer": "الفلفلة الحلوة كتعون على الهضم، ولكن كاينين بعض الناس لي يقدرو يحسو بالنزلة من بعد ما ياكلوها.",
+    "entities": {
+      "symptoms": [
+        "النزلة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش زيت الجلجل كيسكر؟",
+    "answer": "زيت الجلجل ما كيسكرش، ولكن خاصك تحذر من الكمية ديال السكر فالأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "علاش التوما كايعالجو السرطان؟",
+    "answer": "التوما فيها مواد مضادة للتأكسد، وكتساعد فمكافحة الخلايا السرطانية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش زيت الزيتون كايسخن؟",
+    "answer": "إيوا، زيت الزيتون كايسخن وكيعطي نكهة مزيانة للأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي الماكلة لي كتعاون فالصحة ديال العينين؟",
+    "answer": "المأكولات الغنية بفيتامين أ بحال الجزر، السبانخ، والبطاطا الحلوة كتعاون بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نكسّر 5 كيلو ف شهر؟",
+    "answer": "خاصك تركز على الرياضة والنظام الغذائي المتوازن. شرب الماء بزاف وممارسة الرياضة يومياً.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش السكر كايدير السرطان؟",
+    "answer": "ماكاينش دلائل علمية واضحة على أن السكر كيسبب السرطان، ولكن من الأفضل التقليل منه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان ناكل الإندومي؟",
+    "answer": "الإندومي فيه بزاف دالدهون المهدرجة والملح، خاصنا نكونو حذرين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نضعف من السمنة.",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتلعب الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [
+        "السمنة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من ماء خصني نشرب فالنهار؟",
+    "answer": "خصك تشرب حوالي 8 كيسان ديال الماء يومياً.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو لعلاج ديال السمنة؟",
+    "answer": "نظام غذائي متوازن وممارسة الرياضة هما الحلول الأساسية.",
+    "entities": {
+      "symptoms": [
+        "السمنة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين فيتامين إي ف الخضر؟",
+    "answer": "نعم، كاين فلفت والخضر بحال السبانخ.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الحليب كايعاون ف لوزن؟",
+    "answer": "الحليب كايساعد ف تحسين الشهية، ولكن خاصك تراقب الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نحيد الدهون بسرعة؟",
+    "answer": "خاصك تتبع ريجيم مزيان وتلعب الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لحليب جاي من الصوجا كايدير رشاقة؟",
+    "answer": "ماكاينش علاقة بين لحليب سويا والنحافة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش أرڭيلة خفيفة؟",
+    "answer": "لا، ماكايعاونش باش نقصو من الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي يسمن ف شهر؟",
+    "answer": "خاصك تشاور مع طبيب ديال الريجيم باش يحدد لك الطريقة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الكراميل كايساعد الناس لي عندهم ضغط الدم؟",
+    "answer": "لا، الكراميل ما كيساعدش، ولكن كاين أشياء أخرى مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش البذور ديال الكتان كتزيد فالوزن؟",
+    "answer": "لا، البذور ديال الكتان كتعونك تنقص من الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي دوا باش تزيد فالوزن؟",
+    "answer": "ماشي مزيان تاخد الدوا لزيادة الوزن، خاصك تغدية صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "الطول 190 والوزن 75، هادشي عادي؟",
+    "answer": "الوزن مزيان بزاف بالنسبة لطولك، ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "تمريني باش تزيد فالسمنة؟",
+    "answer": "خاصك تعطي معلومات على الوزن والطول ديالك باش نقدر نساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من خيزو خاصني ناكل ف النهار باش نقيّن عيني؟",
+    "answer": "واحد أولا جوج خيزوات كافيين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي الفيتامينات اللي كتحسن العظام؟",
+    "answer": "كالسيوم، فيتامين د، والمغنيزيوم هما المهمين للعظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا طويل 154، شنو هو الوزن الممتاز ديالي؟",
+    "answer": "الوزن الممتاز هو تقريبا 53 كيلوغرام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كاتنزل السمّاع؟",
+    "answer": "خاصك تشوف طبيب ديال الريجيم لي غادي يساعدك فتنزيل الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 15 عام و طولي 165، واش هادشي مزيان؟",
+    "answer": "خاصك تعرف الوزن ديالك باش نقدروا نقيمو الوضعية ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي مزيان ل ١٤٩ سم؟",
+    "answer": "الوزن المثالي هو بين 48 و 55 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي كرش و بغيت نزلّيه.",
+    "answer": "خصك تتبع ريجيم و تدير الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [
+        "كرش"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن الطبيعي د لعيالات اللي طولها 1.55 متر؟",
+    "answer": "الوزن الطبيعي هو بين 50 و 55 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "باغي نولي غليض، شنو خاصني ندير؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتزيد فالسعرات الحرارية. الرياضة مهمة كذلك باش تزيد فالمعدل ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كاتحط 10 كيلو ف سيمانا؟",
+    "answer": "ماشي ساهل تحط 10 كيلو ف سيمانا. خاصك نظام غذائي صارم وتمارين رياضية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي زيادة ف الوزن، دابا عندي ١٠٠ كيلو.",
+    "answer": "خاصك تعرف الطول ديالك باش نحددو الوزن المثالي. استشارة مع مختص غادي تعاونك.",
+    "entities": {
+      "symptoms": [
+        "زيادة ف الوزن"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي مزيان ل ١٦٩ ملم؟",
+    "answer": "الوزن المثالي كيتراوح بين 55 و 63 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان تاكل لخوضا ف لواقت ديال لحييّا؟",
+    "answer": "ماشي مزيان، حيث ممكن يكون فيه ضرر للصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 21 عام ووزني 70 كيلو، واش عندي وزن زايد؟",
+    "answer": "الوزن ديالك متناسب مع الطول. خاصك غير تحافظ على نمط حياة صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لعسل مزيان للدراري الصغار؟",
+    "answer": "لا، ما خاصهمش ياكلو العسل حيت فيه خطر من البكتيريا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نعرف شنو هي الحمية اللي مزيانا ليا؟",
+    "answer": "خاصك تشوف طبيب مختص فالتغذية باش يعطيك نصائح ملائمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "وزنيتي 52 كيلو، طوالتي 158 سنتيمتر، وعندي 26 عام. شنو هو الوزن المثالي؟",
+    "answer": "الوزن المثالي كيتراوح بين 50 و 60 كيلو. خاصك تحافظي على نمط حياة صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من شوفور خاصني نستعمل باش نحرق 1 كيلو ديال الدهب؟",
+    "answer": "خاصك تحرق 7500 سعر حراري باش تحرق 1 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي لوز ف الصدر و بغيت نحيدها.",
+    "answer": "خاصك تمارين رياضية و تخفيف الماكلة.",
+    "entities": {
+      "symptoms": [
+        "لوز ف الصدر"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من سعرة حرارية خاصني ف الريجيم؟",
+    "answer": "الوزن ديالك هو اللي كيعتمد عليه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال ديال لما كايحتاج لجسم الإنسان؟",
+    "answer": "الراجل خاصو 8 ل 10 كيسات ديال لما فالنهار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أشناهيا ل ماكلا لي فيها اليود؟",
+    "answer": "الأسماك و المأكولات البحرية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايتأثر لحليب لواليدا إلا كاياكل شي دري ديال لاكلاص؟",
+    "answer": "ماكاين حتّى تأثير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش صحيح بلي لعصير ديال ناعناع مزيان ل صبعان؟",
+    "answer": "ماشي معتقد خاطئ.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش ف الوصفة ديال الوجه خاصني نستعمل الشوفان مسلوق أولا نيت؟",
+    "answer": "المسلوق هو اللي كيحب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاينين شي دوايات اللي تاهييا كاتسبب ف السمنة؟",
+    "answer": "الهرمونات والدوا ديال الكوزتيزون كيمكن يسببوا ف السمنة. خاص استشارة طبيب قبل ما تاخد أي دواء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقص شي كيلو؟",
+    "answer": "خاصك تعتدل ف الماكلة والشرب وتكون نشيط. الرياضة كتعون بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كاتعالج النحافة؟",
+    "answer": "خاصنا نعرفو السبب ونديرو نظام غذائي مناسب. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "نحافة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش أتاي لخضر كايهبط ل كوليسترول؟",
+    "answer": "أه، أتاي لخضر كيعون ف تخفيض الكوليسترول. خاصك تشربو بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان تاكل الثوم فالنهار؟",
+    "answer": "الثوم مزيان للصحة، ولكن كاينين الناس لي كيتحسسو منو. خاصك تراقب راسك.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نلقا ريجيم مزيان؟",
+    "answer": "خاصك تشوف طبيب مختص فالتغذية. هو لي غادي يساعدك فاختيار الريجيم المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كايتعالجو لوجع ديال الركبة؟",
+    "answer": "يمكنك تستعمل زيت الزيتون أو كريمات مخصصة. ولكن من الأفضل استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع الركبة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقصت من الوزن؟",
+    "answer": "خاصك تتبع ريجيم مناسب لعمرك وطولك. الرياضة تقدر تعاونك بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نحيد لحمور؟",
+    "answer": "دير الرياضة، خصوصا تمارين البطن. وراقب الأكل ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو لعلاج ديال فيتامين د؟",
+    "answer": "يمكنك تاخد مكملات فيتامين د، ولكن خاصك تستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الشاي الأخضر مزيان للصحة؟",
+    "answer": "الشاي الأخضر كايعاون فتنقص الوزن. ولكن خاصك ما تفرطش فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش القمح مزيان للجسم؟",
+    "answer": "القمح مزيان، ولكن لي عندو حساسية خاصو يحذر.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نزيد ف الوزن؟",
+    "answer": "خاصك تاكل مزيان وتزيد من الكالوري. حاول تركز على الأطعمة الغنية بالبروتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي نقص ف الشهية، شنو ندير؟",
+    "answer": "يمكن يكون عندك نقص ف الفيتامينات أو المعادن. من الأفضل تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نقص ف الشهية"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو خاصني ناكل باش نكون صحي؟",
+    "answer": "خاصك تركز على الخضار، الفواكه، والبروتينات. حاول تتجنب الأطعمة المصنعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من لما خاصنا نشاربو ف نهار؟",
+    "answer": "خاصك تشرب 8 كيسان ديال الماء ف النهار. هادشي كيساعد على الترطيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو كياكل داك الراجل لي مريض ف الكلي؟",
+    "answer": "خاصو يتجنب الأطعمة الغنية بالصوديوم والبروتينات. من الأفضل يستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش جلبانا ديال لكوطان كاتعطي شي نيت كاطو؟",
+    "answer": "ماتنحاسش من لوزن، ولكن خاصك تراقب الكمية لي كتستعمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لموكولاتا طالعا السعرات لهرارييا؟",
+    "answer": "ماشي خايب إلا كنتي كتستعملو بشوية، ولكن خاصك تراقب لوزنك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش هاد لمادة لواني ضارورييا؟",
+    "answer": "عندها بزاف دالضرر، من بينها السرطان. خاصك تحاول تبتعد عليها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايشربو الناس أكلير الجبل باش يقويو الذاكرة؟",
+    "answer": "أه، كاينين مواد أخرى بحال المكسرات والحوت لي كيعونو على الذاكرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أشناهيا أحسان رياضا باش تنقص من لوزنا؟",
+    "answer": "المشي رياضة مزيانة للانقاص من الوزن. خاصك تديرها بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من مية دلما خاصني نشربو فالنهار باش يكون جسمي صحيح؟",
+    "answer": "خاصك تشرب بين 8 و 10 أكواب فاليوم. الماء مهم لصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش حبوب السنترومز كايساعدو فالفقدان ديال الوزن؟",
+    "answer": "مزيان لصحتك، كايعاون فتح الشهية. خاصك تراقب الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش صحيح بلي كايتاكل السمسم باش تزيد فالوزن؟",
+    "answer": "الماكلة بزاف كاتزيد فالسمنة، خاصك تراقب الكمية لي كتستهلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لحليب كايعاون ف تنقيص الضغط؟",
+    "answer": "مزيان باش ماتزيدش فالصهد وتقلل من الدهون. خاصك تشربو بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش صحيح بلي القسط الهندي مزيان للصحة؟",
+    "answer": "ماكاينش شي حل، خاصك تراجع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال هو الوزن المناسب ليا؟ أنا طولي 158.",
+    "answer": "الوزن المثالي هو بين 52 و 55 كيلو. خاصك تحافظ على صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "فين كاين فيتامين إم ف لماكلا؟",
+    "answer": "كاين ف الزيت النباتي، المكسرات، والسبانخ. هاد المواد مفيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو فائدة الصمغ العربي؟",
+    "answer": "ماكاينش دراسات كافية على الفوايد ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أش من خضرا أو فاكهة غنية فالكاربوهايدرات؟",
+    "answer": "البطاطا، الجزر، والفواكه بحال الموز.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين فائدة لبصل فحرق الدهون؟",
+    "answer": "ماكاينش علاقة بين لبصل وحرق الدهون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش اتاي لخضر مزيان؟",
+    "answer": "خودهم بشوية، ماشي بزاف باش متصابش بالصداع.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش القهوة التركية كاتعاون فالاكتئاب؟",
+    "answer": "القهوة كاتعاون فهاد الحالة، ولكن خاص تكون معتدلة.",
+    "entities": {
+      "symptoms": [
+        "الاكتئاب"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش خاصني نقص من الوزن؟",
+    "answer": "لا، خاصك تزيد فالسعرات ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا طولي 161 ووزني 60 كيلو، شنو الوزن المثالي؟",
+    "answer": "وزنك عادي، ولكن الوزن المثالي هو بين 50 و 55 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كايتعالجو نقص فيتامين د؟",
+    "answer": "خاصك تاخد مكمل فيتامين د لي وصفه ليك الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "الطول ديالي 165 و العرض ديالي 75، شنو الوزن المثالي؟",
+    "answer": "الوزن المثالي هو بين 59 و 62 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن ديال واحد الراجل اللي طولو 185 سم؟",
+    "answer": "الوزن ديالو كاين بين 75 و 80 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 27 عام، طولي 168 سنتيمتر، ووزني 120 كيلو. شنو الوزن المناسب؟",
+    "answer": "الوزن المناسب هو ما بين 65 و 75 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش ممكن نستعملو العسل مالاكي يوميا؟",
+    "answer": "نعم، ملعقة وحدة كافية فاليوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كاتزيد 4 كيلو فالسيمانة؟",
+    "answer": "هاد الشي صعيب بزاف، خاصك تتبع نظام غذائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش السبانخ كايتعاون فداء النقرس؟",
+    "answer": "لا، السبانخ ماكايضرش المريض بالنقرس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايتحيد لحايد ملي كايتباعاد من الوسض؟",
+    "answer": "أه، غادي ينحف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أحسن حاجة هي تمشي للصالة وتدير ريجيم؟",
+    "answer": "نعم، النشاط البدني مع الأكل الصحي مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال خاصني نوزن باش نوصل ل158 سم؟",
+    "answer": "الوزن المثالي هو تقريبا 57 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أهلا، واش الريجيم مزيان للصحة؟",
+    "answer": "الريجيم الصحي المتوازن ماكايضرش بالصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 22 عام وطول 165 سنتيم ووزن 59 كيلو. واش هاد الوزن طبيعي؟",
+    "answer": "أه، هاد الوزن عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "سلام، عمري 17 ووزني 52 وطولي 157 سم. شنو الوزن المثالي؟",
+    "answer": "وزنك دابا مزيان، درتي مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الاسم العلمي ديال القسط الهندي؟",
+    "answer": "الاسم العلمي ديال القسط الهندي هو القسط. كيتستعمل فالعلاج الطبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نحيدو لعضم أُ لموستاش باستعمال أعشاب؟",
+    "answer": "خاصك تنقص من شحال كاتاكل وتستعمل أعشاب معينة. استاشر مع طبيب أو مختص.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أحسن طريقة باش تنقص من الوزن؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتدير النشاط البدني. استاشر مع مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أضرار شرب أتاي؟",
+    "answer": "شرب أتاي بكثرة ممكن يسبب مشاكل فالهضم. خاصك توازن فالاستهلاك.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالهضم"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان تزيد السكار لحليب ديال الدراري الصغار؟",
+    "answer": "خاصك تشوف العمر ديال الدراري. السكر ميمكنش يكون مزيان بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لعالاقا لحاملا كاتأثر علا لعشا؟",
+    "answer": "نعم، كاتأثر على الشهية والمعدل ديال الحرق. خاصها تراقب الأكل ديالها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش شرب القهوة بزاف كايسبب ليك الامساك؟",
+    "answer": "إي، شرب القهوة بكثرة كايسبب الإمساك. خاصك توازن فالاستهلاك.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقصت 100 كيلو فعمري 23؟",
+    "answer": "استعملت ريجيم ونشاط رياضي يومي. خاصك الصبر والإرادة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "الوزن ديالي 150 كيلو، الطول 189. كيفاش نقصت من الوزن؟",
+    "answer": "خاصك تدير نظام غذائي متوازن وتزيد النشاط البدني. استاشر مع مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "العمر 36، الوزن 65، الطول 159. هادا هو الوزن المثالي؟",
+    "answer": "الوزن المثالي كيتحدد حسب الطول. خاصك تشوف مع مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش نقدر ناخد شي حاجة ديال السمن؟",
+    "answer": "خاصك تشوف مع طبيب أو مختص فالتغذية. السمنة ميمكنش تكون صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو أحسن دوا باش نحيد السمنة؟",
+    "answer": "ما كاينش دوا سحري. خاصك نظام غذائي وممارسة الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش صحيح بلي الخضرة المجمدة فيها أكثر من الطازجة؟",
+    "answer": "الخضرة المجمدة كتحافظ على العناصر الغذائية. لكن الطازجة أفضل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت شي خوطّا ديال ريجيم باش نحيد الدهون لي فكرشّي و ضهري.",
+    "answer": "خاصك نظام غذائي متوازن مع الرياضة. استاشر مع مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايتباعو ليهوم الفيتامينات باش يزيدو ف لغولد؟",
+    "answer": "الفيتامينات ميمكنش تكون السبب الوحيد لزيادة الوزن. خاصك نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا راجل عندي 33 عام، طولو 168 سنتيمتر، وزنا 87 كيلو. شنو هو الوزن المثالي؟",
+    "answer": "الوزن المثالي كيتحدد حسب الطول. خاصك تشوف مع مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن الطبيعي لبنت عندها 16 عام و 164 سم؟",
+    "answer": "الوزن الطبيعي كيتراوح بين 50 و 60 كيلو. خاص استشارة طبيب لتحديد الوزن المثالي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 164 سم و 61 كيلو، شنو هو الوزن المناسب لي؟",
+    "answer": "وزنك مزيان، ولكن خاصك تحافظي عليه. الرياضة والتغذية الصحية مهمين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المناسب لشخص عندو 26 عام و 54 كيلو و طولو 162 سم؟",
+    "answer": "الوزن المثالي هو حوالي 56 كيلو. خاصك تهتم بصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش هادشي مزيان ليا؟ طولي 174، ووزني 70، وعمري 29.",
+    "answer": "وزنك في المستوى الطبيعي. خاصك غير تحافظ على نمط حياة صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 168 سم و 68 كيلو، شنو هو الوزن اللي مزيان؟",
+    "answer": "وزنك شوية زايد. خاصك تهتم بالتغذية والرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أحسن بودر باش تزيد فالوزن؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن مع رياضة. استشارة طبيب تغذية غادي تعاونك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كايحنّو فيه لعضم.",
+    "answer": "خاصك تتبع نظام غذائي صحي و تشاور مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ألم في العظام"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "راجل عندو 19 عام، وطولو 178 سنتيم وقلبو 68 كيلو، راه هادشي هو اللي مناسب ليه.",
+    "answer": "وزنه مزيان بالنسبة لطوله. خاصو غير يحافظ على نمط حياة صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الألياف كاتحفّي لجسم؟",
+    "answer": "الألياف كاتساعد الجسم على الهضم. خاصك تستهلكيها فالمأكولات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "وزنيتي 89 كيلو، عندي دهون فالكبد، شنو ندير؟",
+    "answer": "خاصك تنقصي من الماكلة وتديري رياضة. استشيري طبيب التغذية.",
+    "entities": {
+      "symptoms": [
+        "دهون فالكبد"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي السهية مفتوحة بزاف، شنو ندير؟",
+    "answer": "حاول دير شي حاجة تشغلك. يمكن تاكل شي حاجة خفيفة.",
+    "entities": {
+      "symptoms": [
+        "سهية مفتوحة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقصو الطون بلمعقول؟",
+    "answer": "خاصك ريجيم مزيان مع تمارين رياضية. استمرارية مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاينة شي حاجة حسن من أوميغا تلات؟",
+    "answer": "كل واحد عندو فوائد. أوميغا تلات مفيد للصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايعالي ضغط الدم التوما؟",
+    "answer": "التوما كاتساعد فتنظيم ضغط الدم. استهلاكها مفيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "فين كاين فيتامين د؟",
+    "answer": "فيتامين د كاين فالشمس، الموز، والفلفلة الحارة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عافاك، شنو الماكلة لي صعيب الهضم؟",
+    "answer": "من الأحسن تسول طبيب مختص فالتغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي ٢٠ عام، طولي ١٤٦ سنتيمتر، ووزني ٥١ كيلو... واش هادشي مزيان؟",
+    "answer": "الوزن ديالك قريب للوزن المثالي، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو السبب ديال نقص الوزن وشنو هو العلاج؟",
+    "answer": "نقص الوزن كيتطلب استشارة طبيب. خاصك تشوف شنو السبب الحقيقي.",
+    "entities": {
+      "symptoms": [
+        "نقص الوزن"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي زيادة فالوزن و ما عارفش كيفاش نحيدها.",
+    "answer": "خاصك تتبع ريجيم صحي وتزيد من النشاط البدني.",
+    "entities": {
+      "symptoms": [
+        "زيادة الوزن"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش حبوب المانجو الإفريقية فعالة فالتخسارة دالوزن؟",
+    "answer": "ما كاينش دليل قوي على فعاليتها فالتخسيس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كانعاني من شحال من شحمة.",
+    "answer": "الرياضة واتباع نظام غذائي صحي هوما الحلول المناسبة.",
+    "entities": {
+      "symptoms": [
+        "شحمة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن الطبيعي ديال شي واحد طولو 165؟",
+    "answer": "الوزن الطبيعي هو ما بين 60 و70 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 21 عام، طولي 155 سم. شنو هوما أحسن وزني؟",
+    "answer": "الوزن المثالي هو ما بين 50 و58 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 36 عام، وزني 65 كيلو، وطولي 165 سنتيمتر.",
+    "answer": "وزنك مقبول، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش أثبت هاد وزين؟",
+    "answer": "خاصك تتبع ريجيم متوازن وتنام مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "مرحبا، بغيت شي علاج باش نزيد فالوزن.",
+    "answer": "خاصك تأكل وجبات صغيرة بزاف فاليوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نحلّي التوتر ف رقبتي؟",
+    "answer": "خاصك تشاور مع طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التوتر"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش أوميغا 3 كتعاون فالتخسيس؟",
+    "answer": "أوميغا 3 مفيدة للصحة، ولكن ماشي مباشرة فالتخسيس. خاصك نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 24 عام، الطول 164 سنتيمتر، والوزن 58 كيلو. واش هادشي عادي؟",
+    "answer": "الوزن ديالك عادي بالنسبة لطولك. خاصك غير تحافظ على نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أشنو الماكلا لي كاتعاون فوجود لعضامات؟",
+    "answer": "البروتينات بحال لحم، لحبوب، وعدس كيعززو صحة العضام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش ماشي مزيان تاكل بزاف ديال الفيتامينات؟",
+    "answer": "إيوا، كتر من الفيتامينات كايدير الضر. خاصك توازن فالأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي ضرر للكاش؟",
+    "answer": "إلا كانو الكميات معتدلة، ماكاينش ضرر. خاصك غير تراقب الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي نظام غذائي مزيان للناس اللي مراض ب الغدة الدرقية؟",
+    "answer": "إيوا، خاصهم يتبعو نظام غذائي متوازن مع الأدوية لي كايعطيهم الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كاتنحاس من لوزنا؟",
+    "answer": "خاصك تتبع نظام غذائي فيه سعرات حرارية قلال و الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "علاش كنجوع ونعطش ملي كاندير سناني؟",
+    "answer": "هادشي كيمكن يكون بسبب التوتر أو قلة الماكلة. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "جوع",
+        "عطش"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الريجيم ديال الفصيلة كيعطي نتيجة مزيانة؟",
+    "answer": "بزاف ديال الدراسات كيقولو أنه كيعطي نتائج مزيانة. ولكن خاص كل واحد يشوف شنو كيناسب جسمه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المناسب للراجل فالعمر ديال 14 عام؟",
+    "answer": "الوزن المناسب كيعتمد على الطول. خاصك تشوف طبيب أو أخصائي تغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لأسلان الخار كيساعد فالتخسيس؟",
+    "answer": "ماتشدش فشي حاجة، خاصك تتبع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الباذنجان كيساعد فالتخسيس؟",
+    "answer": "نعم، الباذنجان مفيد فالتخسيس. خاصك تستهلكه بطرق صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المناسب لواحد عندو 150 سم و 23 عام؟",
+    "answer": "الوزن المناسب هو تقريبا 52 كيلو. خاصك تحافظ على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش اتاي لخضر مزيان للحامل؟",
+    "answer": "ماشي مزيان، خاصها تتجنب بعض الأعشاب. استشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا طويل وباغي نزيد فالوزن.",
+    "answer": "خاصك تسول أخصائي التغذية باش يعطيك نصائح مخصصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 21 عام وطولي 163 سم، شنو الوزن المثالي؟",
+    "answer": "الوزن المثالي هو 60 كيلو. خاصك تحافظ على نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نعرف النسبة ديال لما فالجسم؟",
+    "answer": "يمكن تعرفها عبر التحليل فشي جهاز طبي. خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندها 15 عام ووزنها 78 كيلو، شنو نقدر ندير؟",
+    "answer": "ماتنصحش تاخد حبوب نقصان الوزن. خاصها تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان ناكلو الزيت والزعتر والزيتون والجبن لمريض بالسكر؟",
+    "answer": "نعم، هاد المكونات مزيانة. ولكن خاصها تكون فالمقادير المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي مضار إذا كليتي بزاف ديال الحوت؟",
+    "answer": "خاصك ما تتجاوزيش جوج مرات فالسيمانة. كلشي بحدود.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نحيدو لمي من جسمنا؟",
+    "answer": "خاصك تتبع ريجيم متوازن وتدير الرياضة. هادشي هو الحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو اللي ماعندكش لوزن؟",
+    "answer": "يمكن دير تحليل هرمون الغدة الدرقية. خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي مزيان لواحد عندو 178 سم؟",
+    "answer": "الوزن المزيان هو بين 75 و80 كيلوغرام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش البيض كايزيد فالوزن؟",
+    "answer": "إلا كان ضمن ليك بلي راك غادي تزيدي، خاصك تراقبي الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لوزير كايحمّي من لأمراض؟",
+    "answer": "مزيان، ولكن خاصك تستهلك العسل والثوم والحمضيات لتحسين المناعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت شي نصايح علا دوا ديال كوليسترولة.",
+    "answer": "خاصك تسول الطبيب على الجرعة المناسبة، واتباع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايعاون باش نزيدو ف لوزن إلا كناكل شي فواكه؟",
+    "answer": "يمكنك تاكل حتى تلاتة د الحبات فاليوم، ولكن خاصك تراقب الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شمن نوع ديال السكر اللي يمكن نعطيه للرضيع؟",
+    "answer": "خاصك ماتعطيش السكر للرضيع حتا يدوز جوج سنين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 16 عام وطولي 168 سم، شنو هو الوزن المناسب؟",
+    "answer": "الوزن المناسب هو بين 66 و70 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "ماكاينش شي أعراض، غير نقص ف الوزن.",
+    "answer": "خاصنا نديرو تقييم صحي وتغذوي.",
+    "entities": {
+      "symptoms": [
+        "نقص الوزن"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "ماشي مزيان الرياضة فالسيمانة باش نقصو من الوزن؟",
+    "answer": "لا، خاصك دير الرياضة أربع مرات فالسيمانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 14 عام وطولي 140 سنتيم، شنو خاصني ندير باش نقص من الوزن؟",
+    "answer": "لا، راه كتر من هادشي. خاصك تحافظي على الوزن الطبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش أتاي بالحليب تيزيد ف السالامة؟",
+    "answer": "ما عندو حتى علاقة بالسالامة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هوما الفواكه والخضرة اللي فيها الكالسيوم بزاف؟",
+    "answer": "الفواكه والخضرة بحال السبانخ واللوز فيها الكالسيوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا تقيل، شنو غادي نستعمل ليه؟",
+    "answer": "كاين شي حمية خاصة باش نقصو فالوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي مزيان لواحد اللي طولو 155 سم؟",
+    "answer": "الوزن المناسب هو تقريبا 53 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "السلام عليكم. هادي بنت عندها 160 سم و58 كيلو. واش هاد الوزن طبيعي؟",
+    "answer": "الوزن ديالك هو المثالي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "نفاخ كبير كاين فوسط لكرش.",
+    "answer": "خاصك تشوف طبيب وتدير الفحوصات.",
+    "entities": {
+      "symptoms": [
+        "نفاخ"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الماكلة لي فيها القمح تقدر تسبب الحساسية؟",
+    "answer": "غير القمح ومنتجاته تقدر تسبب الحساسية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال خاص يكون وزن الدراري فعمرو ربعطاش؟",
+    "answer": "الوزن كيعتمد على الطول. خاص يكون الوزن ما بين 50 و 65 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "وزني دابا 67 كيلو و الطول 163 سم. واش هادا الوزن المثالي؟",
+    "answer": "الوزن المثالي هو ما بين 59 و 61 كيلو. خاص تحافظ على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لحليب الصوجا كيدير شي تأثير على الدورة الشهرية؟",
+    "answer": "ماكاينش دراسات كافية فهاد الموضوع. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الحليب مزيان مع الشوكولاتة؟",
+    "answer": "الحليب مزيان مع الشوكولاتة، ولكن خاص الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نزيد الوزن؟",
+    "answer": "خاصك تتبع نظام غذائي غني بالسعرات الحرارية و تمارس الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي دوا باش تصلح التوازن؟",
+    "answer": "خاصنا نعرفو السبب باش نقدر نوصفو العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نخفف وزني بلا ما نحرم راسي؟",
+    "answer": "خاصك تحافظ على نظام غذائي متوازن و تمارس الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو العلاج ديال الغول؟",
+    "answer": "العلاج كيتطلب نظام غذائي صحي و ممارسة الرياضة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش تقدر تنحف ف منطقة الأرداف؟",
+    "answer": "النشاط البدني والرياضة كيساعدو فتنشيط الدم. خاصك تركز على تمارين مخصصة لهاد المنطقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "مريض كيعاني من الجوع بزاف، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب غدد باش يشوف ليك الدرقية. ممكن تكون عندك مشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "الجوع"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاينة شي ضرر ف الأكل ديال البيض المقلي كل نهار؟",
+    "answer": "مزيان إلا ماكانتش عندك لكوليسترول. حاول توازن الماكلة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نحيد الكرش؟",
+    "answer": "تبعي ريجيم مزيان، و دير الرياضة بانتظام. خاصك تكوني صبورة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لميفيناميك كايعاون ف لوزون؟",
+    "answer": "لا، ماكاينش علاقة بين لميفيناميك وزيادة الوزن. خاصك تركز على نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان تشرب لحليب ف الريجيم؟",
+    "answer": "كايتفضل يكون قليل الدسم. لحليب كيعطيك البروتينات الضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقصو من الوزن ف بضع شهور؟",
+    "answer": "خاصك تدير رياضة بانتظام وتراقب الماكلة ديالك. الصبر هو المفتاح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا وزني 90 كيلو وطولي 165 سنتيمتر، شنو هو الوزن المثالي؟",
+    "answer": "الوزن المثالي بين 65 و70 كيلو. خاصك تركز على نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نكسّر 6 كيلو ف شهر؟",
+    "answer": "تبعي ريجيم مزيان و دير رياضة بانتظام. خاصك تكوني ملتزمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نزيد فالوزن ديالي، شنو ندير؟",
+    "answer": "خاصك تتبع نظام غذائي غني بالسعرات الحرارية، وديما دير الرياضة. استاشر مع مختص فالتغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 26 عام ووزني 70 كيلو، شنو هو الوزن المثالي؟",
+    "answer": "وزنك مزيان، ولكن خاصك تحافظ عليه. حاول تتبع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لعسل مزيان لمراض السكري؟",
+    "answer": "العسل يمكن يتاكل ولكن بكمية محدودة. خاصك تراقب مستوى السكر ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 14 عام، واش نقدر نعتبر سمين؟",
+    "answer": "وزنك مزيان بالنسبة لطولك. ماشي سمين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي ضرر من التنحيف؟",
+    "answer": "التنحيف ممكن يكون عندو مخاطر، خاص تتبع نظام غذائي صحي. استاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي أحسن طريقة باش نقص الوزن؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتدير الرياضة بانتظام. هادشي غادي يساعدك بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الريجيم مزيان للدراري فعمرو 14 عام؟",
+    "answer": "الريجيم خاصو يكون تحت إشراف مختص، خصوصا فهاد العمر. ضروري توازن فالغذاء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش صحيح بلي القهوة كتنقص من البروجسترون؟",
+    "answer": "نعم، القهوة كتنقص من مستوى البروجسترون. خاصك تراقب الاستهلاك ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الفيتامينات و الحوت كيساعدو فالفقدان ديال الوزن؟",
+    "answer": "الفيتامينات والحوت مهمين للصحة، ولكن ما كيساعدوش مباشرة فالفقدان. خاص نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقصت من الوزن؟",
+    "answer": "خاصك تتبع نظام غذائي صحي وتدير الرياضة. هادشي هو السر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 13 عام و163 سم، شنو الوزن المثالي ديالي؟",
+    "answer": "الوزن المثالي هو 75 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الليمون كايدير لسان؟",
+    "answer": "الليمون ما كايديرش للمعدة إلا كليتيه بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نشري خميرة باش نحسن الشكل ديالي.",
+    "answer": "يمكنك تلقاها فالصيدليات، مزيانة للاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا طويلة بزاف، طولي 152 سم، واش هادشي مزيان؟",
+    "answer": "أه، الطول مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا بنت عندي 16 عام، طولي 160 سم، شنو الوزن المثالي؟",
+    "answer": "الوزن المثالي هو حوالي 65 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المناسب لواحدة عندها 40 عام وطولها 172 سم؟",
+    "answer": "الوزن الممتاز هو 65 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نقص 5 كيلو، شنو ندير؟",
+    "answer": "ماشي مشكل، الطول والوزن ديالك مزيانين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 14 عام و55 كيلو، بغيت نقص شوية.",
+    "answer": "خاصك تراقبي الوزن ديالك، ولكن ما تبقاش تضغطي على راسك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين تأثير للبذور ديال الكتان على مرض الكلي؟",
+    "answer": "ما كاين حتى تأثير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش شاي لوتاي كايعاون فالعظام؟",
+    "answer": "لا، ما كاينش تأثير إيجابي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي أحسن طريقة باش نحرقو الدهون؟",
+    "answer": "تبع نظام غذائي مزيان مع التمارين الرياضية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 28 عام وطولي 167 سم، شنو الوزن اللي خاصني نكون فيه؟",
+    "answer": "الوزن المناسب هو بين 62 و58 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الزنجبيل مزيان للتخسيس؟",
+    "answer": "الزنجبيل كيساعد فالتخسيس حيت كيزيد من حرق الدهون. ولكن خاصك تتبع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو السبب ديال نقص الشهية؟",
+    "answer": "نقص الشهية كيمكن يكون بسبب التوتر أو مشاكل صحية. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "نقص الشهية"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا طولي 150 ووزنيتي 45، وعمريتي 16. واش وزنيتي مثالي؟",
+    "answer": "وزنك تحت المعدل الطبيعي. خاصك تحاولي تزيدي فوزنك بشي نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المناسب لواحد عندو 16 عام وطولو 68.1 سم؟",
+    "answer": "الوزن المناسب هو بين 50 و 60 كيلو. خاصك تحافظي على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش غادي نحيدو هاد الزايد؟",
+    "answer": "خاصك تتبعي ريجيم متوازن مع ممارسة الرياضة. هادشي غادي يساعدك تنقصي فوزنك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أحسن وقت للماكلة هو فواحد الوقت؟",
+    "answer": "أحسن وقت للأكل هو قبل النوم بساعتين. هادشي كيساعد على الهضم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كانت نسبة السكر 144 مع الماكلة؟",
+    "answer": "هاد المعدل عادي بعد الماكلة. ولكن خاص تراقب النسبة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لعشبة ديال الحلفاء مزيانة؟",
+    "answer": "ماكاينش شي دراسات علمية كتعطي دليل على الفوائد ديالها. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعشاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مومكين تخالت الزعتر مع الكاندا؟",
+    "answer": "إيه، الزعتر والكاندا مزيانين مع بعضهم. ماكاينش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من مرة فالنهار خاص الواحد يمشي باش ينزل فالوزن؟",
+    "answer": "خاص يمشي شي 45 دقيقة على الأقل فاليوم. النشاط البدني مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "علاج لكرش بلا ريجيم؟",
+    "answer": "خاص تمارين رياضية بانتظام. مع الوقت غادي تشوف النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نحيدو لكرش؟",
+    "answer": "باستعمال ريجيم ونشاط بدني. خاص الصبر والمثابرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نعرف واش عندي ارتفاع فهرمون السمنة بلا تحليل؟",
+    "answer": "يمكن تلاحظ الأعراض بحالك، بحال زيادة الوزن. ولكن التحليل هو الأكيد.",
+    "entities": {
+      "symptoms": [
+        "زيادة الوزن"
+      ],
+      "medical_field": "الهرمونات",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش المكملات الغذائية كاتأثر على السمنة؟",
+    "answer": "ممكن تفتح الشهية إلا خديتيها قبل الوجبة. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو المعدل الطبيعي ديال زيادة فالوزن فشهر؟",
+    "answer": "المعدل الطبيعي هو ربع كيلو غرام فالشهر. خاص تراقب الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش البطاطا الحمرا مزيانة لولد عندو تسعة شهور؟",
+    "answer": "مزيانة ولكن خاص تكون مقطعة صغيرة وناعمة. هادشي مهم للصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الخبز لبياد كايتنقص السعرات الحرارية ديالو من بعد ما يتحمص؟",
+    "answer": "لا، ما يمكنش. السعرات تبقى كما هي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش طلع وزني بطريقة ساهلة؟",
+    "answer": "خاص تنام مزيان وتدير الرياضة. هادشي غادي يساعد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "مازال مكانتحركم شوييا من لوزن؟",
+    "answer": "راجعي المكونات ديال الماكلة. خاص توازن فالأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي ربع وخمسين عام، وطول ديالي 1.64 متر ووزن ديالي 74 كيلو. هاد الوزن هو المثالي؟",
+    "answer": "الوزن المثالي بين 60 و 64 كيلو. خاص تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي ٢٠ عام، واش ممكن نزيد فالطول بالرياضة؟",
+    "answer": "لا، ماغاديش يتزاد الطول بعد هاد العمر. خاص تقبل جسمك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النمو",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايعاون كاسكيط باش تزيد ف لوزن؟",
+    "answer": "ماشي ضروري، خاص توازن فالأكل. الرياضة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا طويل 170 و ضريف 58. واش هادشي عادي؟",
+    "answer": "هاد الوزن عادي بالنسبة لطولك. خاص تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "تزادت ليا لوزن وأنا كاندير ريجيم.",
+    "answer": "كاينين شي دوايات كايعاونو فالحرق. الرياضة هي الحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي مزيان بالنسبة ليا، طوليا 170 سم؟",
+    "answer": "الوزن المثالي لك هو ما بين 60 و70 كيلو. خاصك تراقب صحتك وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت شي دوا باش إهزّ ليا الزفت و ينقص ليا لوزن.",
+    "answer": "أحسن حل هو أنك تبدا ريجيم وتدير الرياضة. هاد الشي غادي يعاونك بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 23 عام أُ 153 سم. شنو هو الوزن اللي مزيان ليا؟",
+    "answer": "الوزن المثالي لك هو ما بين 45 و55 كيلو. خاصك تهتم بصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي ماكلات محدّدة باش تزيد ف السعرات الحرارية؟",
+    "answer": "كاين بعض الماكولات اللي كاتزيد فالسعرات، بحال المكسرات والفاكهة المجففة. خاصك تراقب الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاينة شي وصفة تقدر تعاونني باش نقص 27 كيلو؟",
+    "answer": "خاصك تخفف من الماكلة وتدير الرياضة بانتظام. هاد الشي غادي يعاونك بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نعرف شحال ديال لما نحتاجو ف نهار؟",
+    "answer": "خاصك تشرب تقريبا 2 لتر ديال الماء ف النهار. هادشي كيساعد على الترطيب والصحة العامة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مومكين نشربو كاوكاو مسلوق بلا ما نطحوه ف كبسولات ديال التسمين؟",
+    "answer": "ما كاين حتى مشكل ف هاد الشي. الكاوكاو مسلوق صحي ومفيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو لعلاج ديال لوسوس أُ ل نوصور؟",
+    "answer": "علاج الباسور والناسور كيتطلب استشارة طبيب مختص. ممكن تحتاج تدخل جراحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هيا أحسن طريقة باش تنقص من الوزن؟",
+    "answer": "تبعت نظام غذائي صحي مع ممارسة الرياضة. من الأفضل تشاور مع طبيب ديال التغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نعرف علاش خسرتي الشهية ديالك؟",
+    "answer": "ممكن يكون نقص فشي فيتامين أو تعب نفسي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "خسارة الشهية"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش صحيح بلي لحليب مزيان للصحة؟",
+    "answer": "لحليب مصدر جيد للكالسيوم. كيساعد ف تقوية العظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هييّا لمعدا ديال زنك أُ لهيدر ف لجسم؟",
+    "answer": "الزنك خاصو يكون تقريبا 2 غرام، والحديد 4 غرام. هاد العناصر مهمة للصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "على النحافة الشديدة وفقدان الوزن على طول؟",
+    "answer": "خاصك تقييم طبي شامل. التغذية السليمة ضرورية.",
+    "entities": {
+      "symptoms": [
+        "نحافة شديدة",
+        "فقدان الوزن"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش زيت الصوجا كايزيد ف السعافا؟",
+    "answer": "لا، ولكن خاصنا ناكلوه بكميات معقولة. كل شيء ف الاعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نقص 15 كيلو، شنو هو أحسن طريقة؟",
+    "answer": "خاصك تعرف الطول والوزن ديالك. من الأفضل تتبع مع طبيب تغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال خاص الجسم باش يحرق الدهون؟",
+    "answer": "خاص الجسم 45 دقيقة فالنهار باش يحرق الدهون بشكل فعال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش شرب الما مع البصل كايعاون ف نقصان الوزن؟",
+    "answer": "لا، هادشي غير صحيح. خاصك تتبعي نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر ننقص الوزن ف رمضان؟",
+    "answer": "خاصك تتبعي نصائح غذائية متوازنة، وتكوني نشيطة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أشناهي الماكلا لي كاتزيد الوزن؟",
+    "answer": "المعجنات، الحبز لبياد، والسكريات كيزيدو الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المناسب لبنت عندها 17 عام و 156 سم؟",
+    "answer": "الوزن المناسب هو ما بين 50 و 55 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش شرب أتاي كل نهار مزيان؟",
+    "answer": "أيا، شرب أتاي بكثرة ميمكنش يكون مزيان للصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش جينسينغ كايعاون ف نقصان الوزن؟",
+    "answer": "إيوا، جينسينغ كيساعد ف نقصان الوزن، ماشي كيزيدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت شي حاجا تعاونني نفيق؟",
+    "answer": "سقي الحلبة مع عصير ليمون طايز قبل ما تأكلي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش موميت مزيان ف التخسيس؟",
+    "answer": "ماشي مزيان تستعمل هاد الدوا باش تخسري الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أشناهوما المجموعات الغذائية؟",
+    "answer": "١- الحبوب، ٢- اللحم، ٣- الخضرة، ٤- الفواكه، ٥- منتجات الحليب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كايتزاد الوزن بالرياضة؟",
+    "answer": "الرياضة كتعزز العضلات وكتساعد ف تحسين الصحة العامة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "راجل طولو 181 سم و عندو 27 عام، شنو هو الوزن المناسب ليه؟",
+    "answer": "الوزن المناسب ليه هو 78 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نسولك على شي حاجة باش نعاون راسي؟",
+    "answer": "الكبدة، الخس، البيض، الحوت، الموز، الفريز، الكيوي، التمر، العدس، اللحم الأحمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من عام باش يوقف النمو فالفناة؟",
+    "answer": "النمو ديال الطول كيتوقف عادة بين 17 و 21 عام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النمو",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا مرا عندي 23 عام، طولي 160 سنتيمتر ووزني 53 كيلو. واش هادشي مزيان؟",
+    "answer": "أه، الوزن ديالك عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي ضرر فكول السمك؟",
+    "answer": "السمك لي ما فيهش بزاف ديال الدهون، خاصة الدهون الأوميغا، مزيان للجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نقص من وزني مع أني كندير الرياضة؟",
+    "answer": "خاصك تقلل من الماكلة لي فيها سعرات حرارية بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المثالي لواحدة عندها 158 سنتيمتر و28 عام وعندها 3 دراري؟",
+    "answer": "الوزن المثالي كيتراوح بين 53 و67 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا طولي 167 ووزني 74، وعمري 26. شنو هو الوزن المثالي؟",
+    "answer": "الوزن المثالي هو حوالي 64 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الحجامة كاتأثر فخروج الدم من الجرحة؟",
+    "answer": "ماكاينش علاقة مباشرة بين الحجامة وخروج الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب البديل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا رشيقة، عندي غير بطن ما كيتناسبش مع جسمي. شنو ندير؟",
+    "answer": "الرياضة هي الحل، خاصك تركز على الأنشطة اللي كتحرق الدهون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الغلوتين؟",
+    "answer": "الغلوتين هو بروتين كاين فالبقوليات والرز والقرن وبزاف دالحبوب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش التغذية حسب فصيلة الدم حاجة علمية ولا غير تخمينات؟",
+    "answer": "هادشي غير تخمينات وماعندوش أساس علمي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المثالي ليا؟ أنا طولي 150 وعمري 15 عام.",
+    "answer": "الوزن المثالي بين 47 و52 كيلو. خاصك تحافظي على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا كاندير ريجيم، واش عادي إلا كسرت 200 كالوري؟",
+    "answer": "أه، هادشي عادي. المهم هو تراقبي نظامك الغذائي بشكل عام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الزنجبيل كايعاون ف نقصان الوزن؟",
+    "answer": "أه، الزنجبيل كيساعد فعمليات حرق الدهون. ولكن خاصك تتبعي نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو العلاج لألم البطن والزيادة ف الوزن؟",
+    "answer": "ألم البطن كيتطلب استشارة طبيب. السمنة ممكن تكون نتيجة لعوامل متعددة.",
+    "entities": {
+      "symptoms": [
+        "ألم البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان نستعملو فوليك أسيد للحامل؟",
+    "answer": "أه، فوليك أسيد مهم للحوامل. كيساعد فالنمو السليم للجنين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي مزيان لناس عندهم 16 عام، خصوصا البنات؟",
+    "answer": "الوزن المثالي للبنات في هاد العمر كيتراوح بين 50 و60 كيلو. خاصهم يتبعوا نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المناسب لشاب عندو 29 عام وطولو 178 سم؟",
+    "answer": "الوزن المناسب هو من 75 تال 80 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نزيد فالوزن؟",
+    "answer": "خاصك تأكل مزيان وتختار الماكلة اللي فيها سعرات حرارية عالية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المثالي لواحد طولو 163 سم؟",
+    "answer": "الوزن المثالي هو بين 50 و 65 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش النرجيلة كتزيد فالوزن؟",
+    "answer": "النرجيلة ممكن تزيد فالوزن حيت كتحتوي على سعرات حرارية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش ضروري نديرو صوم قبل مانديرو تحاليل ديال هرمونات التكاثر؟",
+    "answer": "نعم، الصوم كيساعد فالحصول على نتائج دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهرمونات",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 150 سم و66 كيلو. واش هاد الوزن طبيعي؟",
+    "answer": "الوزن ديالك مزيان بالنسبة لطولك. خاصك تراقب صحتك وتستاشر مع طبيب إذا كان عندك أي مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو العلاج ديال لسور ديال لعصا؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص. ممكن تحتاج للجراحة أو مضادات حيوية.",
+    "entities": {
+      "symptoms": [
+        "سور ديال لعصا"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نحيد لوسا ديالي بطريقة صحية؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتمرن بانتظام. حاول تركز على الأكل الصحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي أحسن طريقة باش نحيد السمنة من اليدين والرجلين والكرش؟",
+    "answer": "برامج غذائية صحية وتمارين رياضية منتظمة غادي يعاونوك. خاصك تكون عندك إرادة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش هاد الوزن صحيح؟ راه 88 كيلو و الطول 163 سم",
+    "answer": "هادشي عادي، عندك زيادة ديال 20 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان نخلطو القهوة مع العسل؟",
+    "answer": "أه مزيان، راه عادة مزيانة تستعمل شراب لبلادي فبلاصت السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لبيض معا لحليب ضار؟",
+    "answer": "لا، ولكن الكالسيوم اللي كاين ف لحليب كايخالي استيعاب لحديد ف لحليب قليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الكمون كايعاون فالتخسيس؟",
+    "answer": "أحسن حاجا باش تنقص من الوزن هي تبدا تاكل ماكلة مزيانة وتدير الرياضا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عمري 19 عام وطوليا 158 ووزنيا 68. خاصني نقص شوية فالوزن.",
+    "answer": "خسارة 10 كيلو غادي تخلي جسمك يكون مثالي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي مزيان ل شي واحد عندو 10 سنين و 150 ملم؟",
+    "answer": "كايبدى من 38 تال 56 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش خاص لبنيتو ياكل لما 6 شهور لولا ولا حليب لواليدا كافي؟",
+    "answer": "الحليب ديال لواليدا كافي حتى لستة شهور. من بعد يمكن تزيدي الأكل الصلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عمري 25 عام وطولي 165 سنتيمتر ووزني 70 كيلو. شنو هو الوزن المثالي؟",
+    "answer": "الوزن المثالي هو بين 55 و65 كيلو. خاصك تحافظي على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 15 عام و طولي 135 سنتيمتر، واش هاد الوزن طبيعي؟",
+    "answer": "الوزن الطبيعي هو بين 48 و60 كيلو. خاصك تتبعي نموك مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي دوا باش تزيد ف السدان؟",
+    "answer": "يمكن تاخدي فيتامينات متعددة، ولكن خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش نقدر ناخد زيت السمك؟",
+    "answer": "زيت السمك مزيان للصحة، ولكن خاصك ما تفرطيش فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نحصل على وزن مثالي، شنو خاصني ندير؟",
+    "answer": "خاصك تتبعي نظام غذائي متوازن وتديري الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي طبيب ديال الريجيم؟",
+    "answer": "من الأحسن تشوفي طبيب مختص فالتغذية. غادي يساعدك فاختيار النظام المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الكراوية المغلي كيأثر على الحامل؟",
+    "answer": "يمكن تسبب ليها توسع فكرش الأم، خاصها تكون حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مومكين نستعمل شي دوا ديال هرمون الدرع باش نقص شي كيلو؟",
+    "answer": "إلا ما كنتيش كاتعاني من خمول الغدة، مايمكنش تستعمليه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو غادي ندير باش نضيع الوزن قبل الشهر ديال الامتحانات؟",
+    "answer": "خاصك تتبعي نظام غذائي صحي وتديري الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش زيدتيه السكر الدايت للقهوة الخضرا غادي يأثر على الريجيم؟",
+    "answer": "الأحسن تشربي القهوة بلا سكر. غادي يساعدك فالتخسيس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش تقدر تعاون الميرمية باش تحرق الدهون؟",
+    "answer": "الميرمية كاتساعد فحرق الدهون، ولكن خاصك نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نحيد لكرش بلا مانقلّب؟",
+    "answer": "يمكن تحيد لكرش بالرياضة، خصوصا تمارين عضلات البطن. خاصك تكوني صبورة وتداومي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 17 عام ووزني 71 كيلو وطولي 160 سنتيمتر. شنو هو الوزن المثالي؟",
+    "answer": "الوزن المثالي هو بين 56 و60 كيلو. خاصك تحافظي على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاينين شي دوايات كايعاونو ف حرق لوسا أُ ينقصو من لوزنا؟",
+    "answer": "من الأحسن تتبعي نظام غذائي صحي وداومي على الرياضة. هادشي هو لي كيساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نقص فالوزن ولا عافاك قول ليا كيفاش.",
+    "answer": "تبعي ريجيم متوازن وداومي على الرياضة. خاصك تكوني ملتزمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "سالام، أنا مرا عندها 27 عام و162 سم، شنو هو أحسن وزن ليا؟",
+    "answer": "الوزن المثالي هو بين 55 و60 كيلو. خاصك تهتمي بصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو أحسن دوا باش تنحاف؟",
+    "answer": "نظام غذائي متوازن هو الأفضل. خاصك تجنبي الحرمان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هوما الماكلة لي كايعطيوناها ف لفطور سحيحا؟",
+    "answer": "فطور صحي يمكن يكون جبن، بيض، حليب، وفواكه. هادشي كيعطيك الطاقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الزنجبيل عندو شي تأثيرات سلبية ولا إيجابية على الحالة الجنسية ديال الراجل؟",
+    "answer": "الزنجبيل عندو فوائد صحية بزاف، ولكن خاصك ما تفرطش فيه. استشيري طبيب إذا كنتي محتاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أشناهييا لخودرا أُ لفاكيها ليفيتامين ديالها؟",
+    "answer": "فيتامين د كاين فالحليب والمشتقات ديالو، وكاين حتى فالبقوليات. خاصك توازني فالأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "زيدت 41 أونص و 165 جرام، شنو ندير؟",
+    "answer": "خاصك تشوف واش كاين شي مشكل فالهرمونات ديال الغدة الدرقية. الرياضة والمكملات الغذائية كيمكن يساعدوك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 19 عام، طولي 156 سم، ووزني 55 كيلو. واش هاد الطول مزيان؟",
+    "answer": "الوزن ديالك مزيان بالنسبة لطولك. خاصك غير تحافظي على نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو أسهل طريقة باش نحيدو الكرش؟",
+    "answer": "خاصك تتبعي نظام غذائي متوازن وتديري الرياضة بانتظام. هادشي غيساعدك بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كنحس براسي عيانا وكتزيد فيا لعيا فكرشي، شنو ندير؟",
+    "answer": "خاصك تشوف شي طبيب. هاد الأعراض ممكن تكون عندها أسباب صحية.",
+    "entities": {
+      "symptoms": [
+        "عياء",
+        "ألم في البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاينين أنواع المورتديلا مزيانين؟",
+    "answer": "المورتديلا فيها نترات، لي كيزيد من خطر السرطان. خاصك تحاول تقلل منها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو أحسن علاج لضفيرة الرجلين والركبتين؟",
+    "answer": "خاصك تشوف طبيب مختص. ممكن تحتاج علاج للأوعية الدموية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي أحسن طريقة باش نحيدو المؤخرة؟",
+    "answer": "الرياضة هي الحل. خاصك تديري تمارين مخصصة لهاد المنطقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كاتحيد ل پوز؟",
+    "answer": "خاصك تتبعي نظام غذائي صحي وتديري الرياضة بانتظام. تجنبي الأكل قبل النوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش شرب لحليب ل كاوكاو مزيان؟",
+    "answer": "مزيان، ولكن خاصك ما تشربيش بزاف. كاس واحد فاليوم كافي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو التحاليل اللي خاصني ندير باش نعرف علاش نقصت لوزن ديالي؟",
+    "answer": "خاصك تديري تحاليل للدم وللعضم. هادشي غيساعدك تعرفي السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحاليل الطبية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش المكسرات كتزيد فالوزن؟",
+    "answer": "أه، المكسرات فيها سعرات حرارية بزاف. خاصك تحافظي على الكمية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "وزنيتي تمنيا وسبعين كيلو، وطوليتي 170 سم، شنو ندير؟",
+    "answer": "خاصك تتبعي نظام غذائي متوازن وتديري الرياضة. هادشي غيساعدك تنقصي الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن اللي مزيان لبنت عندها 13 عام وطولها 168 سم؟",
+    "answer": "الوزن المزيان كيتراوح بين 45 و 60 كيلو. خاصها تكون فصحة جيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لكوفيتير أُ لبيد مزيانين؟",
+    "answer": "لا، خاصك تحاولي تبتعدي عليهم. كاينين تأثيرات سلبية على الصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش شوييا ديال لقهوا لعاربي كاضر؟",
+    "answer": "لا، القهوة مزيانة، ولكن خاصك ما تشربيش بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "طولي 150 ووزني 36 كيلو. واش هادشي مزيان عندي 14 عام؟",
+    "answer": "هاد الوزن قليل بزاف. خاصك تزيدي فوزنك باش توصل للوزن الصحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كاين شي عواصر ديال لعسل باش نتخلص؟",
+    "answer": "أتاي الأخضر، القرفة، والزنجبيل كيعونو شوية، ولكن خاصك ريجيم متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 14 عام وطولي 168 سم. الوزن المثالي هو 57 كيلو.",
+    "answer": "وزنك مناسب وعادي بالنسبة لطولك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش شرب لما مع الماكلة كايدير ليك لحريق فالكَرْش؟",
+    "answer": "شرب الماء مع الماكلة ما كيسبب والو، ولكن كايساعد فالهضم.",
+    "entities": {
+      "symptoms": [
+        "لحريق فالكَرْش"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش نقدر نزيد 62 كيلو و156 سم؟",
+    "answer": "خاصك تنقصي 8 كيلو باش توصل للوزن المثالي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا نحاف، بغيت نزيد فالوزن ديالي، صعيب عليا نزيد.",
+    "answer": "عافاك قولي لينا الوزن والطول ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الخميرة الفورية كتستعمل باش تزيد ف الوزن؟",
+    "answer": "أه، ممكن، ولكن خاصك تكوني حذرة وتزيدي بشوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش زيت السمسم مزيان؟",
+    "answer": "زيت السمسم مزيان، ولكن خاصك تستهلكيه باعتدال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 54 كيلو وطولي 165 وعندي 16 عام. واش هادشي مزيان؟",
+    "answer": "وزنك مناسب لطولك، ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لعاباد ديال لباليزا مزيان باش تزيد ف السدان؟",
+    "answer": "الحلبة كاتعاون ففتح الشهية، وداكشي علاش كاتعاون فزيادة الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي مشكل إلا كناكل 1000 سعر حراري ف النهار باش نقص الوزن؟",
+    "answer": "ما كاين حتى مشكل، ولكن خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايشرب لما بزاف راه مامزيانش لصحتو؟",
+    "answer": "المعدل الطبيعي هو 2-3 لتر فالنهار، يعني 8-12 كاس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لموكسارات كاتسبب فوزوز؟",
+    "answer": "كثرة هادشي كاتسبب فزيادة الوزن، والمهم هو شحال من سعرة حرارية كاتستهلكو فالنهار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نحسب شحال ديال السعرات الحرارية اللي محتاجها جسمي؟",
+    "answer": "خاصك تحسب العمر، الوزن، والطول. كاين طرق مختلفة باش تحسبها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 40 عام وطولي 152 سم، شنو التحاليل اللي درت؟",
+    "answer": "خاصك تقولي شنو هي التحاليل باش نقدر نساعدك. النتائج مزيانة، ولكن خاص تقييم شامل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش السيبروفيتا كايدير الحمل؟",
+    "answer": "السيبروفيتا ماشي مخصص للحمل. خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من كيلو كتحرق إلا مشيتي ساعة كاملة؟",
+    "answer": "تقريبا كتحرق 200 سعرة حرارية. هادشي كيعتمد على السرعة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "إلى كان عندي 76 كيلو وطولي 1.63 متر، شنو الوزن الطبيعي؟",
+    "answer": "الوزن الطبيعي ديالك هو ما بين 53 و65 كيلو. خاصك تحافظ على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش قشر الموز مزيان للشعر؟",
+    "answer": "قشر الموز مفيد للشعر، كيساعد على النمو وكيساهم فالكثافة. جربيه!",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لماكلا قبل من النعاس خايبة؟",
+    "answer": "مشي خايب، ولكن خاصك تاكل قبل من 4 ساعات من النوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من مرة فالسيمانة كاين اللحم باش ما يضرش من النقرس؟",
+    "answer": "خاصك تاكل 120 غرام من البروتين الحيواني فالنهار. حافض على التوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو نوع الحليب الصناعي اللي مزيان للدراري الصغار؟",
+    "answer": "الحليب الصناعي خاصو يكون غني بالفيتامينات والمعادن. استشيري طبيب الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش صحيح بلي الأندومي كيسبب العقم؟",
+    "answer": "الأندومي ضار بالصحة وعندو علاقة مع الالتهابات. خاص تجنبو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 19 عام و 162 سم و 57 كيلو. واش هاد الوزن مزيان؟",
+    "answer": "الوزن ديالك مقبول، ولكن خاصك تراقب صحتك وتغذيتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الطول يقدر يخبي الوزن الحقيقي؟",
+    "answer": "إي، الطول والوزن كيتعلقو ببعضهم. خاصك تحسب مؤشر كتلة الجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 17 عام و طولي 152 سنتيمتر. شنو هو الوزن المثالي؟",
+    "answer": "الوزن المثالي هو بين 41 و 57.5 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش لحبوب ديال سدّ الشهية مزيانة؟",
+    "answer": "هاد الحبوب ممكن تضر بالصحة وتخليك تفقد السيطرة على الشهية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو كادير باش تزيدي وزني بزربا؟",
+    "answer": "خاصك تشاور مع طبيب تغذية باش يعطيك برنامج غذائي مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش ڤيتامين د كايسبب فقر الدم؟",
+    "answer": "نقص الفيتامين د كايأثر على مستوى الحديد، وهاد الشي كايسبب فقر الدم.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا مرا عندي 42 عام ووزنيتي 140 كيلو، راه نقصت 1 كيلو من وزني الطبيعي.",
+    "answer": "وزنك فوق المعدل، خاصك تحاولي تنقصي أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 20 عام، وزني 71 كيلو، طولي 159 سم. بغيت شي طريق باش نقص فالوزن.",
+    "answer": "خاصك تشاور مع طبيب تغذية باش يدير ليك ريجيم مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نقص شي كيلو.",
+    "answer": "تخفيف الماكلة وتنظيم الوجبات، واستشارة مختص تغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي السمنة و بغيت نحل، بلا ما ندير الرياضة.",
+    "answer": "خاصك تتبعي نظام غذائي صحي، الرياضة كتعون بزاف.",
+    "entities": {
+      "symptoms": [
+        "السمنة"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا مرا عندي 57 عام و طولي 163 سنتيمتر، شنو هو الوزن المناسب؟",
+    "answer": "الوزن المناسب هو بين 53 و 63 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو لماكلا ليكايعاون باش تبييّض لحجبان؟",
+    "answer": "تقدر تستعمل خلطات طبيعية بحال الكرموس والعسل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كايحمقني لموت ديال لوزن ديالي بزاف ولا ماكايتطابقش مع لعمر ديالي.",
+    "answer": "خاصك تقييم صحي شامل، واستشارة مختص في التغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "ماعنديش شهية، كاين شي حل؟",
+    "answer": "الفيتامين ب كيساعد على فتح الشهية. خاصك تستاشر طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشهية"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا طولي 169 ووزني 70 كيلو، شنو خاصني نقص؟",
+    "answer": "خاصك تهتم بالأكل الصحي وتدير الرياضة. الوزن المثالي كيتطلب توازن بين الوزن والطول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش هاد الدوا عندو تأثير سلبي على الرضع؟",
+    "answer": "خاصك تستاشر طبيب قبل ما تعطيه للرضيع. بعض الأدوية ممكن تكون عندها آثار جانبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصيدلة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي أحسن طريقة باش نحمي من مرض الكلي؟",
+    "answer": "خاصك تاكل ماكلة صحية تحتوي على البروتين والبوتاسيوم. شرب الماء بكثرة مهم كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش تأكدتي بلي ماكاينينش الديدان فجسمي؟",
+    "answer": "خاصك تدير تحاليل عند الطبيب. إذا لقاو ديدان، خاصك تتبع العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطبيب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي 22 عام، طولي 163 سنتيمتر، ووزني 54 كيلو. شنو هو الوزن اللي مزيان ليا؟",
+    "answer": "وزنك مناسب، ولكن خاصك تحافظ على نظام غذائي متوازن. الرياضة مهمة كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش العشوب الطبيعية فعالة فالتخسيس؟",
+    "answer": "أعشاب الطبيعية كيمكن تكون فعالة، ولكن خاصك تراقب صحتك. الأدوية الكيميائية عندها آثار جانبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش النحافة عند الرجال كتعني مايمكنش يولدو؟",
+    "answer": "النحافة ماكتعنيش بالضرورة مايمكنش يولدو. خاص استشارة طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الإنجابية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقصت من السماتة؟",
+    "answer": "خاصك ترجع للماكلة الطبيعية، وتبعد على المشروبات الغازية، وتدير الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش عصارة ليمون كاتعاون فالنقصان؟",
+    "answer": "عصارة ليمون كاتساعد فالنقصان ولكن خاص تكون بلا سكر. ضروري تراقب المكونات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نزيد فالوزن؟",
+    "answer": "خاصك تركز على الماكلة الغنية بالبروتينات وتاكل بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الملح كايزيد فالسمنة؟",
+    "answer": "الملح كايتجمع فالجسم وكيقدر يزيد فالسمنة. خاصك تحاول تقلل منو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقصت الوزن بلا ما نأثر على الكرش؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتدير الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي نصيحة باش نقص فالوزن؟",
+    "answer": "تبع ريجيم صحي ومتوازن، ومارس الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايتزاد لوزن ديال لحمّام ف الريجيم؟",
+    "answer": "إلا كان تقيل، خاصك تحاول ما تزيدش فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقصت الزفت؟",
+    "answer": "خاصك توضح شنو هو طولك وطبيعة النشاطات ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "إلا كان طولي 1.70، شنو خاص يكون وزني؟",
+    "answer": "الوزن المثالي هو 62 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش السمنة وراثية ولا يمكن لواحد البنت تزيد ولا تنقص من الوزن ديالها؟",
+    "answer": "السمنة يمكن تكون وراثية، ولكن كاينين طرق باش تنقص الوزن. خاص البنت تتبع نظام غذائي صحي وتدير الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي علاج آخر للمتلازمة الكلوية من غير الكورتيسونيل؟",
+    "answer": "خاصك تسول طبيب مختص باش يعطيك معلومات دقيقة على الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان نديرو رياضة كل نهار؟",
+    "answer": "نعم، الرياضة كل نهار مزيانة للصحة. كتحسن المزاج وكتساعد على الحفاظ على الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا رقيق بزاف، بغيت شي دوا باش نزيد فالوزن.",
+    "answer": "ماشي مزيان تاخد دوا بلا استشارة طبيب. خاصك تعرف السبب اللي خلاك رقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نستعملو لخميرة باش نزيدو فالسعرا من بعد لماكلة؟",
+    "answer": "خد حبة من خميرة بعد الماكلة بشوية. ولكن خاصك تحافظ على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "دكتور، أنا طولي 123 سنتيم ووزنيتي 165 كيلو، وباغي ننقص من الوزن.",
+    "answer": "خاصك تشاور مع طبيب مختص في التغذية. غادي يساعدك في وضع برنامج مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت شي وصفة طبيعية باش نحيد تكيس المبيض ونعالج الدورة الشهرية.",
+    "answer": "عافاك، هاد السؤال خاصو يتوجه لطبيب مختص في الأمراض النسائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "مسا لخير، شنو هو أحسن مكمل غذائي صحي للمتزوجين و الرياضيين؟",
+    "answer": "المكملات الغذائية تختلف حسب الاحتياجات. خاصك تحدد السبب باش نقدر نجاوبك مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو أحسن خفيف باش نحافظ على السمنة؟",
+    "answer": "خاصك تتبع نظام غذائي متوازن وتتفادى الأطعمة الغير صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "ريجيم ديال لعاسير لواليدين ف رمضان.",
+    "answer": "المرضع خاصها ما تتبعش ريجيم صارم، خاصها تهتم بالتغذية المتوازنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش غادي نخسر ورن زيد؟",
+    "answer": "خاصك تتبع نظام غذائي مناسب وتدير الرياضة. استشارة طبيب تغذية غادي تكون مفيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الريجيم ديال البروتين ولا الحوت كايعاون فالتخسير؟",
+    "answer": "نعم، ولكن خاصك تشاور مع طبيب التغذية باش يحدد لك الأنسب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "السلام عليكم. واحد الراجل من سيدي موسى نزل وزني ب 17 كيلو ف غير 7 شهور. واش هادشي كايعني بلي عندو شي مرض خطير؟",
+    "answer": "فقدان الوزن المفاجئ يمكن يكون علامة على مرض. خاصه يشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الوزن"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كايستعملو إبرماكس باش يزيدو فالوزن؟",
+    "answer": "خاصك تسول طبيب مختص باش يعطيك معلومات دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هوما لمكلا لي فيهم لبروتين بزاف؟",
+    "answer": "مصادر البروتين هي اللحم، الدجاج، الحوت، الحبوب، والبيض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش كاتحيد السمطة؟ عندي ٧٥ و الشورط ديالي ١٦٢.",
+    "answer": "حاول تتبع نظام غذائي صحي مع ممارسة الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش كاين شي واحد عندو شي خبار على شحال خاصني نوزن باش نوصل ل 54 كيلو؟",
+    "answer": "الوزن المثالي يتراوح بين 48 و 54 كيلو. خاصك تحافظ على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "سلام... خسرت شي 4 كيلو.",
+    "answer": "خاصك تقلل من الماكلة وتدير الرياضة بانتظام.",
+    "entities": {
+      "symptoms": [
+        "فقدان الوزن"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش خاصني ناخد شي كبسولات للسنان؟",
+    "answer": "ماشي ضروري، خاصك تشوف أخصائي تغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت شي حاجة كتحرق لوسخ ديال لحامض بلا ضرر.",
+    "answer": "ماكاينش، كنصحك ما تاكلش أي حاجة، كلشي عندو آثار جانبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نزيد فحجم الموشرتي؟",
+    "answer": "يمكن لك تستعمل تمارين رياضية معينة، وشي مدرب يقدر يعاونك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الجبنة فيها السكر؟",
+    "answer": "الجبن فيه سعرات حرارية بزاف، ولكن المهم هو شحال كايتاكل الواحد فالنهار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كيفاش نقدر نحيّد السالاما دغيا؟",
+    "answer": "يمكن لك تخسار الوزن بشوية بشوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كنحس بالغثيان ملي كناكول البقوليات، شنو السبب؟",
+    "answer": "يمكن تحسّن من بعد ما تبعد على لي كايتسبب لك فالصّداع.",
+    "entities": {
+      "symptoms": [
+        "الغثيان"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش صحيح أن شرب لما الدافي فليل كايساعد باش إذيب الدهون؟",
+    "answer": "لا، راه ماشي صحيح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال من ميليليتر ديال لما كايعطي جسم فيه 80 كيلوغرام فالنهار؟",
+    "answer": "الجلد كايتاكل تقريبا ربعا ديال لتر ديال لما النهار كامل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شحال الوزن المزيان لبنت عندها 10 سنين وطولها 150 سم؟",
+    "answer": "الوزن المزيان كيتراوح بين 30 و 40 كيلو. خاص استشارة طبيب لتحديد الوزن المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "كاينين شي أعشاب كايعاونو فالتخسيس؟",
+    "answer": "أتاي الأخضر والزنجبيل كيعونو فالتخسيس. خاص تراقب شنو كتاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 75 كيلو وطولي 1.62 متر، واش وزني عادي؟",
+    "answer": "وزنك زايد شوية، خاصك تخفف 10 كيلو. استشارة مع مختص غتساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت شي دوا للتجميل وأعشاب باش نحيد لحمورية.",
+    "answer": "يمكن تستعمل الخلطة الطبيعية بحال الخمر والعسل. خاص الصبر والمواظبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الخس كايعاون فالتخسيس؟",
+    "answer": "الخس فيه ألياف كتنظم السكر فالجسم، ولكن ماشي هو الحل الوحيد. خاص توازن فالأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي الأدوية اللي كاتوسع لبها لعضم؟",
+    "answer": "يمكن تستعمل لحلبة أو فول الصويا، هادشي كيساعد فالنمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي الزيوت اللي كتساعد على نمو الشعر؟",
+    "answer": "زيت الخروع وزيت دابر أملاء كيعطيو نتائج مزيانة. خاص الاستمرار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي وزن زايد، واش كاين حل؟",
+    "answer": "خاصك تدير فحوصات وتراقب الأكل ديالك. استشارة مع مختص غتكون مفيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان تاكل شلاضة د سيزر؟",
+    "answer": "شلاضة د سيزر مزيانة، ولكن خاص تكون متوازنة مع باقي الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "دكتور، ختي عندها 17 سنة وكتوزن 48 كيلو وطولها 153 سم، واش هاد الوزن طبيعي؟",
+    "answer": "هاد الوزن عادي ومتناسق مع الطول. خاصها غير تغذية متوازنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أهلا، درت تحليل فيتامين د وطلع 26، واش هادشي نقصان؟",
+    "answer": "أه، النتيجة منخفضة. خاصك تزيدي من فيتامين د.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "أنا عندي 13 عام وطولي 1.60 ووزني 51 كيلو، واش هادشي عادي؟",
+    "answer": "أه، وزنك عادي بالنسبة لطولك. خاصك غير تغذية صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش ممكن نزيدو لخوبز والكركم من بعد مايڭادّو؟",
+    "answer": "ممكن، ولكن خاص تكون الكمية معقولة. توازن فالأكل مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "بغيت نعرف واش منتوج خليط القمح للتخسيس مزيان للمرضع؟",
+    "answer": "خاص نعرفو المكونات مزيان قبل ما نستعملوه. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هي الفوايد ديال شرب الما مخلط بشوية ديال الما الوردي؟",
+    "answer": "الما الوردي فيه معادن ومضادات أكسدة. كيساعد فالصحة العامة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "عندي ولد عندو ست سنين و40 كيلو، واش هاد العمر مزيان؟",
+    "answer": "خاص نعرفو الطول ديالو باش نحددوا الوزن. استشارة طبيب غتكون مفيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو نوع الجبن المزيان لصحة الناس وما كيسببش الزايد فدهون الدم؟",
+    "answer": "الجبنة قليلة الدسم مزيانة للصحة. خاص توازن فالأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش استعمال الكورتيزون شي شهر واعر؟",
+    "answer": "أه، الكورتيزون كيزيد الوزن. خاص الحذر فالاستخدام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان نستعملو أدوية نقصان الوزن اللي فيها أكاربوز؟",
+    "answer": "لا، ماشي مزيان. خاصك تنقص من الوزن بطرق طبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش مزيان ناكل جلبانا نهار كامل؟",
+    "answer": "ما كاين باس، ولكن خاصك تراقب السكر ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش الحبوب ديال الحديد كتزيد فالوزن؟",
+    "answer": "ما كيزيدوش فالوزن. ولكن خاصك تاخدهم بجرعات مناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش اتاي لخضر كايعاون ف ليفلة؟",
+    "answer": "شوية، ولكن خاصك تركز على الماكلة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "شنو هو الوزن المناسب للطول والعمر ديالي؟ أنا طولي 162 سنتيمتر ووزنيتي 86 كيلو.",
+    "answer": "الوزن المثالي ليك هو بين 59 و65 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dietetics and Nutrition",
+    "question_darija": "واش طولي 163 سم ووزنيتي 60 كيلو راه عادي فعمري 26 عام؟",
+    "answer": "أه، الوزن ديالك عادي بالنسبة لطولك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  }
+]

@@ -13,4 +13,3 @@ Lien dataset Med_QA:  https://drive.google.com/drive/folders/1FJvLjuS_QfYNji_lRJ
 Lien internet: https://data.mendeley.com/datasets/v6gs7nsy9z/1
 
 ## Si vous trouvez autre dataset meilleur quality Arabe / Francais seulement partager directement Lien
-

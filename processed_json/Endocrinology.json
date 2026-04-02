@@ -1,0 +1,4177 @@
+[
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج الغدة الدرقية؟",
+    "answer": "العلاج كيعتمد على نوع المرض. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج الغدة الدرقية الخاملة؟",
+    "answer": "العلاج كيتطلب هرمونات الطيروكسين. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال مرض القلب؟",
+    "answer": "خاصك تراجع طبيب القلب. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي خلل في الغدة الدرقية.",
+    "answer": "خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض التهاب الغذاء؟",
+    "answer": "الأعراض كتشمل ألم وتورم. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "تورم"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال الغدة الدرقية؟",
+    "answer": "العلاج كيتطلب استعمال هرمون الثايروكسين. خاص استشارة طبيب لتحديد الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "العلاج ديال الغدة عند دري عندو عامين",
+    "answer": "العلاج كيعتمد على السبب و الحالة الصحية للطفل. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج خمول الغدة الدرقية؟",
+    "answer": "العلاج هو هرمون الثايروكسين. خاص متابعة مع طبيب لتحديد الجرعة.",
+    "entities": {
+      "symptoms": [
+        "خمول"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أسباب تليف الغدد والأعراض ديالها؟",
+    "answer": "تليف الغدد كيتسبب فمشاكل فالإفرازات. خاصك تشوف طبيب لتحديد السبب والعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال فرط النشاط ديال الغدة الدرقية؟",
+    "answer": "العلاج كيتطلب أدوية خاصة. خاصك تتابع مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش النسبة ديال السكر 109 عادية؟",
+    "answer": "نعم، هاد النسبة عادية. ولكن خاصك تراقب صحتك بشكل مستمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو علاج التهاب الغدة الدرقية؟",
+    "answer": "خاصك تشوف طبيب باش يحدد العلاج المناسب. العلاج كيتعلق بالسبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عافاك، كيفاش نعالج كسل الغدة عند الدراري الصغار؟",
+    "answer": "الهرمونات كتلعب دور كبير. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال هرمون الحمل؟",
+    "answer": "المعدل كيتحدد حسب المرحلة ديال الحمل. خاصك تراقب مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو علاج خلل الغدة الدرقية؟",
+    "answer": "العلاج كيتطلب أدوية بحال تيريكسين. خاصك تتابع مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين علاج نهائي لتكاسل الغدد الدرقية؟",
+    "answer": "نعم، كاينين طرق علاجية متعددة. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال هرمون اللبن؟",
+    "answer": "المعدل كيتحدد حسب الحالة. خاصك تراقب مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج خمول الغدة الدرقية؟",
+    "answer": "كيتعالجو الحالات اللي كتسببها تضخم الغدد بالدوا ديال تيروكسين.",
+    "entities": {
+      "symptoms": [
+        "خمول الغدة الدرقية"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندو مشكل فالطول، واش كاين شي حل؟",
+    "answer": "خاصك توضح المشكل باش نقدر نساعدك.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالطول"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج النكاف؟",
+    "answer": "علاج النكاف كيعتمد على السبب وعادة كيتعالجو بتخفيف الضغط.",
+    "entities": {
+      "symptoms": [
+        "نكاف"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "ولدي عندو 12 عام و طولو 160 سنتيمتر و بغيتو يتوقف النمو",
+    "answer": "خاصك تقيم الحالة أولا مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "توقف النمو"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "الدرجة الطبيعية ديال الهرمون ديال البروجسترون",
+    "answer": "الدرجة كتختلف حسب الوقت والمكان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندو كيس في الغدة الدرقية",
+    "answer": "خاصك تاخد صورة للغدة وترشحها للطبيب.",
+    "entities": {
+      "symptoms": [
+        "كيس في الغدة الدرقية"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "النفخة فالبطن ديال الرجال",
+    "answer": "خاصو يتدار فحص طبي لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "نفخة فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض نقص الهرمونات عند البنات؟",
+    "answer": "الأعراض كيمكن تكون متنوعة، بحال التعب، عدم انتظام الدورة الشهرية، وزيادة الوزن. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "عدم انتظام الدورة الشهرية",
+        "زيادة الوزن"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "وقتاش كيتستعمل العلاج ديال الغدة الدرقية؟",
+    "answer": "العلاج كيتستعمل عادة ساعتين قبل الأكل. خاص تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيس في الغدة الدرقية؟",
+    "answer": "خاصك تدير راديو الأشعة السينية وتشوف الطبيب. هادشي مهم باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال التهاب الغدة العرقية؟",
+    "answer": "خاصك تشوف شي طبيب الجلد. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج الغدة الدرقية؟",
+    "answer": "العلاج كيعتمد على المرض اللي كايعاني منو المريض. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج الغدة؟",
+    "answer": "خاص نعرفو شنو هي الغدة اللي عندك. العلاج كيتبدل حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض خمول الغدة الدرقية؟",
+    "answer": "من بين الأعراض كاين الكسل، وزيادة الوزن، وتساقط الشعر.",
+    "entities": {
+      "symptoms": [
+        "الكسل",
+        "زيادة الوزن",
+        "تساقط الشعر"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كان عندي سكر و طلع ليا الدم 48.",
+    "answer": "خاصك تعاود التحاليل فالمختبر باش نعرفو الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال خمول الغدة الدرقية؟",
+    "answer": "العلاج هو هرمون خاص بالغدة الدرقية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كتعامل مع زيادة في الهرمونات الذكرية؟",
+    "answer": "خاصنا نعرفو السبب أولا، ومن بعد نحددو العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "درت تحاليل للغدة النخامية وكنتمنى نتلقى النتائج.",
+    "answer": "غادي نكتب النتائج ونتأكدو ليك فالقريب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة النخامية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الغدة الدرقية هي لي كتعطيك الدوخة؟",
+    "answer": "الغدة الدرقية ما كتسببش الدوخة، خاصك تشوف سبب آخر.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي نسبة برولاكتين 60، داكشي علاش العلاج.",
+    "answer": "نسبة البرولاكتين العالية كتطلب العلاج، خاصك تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نسبة السكر العشوائي 109 عادية؟",
+    "answer": "نعم، هاد الشي عادي، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج خمول الغدد؟",
+    "answer": "خاصك تشاور مع طبيب لتحديد العلاج المناسب حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "خمول الغدد"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كايتعالجو زيادة الهرمون الذكري؟",
+    "answer": "خاصنا نعرفو السبب ونعالجو حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "زيادة الهرمون الذكري"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كيبين التحليل شي خلل فهرمونات الدم؟",
+    "answer": "إذا كانت التحاليل طبيعية، ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال البقع من حب الشباب؟",
+    "answer": "خاصك تشاور مع طبيب الجلد لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب",
+        "البقع"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال السكر فالدم للناس اللي عندهم 20 عام؟",
+    "answer": "المعدل الطبيعي هو من 65 حتى ل 110.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "درت تحليل الغدة الدرقية ولقيت 362. واش هادشي عادي؟",
+    "answer": "نعم، التحليل عادي ولكن خاصك تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو أحسن علاج للغدة الدرقية النشطة؟",
+    "answer": "العلاج كيتغير حسب تفاصيل كل حالة.",
+    "entities": {
+      "symptoms": [
+        "الغدة الدرقية النشطة"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو السبب لي كيسبب ارتفاع هرمون الذكورة؟",
+    "answer": "خاصك تعرف التشخيص مزيان باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع هرمون الذكورة"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش العيون كترجع لطبيعتها من بعد ما تتعالج الغدة؟",
+    "answer": "ماشي فكل الحالات، خاص كل حالة تتشخص مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال خلل الغدة الدرقية؟",
+    "answer": "العلاج ديال كسل الغدة الدرقية هو الثريودوكسين. خاص استشارة طبيب لتحديد الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا راجل عندي تورم فاليسار من النيف ديالي.",
+    "answer": "خاصك تشوف طبيب جراح. التورم يمكن يكون عندو أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي عوارض الغدّ؟",
+    "answer": "عوارض الغدد كتعتمد على نوع الغدة والنوع ديال الخلل. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش العيون كترجع لحالتها الطبيعية بعد العلاج؟",
+    "answer": "ماشي فكاع الحالات. كاينين حالات لي كتحتاج وقت طويل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شحال من وقت كيدوم علاج الهرمونات عند البنات؟",
+    "answer": "مدة العلاج كاتعتمد على التشخيص. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا عندي 18 عام ومازال ما تزوجت.",
+    "answer": "خاصك تشوف طبيب الغدد باش يدير ليك الفحوصات اللازمة. يمكن يكون عندك مشكل هرموني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "مرحبا، شنو هو العلاج اللي كيناسب باش نحبس الغدد؟",
+    "answer": "عافاك وضح ليا شنو الغدة اللي كتقصد. كل غدة عندها علاج خاص بها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي وجع فالغدد اللمفاوية.",
+    "answer": "خاصك دير فحص طبي باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالغدد اللمفاوية"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض نقص الغدة الدرقية؟",
+    "answer": "الأعراض كتشمل التعب، زيادة الوزن، والبرودة. خاصك تشوف الطبيب باش يشوف الهرمون ديالك.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "زيادة الوزن",
+        "البرودة"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت تشخيص وعلاج باش نحسن هاد التحليل.",
+    "answer": "خاصك تزور طبيب النساء باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كنت بغيت نعرف واش التحاليل دارت مزيان ولا لا.",
+    "answer": "التحاليل طبيعية تماما وما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحاليل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نقص هرمون الإستروجين كيعطل الإنجاب؟",
+    "answer": "نعم، نقص هرمون الإستروجين يمكن يأثر على الإنجاب. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض نقص الغدة الدرقية؟",
+    "answer": "من أعراض نقص الغدة الدرقية كاين التعب، زيادة الوزن، والبرودة. خاصك تراجع طبيب.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "زيادة الوزن",
+        "البرودة"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج قصور الغدة الدرقية؟",
+    "answer": "الهرمون الثايروكسين هو العلاج الأساسي. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو أحسن علاج للغدة الدرقية النشطة؟",
+    "answer": "العلاج كيتحدد حسب الحالة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كايتعامل مع زيادة الهرمونات الذكرية؟",
+    "answer": "خاص نعرفو السبب وراء الزيادة. العلاج كيتغير حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض الغدة الدرقية؟",
+    "answer": "الأعراض كتشمل التعب، الزيادة في الوزن، والبرودة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "زيادة الوزن",
+        "البرودة"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش هادا فحص ديال الهرمونات؟",
+    "answer": "نعم، التحاليل ديال الهرمونات كتعطي معلومات مهمة. خاص متابعة مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج الغدة الدرقية؟",
+    "answer": "العلاج كيعتمد على نوع المرض. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو الغذاء اللي كيتستعمل باش يعالج مرض قصور الغدد الصماء؟",
+    "answer": "ما كاينش ماكلة خاصة تعالج هاد المشكل. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "قصور الغدد الصماء"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي وجع فالغدة الدرقية، شنو هو العلاج؟",
+    "answer": "خاصك تشوف طبيب. يمكن يحتاج الأمر لفحوصات إضافية.",
+    "entities": {
+      "symptoms": [
+        "وجع فالغدة الدرقية"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "قراءة تحاليل الغدة الدرقية.",
+    "answer": "التحاليل ديالك مزيانة، ما كاينش نشاط ولا كسل. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "ولادي عندهم 12 و160 عام، وباغيين يوقفو النمو.",
+    "answer": "خاصنا نقيمو الحالة ديالهم أولا باش نعرفو شنو يمكن نديرو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي مشكل فالغدة الدرقية.",
+    "answer": "خاصك تشوف مستويات الهرمونات ديالك عند طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال خمول الغدة الدرقية؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الغدد الصمغية؟",
+    "answer": "هي الغدد اللي كتفرز الهرمونات فالدم وكتأثر على الجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا مصاب بغدد بارثولين، كيفاش يمكن لي يعالجوني؟",
+    "answer": "خاصك تشوف طبيب النساء باش يتبعك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض استخدام محفز التيستيرون عند الدراري الصغار؟",
+    "answer": "استخدام محفزات التيستيرون عند الدراري الصغار يمكن يسبب تغييرات فالجسم، بحال زيادة فالنمو أو مشاكل فالسلوك. خاص استشارة طبيب قبل أي استعمال.",
+    "entities": {
+      "symptoms": [
+        "تغييرات فالجسم",
+        "زيادة فالنمو",
+        "مشاكل فالسلوك"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هوما الأسباب ديال وقوع القصور فالغدة الدرقية؟",
+    "answer": "الأسباب كتكون غالبًا التهاب الغدة أو نقص فاليود. خاص استشارة طبيب لتحديد السبب الدقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الأعراض ديال زيادة إفراز الغدة الدرقية؟",
+    "answer": "الأعراض كتشمل نقصان الوزن، التعرق الزايد، وقلق. خاص زيارة طبيب للتشخيص.",
+    "entities": {
+      "symptoms": [
+        "نقصان الوزن",
+        "التعرق الزايد",
+        "قلق"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال قصور الغدة الدرقية؟",
+    "answer": "العلاج الرئيسي هو التروكسين، وخصو يتعطى على وصفة طبية. خاص متابعة دورية مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض فرط النشاط عند الطفل؟",
+    "answer": "الأعراض كتشمل عدم التركيز، الحركة الزايدة، وصعوبة فالتفاعل. خاص استشارة طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "عدم التركيز",
+        "الحركة الزايدة",
+        "صعوبة فالتفاعل"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كا يقدر هاد المرض يضر الجماع والإنجاب؟",
+    "answer": "نعم، بعض الأمراض الغددية يمكن تأثر على الجماع والإنجاب. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "دوا باش نقصو من الشعر الزايد فالجسم؟",
+    "answer": "خاصك تحدد السبب الأول للشعر الزايد، ومن بعد يمكن نحدد العلاج المناسب. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "شعر زايد فالجسم"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "مرحبا، شنو هو علاج قصور الغدة الدرقية؟",
+    "answer": "العلاج هو الهرمونات، وخصو يتعطى تحت إشراف طبي. خاص متابعة دورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا عندي 15 عام وطولي 120 سنتيمتر.",
+    "answer": "خاصك دير فحص هرمون النمو باش نشوفو الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي علاقة بين السل والغدة الدرقية؟",
+    "answer": "لا، ما كاينش علاقة مباشرة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض الغدة الدرقية؟",
+    "answer": "الأعراض كتختلف حسب نوع المشكلة اللي عندك في الغدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "زوجي كيعاني من التعب الجسدي وكيحس بألم تحت الزرق ديالو اليسار.",
+    "answer": "خاصو يمشي عند الطبيب باش يدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "تعب جسدي",
+        "ألم"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كا يقدر يكون عندها القصور في الغدد الدرقية تأثير على التكاثر؟",
+    "answer": "أه، القصور كايتأثر على التكاثر وخصو العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض الغدة الدرقية؟",
+    "answer": "الأعراض كتشمل التعب، زيادة الوزن، أو فقدان الوزن. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "زيادة الوزن",
+        "فقدان الوزن"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي نسبة هرمون التستوستيرون ديالي هي 4. واش هادشي عادي؟",
+    "answer": "نعم، هاد النسبة عادية. ولكن خاصك تشوف طبيب إذا كان عندك أعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي النتائج ديال العملية ديال الجراحة واستئصال الغدة الدرقية؟",
+    "answer": "بعد العملية، خاص تعويض نقص الهرمون. هادشي مهم للحفاظ على الصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش نعرف واش التستوستيرون ديالي عادي؟",
+    "answer": "خاصك تدير تحليل للهرمونات. كل فحص كيعطيك النسب الطبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "مرحبا، واش الغدة الدرقية ممكن تسبب القولون؟",
+    "answer": "لا، ما عندها حتى علاقة بالقولون. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كانحس بشي حاجة تحت يدّي ليسر.",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب ديال الألم. ممكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الألم في المبيض والنزيف البريء دليل على الحمل؟",
+    "answer": "خاصك تشاور مع أخصائية نسائية. هي اللي غادي تعرف الحالة بشكل أفضل.",
+    "entities": {
+      "symptoms": [
+        "ألم في المبيض",
+        "نزيف"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الأسباب ل 4 أسابيع ديال الإجهاض؟",
+    "answer": "الأسباب كيمكن تكون متنوعة، من بينها الأجسام المضادة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نعرف كيفاش كيزيد هرمون النمو.",
+    "answer": "هرمون النمو كيزيد بناءً على عدة عوامل، بحال التغذية والنوم. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "دار تحليل للغدد الدرقية صايبوه الطبيب.",
+    "answer": "ما تحتاجش توقف للصيام باش دير الفحص. التحليل كيتدار في أي وقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو أحسن وقت باش ندير تحاليل هرمونات الحمل؟",
+    "answer": "الأحسن هو من بعد تأخر الدورة الشهرية. هادشي كيساعد في تحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا مصاب بالسكر وبغيت نخرج من الدوا.",
+    "answer": "ما خاصكش توقف الدوا بلا استشارة طبيب. الدوا كيساعد في التحكم في السكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الغدة الليمفاوية؟",
+    "answer": "الغدة الليمفاوية كتلعب دور فالجهاز المناعي. خاصك تشاور طبيب لفهم أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز المناعي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "وقتاش كيتكون الغدد العرقية؟",
+    "answer": "الغدد العرقية كيتكونو فمرحلة البلوغ. هادشي كيتعلق بالتغيرات الهرمونية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي غدة الدرقية وخاصني نعرف كيفاش نتكلم عليها.",
+    "answer": "خاصك تعرف أن الغدة كتلعب دور كبير فإفراز الهرمونات. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "درت تحليل الغدد الصماء و النتيجة كانت 3.62. واش هادشي عادي؟",
+    "answer": "نعم، النتيجة عادية. خاصك تتابع مع طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "في حالة استئصال الغدة الجارة للدرقية، كيفاش يمكن تعويضها؟",
+    "answer": "يمكن تعويضها بالكالسيوم والهرمونات. خاصك متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو السبب ديال مرض منيير؟",
+    "answer": "مرض منيير كيتعلق بمشاكل فالأذن الداخلية. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض مرض الغدد العرقية؟",
+    "answer": "الأعراض كتعتمد على نوع الخلل. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "نسبة البرولاكتين 20.88 مزيانة؟ واش ممكن تسبب العقم؟",
+    "answer": "نسبة البرولاكتين عادية، ولكن خاص استشارة طبيب إذا كان عندك مشاكل في العقم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الأعراض ديال بلوغ البنات؟",
+    "answer": "الأعراض كتشمل تغييرات فالجسم بحال نمو الثدي والدورة الشهرية. خاص استشارة طبيب إذا كان عندك استفسارات.",
+    "entities": {
+      "symptoms": [
+        "تغييرات فالجسم",
+        "نمو الثدي",
+        "الدورة الشهرية"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو السبب ديال ارتفاع هرمون الغدة الدرقية؟",
+    "answer": "السبب غالبا هو فرط نشاط الغدة. العلاج هو كاربمازول تحت إشراف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الماكلة الصحية للي عندها السكر؟",
+    "answer": "خاص تنظيم مواعيد وكميات الطعام. الاعتدال هو الأساس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش القصور الدرقي كايهدد على ضغط الدم؟",
+    "answer": "نعم، القصور الدرقي يمكن يؤثر على ضغط الدم. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نقصان هرمون الإستروجين كيأثر على النجاح فالرياضة؟",
+    "answer": "نعم، نقصان هرمون الإستروجين يمكن يؤثر على الأداء الرياضي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاينة علاقة بين المشروبات السكرية ونمو الغدة الدرقية؟",
+    "answer": "ما كاينش علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش نحسن الهرمونات الأنثوية؟",
+    "answer": "خاصك تستشيري طبيب مختص باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو أحسن دوا لتنشيط الغدة الدرقية؟",
+    "answer": "ما كاينش علاج مخصص لتنشيط الغدة الدرقية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الانفعال والغضب كيأثروا على خمول الغدد؟",
+    "answer": "ما كاينش علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش البذور ديال الكتان كيتأثروا على هرمونات الجسم؟",
+    "answer": "ما كاينش دليل علمي على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي السكري وكنستعمل الغلوسامين، واش مزيان؟",
+    "answer": "الغلوسامين ما كيأثرش على مرضى السكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض الغدة الدرقية؟",
+    "answer": "الأعراض كاتعتمد على الحالة الصحية لكل واحد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال قصور الغدة الدرقية؟",
+    "answer": "التروكسين هو العلاج، وخص تحديد الجرعة من طرف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش مرض الغدة الدرقية عندو علاقة بمرض الصرع؟",
+    "answer": "لا، ما كاينش علاقة مباشرة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شحال كياخد العلاج ديال الغدة الدرقية؟",
+    "answer": "العلاج كياخد وقت مختلف حسب الحالة. خاصك تسول الطبيب باش يعطيك التفاصيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو السبب اللي خلاها تطلب الغذاء؟",
+    "answer": "كاين بزاف د الأسباب، بحال الأمراض المناعية ونقص اليود. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي هبات سخانة هادي مدة طويلة. كيفاش نتعامل معاها؟",
+    "answer": "خاصك تزوري طبيب النساء. هو اللي غادي يساعدك فهاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "هبات سخانة"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين علاج لكسل الغدة الدرقية؟",
+    "answer": "كاين علاج ولكن خاص استشارة طبيب. العلاج كيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو الدوا لي كيعالج نقص هرمون الغدة الدرقية؟",
+    "answer": "الدواء لي كيتستعمل هو هرمونات صناعية. خاصك تسول الطبيب باش يحدد لك الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض مرض الغدد اللمفاوية؟",
+    "answer": "الأعراض كتختلف حسب نوع الخلل. خاصك تشوف طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كيتزاد الهرمون ديال الإناث؟",
+    "answer": "كيتم استعمال الهرمونات التعويضية تحت إشراف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نقص الهرمون الإستروجين كيأثر على الإنجاب؟",
+    "answer": "نعم، نقص الإستروجين يمكن يأثر على القدرة على الإنجاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض الغدة الدرقية الخمولية ولا النشطة؟",
+    "answer": "أعراض الغدة الدرقية الخمولية تشمل التعب وزيادة الوزن، بينما النشطة تشمل فقدان الوزن وزيادة النشاط.",
+    "entities": {
+      "symptoms": [
+        "تعب",
+        "زيادة الوزن",
+        "فقدان الوزن",
+        "زيادة النشاط"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نقص هرمونات الغدة الدرقية كيسبب الشعر الخشن فالصدر؟",
+    "answer": "نقص هرمونات الغدة الدرقية ما عندوش علاقة مباشرة بالشعر الخشن.",
+    "entities": {
+      "symptoms": [
+        "شعر خشن"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش ممكن تحمل شي واحد عندو مرض الغدة الدرقية بلا مشاكل؟",
+    "answer": "نعم، إذا كان الشخص ملتزم بالعلاج والمتابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "الخطوات اللي خاص المريض ياخد باش يحسن حالة الغدد الدرقية؟",
+    "answer": "خاص المريض يتبع العلاج ويدير المتابعة الدورية مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "المكلة لي خاصني نتجنبها إلا كنت مصاب بمرض الغدد الدرقية؟",
+    "answer": "خاصك تتجنب بعض الأطعمة بحال الأطعمة الغنية باليود. استاشر طبيبك باش يعطيك نصائح دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي خمول فالغدد الدهنية، شنو ندير؟",
+    "answer": "خاصك تزور طبيب الغدد الصماء باش يشوف الحالة ديالك. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [
+        "خمول فالغدد الدهنية"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي كسل في الغدة الدرقية. واش كاين شي علاج نهائي؟",
+    "answer": "ما كاينش علاج نهائي، ولكن العلاج بالهرمونات كيساعدك تعيش بشكل عادي. خاصك متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "كسل في الغدة الدرقية"
+      ],
+      "medical_field": "الغدد الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش التحليل ديال برولاكتين كيتطلب شي وقت معين ولا شي تجهيزات خاصة؟",
+    "answer": "ما كاينش تجهيزات خاصة، غير خاصك تجبد العينة. من الأحسن تدير التحليل فالصباح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش السيبروترون مزيان باش نحبسو الشعر الزايد عند الرجال؟",
+    "answer": "ممنوع استعمالها للرجال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الهرمونية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "زوجي عندو مشكل فالتسمع، واش كاين شي علاج؟",
+    "answer": "ما كاينش علاج حاليا.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالتسمع"
+      ],
+      "medical_field": "الأذن والسمع",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كيتحكمو فالهارمونات وشنو هو القسم لي كيتعامل مع هاد الشي؟",
+    "answer": "خاصك تشوف طبيب الغدد الصماء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كاين شي علاج طبي للأختلال الهرموني للجسم، ماشي غير الدوا؟",
+    "answer": "هادشي كيعتمد على نوع الخلل الهرموني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش النزول المبكر ديال الدم كيتعتبر عالي وكيسبب العقم؟",
+    "answer": "لا، هادشي مقبول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش تضخم الغدة النخامية خطير؟ وشنو هو العلاج ديالو؟",
+    "answer": "شوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نشاط الغدة الدرقية كيأثر على شدة الدورة الشهرية؟",
+    "answer": "يقدر يسبب اضطراب في الدورة الشهرية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي نسبة هرمونات الحليب والغدة الدرقية الطبيعية؟",
+    "answer": "خاصك تشوف الطبيب باش يحدد النسب الطبيعية حسب المختبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش السونار كيبين واش كاين شي فتق ولا غدد فالصدر؟",
+    "answer": "نعم، السونار يقدر يبين الفتق والغدد. خاصك تشوف الطبيب للتأكد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش نقدر ننقص من أعراض فرط نشاط الغدة الدرقية؟",
+    "answer": "العلاج كيتطلب استشارة مع الأخصائي. ممكن تحتاج أدوية خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الهرمون ديال الحليب كيأثر على الحمل؟",
+    "answer": "نعم، الارتفاع في هرمون الحليب ممكن يمنع الحمل. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "النتائج ديال التحاليل ديال الغدة الدرقية طلعو، شنو هادشي كيعني؟",
+    "answer": "هادشي يعني خاصك تشوف الطبيب باش يفسر لك النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض نقص الغدة الدرقية؟",
+    "answer": "أعراض نقص الغدة الدرقية كتشمل التعب، زيادة الوزن، والبرودة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "زيادة الوزن",
+        "البرودة"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش ممكن نتعافى من نشاط الغدة الدرقية ولا هادي مرض مزمن؟",
+    "answer": "نشاط الغدة الدرقية مرض مزمن، ولكن ممكن التحكم فيه بالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو التهاب الغدد اللمفاوية؟",
+    "answer": "التهاب الغدد اللمفاوية كيتطلب زيارة طبيب الدم. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد اللمفاوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الأمراض ديال الغدة الدرقية؟",
+    "answer": "الأمراض ديال الغدة الدرقية كتشمل فرط النشاط وقلة النشاط. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش استعمال أدوية السمنة خطر؟",
+    "answer": "أي، كاين خطر على القلب وكيسبب هشاشة فالعظام. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [
+        "هشاشة العظام"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش السونار كيبين الغدد فالتحت؟",
+    "answer": "آه، السونار يقدر يبين الغدد أو فقاقيع. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش اليود المشع ضار بالصحة؟",
+    "answer": "آه، اليود المشع ممنوع الاستعمال فالوقت ديال الإنجاب. خاصك تحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "درت تحليل والنسبي هو 1.81. واش هادا طبيعي؟",
+    "answer": "المعدل كيتحدد حسب الفحص. خاصك تسول طبيب باش يوضح لك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي ضعف في النظر. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب عشان يحدد لك العلاج. ممكن تحتاج دوا خاص.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش نعرف عندي اضطرابات فالغدة النخامية؟",
+    "answer": "على حساب الأعراض، خاصك دير فحص عند طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نعرف شنو في التحاليل.",
+    "answer": "نتا ناقص في فيتامين د. خاصك تاخد دوا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كيسد الغدد الدهنية الحمل؟",
+    "answer": "لا، الغدد الدهنية ما كيسدوش الحمل. خاصهم يتعالجو قبل الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي غدة الدرقية. كيفاش نتعالج؟",
+    "answer": "خاصك تعوض إفراز الهرمونات بالدوا. استشر طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كايعالج القسط الهندي الغدة الدرقية؟",
+    "answer": "لا، القسط الهندي ما كيأثرش على الغدة الدرقية. خاصك علاج طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش عندي مشاكل فالتغذية؟",
+    "answer": "على حساب الأعراض، خاصك دير فحص عند طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أعراض خمول الغدة الدرقية؟",
+    "answer": "الأعراض كتشمل كسل عام وزيادة في الوزن وتساقط الشعر. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "كسل عام",
+        "زيادة في الوزن",
+        "تساقط الشعر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الإيثروكسين كيعالج قصور الغدة الدرقية ولا كيزيد النشاط ديالها؟",
+    "answer": "الإيثروكسين كيتستعمل لعلاج قصور الغدة الدرقية. خاص استشارة طبيب لتحديد الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش يمكن نتعافى من نشاط الغدة الدرقية ولا راه مرض مزمن؟",
+    "answer": "نشاط الغدة الدرقية هو مرض مزمن. خاص متابعة طبية مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي التهاب فالغدة الدرقية، شنو هو العلاج المناسب؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص. كاين أدوية خاصة لعلاج التهاب الغدة.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي خمول فالغدد الدهنية، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يتأكد من وظيفة الغدة الدرقية. ممكن تحتاج تحاليل إضافية.",
+    "entities": {
+      "symptoms": [
+        "خمول"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نسبة السكر ف الدم ديال واحد ماكل مزيان تكون 156؟",
+    "answer": "نسبة السكر ف الدم كتكون مرتفعة. خاصك تشوف طبيب باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض مرض السكلر؟",
+    "answer": "أعراض مرض السكلر كتكون فقر الدم وألم فالعظام. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم",
+        "ألم فالعظام"
+      ],
+      "medical_field": "الجهاز الدموي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا عندي ضعف السمع فاليسار، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص فالأذن. يمكن يكون عندك مشكل فالأذن الداخلية.",
+    "entities": {
+      "symptoms": [
+        "ضعف السمع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الغدة الدرقية النشطة كتمنع الحمل؟",
+    "answer": "نعم، الغدة الدرقية النشطة ممكن تأثر على الحمل. خاص استشارة طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي مشكل فالغدة الدرقية.",
+    "answer": "خاصك تشوف طبيب يدير ليك تحاليل وصور باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كايعالج أوموكسيسيلين الالتهاب فالغدة الدرقية؟",
+    "answer": "لا، أوموكسيسيلين ما كيعالجش الالتهاب فالغدة الدرقية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال تضخم الغدة الدرقية؟",
+    "answer": "العلاج كيتحدد على حسب نتائج الفحص السريري والسونار. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كيسوء الحمل بسبب نقصان إنتاج الغدة الدرقية؟",
+    "answer": "نعم، نقصان الإنتاج كيسبب مشاكل فالحمل. خاص العلاج قبل الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش تضخم الغدة الدرقية كيسبب السكري؟",
+    "answer": "ما كاينش علاقة مباشرة بين تضخم الغدة الدرقية والسكري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال توقف الغدة الدرقية عند المرا الحامل؟",
+    "answer": "خاصك تراجعي طبيب لتعديل الهرمونات ديالك. العلاج مهم فهاد المرحلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كيسوء الحمل بسبب نقصان إنتاج الغدة الدرقية؟",
+    "answer": "خاصك تأكد من صحتك مزيان قبل ما تبدا الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "ولدي عندو ضعف النمو و هو عندو 13 عام.",
+    "answer": "خاصك تشوف الطبيب باش يدير ليك تحاليل الهرمونات.",
+    "entities": {
+      "symptoms": [
+        "ضعف النمو"
+      ],
+      "medical_field": "الهرمونات",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نعرف النتائج ديال التحاليل ديالي.",
+    "answer": "خاص نوضحو بلي البرولاكتين هو اللي بقى مزيان فالتحاليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهرمونات",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش النشاط الزايد من الغدة الدرقية يقدر يسبب النحافة؟",
+    "answer": "إيوا، النشاط الزايد يقدر يسبب النحافة إلا ما تعالجش. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "النحافة"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي علاج سريع للهرمونات؟",
+    "answer": "ماشي ضروري نعالجو كل هرمون بوحدو. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "وقتاش كايتلاشاو أعراض الحساسية بعد العلاج؟",
+    "answer": "الأعراض كتحسن بشوية ولكن خاصها جوج سيمانات باش تتحسن. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "أعراض الحساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش مزيان ليا ناخد أوميغا 3 إلى كان عندي مشاكل في الغدد؟",
+    "answer": "مزيان تاخد أوميغا 3، ولكن خاصك تسول طبيبك الأول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج النكاف؟",
+    "answer": "علاج النكاف كيعتمد على الأعراض. غالبا كيكون غير علاج تحفظي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نشاط الغدة الدرقية ممكن يأثر على الجنين؟",
+    "answer": "إيوا، النشاط الزايد للغدة الدرقية يقدر يأثر على الجنين. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج المناسب للغدة الدرقية؟",
+    "answer": "العلاج كيعتمد على الحالة ديال الغدة، سواء كانت مرتفعة ولا ناقصة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نقصان هرمون الإستروجين كيأثر على النجاح؟",
+    "answer": "نعم، نقصان هرمون الإستروجين كيأثر على النجاح. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كيحرك الغدة الدرقية باش يسبب الغضب، التوتر، و تغييرات في السلوك؟",
+    "answer": "إيوا، النشاط الزايد للغدة الدرقية يقدر يسبب هاد الأعراض. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الغضب",
+        "التوتر"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش مرض جيريفز كيأثر على الغدد الدرقية ممكن يأدي للإجهاض؟",
+    "answer": "إيوا، مرض جيريفز يقدر يأثر على الغدة الدرقية، وكيكون خطر على الحمل. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الغدة الكظرية؟",
+    "answer": "الغدة الكظرية كتنتج هرمونات بحال الكورتيزول. هاد الهرمونات عندها دور كبير فالجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي مشكل فالبول ديالي فهاد رمضان.",
+    "answer": "خاصك تشوف طبيب باش يحدد السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالبول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال تضخم الغدة الدرقية؟",
+    "answer": "العلاج كيتحدد حسب نتائج التحاليل والسونار. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش اليود المشع ضار بالصحة؟",
+    "answer": "اليود المشع ما عندوش تأثير على الحوامل والمرضعات. لكن خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "ولدي عندو مشكل النمو والطول.",
+    "answer": "خاصك تشوف الطبيب باش يدير تحاليل الهرمونات. هادشي مهم لتحديد العلاج.",
+    "entities": {
+      "symptoms": [
+        "مشكل النمو والطول"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش مرض جيريفز كيأثر على الغدة الدرقية؟",
+    "answer": "مرض جيريفز ممكن يأثر على الغدة الدرقية. خاص العلاج باش نتفاداو المشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نعرف أعراض خمول الغدة الدرقية.",
+    "answer": "أعراض خمول الغدة الدرقية كتشمل كسل عام، وزيادة فالوزن، وتساقط الشعر.",
+    "entities": {
+      "symptoms": [
+        "كسل عام",
+        "زيادة فالوزن",
+        "تساقط الشعر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شحال كياخد الوقت باش تفحص الطبيب الغدة الدرقية؟",
+    "answer": "يمكن ياخد نهار ولا جوج، حسب التحاليل والاختبارات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي خلل في الغدة الدرقية، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يدير ليك الفحوصات ويعرف السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "وقتاش كايتلاشى أعراض القرحة بعد العلاج؟",
+    "answer": "الأعراض كتحسن بشوية، ولكن خاصها وقت طويل.",
+    "entities": {
+      "symptoms": [
+        "أعراض القرحة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الصيام كاين عندو تأثير على مرض فرط نشاط الغدة الدرقية؟",
+    "answer": "لا، إلا كان كيتعالجو بشكل جيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش غسول ليوكريما مزيان للناس اللي عندهم مشاكل فالحمامة؟",
+    "answer": "ما عندو علاقة بهادشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نشاط الغدة الدرقية ممكن يأثر على الجنين؟",
+    "answer": "نعم، إلا ما قدرناش نتحكمو فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الأعراض ديال خمول الغدة الدرقية؟",
+    "answer": "الأعراض الرئيسية هي كسل عام، زيادة فالوزن، وتساقط الشعر. خاصك تشوف طبيب باش يحدد لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "كسل عام",
+        "زيادة فالوزن",
+        "تساقط الشعر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي العلاقة بين الغدة الدرقية والهرمونات الجنسية عند الدراري الصغار؟",
+    "answer": "كاين تشابه بين الهرمونات اللي كتحفز الغدة الدرقية والهرمونات الجنسية. هادشي كيساهم فالنمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي النسبة العادية ديال اختبارات الغدة الدرقية؟",
+    "answer": "النسبة العادية كتختلف حسب المختبر وعمر المريض. خاصك تسول الطبيب باش يعطيك التفاصيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال خمول الغدة الدرقية؟",
+    "answer": "كاين بزاف ديال العلاجات حسب الحالة. خاصك تشوف طبيب مختص باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الغدة الدرقية النشطة كتمنع الحمل؟",
+    "answer": "إي، النشاط المفرط للغدة الدرقية ممكن يأثر على الحمل. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نشاط الغدة الدرقية كيسبب النباح؟",
+    "answer": "إلا ما تعالجش، النشاط المفرط للغدة الدرقية يمكن يأدي لنتائج خطيرة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الغدة الدرقية عندها علاقة بالقلق؟",
+    "answer": "لا، ما كاينش علاقة مباشرة بين الغدة الدرقية والقلق. ولكن ممكن يكون تأثير غير مباشر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "الهرمون ديال الحليب كايتنقص بلا ما تاخد العلاج؟",
+    "answer": "ممكن ينقص ولكن خاصنا نعرفو السبب. خاصك تشوف طبيب باش يحدد لك الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض النشاط الزايد ولا النقصان فالغدة الدرقية؟",
+    "answer": "النشاط الزايد كيتسبب فزيادة فالأكل والقلق، والنقصان كيعني التعب وزيادة الوزن.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "زيادة الوزن",
+        "القلق"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش العيون كترجع لطبيعتها من بعد ما تتعالج الغدة؟",
+    "answer": "ما كترجعش للحجم الطبيعي ولكن كتحسن بشوية مع العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو الهرمون ديال النمو؟",
+    "answer": "هرمون كيتحكم فنمو الجسم وكيصدر من الغدة النخامية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة النخامية",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي حصى فالزهر، واش كاين شي خطر على الصحة ديالي؟",
+    "answer": "خاصك تمشي عند طبيب الأمراض الوراثية باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حصى فالزهر"
+      ],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش تحليل الغدة الدرقية 1453 كيبين النشاط ولا الهدوء؟",
+    "answer": "هاد التحليل كيبين أنك كتخمم بزاف، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش مزيان تشرب الحبوب ديال النعاس بلا ما تاكل؟",
+    "answer": "من الأفضل تاكل قبل ما تاخد الحبوب ديال النعاس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي علاج لمرض العين الدرقي؟",
+    "answer": "كاين بزاف د لعلاجات، وطبيب العيون يقدر يختار أحسن علاج ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش يمكن لي نشرب البردقوش وهوما كياخدو المايستروكسين؟",
+    "answer": "ما كاين حتى شي حاجة لي تمنع، ولكن خاصك تسول طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين فرق بين الكسل والخمول؟",
+    "answer": "ماكاينش فرق كبير. الكسل والخمول كيتعلقو بمشاكل الغدة الدرقية.",
+    "entities": {
+      "symptoms": [
+        "الكسل",
+        "الخمول"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي وجع فالأرقبة.",
+    "answer": "كاين بزاف د الأسباب لهاد الألم، خاصك تشوف طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالأرقبة"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عيان بزاف، واش كاين الاكتئاب؟",
+    "answer": "آه، خاصك تمشي عند طبيب الباطنة باش يدير ليك التحاليل اللازمة.",
+    "entities": {
+      "symptoms": [
+        "الاكتئاب"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الغدة الدرقية كتأثر على الحالة النفسية؟",
+    "answer": "آه، الغدة الدرقية كتأثر على الحالة النفسية والذاكرة. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي تضخم في الغدة الدرقية وعندي حب الشباب.",
+    "answer": "خاصك تشوف طبيب مختص في الغدد الصماء. يمكن يكون عندك خلل.",
+    "entities": {
+      "symptoms": [
+        "تضخم في الغدة الدرقية",
+        "حب الشباب"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش هاد النسبة ديال السكر 109 عادية؟",
+    "answer": "هادشي عادي، ولكن خاصك تدير التحليل من بعد ساعتين من الماكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش مريض السكر يقدر يستعمل الحناء للشعر؟",
+    "answer": "الحناء مزيانة للشعر وما كاينش مانع لمريض السكر يستعملها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش نعرف واش عندي نقص ولا زيادة في الغدة الدرقية؟",
+    "answer": "خاصك دير فحص للغدة الدرقية باش تعرف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي ورم فالغدد الدهنية، ما كاينش ألم، وهادي تسع شهور.",
+    "answer": "خاصك تدير سونار باش تشوف الحالة ديال الورم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الدهنية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض التهاب الغدة؟",
+    "answer": "أعراض التهاب الغدة كتشمل النفخة، التورم، وارتفاع درجة الحرارة.",
+    "entities": {
+      "symptoms": [
+        "نفخة",
+        "تورم",
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "الغدة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو السبب ديال ارتفاع هرمونات الذكور عند النسا؟",
+    "answer": "السبب الرئيسي هو تكيس المبايض اللي كيسبب الوزن الزايد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش التقبس المستمر للغدد العروق كيخليها تزيد فالحجم؟",
+    "answer": "ماشي ضروري، خاصها تتحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش ممكن يزيد مستوى الهرمون ديال المبيض بعد الولادة؟",
+    "answer": "نعم، ممكن فبعض الحالات. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش التخلف في الغدة الدرقية ولا زيادة نشاطها كتأثر على الحيوانات المنوية؟",
+    "answer": "نعم، بالتأكيد. خاص تكون الحالة تحت المراقبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا عندي 22 عام، واش ممكن تصاب بالغدة الدرقية؟",
+    "answer": "يمكن يتصاب أي واحد فأي عمر. خاص المراقبة الدائمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش النشاط ديال الغدة الدرقية ما عندوش تأثير سلبي على الجسم؟",
+    "answer": "هادشي كيعتمد على العلاج. من غير العلاج، ممكن يكون عندو تأثير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "درت تحليلات هرمونات الغدة الدرقية، النتائج عادية؟",
+    "answer": "آه، النتائج عادية. ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واحد الدراري عندو 3 سنين جاتو السكرية 185 بعد ماكلات، شنو ندير؟",
+    "answer": "خاصك دير تحليل سكر صائم وتراكمي. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "سكر مرتفع"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج المناسب والماكلة اللي خاصني نتبعو؟",
+    "answer": "الماكلة اللي فيها اليود كتعالج الأمراض. خاصك تركز عليها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نقص هرمون الغدة الدرقية كيجيب الشعر الخشن فذقن؟",
+    "answer": "ماكاين حتى علاقة بيناتهم. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "شعر خشن"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "الخمول خسر شعري، شنو ندير؟",
+    "answer": "عافاك صيفط التحليل من بعد ما تسد الشريط. خاص تشوف النتائج.",
+    "entities": {
+      "symptoms": [
+        "خمول",
+        "تساقط الشعر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا عندي 16 عام، طولي 155 سم، شنو ندير؟",
+    "answer": "تحقق من هرمون النمو. يمكن يكون عندك نقص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش ممكن توقف الغدد الدهنية بطريقة جراحية ولا طبيعية؟",
+    "answer": "خاص نعرفو سبب المشكلة. العلاج كيتحدد بناءً على السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي علاج لتنفاخ الغدد الدرقية؟",
+    "answer": "النفخة كتطلب استشارة طبيب. خاص تقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "تنفاخ الغدد"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي علاج لتنظيف الغدد الدهنية؟",
+    "answer": "خاصك تشوف طبيب الغدد باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي علاقة بين زيادة تيريكسين و التهاب اللوزات؟",
+    "answer": "لا، ما كاينش علاقة بين زيادة تيريكسين والتهاب اللوزات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال تكيس الغدة الدرقية؟",
+    "answer": "العلاج كيتحدد حسب الحالة، وخصك تمشي عند الطبيب باش يوجهك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي نشاط في الغدة الدرقية فوق 1/1000. شنو تنصحني؟",
+    "answer": "خصك تتابع مع طبيب الغدد باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي وجع فالغدة الدرقية وخاصني نلقى حل!",
+    "answer": "خاصك تمشي للطبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض خمول الغدة الدرقية؟",
+    "answer": "الأعراض كتشمل زيادة الوزن، الشعور بالبرد، وتساقط الشعر.",
+    "entities": {
+      "symptoms": [
+        "زيادة الوزن",
+        "الشعور بالبرد",
+        "تساقط الشعر"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش البرولاكتين العالي كيأخر الدورة الشهرية؟",
+    "answer": "نعم، زيادة البرولاكتين ممكن تأدي لتأخر الدورة الشهرية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو مسموح لي ندير لمرض خمول الغدد الدرقية؟",
+    "answer": "ماشي ممنوع تداوي راسك، ولكن خاصك تدير فحص دوري للهرمونات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شحال من عام كيبان فيه السكر ف الدم؟",
+    "answer": "ما كاينش سن معين، السكر كيبان ف أي وقت حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي غدة درقية متعددة الأضلاع، شنو ندير؟",
+    "answer": "خاصك تقييم وظيفة الغدة وتقييم العقد، ضروري تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي السكر عالي وما عنديش أعراض السكري، شنو ندير؟",
+    "answer": "تشخيص السكري كيتطلب التحاليل، ماشي غير الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي 19 عام وباغي نزيد الهرمونات الأنثوية، واش ممكن؟",
+    "answer": "إلا ما كانش عندك شي مرض خاص، ممكن تدير الفحوصات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد التناسلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش هرمون الحمل كايتنقص بلا دوا؟",
+    "answer": "ممكن ينقص، ولكن خاصنا نعرفو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نسول على قصور الغدد التناسلية، شكون الطبيب لي يعالج هاد المشكل؟",
+    "answer": "خاصك طبيب عندو خبرة فالغدد التناسلية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد التناسلية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي تضخم ف الغدد وعندي حمى، شنو ندير؟",
+    "answer": "خاصنا نفحصو الغدد ونشوفو واش كاين شي سبب آخر.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "علاج ارتفاع ضغط الدم شنو هو؟",
+    "answer": "العلاج ممكن يكون بالدوا، العملية، أو الريجيم، حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نتعالج من النزيف الغدة الدرقية، عندي تحاليل مزيانة، شنو ندير؟",
+    "answer": "الراحة هي العلاج، ولكن خاصك تتابع مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي علاج للسرطان ديال الغدة الدرقية؟ شنو هي الغدة الدرقية؟",
+    "answer": "نعم، كاينين علاجات مختلفة للسرطان ديال الغدة الدرقية. خاص استشارة طبيب مختص لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي كسل في الغدة الدرقية، شنو هو العلاج المناسب؟",
+    "answer": "العلاج كيتحدد حسب الأعراض والنتائج ديال التحاليل. خاص استشارة طبيب لتحديد العلاج الأنسب.",
+    "entities": {
+      "symptoms": [
+        "كسل في الغدة الدرقية"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش ممكن يزيد مستوى الهرمونات ديال النمو عند النسا من بعد الولادة؟",
+    "answer": "نعم، ممكن فبعض الحالات. خاص استشارة طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كيتحقق من الغدة الدرقية؟",
+    "answer": "التقييم كيتحقق من حجم الغدة وتكوينها بالسونار. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش طبيعي نشاط الغدد الدهنية فسن المراهقة؟",
+    "answer": "النشاط الزايد من الغدة فسن المراهقة ماشي طبيعي. خاص استشارة طبيب إذا كان عندك مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج المناسب للغدة الدرقية؟",
+    "answer": "العلاج كيتحدد حسب الحالة ديال الغدة، واش مرتفعة ولا منخافضة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت معلومات على أعراض الغدة الدرقية.",
+    "answer": "الأعراض كتعتمد على نوع المشكلة اللي كاينة. خاص استشارة طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "السلام عليكم، شنو هو الدواء اللي كيعون فزيادة الطول؟",
+    "answer": "الحليب ومشتقاتو كيعطيو فوائد فزيادة الطول. خاص تغدية متوازنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو السبب ديال زيادة الشعر عند البنات اللي عندهم كيس فالغدد الدرقية؟",
+    "answer": "ما كاين حتى علاقة بيناتهم. خاصك تشوفي طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "زيادة الشعر"
+      ],
+      "medical_field": "الغدد الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش ماكاينش مشكل إلا خديت شي دوا ديال الكسلان وماكليتوش من بعد؟",
+    "answer": "ما كاين حتى مشكل فهادشي. ولكن من الأفضل تتبعي تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أهلا، شنو هو السبب ديال ارتفاع عنصر المغنسيوم فالدم؟",
+    "answer": "ماكاينش علاقة مباشرة. خاصك تشوفي طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو المصطلح الطبي لزيادة نمو الشعر في جسم المرأة؟",
+    "answer": "هو الشعر الكثيف، أو هيرسوتيزم.",
+    "entities": {
+      "symptoms": [
+        "زيادة نمو الشعر"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كيعالج القسط الهندي الغدة الدرقية وشنو هي أضرارها؟",
+    "answer": "لا، العلاج الهندي ما كايهتمش بالغدة الدرقية. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش يمكن لينا نحيدو الغدة الدرقية و نحبسو الدوا؟",
+    "answer": "عادة ما يمكنش. خاصك تتبع مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الدرقية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي مرض فين كيسخن ليا راسي بزاف و الضغط ديالي طالع، وهاد الشي لي كيجي معايا منين كبرت 41 عام.",
+    "answer": "خاصك تتبع مع طبيب الغدد والسكري. هاد الأعراض خاصها اهتمام.",
+    "entities": {
+      "symptoms": [
+        "سخونة الرأس",
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "الغدد والسكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا مصاب بمرض الغدد الليمفاوية، واش ما كاينش شي ماكلة خاصني نتجنبها؟",
+    "answer": "ما كاين حتى علاقة بين مرض الغدد والماكلة. ولكن خاصك تتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الليمفاوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كيدير فحص الغدد؟ واش السونار كافي؟",
+    "answer": "السونار مزيان، ولكن يمكن تحتاج تحاليل دم إضافية. استاشر طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "درنا تحليل الغدة الدرقية و النتيجة كانت 0.25. واش هادشي كيعني نشاط؟",
+    "answer": "هاد النتيجة كتشير لنقص نشاط الغدة. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نقص هرمون النمو كيأثر على النمو؟",
+    "answer": "نقص هرمون النمو فعلاً كيأثر على النمو. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بالنسبة لإبرة الأنسولين، كيفاش خاصها تدخل؟",
+    "answer": "خاصها تدخل بزاوية 45 درجة. هاد الطريقة هي الأفضل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش زيادة هرمون الإناث عند الرجال كتسبب لبروز الصدر؟",
+    "answer": "نعم، هادشي ممكن يسبب بروز الصدر. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "بروز الصدر"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الغدة الدرقية تقدر تأثر على الدورة الشهرية؟",
+    "answer": "نعم، الغدة الدرقية ممكن تأثر على الدورة الشهرية. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الدوا ديال هوتيروكس يقدر يسبب السمنة؟",
+    "answer": "لا، هوتيروكس ما يسببش السمنة. عدم العلاج هو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "القياس ديال الغدة الدرقية ديالي وصل 1.7. واش هادشي عادي؟",
+    "answer": "هاد القياس عادي. ما كاينش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش ممكن تعاود تزاد الغدد بعد التثدي عند الرجال؟",
+    "answer": "إلا حيدتي الكاميرا، ما غاديش ترجع الغدد. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الارتفاع ديال الغدة الدرقية يأثر على الحمل؟",
+    "answer": "إلا كانت الغدة متوازنة وما كاينش أعراض، ما كاينش مشكل. خاصك متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي علاج لمرض العين الدرقي؟",
+    "answer": "ما كاينش علاج غير العمليات الجراحية. خاص استئصال الغدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت شي واحد يعالج هاد المشكل بلا عملية.",
+    "answer": "خاصك تعرف التشخيص مزيان باش تحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين ضرر من محفزات هرمون النمو لتحسين العضلات؟",
+    "answer": "لا، من الأفضل ما تستعملهاش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين علاقة بين تكيس البيض والغدة الدرقية؟",
+    "answer": "لا، ما كاينش علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الجفاف خلال العلاج يقدر يسبب مشاكل فالمعدة؟",
+    "answer": "إذا استعملتي التصوير الصحيح، ما غاديش يوصلك للذروة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش انخفاض السكر عندو علاقة بالبلع ديال اللسان؟",
+    "answer": "صحيح أن انخفاض السكر كيأدي للغثيان وخسارة السيطرة على الجهاز العصبي.",
+    "entities": {
+      "symptoms": [
+        "غثيان"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "أنا كنستعمل هيوماترايت لعلاج النزول. واش كيسبب تكوين الغدد اللمفاوية؟",
+    "answer": "الماكلة ما عندها حتى علاقة بالدوا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش انفاخ الغدد الدهنية كيسبب تساقط الشعر؟",
+    "answer": "ماشي بالضرورة، خاصنا نديرو فحص وظيفي.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "زوجي عندو التهاب البروستات بسبب البكتيريا، واش ممكن يطول هاد الشي؟",
+    "answer": "خاصك تشوف طبيب ترويض باش يتأكد من الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "التهاب البروستات"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي التهاب الغدد الدهنية لقرون، كيتعاود ويتكرر، واش كاين علاج؟",
+    "answer": "خاصك تشوف طبيب جراح.",
+    "entities": {
+      "symptoms": [
+        "التهاب الغدد الدهنية"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الارتفاع ديال الغدة الدرقية يأثر على الحمل؟",
+    "answer": "إذا كانت الغدة خدامة مزيان وماكاينش أعراض تأثر على الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض فرط عمل الغدة الدرقية؟",
+    "answer": "كيزيد نبضات القلب وكيخليك تحس بالدوخة. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "نبضات القلب",
+        "دوخة"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الأسباب اللي كتمنع النمو؟",
+    "answer": "يقدر يكون نقص هرمون النمو. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين علاج لكسل الغدة الدرقية إلا كان المرضع؟",
+    "answer": "العلاج كيتعلق بإطلاق هرمونات الغدة الدرقية. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي 26 عام و طولي 160 سنتيمتر، واش يمكن لي ناخد هرمون النمو؟",
+    "answer": "مازال ما تستعملش هرمون النمو بسباب العمر. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي العلاقة بين العلاقة العادية والعلاقة الجنسية؟",
+    "answer": "ما كاينش علاقة مباشرة. العلاج كيتعلق بنشاط الغدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي غدة الدرقية ولكن كاينة عندي نبضات بزاف.",
+    "answer": "خاصك تمشي لطبيب باش يشوفك ويوجهك. هاد الشي مهم.",
+    "entities": {
+      "symptoms": [
+        "نبضات بزاف"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش المرا اللي عندها مشكل فالخصوبة ما تقدرش تنتج؟",
+    "answer": "العلاج ديال الغدة والهرمونات الطبيعية ما كيمنعش الحمل. خاصها متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نعرف شنو هو الدوا لي كيتستعمل باش يعالج نقص الغدة الدرقية؟",
+    "answer": "العلاج هو تريكسين مع مراقبة طبيب. خاصك متابعة دورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي نبض قوي فالصدر من بعد الجرعة ديال الدوا، شنو السبب؟",
+    "answer": "ما كاينش علاقة بين الجرعة ديال الدوا والنبض. خاصك تشوف طبيب للتأكد.",
+    "entities": {
+      "symptoms": [
+        "نبض قوي فالصدر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي مشكل فالحريق والقلب ديالي كيدق بزاف، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب عام باش يدير ليك الفحص ويشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالحريق",
+        "القلب كيدق بزاف"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أسباب اضطراب الغدة الدرقية وكيفاش كتتحول الحالة؟",
+    "answer": "الأسباب كتكون مضادات المناعة. كيمكن الحالة تتحول من خفيفة لنشيطة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كاينقصو من النمو؟",
+    "answer": "خاص طبيب يدير فحص هرمونات. النظام الغذائي المتوازن والرياضة كيساعدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش الأدوية ديال تنظيم الدورة كتعالج الاضطراب الهرموني؟",
+    "answer": "ماشي ديما، كيعتمد على الحالة والمشكل الرئيسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين شي دوا كايزيد الهرمون الأنثوي عند النسا؟",
+    "answer": "كاين، ولكن خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "خاصني شي حل ل حب الشباب، شنو ندير؟",
+    "answer": "خاصنا نديرو فحص باش نعرفو السبب ونعالجو.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي انفصال فالغدة الدرقية، شنو ندير؟",
+    "answer": "خاصنا نديرو تيست ديال الغدة الدرقية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كايسبب ليه الزكام تساقط الشعر؟",
+    "answer": "خاص تدير تيست ديال الغدة الدرقية للتأكد.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "نتائج التحليل ديال السكر كانت 66. واش خاصني ناخد دوا؟",
+    "answer": "خاصك تكمل التحليل وتراقب السكر ديالك. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج لزيادة هرمون الغدة الدرقية؟",
+    "answer": "العلاج كيتعتمد على الدوايات، وفي بعض الحالات كيتطلب الجراحة أو العلاج الإشعاعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش نحبسو مرض السكري؟",
+    "answer": "ما كاينش دليل واضح على أن كلشي عندو سبب. خاصك تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج لكسل الغدة الدرقية اللي كيسبب زيادة فالوزن؟",
+    "answer": "العلاج كيتطلب دوا خاص، وخصك تراقب الوزن ديالك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض الغدة الدرقية؟",
+    "answer": "الأعراض كتختلف بين فرط النشاط والقصور. خاصك تشوف طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو السبب ديال ارتفاع هرمون الذكور عند المرأة؟",
+    "answer": "السبب الرئيسي هو تخثر المبايض بسبب الوزن الزايد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كايتعامل مع الغدة الدرقية اللي ما خداماش؟",
+    "answer": "الدواء الوحيد هو تيروكسين لتعويض الغدة. ما كاينش دوا آخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كسل الغدة الدرقية كيعرقل الحمل؟",
+    "answer": "إلا ما تعالجاتش الغدة، ممكن تأثر على الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش يمكن لي نحيد الغدة الدرقية؟",
+    "answer": "لا، راه مرض مزمن وكيحتاج للعلاج ديما.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيعاني من مشاكل فالغرغرو والتركيز والنعاس بزاف.",
+    "answer": "يمكن يكون كسل الغدة. خاص التحليل باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالغرغرو",
+        "صعوبة التركيز",
+        "النعاس بزاف"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو السبب ديال التهاب الغدد الدهنية تحت البطن؟",
+    "answer": "يمكن يكون التهاب في اليد أو الثدي، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الغدد الدهنية"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش التورم فالغدد الدهنية عند الحامل ولا الجنين ديالو؟",
+    "answer": "ما كايتسببش إلا كان الغدة الدرقية خدامة مزيان.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش المرا اللي عندها نقص فالخصوبة ما تقدرش تنتج؟",
+    "answer": "العلاج ديال الغدة والهرمونات الطبيعية ما كيمنعش الحمل.",
+    "entities": {
+      "symptoms": [
+        "نقص الخصوبة"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيعاني من قصور في الغدة الدرقية والطبيب ديالو دار ليه هاد الفحص.",
+    "answer": "هادشي كايبين بلي العلاج ديال الغدة راه دائم.",
+    "entities": {
+      "symptoms": [
+        "قصور في الغدة الدرقية"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نعرف شنو هو الدوا لي كيتستعمل باش يعالج نقص هرمون الغدة الدرقية.",
+    "answer": "العلاج هو الانتكاسات وتحت إشراف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نقص هرمون الغدة الدرقية"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش بنتي اللي عندها 13 عام وكتوزن 40 كيلو مزيانة؟",
+    "answer": "نعم، الوزن ديالها فحدود الطبيعية. خاص غير متابعة مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كحل العيون مزيان؟",
+    "answer": "إلى كان كحل طبيعي، راه مزيان. ولكن خاص الحذر من المواد الكيميائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي درجة حرارة الجسم الطبيعية؟",
+    "answer": "درجة حرارة الجسم الطبيعية كتكون حوالي 37 درجة. أي حاجة فوق هاد الرقم كتعتبر حمى.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الجرعة المناسبة ديال الريتيلين؟",
+    "answer": "الجرعة خاصها تتحدد من طرف طبيب مختص. ماشي من السهل تحددها بوحدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "نتائج التحاليل ديال الهرمونات كيفاش؟",
+    "answer": "إذا كانت النتائج عادية، ما كاين حتى مشكل. ولكن خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو كيمنع التبويض عند البنات الصغار؟",
+    "answer": "كاين بزاف ديال العوامل اللي كتأثر على التبويض. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش دوا الغدد الدرقية كيعاون فحرق الدهون؟",
+    "answer": "لا، الحبوب ديال الغدد ما كتنفعش فالتخسيس. عندها آثار جانبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش التخلف الغددي كيأدي لارتفاع السكر؟",
+    "answer": "نعم، التخلف الغددي ممكن يأثر على مستويات السكر. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع السكر"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو الدوا لي كاتنصح بيه فحالة خمول الغدة؟",
+    "answer": "خاصك تاخد هرمون الثايروكسين. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "علاش الغدة منتفخة؟",
+    "answer": "إذا كانت الغدة الدرقية خدامة مزيان، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ الغدة"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي المضاعفات لاستئصال الغدة الليمفاوية عند الطفل؟",
+    "answer": "خاصك تشاور طبيب مختص. كل حالة كتختلف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الجراحي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي جفاف فاللوزة مع إفرازات من الحلق.",
+    "answer": "خاصك تشوف طبيب الأنف والأذن والحنجرة. يمكن يكون التهاب.",
+    "entities": {
+      "symptoms": [
+        "جفاف",
+        "إفرازات"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو التحاليل اللي خاصني ندير للحساسية؟",
+    "answer": "كاين بزاف ديال الفحوصات. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش التخليل ديال الغدة الدرقية كيأثر على التحليل؟",
+    "answer": "لا، ما كيأثرش. النتائج كتكون مستقلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض النموذج؟",
+    "answer": "كاين ستة هرمونات كينتجهم الجسم، وكل واحد عندو وظيفة خاصة. خاص استشارة طبيب لتحديد الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش نقدر نرجعو للاركيلة بعد استئصال الغدة الدرقية؟",
+    "answer": "من الأفضل تجنب الأركيلة بعد استئصال الغدة الدرقية. خاصك تستاشر مع طبيبك حول فترة التأهيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كاين شي ورم تحت الابط كيتبدل ملي كان ضغطو؟",
+    "answer": "هاد الشي ممكن يكون التهاب الغدد العرقية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ورم تحت الابط"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "خديت دوا ليفوتيروكسين، و من بعد ساعة مازال مزيان؟",
+    "answer": "نعم، هو دوا مزيان. خاصك تلتزمي بالجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاينين شي أعشاب كتعاون فإعادة نشاط الغدة الدرقية؟",
+    "answer": "ما كاينش علاج بالأعشاب للغدة الدرقية. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض الغدة الدرقية؟",
+    "answer": "الأعراض كتختلف حسب النشاط ديال الغدة. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو سبب تمدد الغدة الليمفاوية؟",
+    "answer": "خاص الطبيب يقيم الحالة. ممكن يكون التهاب أو سبب آخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كاين علاقة بين نشاط الغدة الدرقية ومدى النشاط الشهري؟",
+    "answer": "نعم، اضطراب الغدة الدرقية ممكن يأثر على الدورة الشهرية. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "الناس اللي عندهم تضخم الغدد الدرقية، واش كاين علاج بلا جراحة؟",
+    "answer": "العلاج غير الجراحي كيتطلب استشارة طبيب مختص. خاصك تقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي تساقط الشعر و بغيت شي وصفة شامبو مفيدة.",
+    "answer": "هاد السؤال خاص بالجلدية. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "ولدي صغير وعندو شعر كثيف على ضهرو.",
+    "answer": "خاصك تشوف طبيب الغدد الصماء باش يدير الفحص. هاد الشي مهم.",
+    "entities": {
+      "symptoms": [
+        "شعر كثيف"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش التلقيح عند النسا ما زال كيأثر على الحمل؟",
+    "answer": "لا، التلقيح ما عندوش علاقة بالحمل. هاد الشي مثبت علمياً.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي نقصان في هرمون البرولاكتين.",
+    "answer": "هاد الشي بوحدو ما كيعنيش نقص فهرمونات أخرى. خاصك تقييم شامل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو العلاج ديال نقص الغدة الدرقية بالأعشاب؟",
+    "answer": "ما كاينش علاج بالأعشاب للغدة الدرقية. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو اللي حسن، تاكل السيفتريكسون قبل الفطور بساعة ولا بثلاث ساعات؟",
+    "answer": "الفرق ما كاينش، المهم هو الالتزام بالجرعة. خاصك تلتزمي بالوقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي ارتفاع فهرمونات الغدة الدرقية المبكرة.",
+    "answer": "خاصك تدير راديو ديل الماغنطيسا. هاد الشي مهم لمتابعة الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض خمول الغدة الدرقية؟",
+    "answer": "من بين الأعراض كاين الكسل، تساقط الشعر، والصداع. خاصك تشوف طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "الكسل",
+        "تساقط الشعر",
+        "الصداع"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض قصور الغدد الدرقية؟",
+    "answer": "من الأعراض كاين التعب والبرودة. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "البرودة"
+      ],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو الدوا اللي كيزيد هرمون التستوستيرون؟",
+    "answer": "خاصك تستاشر مع الطبيب قبل ما تستعمل أي دوا. العلاج كيتطلب مراقبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي الاختبارات اللي كتعطي دليل على أن الغدة الدرقية خدامة مزيان؟",
+    "answer": "دير تحليل الكورتيزول فالصباح. هادشي كيعطي فكرة على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كيساهم نقصان الغدة الدرقية فعدم استقرار مستويات السكر في الدم؟",
+    "answer": "أه، نقصان الغدة الدرقية كيمكن يسبب عدم استقرار السكر. خاصها تكون عندها روتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش يمكن استخدام لينكوساميد باش ننقصو من أعراض مرض الغدة الدرقية؟",
+    "answer": "آه، يمكن استعماله تحت إشراف طبيب. خاص المراقبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الدرقية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كاين شي علاج لتضخم الغدد الدرقية بلا جراحة؟",
+    "answer": "الحل الجراحي هو الأفضل فهاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "تضخم الغدد الدرقية"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هو علاج الغدة الدرقية؟",
+    "answer": "كاينين أمراض مختلفة كتأثر على الغدة الدرقية، وكل وحدة عندها علاج خاص بها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض قصور الغدة الدرقية؟",
+    "answer": "من الأعراض كاين الكسل، البرد، تساقط الشعر وزيادة الوزن.",
+    "entities": {
+      "symptoms": [
+        "الكسل",
+        "البرودة",
+        "تساقط الشعر",
+        "زيادة الوزن"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش كيسوء الحمل بسبب نقص الغدة الدرقية؟",
+    "answer": "نعم، خاص التحليل ديال الغدة يتدار قبل الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي السكر من النوع الثاني و عندي تراكم كبير ديال 8.3.",
+    "answer": "خاصك تاخد العلاج دابا، وعافاك رجع عند الطبيب ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "الهرمون ديال الغدة النخامية 1.8، واش هادشي عادي؟",
+    "answer": "خاصك تشوف المعدلات الطبيعية فالمختبر، حيت كل مختبر عندو طريقة مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي إلتهاب في الحلق و عندي تقلصات في الغدد اللمفاوية. واش هاد الشي مرتبط؟",
+    "answer": "ممكن يكون عندو علاقة، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب في الحلق",
+        "تقلصات في الغدد اللمفاوية"
+      ],
+      "medical_field": "الغدد اللمفاوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كيفاش كيتحكم الكالسيوم فوقت إزالة الغدة الدرقية؟",
+    "answer": "خاص يتبع مستوى الكالسيوم في الدم ويتعطى العلاج حسب النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش طهور الشعر فالرّقبة كيعني السرطان؟",
+    "answer": "لا، خاصك تدير فحص طبي باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كاين شي علاج لكسل الغدة الدرقية وواش ممكن نزيد ف الوزن؟",
+    "answer": "الدواء ديال ألتروكسين كيساعد، ولكن كسل الغدة ممكن يسبب زيادة ف الوزن.",
+    "entities": {
+      "symptoms": [
+        "كسل الغدة الدرقية",
+        "زيادة ف الوزن"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "كاينين شي أعشاب كتعاون فإعادة نشاط الغدة الدرقية؟",
+    "answer": "ما كاينش علاج بالأعشاب للغدة الدرقية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش النشاط ديال الغدة الدرقية كيأثر على الصحة؟",
+    "answer": "نعم، كاين آثار جانبية ممكن تأثر على القلب والعظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي 19 عام وكنعاني من قصر القامة. واش كاين علاج؟",
+    "answer": "خاصنا نقيمو الحالة ديالك أولا.",
+    "entities": {
+      "symptoms": [
+        "قصر القامة"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "عندي وجع فالعظم ديال اللسان و ألم فالحلق. شنو هاد المرض؟",
+    "answer": "خاصنا نديرو فحص طبي باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعظم",
+        "ألم فالحلق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "علاش ما كينصحوش باستعمال هرمون النمو؟",
+    "answer": "خاصك تشوف طبيب مختص باش يشرح لك الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واش ارتفاع هرمونات المبيض كيجينا من تكيس المبيض؟",
+    "answer": "غالباً، ولكن ماشي ديما.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "شنو هي أعراض التهاب الغدة الثديية؟",
+    "answer": "1. نفخة 2. ورم 3. ألم.",
+    "entities": {
+      "symptoms": [
+        "نفخة",
+        "ورم",
+        "ألم"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "علاج زيادة هرمون الدرقيات؟",
+    "answer": "العلاج كيتعالج بالدوا، بعض المرات كيتطلب عملية جراحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "من بعد ما حللنا الغدة الدرقية، لقينا بلي النتيجة هي 343. شنو العلاج؟",
+    "answer": "هاد النتيجة طبيعية وما خاصكش علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "مرض الغدة الدرقية والأدوية المناسبة ليه؟",
+    "answer": "كاين بزاف ديال المشاكل، خاصك تعرف المرض مزيان باش تختار العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "بغيت نعرف شنو التحاليل اللي خاصني ندير باش نشوف كسل الغدد الصماء؟",
+    "answer": "كاين بزاف د الفحوصات، وهاد الشي كيعتمد على الغدة اللي فيها المشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Endocrinology",
+    "question_darija": "واحد الدراري عندو 3 سنين جاتو السكرية 185 من بعد ما ياكل؟",
+    "answer": "خاصك تدير سكر صائم وفاطر وتراكمي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  }
+]

@@ -1,0 +1,4782 @@
+[
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج لجفاف البشرة؟",
+    "answer": "يمكن استعمال مرهم كلوبتازول. خاص استشارة طبيب إذا كانت الحالة مزمنة.",
+    "entities": {
+      "symptoms": [
+        "جفاف البشرة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج لجفاف البشرة؟",
+    "answer": "هاد المرهم فيه الفلوريد وكيعاون على ترطيب البشرة.",
+    "entities": {
+      "symptoms": [
+        "جفاف البشرة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج لعضم؟",
+    "answer": "تطبيق كريم طبي يمكن يساعد. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم في العظام"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندها حكّة فالصدر، شنو ندير؟",
+    "answer": "يمكن استعمال مرهم مخصص للحكة. إذا استمرت، خاص زيارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة في الصدر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هي العلاجات لكلف؟",
+    "answer": "يمكن استعمال مراهم وجلسات علاجية. خاص استشارة طبيب لتحديد الأنسب.",
+    "entities": {
+      "symptoms": [
+        "كلف"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "هل التمر مزيان للبشرة؟",
+    "answer": "نعم، التمر كيعطي صفاء للبشرة. ولكن خاص توازن في الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج لحريرة؟",
+    "answer": "هاد المرهم فيه الفلوريد وكيعاون على التخفيف.",
+    "entities": {
+      "symptoms": [
+        "حريرة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج لشقوق اليدين؟",
+    "answer": "يمكن استعمال ماتريسيو ويوريا. خاص ترطيب مستمر.",
+    "entities": {
+      "symptoms": [
+        "شقوق في اليدين"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايدير مع الشيب؟",
+    "answer": "يمكن استعمال الصبغة أو الحناء. ولكن خاص اختيار النوع المناسب.",
+    "entities": {
+      "symptoms": [
+        "شيب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن شامبوان للشعر الدهني؟",
+    "answer": "شامبوان ديال التراسوند مزيان للشعر الدهني. خاص استعماله بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج للصداف؟",
+    "answer": "العلاج كيعتمد على نوع الصداف وشحال كاتنتشر. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداف"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايدير مع الفطريات؟",
+    "answer": "يمكن استعمال كريم لميسيل ثلاث مرات في النهار. خاص الالتزام بالعلاج.",
+    "entities": {
+      "symptoms": [
+        "فطريات"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج للأكزيما؟",
+    "answer": "يمكن استعمال مرهم كلوبتازول أو كالسيبوترين. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "أكزيما"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاش الحرارة طالعة تحت الرجلين؟",
+    "answer": "خاصك تمشي عند طبيب مختص باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حرارة تحت الرجلين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن دوا للثالي؟",
+    "answer": "خاصك تستشيري طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ثالي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو السبب ديال تساقط الشعر وتقصيفو؟",
+    "answer": "الاهتمام بالماكلة الصحية و استعمال منتجات مناسبة للشعر.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر",
+        "تقصيف الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا ديال النمش؟",
+    "answer": "كاين دوا خاص بالنمش، ولكن خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "نمش"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الدوا ديال الدمامل لي ما محلولش؟",
+    "answer": "خاصك تمشي عند طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "دمامل"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "السبب لاش كاتعرق بزاف؟",
+    "answer": "يمكن يكون عندك مشكل صحي، خاصك تمشي عند طبيب.",
+    "entities": {
+      "symptoms": [
+        "تعريق بزاف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايعالجو لعاجازا ديال لقبحرا؟",
+    "answer": "خاصك تتبع نظام غذائي صحي و تستعمل منتجات مناسبة.",
+    "entities": {
+      "symptoms": [
+        "عاجازا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الدوا ديال الحرق؟",
+    "answer": "استعمل زيت زيتون مع لوفيرا، و خاصك تحمي المنطقة.",
+    "entities": {
+      "symptoms": [
+        "حرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي قشور وحكة ف راسي.",
+    "answer": "يمكن يكون عندك التهاب ف فروة الرأس. خاصك تشوف طبيب مختص باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "قشور",
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج لحمر لعينين؟",
+    "answer": "خاصك تشاور مع طبيب مختص باش يحدد السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حمر لعينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايتعالجو لحب الشباب؟",
+    "answer": "العلاج كيعتمد على نوعية حب الشباب. خاصك تشوف طبيب مختص باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاج لحمر حمر.",
+    "answer": "يمكن تستعمل كريمات مخصصة لعلاج الاحمرار. خاصك تشوف طبيب إذا بقات الحالة.",
+    "entities": {
+      "symptoms": [
+        "حمر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحميني من شمس؟",
+    "answer": "استعمل واقي شمسي بمعامل حماية 50. خاصك تعاود تحطو كل ساعتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا باش نحيدو التاتو من الحجبان؟",
+    "answer": "كاين طرق متعددة بحال الليزر أو الاستئصال. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "دوا باش يطوال الشعر.",
+    "answer": "يمكن تستعمل مكملات فيها زنك و فيتامين د. خاصك تكون صبور على النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج ديال لحب الشباب؟",
+    "answer": "يمكن تستعمل كريم فيه سكورب كحل. خاصك تكوني مستمرة باش تشوفي النتائج.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الدوا ديال لحمير؟",
+    "answer": "الكريم فيه مضاد حيوي، خاص استشارة طبيب الجلدية قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نصلح هاد لحبّ لؤلؤي؟",
+    "answer": "خاصك تمشي عند طبيب الجلدية، هو اللي يقدر يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حبّ لؤلؤي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "البشرة جافا بزاف، كايعاون مرطب فعال؟",
+    "answer": "العسل هو أحسن مرطب للبشرة الجافة. جربيه بانتظام.",
+    "entities": {
+      "symptoms": [
+        "بشرة جافة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "الأسباب ديال لوجع و لحمر اللي تحت ضهر؟",
+    "answer": "يمكن تكون أسباب متعددة، خاصك تراجع الأخصائي لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "احمرار"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايبان ولّي الشعر ديال الجبهة؟",
+    "answer": "يمكن استعمال الهيدروكينون لتحسين مظهر الشعر. استشيري طبيب قبل البدء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن دوا للصداع؟",
+    "answer": "يمكن استعمال مرهم فيه كالكسيبوترين و البوليرونين. استشيري طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج الجدر عند الكبار؟",
+    "answer": "ممكن تستعمل مضاد للحساسية وكريم كلامين. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الجدر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج حب الشباب؟",
+    "answer": "يمكن استعمال غليكوليك أسيد 12. خاص استشارة طبيب لتحديد الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعالج الكزيما ديال اليدين؟",
+    "answer": "استعمل كريمات مرطبة وابتعد عن المواد المهيجة. خاص استشارة طبيب إذا كانت الحالة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "الكزيما"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج لبهاق؟",
+    "answer": "العلاج كيعتمد على الحالة. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "لبهاق"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعافا النمش؟",
+    "answer": "يمكن استعمال كريمات مخصصة للنمش. خاص استشارة طبيب لتحديد العلاج الأنسب.",
+    "entities": {
+      "symptoms": [
+        "النمش"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاج الدمل فالمرا الحاملة؟",
+    "answer": "خاص استشارة طبيب قبل أي علاج. العلاج كيتطلب الحذر فهاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "الدمل"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هوما لمهام لي كايتستعمل فيهم أكسيد الزنك؟",
+    "answer": "كاين كواق شمسي ومرطب. كيساعد فحماية البشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش غادي نحيدو آثار التمكين؟",
+    "answer": "يمكن استعمال كريمات مخصصة. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آثار التمكين"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش لحمر كايتحرك؟",
+    "answer": "ممكن يكون عندك التهاب جرثومي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "لحمر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو اللي كيخلي الريحة ديال الجسم قوية؟",
+    "answer": "ممكن تكون عندك مشكلة صحية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج ديال حب الشباب؟",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب. كل حالة مختلفة.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الدوا ديال جلد الدجاج؟",
+    "answer": "يمكن استعمال كريمات خاصة. خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [
+        "جلد الدجاج"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن علاج للتصبغات فجلدنا؟",
+    "answer": "العلاج كيعتمد على نوع التصبغات. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التصبغات"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش فيتامين سي كايعاون ففتح البشرة؟",
+    "answer": "فيتامين سي مفيد للبشرة. يمكن استعماله موضعيًا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "ختي عندها لحمر ف عينها من شحال هادي.",
+    "answer": "خاصها تراجع طبيب العيون. يمكن يكون عندها التهاب.",
+    "entities": {
+      "symptoms": [
+        "لحمر ف العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن منتوج للتبييض؟",
+    "answer": "حقن الكلواتاثيون ف الوريد كتعطي نتائج مزيانة. خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نقصو الميلانين فالجسم؟",
+    "answer": "يمكن استعمال الحمضيات، البندورة، والحليب ومشتقاتو. ولكن خاص استشارة طبيب قبل ما تبدا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو أحسن فوط للصحة؟",
+    "answer": "استعمل ماركات موثوقين، حيث ماكاينش بحالهم. خاص تكون الجودة مضمونة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي جفاف فحنيك، شنو ندير؟",
+    "answer": "استعمل تري د لكورام ديال لبشرة تلات مرّات فنهار. غادي يساعدك بزاف.",
+    "entities": {
+      "symptoms": [
+        "جفاف"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي دوا لحمر لي كايتكون فجيها لمجلوس؟",
+    "answer": "خاصك تشوف طبيب، حيث كاين بزاف الأسباب. ماشي كلشي دوا ينفع.",
+    "entities": {
+      "symptoms": [
+        "احمرار"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نعالج الصقيع فالأيدي والرجلين؟",
+    "answer": "من الأفضل تشوف طبيب مختص. يمكن يكون عندك مشكل صحي خاص.",
+    "entities": {
+      "symptoms": [
+        "صقيع"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو أحسن كريم للجروح والندب؟",
+    "answer": "الكريمات اللي فيها سكورب كحل كتكون فعالة. خاص تستعملها بانتظام.",
+    "entities": {
+      "symptoms": [
+        "جروح",
+        "ندب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نعالج الفطريات بالشامبوان؟",
+    "answer": "استعمل الشامبوان نهار مورا نهار. غادي يساعدك فالتخلص من الفطريات.",
+    "entities": {
+      "symptoms": [
+        "فطريات"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج باش تمحي الدود؟",
+    "answer": "استعمل كريم لميسيل ثلاث مرات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "الدود"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي صداع فصدري.",
+    "answer": "خاصك تمشي عند الطبيب، يمكن يكون عندك شي التهاب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عيني فيها حبات بيضين صغار.",
+    "answer": "راجعي طبيب العيون، يمكن تحتاجي علاج.",
+    "entities": {
+      "symptoms": [
+        "حبات بيضين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كانحرق ف وجهي من بعد لماخدما.",
+    "answer": "استعملي كريم أوليفيرا باش تهني البشرة.",
+    "entities": {
+      "symptoms": [
+        "حرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نداوي انفاخة عيني ليمنية؟",
+    "answer": "راجعي طبيب العيون، هو اللي يقدر يساعدك.",
+    "entities": {
+      "symptoms": [
+        "انفاخة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نصاوب شعري رطب وطويل؟",
+    "answer": "خودي مكمل غذائي فيه الزنك، غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "شعر جاف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش السريا كاتسبب لحب الشباب؟",
+    "answer": "ماكاينش علاقة بيناتهم، حب الشباب عندو أسباب أخرى.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال تساليب الوراثي؟",
+    "answer": "العلاج المناسب هو الهيدروكربون، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تساليب وراثي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي واحد كيحس بالغيرة من راسو؟",
+    "answer": "خاصك تشوف طبيب مختص. هاد الإحساس ممكن يكون عندو أسباب نفسية.",
+    "entities": {
+      "symptoms": [
+        "غيرة من النفس"
+      ],
+      "medical_field": "الأمراض النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال لحمار؟",
+    "answer": "استعمل كريم فيرسكورت ثلاث مرات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "حمار"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا باش نحلو الجفاف؟",
+    "answer": "استعمل مرطب كلسرين أو ويسكي بانثينول.",
+    "entities": {
+      "symptoms": [
+        "جفاف"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاج جفاف الجلد؟",
+    "answer": "استعمل كريم كايفرس أكثر من ثلاث مرات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "جفاف الجلد"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا جديد ديال الصداع؟",
+    "answer": "ماكاين والو جديد، خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال لحمر لعين؟",
+    "answer": "خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أحسن طريقة باش تحيد حب الشباب؟",
+    "answer": "استعمل كريم فيه سكوربيك.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "يدي ورجلي متقشريين؟",
+    "answer": "يمكن يكون الاستعمال الزايد ديال المرطبات.",
+    "entities": {
+      "symptoms": [
+        "تقشر الجلد"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "حبوب لبياد لباها؟",
+    "answer": "شرب 500 مغرام ف النهار مورا لماكلا.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعافا من النقط السودا؟",
+    "answer": "استعمل كريم فيه سكورب.",
+    "entities": {
+      "symptoms": [
+        "نقط سوداء"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي مشكل ف كيفاش نخلص منو؟",
+    "answer": "استعمل شامبو دالتراسوند كل نهار.",
+    "entities": {
+      "symptoms": [
+        "مشكل الشعر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي شعر طويل بزاف، واش هادشي عادي؟",
+    "answer": "الشعر الطويل عادي، ولكن خاصك تهتم بيه. استعمل شامبو وبلسم مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نتعامل مع العرق ف منطقة أريج؟",
+    "answer": "يمكنك تستعمل حقن البوتوكس ف هاد المنطقة. هادشي كيساعد ف تقليل العرق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن غسول للبشرة المتعددة الألوان؟",
+    "answer": "غسول الشمس مزيان لهاد النوع من البشرة. كيساعد ف توحيد اللون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي دوا لعلاج سمار لحلق الورادي؟",
+    "answer": "تعديل السنان بالفيلر أو البلازما يمكن يكون حل. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "غسول أُرّنج ديالي كايهيد لحب الشباب، واش مزيان؟",
+    "answer": "هاد الغسول ماشي كافي لعلاج حب الشباب. خاصك علاج آخر.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعالج لحم باش ما يتخلاصش؟",
+    "answer": "العلاج كيتدار تحت التخدير الموضعي، سواء جراحيا أو بالليزر. خاصك طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي دوا لحل هاد المشكل؟",
+    "answer": "خاصك تشوف طبيب لتشخيص دقيق. العلاج كيتطلب وصفة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين ضرر ف لحم ديالي تحت البطن، شنو ندير؟",
+    "answer": "خاصك دير فحص للصديد عند طبيب. هادشي مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن صباغة للشعر بلا ما تضر؟",
+    "answer": "اختيار الصباغة كيعتمد على نوع الشعر. استشيري مع مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج ديال الشمت؟",
+    "answer": "الشمت خاصها علاج خاص، بحال تطبيق البنتوستام. استشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نتعافى من لمعكر؟",
+    "answer": "استعمل كريم فيه سكوربيك أُسّد. خاصك صبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عضّ طروازا ف صباع رجليه، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص باش تاخد تشخيص صحيح. العلاج ضروري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا لشقوق الرجلين؟",
+    "answer": "استعمل مرهم فازلين مع سيلكاسون. غادي يساعدك فترطيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "شقوق الرجلين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاش كاين الألم فكرش ديالك؟",
+    "answer": "البروتينات ممكن تكون السبب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الكرش"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نبيّض المنطق ديالنا؟",
+    "answer": "استعمال الأدوية للتبييض ماشي مزيان. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "فين كايتستعمل الضو ديال الليزر؟",
+    "answer": "كاين بزاف ديال المراكز. خاصك تسول على واحد قريب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شعري كايطيح بزاف، شنو ندير؟",
+    "answer": "خاصك تعرف السبب باش تبدا العلاج. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت علاج لنمو الشعر فالدقن.",
+    "answer": "دير فحص عند طبيب مختص. غادي يساعدك فالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاش كاين النمش؟",
+    "answer": "النمش كيتكون بسبب الشمس. خاصك تحمي راسك من الأشعة.",
+    "entities": {
+      "symptoms": [
+        "نمش"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد الحساسية ديال الجلد؟",
+    "answer": "خاصني نعرف نوع الحساسية. كل نوع عندو العلاج ديالو.",
+    "entities": {
+      "symptoms": [
+        "حساسية الجلد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي جفاف فالشعر، شنو ندير؟",
+    "answer": "استعمل شامبوان مناسب مع كونديسيونر. غادي يحسن الحالة.",
+    "entities": {
+      "symptoms": [
+        "جفاف الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي وجع فشمي، شنو ندير؟",
+    "answer": "راجع طبيب جراح. خاصك تشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع في الشم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نرطب شعري؟",
+    "answer": "زيت الخروع مزيان. استعملو مع زيت آخر باش يكون أحسن.",
+    "entities": {
+      "symptoms": [
+        "جفاف الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا لتكثيف الشعر؟",
+    "answer": "كاينين دوا لي فيه زنك وفيتامين د، خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاش تحرك ليه حجبانو بلا سبب؟",
+    "answer": "خاصك تراجعي طبيب نفسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو سبب لبقع البيضا فصبع الضفار؟",
+    "answer": "يمكن يكون ناقص الكالسيوم وفيتامين د.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضا"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن كريم للتخفيف من آثار الشمس؟",
+    "answer": "كاين كريم فيه سكورب كحل، كيعاون بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج ديال لمارضا ديال ثالبه؟",
+    "answer": "يمكن تستعمل مرهم أو حقن موضعي للكورتزون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن علاج للقشرة فالشعر؟",
+    "answer": "كاين بزاف د البايبريترون فالسوق.",
+    "entities": {
+      "symptoms": [
+        "قشرة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج شقوق صبعان؟",
+    "answer": "استعمل كريم كارباميد وديبرو سالك مرتين فالنهار.",
+    "entities": {
+      "symptoms": [
+        "شقوق"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن علاج لآثار داك الزيبرا لي كاينة فظهرنا ويديينا؟",
+    "answer": "خاصك تستاشر طبيب الجلدية باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آثار الزيبرا"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال لحمر لحمر و لعرڭ؟",
+    "answer": "يمكن تستعمل مرهم كلوبتازول أو كالسيبوترين جوج مرات فالنهار.",
+    "entities": {
+      "symptoms": [
+        "لحمر لحمر",
+        "عرق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد لحمير من رقبتي؟",
+    "answer": "خاصك تستاشر طبيب، حيث يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "لحمير"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نعاود نبيّن هاد الوجه ديالي؟",
+    "answer": "خاصك ترطيب الوجه باستمرار وتجنب الشمس.",
+    "entities": {
+      "symptoms": [
+        "بشرتك"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كريم باش يحيد آثار الحفر؟",
+    "answer": "يمكنك تستعمل كريم خاص بالآثار ثلاث مرات فالنهار.",
+    "entities": {
+      "symptoms": [
+        "آثار الحفر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هوما أحسن طرق باش نعالجو الاكزيما ديال لبشام؟",
+    "answer": "الترطيب هو أحسن حل، وضروري تستعمل مرهم خاص.",
+    "entities": {
+      "symptoms": [
+        "الاكزيما"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شعري كايطلع بزربا و كايتقطع بسهولة؟",
+    "answer": "يمكن يكون عندك نقص في الفيتامينات، خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الدوا ديال العصبية والعرق الزايد؟",
+    "answer": "خاصك تمشي عند طبيب نفسي، حيث يمكن يكون عندك توتر.",
+    "entities": {
+      "symptoms": [
+        "العصبية",
+        "العرق الزايد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش مريضا ديال الصدفا إقدر إتطور مع الوقت؟",
+    "answer": "إي، ميمكنش يتطور مع الوقت. خاص متابعة مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "صدفا"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نقلل من الشعر لي ما كايليقش؟",
+    "answer": "أحسن علاج هو الليزر. كيعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو كيسبب لبقع البيضا ف صباع الضفار؟",
+    "answer": "ناقص الكالسيوم و فيتامين د. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضا"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أشنو هي الأدوية لي كا تعالج التينيا الجلدية؟",
+    "answer": "كاينين بزاف د لعلاجات، والاختيار كيعتمد على نوع التينيا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال لحزام الناري؟",
+    "answer": "كريم كايشدّ 400 ديال لحبوب خمس مرات ف النهار. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كا تعافا جفاف البشرة ف الشتاء؟",
+    "answer": "استعمل مرهم فيه الزنك. كيعطي ترطيب مزيان.",
+    "entities": {
+      "symptoms": [
+        "جفاف البشرة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاينين بقعات قهويّة ف حدا صدري؟",
+    "answer": "إلا كانو عندك شي فطريات، استعمل كريم مضاد للفطريات.",
+    "entities": {
+      "symptoms": [
+        "بقعات قهويّة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن مبيض للبلايص الحساسا؟",
+    "answer": "كرمات فيها الريبيني وفيتامين سي. كيعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايدير باش يحيد النمش من وجهو قبل ما يكبر؟",
+    "answer": "استعمل كرمات الحوايج ديال فيتامين سي. كيعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [
+        "نمش"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا لخزانات الفخاض؟",
+    "answer": "خاصك تشوف طبيب مختص، هو اللي يقدر يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن دوا باش تلبس التسلخات؟",
+    "answer": "استعمل كريم بنثين كل 3 ساعات، غادي يعاونك بزاف.",
+    "entities": {
+      "symptoms": [
+        "تسلخات"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "طهور تورم وانتفاخ فـ ضهري؟",
+    "answer": "حسن أنك تمشي عند الطبيب، هو اللي يقدر يشخص الحالة.",
+    "entities": {
+      "symptoms": [
+        "تورم",
+        "انتفاخ"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن دوا ديال تسوس لحم؟",
+    "answer": "خاصك تمشي عند الطبيب، هو اللي يقدر يعالجك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن علاج للبشرة الحساسة والجافة؟",
+    "answer": "خاصك تسول طبيب مختص، هو اللي يقدر يعطيك الحل المناسب.",
+    "entities": {
+      "symptoms": [
+        "بشرة حساسة",
+        "بشرة جافة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا باش نحيد لحاساس ديال شمش؟",
+    "answer": "استعمل كريم فيه سكورب كحل، غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "حاساس من شمش"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي موشكيل فاش كايطيح لييا شعري.",
+    "answer": "خاصك تمشي عند طبيب، هو اللي يقدر يعالج المشكلة.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا ديال شيب مبكر؟",
+    "answer": "ما كاينش حل نهائي، لكن كاينين بعض المنتجات اللي تقدر تجربها.",
+    "entities": {
+      "symptoms": [
+        "شيب مبكر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحلّي دمل عيني؟",
+    "answer": "خاصك تمشي عند طبيب العيون باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "دمل"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي كريم لفراي كايساوب النمو ديال لعيب.",
+    "answer": "خاصك تسول طبيب مختص ف هاد المجال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كانعرق من وجهي، شنو الحل؟",
+    "answer": "يمكن يكون عندك مشكل ف البشرة. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "عرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كايضرني راسي و يدي كايبقاو حمرين.",
+    "answer": "يمكن تكون عندك حساسية. خاصك تمشي عند طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم الرأس",
+        "احمرار اليدين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شدّ فيدي معا شي حبوب حمرين.",
+    "answer": "يمكن يكون عندك التهاب. خاصك تستعمل فيرسكورت.",
+    "entities": {
+      "symptoms": [
+        "حبوب حمرين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن علاج لحب الشباب للبشرة الدهنية؟",
+    "answer": "يمكن تستعمل رواكتان بعد ما تسالي الحوايج اللي ما كيتسالاوش.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش جفاف لبشرا كايسبب جينوكونازول؟",
+    "answer": "جفاف البشرة يمكن يسبب إحساس بالحريق، ولكن ماشي دائما.",
+    "entities": {
+      "symptoms": [
+        "جفاف البشرة",
+        "إحساس بالحريق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الدوا ديال الحساسية فالصدر؟",
+    "answer": "كريم كايفرس كيتستعمل كتر من 3 مرات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالصدر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي مرض آخر كيشبه لهالباس ولا لكجدرا؟",
+    "answer": "كاين بزاف ديال الأمراض اللي كيشبهو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال الصداع؟",
+    "answer": "ماكاينش علاج نهائي للصداع، ولكن الأدوية تقدر تخفف الأعراض.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال شوق الصبع؟",
+    "answer": "استعمل كلوبتازول مع الساليسك ديالك تلات مرات فالنهار.",
+    "entities": {
+      "symptoms": [
+        "شوق الصبع"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هيا أحسن طريقة باش نعاودو الرموش من بعد ما نحيدوهم؟",
+    "answer": "استعمل كريمر كورتيزوني على العيون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شحال من نهار باش نتبعو كريم لعلاج لحمر لعند جلود؟",
+    "answer": "خاصك تتابع الكريم على الأقل شهر.",
+    "entities": {
+      "symptoms": [
+        "احمرار الجلد"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي مشكل ديال القشور اللي صعيب بزاف باش يتعالج.",
+    "answer": "خاصك تعرف السبب أولا باش نقدروا نعالجوه.",
+    "entities": {
+      "symptoms": [
+        "قشور"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع فارغين من الشعر ف راسي ما خدام.",
+    "answer": "خاصك تشوف الطبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "بقع فارغة من الشعر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "تسلخات الجلد بين الفخذين.",
+    "answer": "استعمل بنثين بلاس كل 3 سوايع.",
+    "entities": {
+      "symptoms": [
+        "تسلخات الجلد"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أحسن طريقة باش تحيد الحبوب ف الوجه؟",
+    "answer": "استعمل كريام كلايكولك أسد مع كوج أسد.",
+    "entities": {
+      "symptoms": [
+        "حبوب ف الوجه"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن علاج باش تزيد الشعر؟",
+    "answer": "خاصك تشوف طبيب مختص لي يعاونك فهاد المشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نصلح تساقط الشعر؟",
+    "answer": "من الأفضل تمشي عند الطبيب باش يحدد السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شي حاجا فعالة للتسلّخات؟",
+    "answer": "استعمل كريم فيه بنثين كل 3 سوايع، غادي يساعدك.",
+    "entities": {
+      "symptoms": [
+        "تسلّخات"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي واحد لحمر ف لبلاصا لي فيهم لعابصا، شنو ندير؟",
+    "answer": "استعمل كريم فيه سكوربيك، غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "احمرار"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحمي راسي من القمل؟",
+    "answer": "خلي شعرك ديما نقي وحيد لموسعيف.",
+    "entities": {
+      "symptoms": [
+        "قمل"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيدو لحمرة لي كاينة بسباب لحب الشباب؟",
+    "answer": "استعمل كريم أُليفيرا، غادي يساعدك فهاد المشكل.",
+    "entities": {
+      "symptoms": [
+        "احمرار",
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الحل ديال البقع السودا؟",
+    "answer": "استعمل كريم خاص بالشمس، غادي يساعدك على تحسين البشرة.",
+    "entities": {
+      "symptoms": [
+        "بقع سودا"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نعرف بلي مصاب بالجرّب؟",
+    "answer": "خاصك تمشي عند طبيب الجلدية باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حب الشباب فوجهي، كيفاش كاينعالجوه؟",
+    "answer": "يمكن تستعمل كريم فيه سكوربيك أو أي كريم مخصص لحب الشباب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال لبرد ملي كايتعرض ليه الجسم؟",
+    "answer": "استعمل مضادات الهيستامين ولبس لحوايج لي كايزيدو فالحرارة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو السبب ديال قصّر شعري؟",
+    "answer": "خود ملعقة د الزنك كل نهار مع الفطور، وغادي تحس بتحسن.",
+    "entities": {
+      "symptoms": [
+        "قصّر الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج لقبض راسي؟",
+    "answer": "يمكن تستعمل كريم ريتينويد أو تقشير بالكرستال. خاصك تشوف طبيب الجلدية.",
+    "entities": {
+      "symptoms": [
+        "قبض راس"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي خطوط حمر داخل الأظافر، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الجلدية. يمكن يكون عندك حالة خاصة.",
+    "entities": {
+      "symptoms": [
+        "خطوط حمر داخل الأظافر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو فايدة كريم د رن؟",
+    "answer": "كريم د رن كيعالج حب الشباب وكيعطي نتيجة مزيانة. جربو وشوفو.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نفتح البشرة ديالي؟",
+    "answer": "يمكن تستعمل كريم فيه سكورب. خاصك تحمي بشرتك من الشمس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الدوا لحمر لكعب؟",
+    "answer": "يمكن تستعمل كريم مخصص. إذا كان الألم مستمر، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حمر لكعب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج للهيجان الجلدي عند الدراري؟",
+    "answer": "العلاج كيعتمد على الماكلة والحلويات. خاصك تتجنبي الأطعمة المهيجة.",
+    "entities": {
+      "symptoms": [
+        "هيجان جلدي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي ريحة خايبة ف رجلي، شنو ندير؟",
+    "answer": "خاصك تعقم رجليك وتستعمل مرهم مضاد للفطريات. إذا ما تحسنتش، مشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "ريحة خايبة ف رجلي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي دوا نهائي لحساسية الجلدية؟",
+    "answer": "كاين دوا خاص بالحساسية، ولكن خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية جلدية"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي تجويدات ف راسي، شنو السبب؟",
+    "answer": "يمكن يكون عندك حالة نفسية أو توتر. خاصك تشوف طبيب نفساني.",
+    "entities": {
+      "symptoms": [
+        "تجويدات ف راس"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "مراتي كتعاني من الصداع من بعد ما حيدات شعرها.",
+    "answer": "خاصها تشوف طبيب باش يعرف السبب ويدير الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "الدراري صغار كايتعرقو بزاف ملي كايموتو فالليل.",
+    "answer": "خاصك تراجع طبيب الأطفال باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "تعرق"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج جفاف الشعر؟",
+    "answer": "استعمل زيت للشعر كل ليلة باش ترطبوه.",
+    "entities": {
+      "symptoms": [
+        "جفاف الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أنا عندي 19 عام وما عنديش شعر حمر.",
+    "answer": "خاصك تدير فحص للضو باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "عدم وجود شعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو اللي خلا البشرة ديالو مقهورة؟",
+    "answer": "خاصك تشوف طبيب باش يعالج لك البشرة.",
+    "entities": {
+      "symptoms": [
+        "بشرة مقهورة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايعالجو المثانة الحامضة؟",
+    "answer": "يمكن استعمال كريم إيبوب مسكن ألم لمدة 5 أيام.",
+    "entities": {
+      "symptoms": [
+        "ألم في المثانة"
+      ],
+      "medical_field": "المسالك البولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "حبوب صغار فالدني ديال الراجل.",
+    "answer": "استعمل كريم كايشرمل 3 مرّات في النهار.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش لعاطي ديال شعر كايترجع ل عوامل وراثية؟",
+    "answer": "أهم سبب لتساقط الشعر هو الوراثة.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حك قوي حيت خديت بلاصا ديال حك.",
+    "answer": "استعمل كريم فيرسكورت تلات مرّات في النهار.",
+    "entities": {
+      "symptoms": [
+        "حك"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي مرطب مزيان للوجه لي عندو بشرة حساسة.",
+    "answer": "كاين بزاف د الأنواع المتوفرة، خاصك تختار المناسب.",
+    "entities": {
+      "symptoms": [
+        "بشرة حساسة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن طريقة باش نحيد آثار الحبوب من الوجه؟",
+    "answer": "يمكن استعمال كريمات مخصصة أو تقنيات مثل الليزر. خاصك تستشيري طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "آثار الحبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي ديلان ف لحمّي. بغيت شي دوا باش يتقاد.",
+    "answer": "خاصك تعرف نوع الفطريات قبل ما دير شي حاجة. استشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ديلان"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد لبثور ديال لبشرا ديني؟",
+    "answer": "استعملي كريمات مخصصة لنوع بشرتك. خاصك الصبر والاهتمام.",
+    "entities": {
+      "symptoms": [
+        "لبثور"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال الدمامل أُ علاش كايوقع؟",
+    "answer": "يمكن استعمال المضاد الحيوي الموضعي والفموي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الدمامل"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعافا من السيلوليتي؟",
+    "answer": "يمكن عمل جلسات كاربوكسي وحقن ميزسراب. خاص متابعة مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "سيلوليتي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاج لحب شباب؟",
+    "answer": "حسب نوعه ودرجته، يمكن يكون خفيف أو متوسط أو قوي. استشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كايعاني من حب الشباب ف الجبهة؟",
+    "answer": "يمكن يتعامل معاه باستعمال الليزر أو كريمات مخصصة. استشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايتحيد الصمغ من صبعي؟",
+    "answer": "كاينين بزاف د الأدوات لي كيمكن تستعملها. خاصك تكون حذر باش ما تجرحش راسك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاش القضيب ما يوقفش؟",
+    "answer": "يمكن تكون عندك مشكل صحي خاصك تشوف طبيب. ما تردش البال، راها حالة عادية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايتعالجو الندوب فوجه بلا ليزر؟",
+    "answer": "يمكن تستعمل كريمات مرطبة أو طبيعية. خاصك صبر، النتائج كتاخد وقت.",
+    "entities": {
+      "symptoms": [
+        "ندوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتحيد الشعر من العانة بسرعة؟",
+    "answer": "أحسن طريقة هي استعمال الليزر. كتعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "ف الما تحت عيني كيفاش نعرف واش سوس؟",
+    "answer": "إذا كتحس بألم أو حكة، خاصك تمشي عند طبيب العيون. هو لي غادي يحدد لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "حكة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عافاك سيري للطبيب باش يشوف الجروح لي تفتحو من الشمس.",
+    "answer": "خاصك تعتني بالجروح باش ما تتعفن. استعملي كريم واقي من الشمس.",
+    "entities": {
+      "symptoms": [
+        "جروح"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي الم في صبعي و فيه زراق.",
+    "answer": "راجعي طبيب العظام، يمكن تكون عندك إصابة. خاصك تشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "زراق"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الدوا ديال مرض الغدة الدرقية؟",
+    "answer": "خاصك تشوف طبيب مختص. العلاج كيتعلق بنوع المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت طبيب جلدية يعالج ليا لحمر ديال الشمس.",
+    "answer": "استعملي كريم واقي من الشمس و زوري طبيب الجلدية. هو لي غادي يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "احمرار"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع حمرا ف لمرفق.",
+    "answer": "خاصك تمشي عند طبيب جلدية باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "بقع حمرا"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت كريم للبشام ديالي.",
+    "answer": "يمكن لك تستعمل باراسيتامول أو كريمات مرطبة مخصصة للبشرة الحساسة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاش كاينة طيحان ديال حبوب ف الجبها؟",
+    "answer": "يمكن يكون بسبب تغيرات هرمونية أو استعمال منتجات غير مناسبة للبشرة.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع حمرا و بيضا ف الصدر.",
+    "answer": "خاصك تمشي عند طبيب باش يدير ليك الفحص ويحلل الحالة.",
+    "entities": {
+      "symptoms": [
+        "بقع حمرا",
+        "بقع بيضا"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي تسلخات الجلد بين الفخذين.",
+    "answer": "خاصك تمشي عند طبيب مختص قبل ما يتعطى لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تسلخات الجلد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع كحلين تحت ضفر ليد ومعاهم أوجاع.",
+    "answer": "خاصك تشوف طبيب جلدية مختص باش يتشخص و يتعالجو.",
+    "entities": {
+      "symptoms": [
+        "بقع كحلين",
+        "أوجاع"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع حمرا ف راسي بلا خيط.",
+    "answer": "خاصك تشوف طبيب مختص باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "بقع حمرا"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بابا عندو طفح جلدي تحت رجليه.",
+    "answer": "خاصو يوريها لطبيب الجلدية.",
+    "entities": {
+      "symptoms": [
+        "طفح جلدي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نعرف نوع الفطريات ف جسمي؟",
+    "answer": "خاصك تراجع طبيب الجلدية باش يحدد النوع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي كريم باش نجمع لون بشرتي.",
+    "answer": "كاين بزاف د الكرمات، ولكن خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايتعالج البهاق؟",
+    "answer": "العلاج كياخد وقت طويل، خاصك صبر.",
+    "entities": {
+      "symptoms": [
+        "البهاق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي شعر مجعد، واش كاين شي علاج باش يولي ناعم؟",
+    "answer": "استعمل زيت الخروع، غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "شعر مجعد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بشرة حساسة وكاتعاني من حب الشباب.",
+    "answer": "خاصك تعرف نوع حب الشباب باش تختار العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج الحروق ديال الدرجة التانية؟",
+    "answer": "استعمل مرهم ميبو مع فيوسدين ثلاث مرات ف النهار. هاد العلاج كيساعد فالتئام الجلد.",
+    "entities": {
+      "symptoms": [
+        "حروق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو سبب الحروق اللي عندي ف جلدّي؟",
+    "answer": "الحروق كيمكن تكون بسبب التعرض للحرارة أو المواد الكيميائية. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "حروق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نداوي القشرة فشعر الدقن؟",
+    "answer": "استعمل 20 نقطة من ستيل سيبورتيفا و تفركها مزيان. هاد الطريقة غادي تعاونك.",
+    "entities": {
+      "symptoms": [
+        "قشرة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نحيد شعر العانة؟",
+    "answer": "يمكن تستعمل الشمع أو الحلاوة. هاد الطرق فعالة وسهلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن علاج لتساقط الشعر؟",
+    "answer": "ممكن تستعمل محلول مينوكسيديل، ولكن خاصك تشوف طبيب قبل ما تبدا. العلاج كيتطلب وقت وصبر.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نداوي الزيت الزايد ف الجبين؟",
+    "answer": "استعمل غسول مناسب للبشرة الدهنية و حاول ما تلمسش وجهك بيديك. هادشي غادي يساعدك.",
+    "entities": {
+      "symptoms": [
+        "زيت زايد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج لحب الشباب؟",
+    "answer": "استعمل منتجات تحتوي على حمض الساليسيليك أو البنزويل بيروكسايد. خاصك تكون صبور، العلاج كياخد وقت.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسان كريم باش نحيد الحروق؟",
+    "answer": "استعمل كريم فيه سكورب كيد. غادي يعاونك على الشفاء.",
+    "entities": {
+      "symptoms": [
+        "حروق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بنتي عندها ست شهور، رجليها كيبقاو عرقانين بزاف. شنو السبب؟",
+    "answer": "راجعي طبيب أطفال. يمكن يكون عندها شي حاجة خاصة.",
+    "entities": {
+      "symptoms": [
+        "عرق"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بقع بيضا ف راس القضيب، شنو هادشي؟",
+    "answer": "من الأحسن تشوف شي طبيب. يمكن يكون عندك شي مرض خاص.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضا"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "حبوب بيضاء علا لقضيب، شنو ندير؟",
+    "answer": "إلا ماكاديرهاش ليك شي مشكل، راه هادشي عادي. ماتخافش.",
+    "entities": {
+      "symptoms": [
+        "حبوب بيضاء"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "اللهم اهدينا. واش كاين شي واحد عندو حرقا ف العضو الذكري؟",
+    "answer": "خاصك دير تحاليل الدم والسائل المنوي. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "حرق"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "إمتا غادي يتقاد جرحو لي دارتو باش يخرج الحصى من الكلي؟",
+    "answer": "من لعشرا ليدازو هادو سيمانا. خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [
+        "جرح"
+      ],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش قدر يحيد حب الشباب من وجهو وظهر ديالو؟",
+    "answer": "استعمل شي كريم فيه سكوربيك. غادي يساعدك بزاف.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "فيتامين د كايجيب لعسل؟",
+    "answer": "نقص في فيتامين د كايهدد على صحة الشعر. خاصك تعتني بنفسك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي سخونية بزاف وما مرتاحش.",
+    "answer": "دير فحص ديال فيتامين د ف الدم و البول.",
+    "entities": {
+      "symptoms": [
+        "سخونية"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي كريم لحمر حدا شفايفي؟",
+    "answer": "استعمل شي كريم مع سكورب و واقي الشمس.",
+    "entities": {
+      "symptoms": [
+        "احمرار"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع بيض ف جسمي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يتأكد من الحالة.",
+    "entities": {
+      "symptoms": [
+        "بقع بيض"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي دوا للثالول؟",
+    "answer": "ماكاينش شي علاج للثالول غير الليزر.",
+    "entities": {
+      "symptoms": [
+        "ثالول"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعالج لحب الشباب؟",
+    "answer": "دير دهون ب عسل النحل تلات مرات فالنهار لمدة ربع سيمانات و غادي تلقى راسك بخير.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "مورا العلاج الكيمياوي، شحال كياخد الشعر باش ينبت؟",
+    "answer": "تقريبا تلت سنين.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي كريم للجروح والحروق.",
+    "answer": "عسل النحل مزيان للبشرة بحال كريمات الوجه.",
+    "entities": {
+      "symptoms": [
+        "جروح",
+        "حروق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "خاصني دوا باش نحيد آثار الحروق.",
+    "answer": "من بعد ما يتحل، يمكن يتصلح بالجراحة التجميلية ولا بالليزر.",
+    "entities": {
+      "symptoms": [
+        "آثار الحروق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش صحيح بلي طين البحر الميت كايعاون فالحبوب؟",
+    "answer": "صحيح، معروف أنه كايعاون فالحبوب.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن كريم يفتح الكوع و الركب؟",
+    "answer": "استعمل كريم بيوتي، كاين مزيان.",
+    "entities": {
+      "symptoms": [
+        "تغير لون الجلد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو العلاج لحبوب الشباب فالبشرة الدهنية؟",
+    "answer": "خاصك تستعمل كريم مرطب مخصص للبشرة الدهنية. كاينين بزاف ديال الأنواع فالسوق.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو سبب التشقق فصبعين رجلي؟",
+    "answer": "هادشي ممكن يكون علامة ديال الأكزيما. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "تشقق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نداوي الفطريات فالأظافر؟",
+    "answer": "استعمل مرهم لاميسيل 3 مرات فاليوم. خاصك تكون منتظم.",
+    "entities": {
+      "symptoms": [
+        "فطريات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو العلاج للحبوب تحت العينين؟",
+    "answer": "من الأفضل تشوف طبيب عيون. هو اللي غادي يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حبوب تحت العينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد الحبوب من الوجه؟",
+    "answer": "يمكن تستعمل الليزر، ولكن خاصك تستاشر مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو أحسن علاج للحرق؟",
+    "answer": "من الأفضل تسول طبيب على العلاج المناسب. الحروق تحتاج رعاية خاصة.",
+    "entities": {
+      "symptoms": [
+        "حرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي شيب فالرأس، واش يمكن نعاود نرجع الشعر؟",
+    "answer": "الشيب غالباً عامل وراثي. ممكن تستعمل بعض العلاجات، ولكن النتائج مختلفة.",
+    "entities": {
+      "symptoms": [
+        "شيب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو كاين لعلاج الحظاظات الوردية؟",
+    "answer": "ماكاينش مرهم خاص، ولكن يمكن العلاج بالليزر يكون فعال.",
+    "entities": {
+      "symptoms": [
+        "حظاظات وردية"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي واحد عندو تجربة فهاد الدوا ديال التبييض؟",
+    "answer": "ماكاينش شي أساس علمي على هاد الدوا. خاصك تكون حذر من استعماله.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حمر فالجنب ديالي بلا ما نحك ليه.",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حمر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد لوسخ لي طايحة على الوجه؟",
+    "answer": "استعمل شي كريم فيه سكوربيك أُسّد. غادي يعاونك فتنقية البشرة.",
+    "entities": {
+      "symptoms": [
+        "وسخ"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي نمرة وبغيت شي حاجة طبيعية لي نزيدها.",
+    "answer": "استعمل فيتامين سي وكريم واقي من الشمس. غادي يحسن مظهر البشرة.",
+    "entities": {
+      "symptoms": [
+        "نمرة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال حب الشباب؟",
+    "answer": "دهن لحمك بالزبيب ثلاث مرّات ف النهار لثلاث سيمانات. غادي تولّي نقي.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي كريم باش نحيد البثور لي كاتبان بطريقة مفاجئة.",
+    "answer": "استعمل كريم فيرسكورت ثلاث مرّات ف النهار. غادي يساعدك فالتخلص منهم.",
+    "entities": {
+      "symptoms": [
+        "بثور"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاج لعيباد ديال شاعري.",
+    "answer": "استعمل كالسيبوترين سكالب مرة جوج مرات فالنهار. ملي تفيق من المرض، استعملو مرة فالنهار.",
+    "entities": {
+      "symptoms": [
+        "عيباد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش سائل التواليت مزيان للبشرة ديال الوجه؟",
+    "answer": "سائل التواليت مزيان، ولكن خاصك تستعمله بحذر. من الأفضل تستعمل منتجات مخصصة للبشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كانعاني من تعرق فاليدين والرجلين. واش عندك شي حل؟",
+    "answer": "البوتكس كايعاون فالتعرق الزايد. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "تعرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر ننقص من التهيشة لي طرا ليا فوجهي بسباب الشمس؟",
+    "answer": "استعمل كريما فيها أُليفيرا، وضروري تحمي وجهك من الشمس.",
+    "entities": {
+      "symptoms": [
+        "تهيشة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عافاك، طهور الحساسية فكوعي وجنب صدري. شنو ندير؟",
+    "answer": "استعمل كريم لوداج ثلاث مرات فاليوم. إذا ما تحسنش، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاش يديّين ورجليّين باردين مع الدفئ ديال الجو؟",
+    "answer": "خاصك دير فحص الدم للكالسيوم والفيتامين د. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "برودة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أنا كانعاني من تقشر الوجه بسباب البرد، شنو الحل؟",
+    "answer": "استعمل مرهم ديال ديبروجنتا ثلاث مرات فاليوم. وضروري ترطب بشرتك.",
+    "entities": {
+      "symptoms": [
+        "تقشر الوجه"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "ولدي عندو حبوب صفرا صغار فالعينين مع لحمر، شنو خاصني ندير؟",
+    "answer": "خاصك تراجعي طبيب العيون. هاد الحالة خاصها متابعة.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "طهور بعقه حمرا فوسط الفخدية، قريب من المنطقة التناسلية. شنو ندير؟",
+    "answer": "خاصك تدير فحص طبي. هادشي مهم باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "بعقه حمرا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أشنو هو البهاق وعلاش طهر؟",
+    "answer": "البهاق هو فقدان اللون الطبيعي للبشرة. ماكاينش علاج نهائي.",
+    "entities": {
+      "symptoms": [
+        "البهاق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعالج الحرق القديم؟",
+    "answer": "كاين كريم خاص، وضروري دير جلسات ليزر. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بخار سخون طاح عليا فليدّ. شنو خاصني ندير؟",
+    "answer": "استعمل كريم فيرسدين ثلاث مرات فاليوم. إذا ما تحسنش، خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نحيد لبلات ساد لوحش؟",
+    "answer": "استعمل كريما كلايكولك أسد مع كوج أسد. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش مزيان نستعمل شامبوان فيه نعناع فالحمل؟",
+    "answer": "ماشي مزيان تستعمليه فالحمل. خاصك تستشيري طبيب قبل ما تستعملي أي منتج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي 17 عام وكنحس براسي كبر من عمري.",
+    "answer": "خاصك تشوف طبيب مختص فالنطق واللغة. يمكن يكون عندك مشكل خاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو علاج الأنيميا؟",
+    "answer": "العلاج كيعتمد على نوع الأنيميا. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "أنيميا"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعالجو الموستاشات لي كايتكونو فظهر؟",
+    "answer": "خاصك تشوف طبيب جلدي. هو اللي غادي يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "حفيت وجهي وطلع لي حب، شنو ندير باش يروح؟",
+    "answer": "خاصك تستعملي كريم مناسب للبشرة. وضروري تشوفي طبيب إذا ما تحسنتيش.",
+    "entities": {
+      "symptoms": [
+        "حب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أنا مصاب بالجدري المائي.",
+    "answer": "خاصك تستعملي كريمات مرطبة وتاخدي دوا خاص بالحساسية. استشيري طبيب إذا كانت الأعراض قوية.",
+    "entities": {
+      "symptoms": [
+        "جدري مائي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي مشكل فوجه وكتخرج ليا لعيبات وتقشر.",
+    "answer": "استعملي مرهم بيبنثين تلات مرات فاليوم. إذا ما تحسنتيش، ضروري تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "لعيبات",
+        "تقشر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حب الشباب فظهري ويدي مالحا.",
+    "answer": "استعملي كريم فيتامين سي تلات مرات فاليوم. وراقبي الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش لعين لحمر ديال بنتي جاي من الجدري؟ وشنو هو لعلاج ديالو؟",
+    "answer": "راجعي طبيب عيون. هو اللي غادي يحدد السبب والعلاج.",
+    "entities": {
+      "symptoms": [
+        "عين لحمر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي دمل ف ودني اليسرى، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب مختص ف الأذن. غادي يقدر يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "دمل"
+      ],
+      "medical_field": "الأنف والأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي كريم يفتح لي البشرة فالمناطق لي فيها البقع الكحلين.",
+    "answer": "استعمل كريم فيه فيتامين سي. غادي يساعدك ففتح البشرة.",
+    "entities": {
+      "symptoms": [
+        "بقع كحلين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو اللي تسبب ليا هاد الحمارا فكرشي؟",
+    "answer": "الحمارا فكرشي ممكن تكون بسبب التهاب أو حساسية. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "حمارا فكرشي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كايبان الجرب قبل الحك ولا مورا الحك؟",
+    "answer": "الجرب كيبان قبل الحك. خاصك تحاول ما تحكش باش ما تزيدش الحالة.",
+    "entities": {
+      "symptoms": [
+        "الجرب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي كريم كايمحي ليه بقع د لحب الشباب.",
+    "answer": "استعمل كريم فيه أحماض ألفا هيدروكسي. غادي يساعدك فإزالة البقع.",
+    "entities": {
+      "symptoms": [
+        "بقع د لحب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايتدار استئصال الأنسجة المتورمة بالسر وهل كايكون عندو شي مضاعفات؟",
+    "answer": "استئصال الأنسجة كيتدار تحت التخدير. كاين احتمال لمضاعفات، خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [
+        "أنسجة متورمة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بنتي عندها عام ونص وعندها شعر خفيف وقصير.",
+    "answer": "خاصها تاكل أطعمة غنية بالزنك. غادي يساعد فزيادة كثافة الشعر.",
+    "entities": {
+      "symptoms": [
+        "شعر خفيف وقصير"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نجعل شعري ناعم؟",
+    "answer": "دير زيت الخروع ف شعرك كل ليلة. غادي يساعدك باش يولي ناعم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي تلاتة دالنقط حمرا على راس القضيب، واش عادي؟",
+    "answer": "هادشي عادي، ولكن من الأحسن تشوف طبيب إذا كنتي خايف.",
+    "entities": {
+      "symptoms": [
+        "نقط حمرا"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش مزيان نستعمل كريم للبشرة ديال 30 عام وأنا عندي 19 عام؟",
+    "answer": "من الأحسن تستعمل كريم مناسب لسنك. كل واحد عندو احتياجات مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حكّة ف شعري، شنو ندير؟",
+    "answer": "استعمل كريم مضاد حيوي لمدة خمسة أيام. إذا ما تحسنتش، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكّة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد الحبوب لي كاينة ف الجبهة؟",
+    "answer": "استعمل السيروم كل يومين. غادي يساعدك فتنقية البشرة.",
+    "entities": {
+      "symptoms": [
+        "حبوب ف الجبهة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي دوا فعال باش يحيد ليا حب الشباب لي ف حدا النيف.",
+    "answer": "الليزر هو أحسن طريقة باش تحيد حب الشباب. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حساسية من لحم، شنو ندير؟",
+    "answer": "استعمل كريم لوداج 3 مرات ف النهار. غادي يساعدك فالتخفيف.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج للعيبات فالصحة؟",
+    "answer": "يمكن تستعمل كريم الكليسترول مع مرطبات الجسم. هادشي كيعطي الراحة من الوجع.",
+    "entities": {
+      "symptoms": [
+        "عيبات فالصحة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي جروح ف راسي وكايخرج ليا الدم شوي.",
+    "answer": "استعمل كريم فيرسكورت ثلاث مرات ف النهار. خاصك تراقب الجروح مزيان.",
+    "entities": {
+      "symptoms": [
+        "جروح ف راسي",
+        "خروج الدم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي دوا باش نحلو الجفاف؟",
+    "answer": "زيت فازيل أو زيت اللوز مزيانين للجفاف. جربهم وشوف النتيجة.",
+    "entities": {
+      "symptoms": [
+        "جفاف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع بيضين ف حنكي مع شعر شعري.",
+    "answer": "هادشي كيتسمى لبهاق، وعلاجو ساهل. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين بزاف د لحبوب مورا لحلاگ ديالي، بغيت شي كريم.",
+    "answer": "يمكن تستعمل كريم خاص للحبوب. خاصك تصبر شوية على النتيجة.",
+    "entities": {
+      "symptoms": [
+        "لحبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتعافا من لفييّس ديال لحرووق؟",
+    "answer": "خاصك كريم خاص للحروق. ديرو بانتظام باش تحيد آثار الحروق.",
+    "entities": {
+      "symptoms": [
+        "حروق"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو السبب ديال الحكة فهاد المنطقة؟",
+    "answer": "الحكة كيمكن تكون بسبب حساسية أو جفاف. خاصك تشوف طبيب إذا استمرت.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت شي كريم يحسن البشرة ديالي.",
+    "answer": "استعمل كريم كايفرس كثر من 3 مرات ف النهار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحسن صحت الشعر ديالي؟",
+    "answer": "خاصك تستاشر طبيب مختص فالجهاز الهضمي ولا الباطني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين ضرر من الخلطات لي كيتستعملو باش يبيضو الشعر؟",
+    "answer": "إلا كانت من طريق الجلد، راه سلمي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي طبيب لي يعاونني نعرف علاش شعر الحواجب ما كايكبرش؟",
+    "answer": "خاصك دير فحص ديال التيري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن علاج للقشر؟",
+    "answer": "ممكن تكون فطريات، ولا صدفيه، ولا كزما. خاصك ترجع للطبيب باش يشوف شنو هو السبب.",
+    "entities": {
+      "symptoms": [
+        "القشر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "علاش كاينين نقط كحلين ف صبعان رجلييا؟",
+    "answer": "دير فحص فيتامين د ف الثدي.",
+    "entities": {
+      "symptoms": [
+        "نقط كحلين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "السلام عليكم. عندي 24 عام وكنعاني من مشكل فالشعر.",
+    "answer": "هادشي وراثي، ماتقلقش.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نعالج التيفس ديال لبشام؟",
+    "answer": "يمكن العلاج يعتمد على السبب. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "تيفس ديال لبشام"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي سخونية فالرأس، شنو ندير؟",
+    "answer": "يمكن يكون عندك التهاب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "سخونية فالرأس"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عافاك، عندي شامات فصدري وبغيت نحيدهم.",
+    "answer": "يمكن الجراحة هي الحل. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "شامات فصدري"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عافاك، عندي حفر فوجهي. شنو الحل؟",
+    "answer": "ماكاينش حل طبيعي. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حفر فوجه"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عافاك، عندي حبوب فديالي. شنو هادشي؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حبوب فديالي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحارب مرض الكحة؟",
+    "answer": "خاص ترطيب الجسم. يمكن تحتاج مضاد حيوي.",
+    "entities": {
+      "symptoms": [
+        "مرض الكحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عافاك، عندي حساسية جلدية وكنعاني من السكري.",
+    "answer": "خاصك تشوف طبيب مختص فالحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية جلدية"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي وجع فحبيبي، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فحبيبي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عافاك، عندي شمة كبيرة فصدري. واش يمكن نحيدها؟",
+    "answer": "يمكن، خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "شمة كبيرة فصدري"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي تسلخات بين الفخدين، شنو العلاج؟",
+    "answer": "استعملي كريم للفطريات لمدة ثلاثة أسابيع.",
+    "entities": {
+      "symptoms": [
+        "تسلخات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كريمات الكولاجين زوينة للبشرة؟",
+    "answer": "كايديرو حماية من الشمس، كايعاونوا فالتجاعيد وكيهدي الجروح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايتعالجو تورم الجفون؟",
+    "answer": "خاص الاعتناء بالمواد التجميلية والطبية، وضروري الاستشارة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تورم الجفون"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي علاج تجميلي باش نبدل لون الجلد ديال الصبعان؟",
+    "answer": "ما كاينش علاج فعّال لهاد المشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش جرحة ففمي خطيرة؟",
+    "answer": "ماشي خطيرة، تقدر تسلّم الجر فوقت عادي.",
+    "entities": {
+      "symptoms": [
+        "جرحة"
+      ],
+      "medical_field": "الفم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كايعتاقدو بلي كبسولات أوميغا كايعاونو فتنقيا الشعر؟",
+    "answer": "ما عندها حتى علاقة بوقوف الشعر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش مزيل العرق كيضر لبلايص لي فيهم لحية؟",
+    "answer": "إلا ماكانش عندك حساسية، ماكاين باس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أنا حاملا و كانعاني من النعاس بزاف، واش هادشي كايتأثر؟",
+    "answer": "الحمل يمكن يأثر على الأم والجنين، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "نعاس بزاف"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد آثار الحب الخفيف؟",
+    "answer": "استعملي كريم فيتامين سي ثلاث مرات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "آثار الحب الخفيف"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر ننقص من تسريحة الوجه؟",
+    "answer": "يمكن لك تحيد الشعر بالليزر. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي دوا للحزاز المسطح؟",
+    "answer": "كاين علاج للحزاز المسطح، ولكن خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الحزاز المسطح"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حبوب بلا راس، شنو السبب والعلاج؟",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حبوب بلا راس"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي قشرة ف شعري، شنو ندير؟",
+    "answer": "استعمل شامبوان خاص للقشرة وكون حذر في العناية بشعرك.",
+    "entities": {
+      "symptoms": [
+        "قشرة ف الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حبوب فالجوندومي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حبوب فالجوندومي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي الحساسية من الماكياج، شنو العلاج؟",
+    "answer": "غيري نوع الماكياج واستعملي منتجات طبيعية.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الماكياج"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد لفرتوس من ضفاري؟",
+    "answer": "استعمل مرهم لاميسيل لمدة ستة أسابيع.",
+    "entities": {
+      "symptoms": [
+        "لفرتوس"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "السلام، واش كاين شي دوا يبيض الكوع والرجلين؟",
+    "answer": "استعمل كريم فيه سكوربيك أسيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أنا حاملا وعندي حساسية جلدية كتخلي الحمرة تبان.",
+    "answer": "من الأفضل تشوفي طبيب جلدية لتقييم حالتك.",
+    "entities": {
+      "symptoms": [
+        "حساسية جلدية",
+        "حمرة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش مزيان تلبس الكولونيا على الجسم من بعد الحمام فاش كتكون الجرب؟",
+    "answer": "ما كاين حتى مشكل، ولكن خاصك تحافظي على نظافة المنطقة.",
+    "entities": {
+      "symptoms": [
+        "جرب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هيا أسرع طريقة باش تزيد ف الطول ديال الشعر؟",
+    "answer": "خود مكمل غذائي فيه زنك وفيتامين د، وغادي يساعدك فالنمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بان لييا واحد التالوت ف عيني، ف الجيهة داليمين، ومازال ماعالجيتو.",
+    "answer": "خاصك تراجعي طبيب العيون باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "تالوت"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حكة ف جلدني كتجي معاها لبقع حمرا.",
+    "answer": "خاصنا نديرو شي تقلاب باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "بقع حمرا"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "ولدي عندو ورم فالجفن ديالو هادي شهراين.",
+    "answer": "خاصك تمشي عند الأخصائي ديال العينين باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "ورم فالجفن"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "حب الشباب زاد عندي، واش هاد المقشر غادي يحل المشكل؟",
+    "answer": "راجعي عند دكتور الجلد باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "البشرة ديالي حساسة، شنو الصابون اللي نقدر نستعمل؟",
+    "answer": "استعملي صابون مرشوش فيه الكبريت أو مواد دهنية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي انتفاخ فحاجب العين عامين، شنو السبب؟",
+    "answer": "خاصك تشوف الأخصائي باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ فحاجب العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي آثار ديال الحبوب فاليدين، شنو الكريم اللي نقدر نستعمل؟",
+    "answer": "استعملي كريم فيه سكورب كيد، غادي يساعدك.",
+    "entities": {
+      "symptoms": [
+        "آثار الحبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نداوي الم الجفن بوصفات طبيعية بلا طبيب؟",
+    "answer": "يمكن تدير كمادات دافئة على الجفن.",
+    "entities": {
+      "symptoms": [
+        "الم الجفن"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "مرض الهربس كايضرني بزاف.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب. ما تستعملش أي حاجة من غير وصفة طبية.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو رأيك فالجهاز ديال ليزر لي تقدر تستعملو فدارك؟",
+    "answer": "الجهاز مفيد بزاف، ولكن خاصك تستشيري مع مختص قبل ما تستعمليه. الأمان هو الأهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي جفاف وبقع حمرا على رجلي ويدي.",
+    "answer": "استعمل مرهم بيبنثين ثلاث مرات ف النهار. إذا ما تحسنتش، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "جفاف",
+        "بقع حمرا"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حرقان ف لحلم.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حرقان"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال لحب الشباب؟",
+    "answer": "استعمل كريم خاص بحب الشباب ثلاث مرات ف النهار. خاصك الصبر لأنه العلاج يحتاج وقت.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو لعلاج ديال لكلف؟",
+    "answer": "استعمل كريم خاص بالكلف وداوم عليه. إذا ما كانش تحسن، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "لكلف"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نحيد البقع من بعد ما تقطفنا الشعر بالشمع؟",
+    "answer": "استعمل كريم فيه سكوربيك. خاصك تكون صبور لأن النتائج تاخد وقت.",
+    "entities": {
+      "symptoms": [
+        "بقع"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش ريكوتان يقدر يحيد الشعر من الصدر؟",
+    "answer": "ريكوتان كيعالج الشعر الزائد، ولكن خاصك تسول الطبيب بعد ما تكمل الحبوب.",
+    "entities": {
+      "symptoms": [
+        "شعر زائد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "معجون الاسنان يعالج الحروق؟",
+    "answer": "ماشي ضروري، ولكن كيعطي إحساس بالراحة.",
+    "entities": {
+      "symptoms": [
+        "حروق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش نقدر نستعمل الديرما-ت للحبوب الجديدة فقط؟",
+    "answer": "استعمل كريم فيه سكوربيك أُسد، غادي يساعدك.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي لعيبات فجبني، شنو ندير؟",
+    "answer": "استعمل كريم فيه مضاد حيوي، وغادي تحس بتحسن.",
+    "entities": {
+      "symptoms": [
+        "لعيبات"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نصلح المشكل فالعقد ديالي؟",
+    "answer": "استعمل كريم فيه سكوربيك أُسد، غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالعقد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي حل للسواد تحت العين؟",
+    "answer": "استعمل كريم فيه سكوربيك، غادي يحسن الوضع.",
+    "entities": {
+      "symptoms": [
+        "سواد تحت العين"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الشاي لي نغسل بيه الوجه؟",
+    "answer": "أتاي عادي، ولكن خاص يكون مخفف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي واحد عندو مرض النخالية البرقش؟",
+    "answer": "مرض فطري كيسبب تغير فاللون ديال الجلد، خاصو علاج بمضادات الحساسية.",
+    "entities": {
+      "symptoms": [
+        "تغير فاللون ديال الجلد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نعالج الكلف؟",
+    "answer": "الكلف عندو بزاف د الحلول، ولكن خاصك تشوف الطبيب باش تعرف العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الكلف"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حبوب وحكة فالعانة بعد الحلاقة، شنو ندير؟",
+    "answer": "استعمل فيرسكورت ثلاث مرات فاليوم، غادي يساعدك.",
+    "entities": {
+      "symptoms": [
+        "حبوب",
+        "حكة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين خطر فاستعمال كرمات الزهر فالعانة؟",
+    "answer": "ماكاينش خطر، ولكن خاصك تستعملها بطريقة صحيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد لقياس ديال لحمر فالجبهة؟",
+    "answer": "استعمل مرطبات فيها الصبار أو الكسكس، غادي تحسن الوضع.",
+    "entities": {
+      "symptoms": [
+        "لحمر فالجبهة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أم عندها كيس صفرا فالجفون، شنو السبب والعلاج؟",
+    "answer": "خاصك تشوف طبيب عيون لتشخيص الحالة.",
+    "entities": {
+      "symptoms": [
+        "كيس صفرا فالجفون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع زرقا تحت الجلد من الحقن.",
+    "answer": "خود مكمل غذائي فيه الكالسيوم وفيتامين د.",
+    "entities": {
+      "symptoms": [
+        "بقع زرقا تحت الجلد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بقع بيضا فعنقي وراسي.",
+    "answer": "غالبا خاصك تمشي للطبيب وتشوفها بجهاز خاص.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت كرمات لإزالة شعر المهبل وتبيضه.",
+    "answer": "الليزر يقدر يكون مفيد لها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي هالات سوداء تحت العينين، شنو العلاج؟",
+    "answer": "استعمل كريم فيه سكورب كحل.",
+    "entities": {
+      "symptoms": [
+        "هالات سوداء تحت العينين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "حسيت بألم فالجفن وكانو تما حجرات صغار.",
+    "answer": "خاصك تشوف طبيب عيون.",
+    "entities": {
+      "symptoms": [
+        "ألم فالجفن"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نحصل على بشرة نضيفة بلا دهون؟",
+    "answer": "دير ماسك ديال صابون لحب الشباب فالصباح مع 10 دقايق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقصت من لوزن ديالي؟",
+    "answer": "ماتدخلش فشؤون الناس العليا، راه نتي زوينة بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن صابون للوجه لبشرتي؟",
+    "answer": "صابون خاص للبشرة الدهنية هو لي خصك تستعملي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيدو التجاعيد من الوجه؟",
+    "answer": "دير مرهم ديال ديبروجنتا تلات مرّات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "تجاعيد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نصاوب شعري رطب وطويل بلا وصفات كيميائية؟",
+    "answer": "خدم زيت الزيتون و مكمل غذائي فيه زنك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الشعر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي وجع فالجبهة ديالي هادي مدة طويلة، شنو ندير؟",
+    "answer": "ستعمل كريم الريتينويد.",
+    "entities": {
+      "symptoms": [
+        "وجع فالجبهة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بان ليا بلي دمل بزاف من بعد ما شفت انفي وكبير بزاف.",
+    "answer": "خود شي مضاد حيوي مناسب.",
+    "entities": {
+      "symptoms": [
+        "دمل"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "فييا لعيب ديال لحمر ولحكرا بزاف. عافاك عاونني.",
+    "answer": "خدم شامبو دالتراسوند مع خليط ديال كالكسيبيترين.",
+    "entities": {
+      "symptoms": [
+        "لحمر",
+        "لحكرا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عطاني دوا ديال الفطريات، مرهم ديال الجلد، كيناكومب، لونو صفار.",
+    "answer": "البهرارارت ماكيديرش لعلاج ديال الفطريات و يمكن يزيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "صبع الابهام ديال اليمين كبر من اليسار.",
+    "answer": "هاد الزيادة ممكن تكون بسبب الوراثة أو الضغط. خاصك تشوف طبيب جلدية لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نعالج عين السمكة؟",
+    "answer": "العلاج هو باش تقطر الدم فين كاين العصب، إلا ما نجحش خاصك الجراحة.",
+    "entities": {
+      "symptoms": [
+        "عين السمكة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نبدا البهاق؟",
+    "answer": "البهاق كيبدا بتغيير اللون ديال الجلد. خاصك تشوف طبيب جلدية لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "البهاق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيد لعيب ديال حب الشباب؟",
+    "answer": "استعمل كريم فيه سكورب كيد، وكون حذر مع البشرة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي مشكل ف صدري، واش ممكن تشوفو ليا؟",
+    "answer": "خاصك دير سيري ديال الراس باش تشوف شنو كاين. من الأفضل تشوف طبيب جلدية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "فصدري دارت ليه لعكر حدا لحمله.",
+    "answer": "خاصك تشاور شي طبيب جلدية باش يشوف الحالة ديالك مزيان و يوصي بالعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "لعكر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هوما الفوايد ديال لعسل وزيت الخروع للشعر؟",
+    "answer": "زيت الخروع ما كايضرش الشعر، أما العسل خاصك تاكلو كسناك. الفوايد كيتعلقو بالتغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو أحسن حل لواحد اللي ماعندوش شعر ف الجبهة؟",
+    "answer": "عافاك بدا بفحص باش تشوف واش كاين شي التهاب، وغانعاونك فالعلاج.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشعر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بنتي عندها 29 يوم وكتعاني من تسلخات، شنو ندير؟",
+    "answer": "استعملي كريم فيه الزنك، غادي يساعدها بزاف.",
+    "entities": {
+      "symptoms": [
+        "تسلخات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي 19 عام وبدى شعري كايتزاد بشويّة، شنو ندير؟",
+    "answer": "من الأحسن تزوري طبيب مختص باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي تشقّق ف الجلد وولا حمر، شنو ندير؟",
+    "answer": "حاول ما تعرضش لحساسيات، واستعمل صابون خفيف. من الأفضل تزوري طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "تشقّق الجلد",
+        "احمرار"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حبوب كبيرة فالقضيب، شنو ندير؟",
+    "answer": "من الأحسن تزور طبيب مختص باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حكة ف الشرجم، شنو ندير؟",
+    "answer": "استعمل كريم كايفرس كتر من 3 مرات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي انتفاخ فالكوع داليمين، شنو ندير؟",
+    "answer": "راجعي طبيب جراح باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو اللي كيخلي لبلايص حمرا تحت الكول؟",
+    "answer": "من الأحسن تزور طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "بلايص حمرا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش خاصك تخرج الصدفة من راسك؟",
+    "answer": "الصدفة مرض معدي، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صدفة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايتعامل حب الشباب؟",
+    "answer": "دير الزبيب على وجهك ثلاث مرات في النهار لمدة ثلاثة أسابيع، وغادي تولي بشرتك نقيّة.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كرمش جلد العضو الذكري و حمر و هرش بين الفخذين.",
+    "answer": "استعمل مرهم فيه بريجابالين 150 مغ للفطريات.",
+    "entities": {
+      "symptoms": [
+        "كرمشة",
+        "احمرار",
+        "هرش"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو اللي كيسبب لحمير يطيحو من الفخاد؟",
+    "answer": "التهاب الدمامل كيتعالج بالمضادات الحيوية.",
+    "entities": {
+      "symptoms": [
+        "حمير"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي ضغط طايح بزاف، خاصني شي حل.",
+    "answer": "خاصك تراجع طبيب، يمكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "ضغط طايح"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش غادي نحصل على بشرة ناعمة واخا البشرة جافة؟",
+    "answer": "استعمل مرطبات مناسبة للبشرة الجافة و شرب الماء بكثرة.",
+    "entities": {
+      "symptoms": [
+        "بشرة جافة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كاتحيد لمعكر؟",
+    "answer": "استعملي كريم معمر بفيلرا ديال السكورپيك و واقي من الشمس.",
+    "entities": {
+      "symptoms": [
+        "لمعكر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "واش كاين شي كريم باش يفتح الشفرتين؟",
+    "answer": "الأحسن تخليهم كيف ما هما، لونهم الطبيعي زوين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كنت كنحيد ليهوم الدهن و كنقلل منو.",
+    "answer": "استعملي قناع ديال الصابون للبشرة الدهنية فالصباح لمدة عشر دقايق و من بعد اغسلي.",
+    "entities": {
+      "symptoms": [
+        "دهن"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الحل للبقع اللي بقاو فوجهي؟",
+    "answer": "يمكن تستعمل ميلونغ كريم قبل ما تنعس.",
+    "entities": {
+      "symptoms": [
+        "بقع ف الوجه"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نعالج الحساسية من النعاس؟",
+    "answer": "يمكن تستعمل كريام تلات مرات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج للجرحة اللي فالجبهة؟",
+    "answer": "خاصك تمشي عند طبيب تجميل باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "جرحة فالجبهة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو الصابون اللي كايعاون فوجه نقي؟",
+    "answer": "استعمل صابون عادي بلا مقشر لبشرة نقية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حساسية فجلدي فالقضيب، شنو ندير؟",
+    "answer": "استعمل كريم فيرسكورت تلات مرات ف النهار.",
+    "entities": {
+      "symptoms": [
+        "حساسية ف الجلد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي عين كبيرة من عين لخرين، واش هادشي عادي؟",
+    "answer": "خاصك تشوف طبيب عيون باش يحدد لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "عين كبيرة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كاين شي دوا لرجلين مسدودين؟",
+    "answer": "العلاج كيعتمد على السبب، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "رجلين مسدودين"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي حبوب طاحو عليا، شنو ندير؟",
+    "answer": "خاصك تشرح لينا الحبوب باش نساعدوك.",
+    "entities": {
+      "symptoms": [
+        "حبوب ف الجلد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شنو هو العلاج لعرق الظهر؟",
+    "answer": "يمكن العلاج يساعد فالصرف، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "عرق الظهر"
+      ],
+      "medical_field": "الظهر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "بغيت صابون مزيان لحب الشباب، شنو تنصحني؟",
+    "answer": "كاين صابون فيه كوكو و كلوتاثيون، جربو.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش كايتعالجو لحساسية الشعر؟",
+    "answer": "استعمل شامبو دالتراسوند تلات مرات فالسيمانة مع محلول كالسيبوترين جوج مرات فالنهار.",
+    "entities": {
+      "symptoms": [
+        "حساسية الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نحيدو لخضر لي كايبان من لحب الشباب؟",
+    "answer": "يمكن استعمال كريم يحتوي على حمض الجليكوليك كل ليلة. خاص استشارة طبيب الجلد قبل البدء.",
+    "entities": {
+      "symptoms": [
+        "لحب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "حب الشباب كايتسبب ف مشاكل ف لحيه؟",
+    "answer": "آثار حب الشباب كاتبان ف اللحية، وهادشي كيتطلب علاج خاص. استشارة طبيب الجلد مهمة.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي عد الوردي، واش كاين شي علاج بالليزر؟",
+    "answer": "يمكن علاج العد الوردي بالليزر، ولكن خاص استشارة طبيب مختص. كاين طرق أخرى بسيطة كذلك.",
+    "entities": {
+      "symptoms": [
+        "عد الوردي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نعالج حب الشباب ف وجهي؟",
+    "answer": "استعمل كريم يحتوي على مكونات فعالة مثل حمض الساليسيليك. خاص الصبر والمواظبة.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "شعري كايطيح بزاف، شنو ندير؟",
+    "answer": "خاص دير فحص طبي باش تعرف السبب. يمكن يكون نقص ف الفيتامينات أو مشاكل صحية أخرى.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "أنا عندي 17 عام و كانعاني من حب الشباب. عافاك عطيني شي حل.",
+    "answer": "خاصك تشوف طبيب جلد باش يعطيك العلاج المناسب. كاين طرق متعددة لعلاج حب الشباب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "كيفاش نقدر نزيد ف نمو الشعر ديال الحواجب؟",
+    "answer": "يمكن استعمال مكملات غذائية تحتوي على زنك وفيتامين د. خاص الصبر والمواظبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Dermatology",
+    "question_darija": "عندي بشرة سمارا. بغيت شي سميا كبيرا باش تبيض الوجه.",
+    "answer": "استعمال كريمات مخصصة لتفتيح البشرة يمكن يساعد. خاص تكون طبيعية وآمنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  }
+]
