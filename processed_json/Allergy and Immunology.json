@@ -1,0 +1,2823 @@
+[
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو علاج الحساسية من السمك؟",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب. كل حالة كتعتمد على الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من القصاصات، شنو ندير؟",
+    "answer": "خاصك تجنب القصاصات وتستاشر مع طبيب مختص. هو اللي غادي يقدر يساعدك.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كاين شي علاج لضيق التنفس؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كيفاش نقدر نداوي الحساسية والتهاب الأنف؟",
+    "answer": "خاصك تتجنب المسببات وتستعمل الأدوية اللي وصفها الطبيب. العلاج كيتطلب صبر.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأنف"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "بغيت شي دوا للحساسية.",
+    "answer": "خاصك تمشي عند طبيب الحساسية. هو اللي غادي يصف لك الدوا المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو دواء حساسية الشرى؟",
+    "answer": "مضادات الهيستامين كتعطي نتيجة مزيانة. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية الشرى"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو الفرق بين الحساسية والربو؟",
+    "answer": "الحساسية والربو كيتعلقو ببعضهم. الحساسية كتقدر تسبب الربو.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "ربو"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي وجع فالعينين وكنحس بحال إلا كيحرقوني. شنو السبب؟",
+    "answer": "يمكن تكون حساسية موسمية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعينين",
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حاساسية من لبسكويت.",
+    "answer": "خاصك تجنب المسببات ديال الحساسية. استاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كيتسبب في حكة قوية مع ظهور حبوب صغيرة.",
+    "answer": "يمكن تكون أكزيما أو حساسية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "حبوب صغيرة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش كاين شي علاج نهائي لحساسية؟",
+    "answer": "نعم، العلاج المناعي ممكن يكون فعال إلا عرفنا السبب ديال الحساسية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو الفرق بين الحساسية والتهاب الجلد؟",
+    "answer": "الحساسية كتسبب وجع وحكة، بينما التهاب الجلد كيتسبب فاحمرار وتهيج.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "حكة",
+        "احمرار"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش الحليب حرام على مرض الحساسية ديال الغلوتين؟",
+    "answer": "الحليب ممنوع إلا كان مخلط مع الطحين، خاصك تحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش عندي الحساسية ولا لا؟ النتائج ديال التحليل كانت 31.3.",
+    "answer": "القياس الطبيعي للحساسية فوق 100، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش ممكن الحساسية د الما د الدم تسبب البلغم؟",
+    "answer": "نعم، الحساسية ممكن تسبب البلغم وإفرازات من الأنف.",
+    "entities": {
+      "symptoms": [
+        "البلغم",
+        "إفرازات"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "الجلد كيتحسس من بعد ما كناكلو شي ماكلة حريفة؟",
+    "answer": "يمكن تكون عندك حساسية، خاصك تشاور طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الإسمنت، واش كاين شي علاج؟",
+    "answer": "خاصك ماتلامسش الإسمنت وتستعمل الماسكات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالكاحل فالليل.",
+    "answer": "يمكن تكون حساسية من المواد اللي كاينة فالفراش، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو أحسن علاج للحساسية المزمنة؟",
+    "answer": "الحقن ديال الزولير كيتعتبر مفيد فالعلاج ديال الحساسية المزمنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ملي كناكلو شي حاجة فيها الحليب، كيجيني الحساسية فوجهي.",
+    "answer": "خاصك تشوف طبيب داخلي باش يدير اختبارات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "العلاج ديال الارتيكاريا؟",
+    "answer": "خاصنا نديرو فحص شامل باش نعرفو السبب ونعطيو العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عافاك شنو هي أحسن طريقة باش نحارب مرض الربو؟",
+    "answer": "كاين علاج مناعي للربو الحساسي، خاصك تشاور طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الربو",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هوما الأسباب ديال الحساسية؟",
+    "answer": "مسببات الحساسية كثيرة، وكتظهر فاختبارات الجلد والدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كنحس بالحكة فصبّاطي اليمين، خصوصا فالليل.",
+    "answer": "يمكن تكون عندك حساسية أو التهاب. من الأفضل تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "مراتي عندها حساسية من الروائح، جربت بزاف وما نجحت والو.",
+    "answer": "خاصها تتجنب الروائح القوية، وضروري تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الحليب، واش كاين شي حل؟",
+    "answer": "من الأفضل تتجنب الحليب ومشتقاته. استشر طبيب باش يعطيك نصائح مناسبة.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الحليب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الريحة ديال الدخان والعطر.",
+    "answer": "خاصك تتجنب الروائح هادي. يمكن تاخد مضادات الحساسية إذا كانت الأعراض قوية.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الريحة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش العصافير تسبب الحساسية لولد عندو 18 شهر وكيعاني من الربو؟",
+    "answer": "نعم، العصافير يمكن تكون سبب للحساسية. خاصك تراقب الأعراض ديالو وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "ربو"
+      ],
+      "medical_field": "الأمراض التنفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كيفاش كايتعالج الارتكارية؟",
+    "answer": "الارتكارية كتعتمد على السبب. خاصك تشوف طبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "ارتكارية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش كاين شي علاج للحساسية فمراكش و فكازا؟",
+    "answer": "خاصك تشوف طبيب مختص فالحساسية. غادي يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "أنا عندي الحساسية ديال الربيع، واش كاين شي علاج؟",
+    "answer": "نعم، كاينين مضادات الهيستامين لي كتعالج الحساسية. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية الربيع"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الماكلة والحرارة، وهاد الشي كيبان على شكل حبوب.",
+    "answer": "خاصك تتجنب الأطعمة لي كتسبب لك الحساسية. استشر طبيب باش يعطيك نصائح.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الماكلة",
+        "حبوب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ولدي عندو حساسية من الجلد.",
+    "answer": "خاصو يتعالج عند طبيب مختص. يمكن يحتاج لتحاليل باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الجلد"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالصدر وضيق فالتنفس وسعال وقئ فالصباح.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب. العلاج كيعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالصدر",
+        "ضيق فالتنفس",
+        "سعال",
+        "وقئ"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ملي كناكلو شي حاجة ديال الحليب قبل من النعاس، كيشوف واحد كيتعصب وكيحس براسو مريض.",
+    "answer": "يمكن تكون عندو حساسية من الحليب ومشتقاتو. خاصو يتجنبهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو السبب ديال الحساسية من بعد ما كناكول التمر؟ و كيفاش كايتعالج؟",
+    "answer": "خاصك تشوف طبيب مختص باش يعرف السبب من بعد التحاليل. غادي يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "التحسس كايسبب الحبوب فودني ورقبتي.",
+    "answer": "يمكن تكون حساسية من الاحتكاك بالعطور أو الكريمات. خاصك تتجنبهم.",
+    "entities": {
+      "symptoms": [
+        "حبوب فودني ورقبتي"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كنت كنستعمل كريم ترافازول وظهر عليا حكة فالجسم. واش ممكن نعرف السبب؟",
+    "answer": "يمكن يكون السبب هو الحساسية من الكريم. خاصك توقفو وتشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالجسم"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش حليب الماعز ما كايسببش الحساسية بحال حليب البقر؟",
+    "answer": "يمكن تكون حساسية حيث كاين تشابه بين البروتينات. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة جلدية في جميع أنحاء الجسم، مع براز سائل لمدة أسبوع متواصل.",
+    "answer": "يمكن تكون عندك حساسية من شي ماكلة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة جلدية",
+        "براز سائل"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ملي كنشوف شي حاجة ولا كنسمع شي صوت، كنحس بحال إلا كايتسد ليا واحد الجرحة فالصبعان ديالي وكنلقى صعوبة فالتنفس.",
+    "answer": "خاصك تشوف طبيب فورا. هاد الأعراض خطيرة.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالنيف مازال ما شفتش الطبيب، بغيت شي علاج.",
+    "answer": "يمكن العلاج ديال الإندهاستامين يساعدك. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالنيف"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كيفاش كايعالجو حساسية الدخان للجلد ملي كنعرف بلي كانستعمل شي كريم ديال بيتاميت؟",
+    "answer": "خاصك تشوف طبيب مختص. ما كاينش علاج محدد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من النيف والصدر وخاصني ناخد دوا بزاف، حتى وصلت لدرجة الإصابة بالكيتوس.",
+    "answer": "خاصك تراجع طبيب مختص فالحساسية. العلاج كيتطلب متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "اللحكة شديدة بزاف حتى كتسبب نزول الدم بعد ما كنحك.",
+    "answer": "يمكن تكون عندك جفاف. خاصك تستعمل شامبوان مرطب.",
+    "entities": {
+      "symptoms": [
+        "لحكة شديدة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حاساسيا خايبا فمنطقة السروال.",
+    "answer": "يمكن تكون بسبب السمنة أو العرق. خاصك تحافظ على النظافة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حرش ف رجلي و يدي ملي كانكون ناعس.",
+    "answer": "يمكن تكون حساسية من البعوض. خاصك دير اختبار حساسيات.",
+    "entities": {
+      "symptoms": [
+        "حرش ف رجلي و يدي"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش كاين شي سبب معروف للحساسية من الباراسيتيموس والماكلة لي ما كيتجنبش وما كياكلش؟",
+    "answer": "خاصك تتجنب الباندول. باقي الأكلات عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "الدوا لي كيسبب الحساسية.",
+    "answer": "أي دواء يمكن يسبب الحساسية. هاد الشي كيعتمد على جهاز المناعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي إرتيقا فيزيائية بسباب الحرارة و شمش.",
+    "answer": "استعمل الما البارد والمضادات الحساسية. تجنب الحرارة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية ضد الدخان ديال الشجر و كنحس بالزكام بزاف.",
+    "answer": "خاصك تتجنب الغبرة وتستعمل مضاد الهيستامين.",
+    "entities": {
+      "symptoms": [
+        "حساسية ضد الدخان",
+        "زكام"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كيفاش يمكن لي ننقص من أعراض الحساسية بعد ما خديت إبرة للحساسية؟",
+    "answer": "خاصك تتجنب الحوايج لي كتسبب الحساسية. العلاج كيتطلب صبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الدم وقلو لي بلي الصفائح الدموية نقصو. شنو السبب؟",
+    "answer": "خاصك تشوف طبيب باش يحدد لك السبب الحقيقي. التحاليل مهمة باش نفهمو الحالة.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "نقص الصفائح الدموية"
+      ],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "السعات الحارة كتسبب لي الحكة. شنو ندير؟",
+    "answer": "يمكن تكون حساسية من شي ماكلة أو دوا. خاصك تشوف طبيب باش يحدد لك السبب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الغبار والرطوبة. شنو أحسن علاج؟",
+    "answer": "خاصك تشوف طبيب باش يعطيك العلاج المناسب. العلاج كيتعلق بالحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "صعوبة التنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي رد فعل تحسسي ووجع المفاصل من السكر. شنو العلاج؟",
+    "answer": "خاصنا نديرو تحليل ونشوفو السبب. العلاج كيتعلق بالحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "رد فعل تحسسي",
+        "وجع المفاصل"
+      ],
+      "medical_field": "الأمراض الروماتيزمية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي دوائر حمرا بين الفخذين مع حكة. شنو السبب؟",
+    "answer": "يمكن يكون الاحتكاك أو الرطوبة. خاصك تشوف طبيب باش يحدد لك السبب.",
+    "entities": {
+      "symptoms": [
+        "دوائر حمرا",
+        "حكة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي وجع وكيتورم جلدي حمر وكيحكة. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يدير لك التحاليل. العلاج ضروري باش تحس بالراحة.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "تورم",
+        "حكة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كاين حساسية جلدية فوجه هادي شهور. شنو ندير؟",
+    "answer": "يمكن تكون حساسية من الماكياج أو الكريمات. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية جلدية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالعينين و القطرات ما نفعوش. شنو ندير؟",
+    "answer": "خاصها تشوف طبيب باش يدير ليها تحاليل ويحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالعينين"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عافاك، شنو هو علاج الحساسية من الشوكولاتة؟",
+    "answer": "أحسن علاج هو تجنب الشوكولاتة نهائيا.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الشوكولاتة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الزهور والبرد. شنو تنصحني؟",
+    "answer": "من الأفضل تبقى فالأماكن المغلقة وتستعمل مضادات الحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الزهور",
+        "حساسية من البرد"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية جلدية ودرنا تصوير بالرنين. شنو ندير؟",
+    "answer": "مضادات الهيستامين كتعطي نتائج مزيانة فالحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية جلدية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي الربو التحسسي. واش التدخين كيأثر عليا أكثر؟",
+    "answer": "نعم، التدخين كيأثر على الربو ديالك بشكل كبير.",
+    "entities": {
+      "symptoms": [
+        "الربو التحسسي"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو ندير مع دري عندو حساسية من الحليب؟",
+    "answer": "خاصو يتجنب الحليب ويستعمل بدائل مناسبة.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الحليب"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي سعال جاف فشتاء و الطبيب قال عندي حساسية البرد. شنو ندير؟",
+    "answer": "خاصك تتجنب البرد وتستعمل مضادات الحساسية.",
+    "entities": {
+      "symptoms": [
+        "سعال جاف",
+        "حساسية البرد"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو علاج الحساسية؟",
+    "answer": "العلاج هو تجنب المسبب. ممكن نعرفو المسبب عن طريق الفحص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية كبيرة وكنعطس وكنحس بالألم.",
+    "answer": "خاصنا نديرو تحليل حساسية باش نعرفو شنو هوما المسببات. يمكن تكون الماكلة أو الغبار.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "عطس",
+        "ألم"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كيفاش نعرفو واش الدراري عندو حساسية من الشمس؟",
+    "answer": "إذا كانت المنطقة حمرا وسخونة ومضلمة ملي كيتلمسو، هادي علامة على الحساسية. في الحالات الخطيرة، كيبداو البثور.",
+    "entities": {
+      "symptoms": [
+        "حمرا",
+        "سخونة",
+        "بثور"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "خديت دوا ديال المضادات الحيوية وخرجت حساسية فالمناطق التناسلية، شنو ندير؟",
+    "answer": "استعملي مضاد هيسامين وكورتيزون موضعي. خاصك دير تحليل حساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "وجع"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي طفح جلدي فالصدر، كيبان عندي حساسية من الجمبري والفراولة.",
+    "answer": "خاصني نتجنب الماكلة اللي كتسبب لي الطفح. يمكن تكون حساسية من الماكلة.",
+    "entities": {
+      "symptoms": [
+        "طفح جلدي"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي سعال تحسسي، شنو هو دوا ديكساميتوزون وبريدينزول؟",
+    "answer": "ديكساميتوزون وبريدينزول هما أدوية مضادة للالتهابات. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "سعال تحسسي"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي الحساسية فالربيع، واش نقدر ناخد دوا للربو؟",
+    "answer": "خاصك تاخد الأدوية ديال الربو بحال الفينتولين. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "ربو"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي أكزيما وحكة فالودنين، واش كاين شي علاج؟",
+    "answer": "يمكن يكون عندك حساسية. خاصك تشوف طبيب الأذن.",
+    "entities": {
+      "symptoms": [
+        "أكزيما",
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي الحساسية من قفازات الخدمة، شنو ندير؟",
+    "answer": "خاصك تبعد على القفازات البلاستيكية. استعمل قفازات آمنة.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الربيع، استعملت الصبار وجاتني حكة وانتفاخ.",
+    "answer": "نعم، يمكن تكون حساسية من الصبار. خاصك تتجنب استعماله.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "انتفاخ"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "صبعي اليمنى وجعاني وورمين، لونهم أزرق و فيه حوايج حمرا وناشفة.",
+    "answer": "يمكن تكون كدمة أو حالة أخرى. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "ورم",
+        "لون أزرق",
+        "حوايج حمرا"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش كاين شي علاج طبيعي للحساسية لي كتسببها الغبرة والرطوبة؟",
+    "answer": "خاصك تتجنب المواد اللي كتسبب الحساسية. من بعد، كيمكن تاخد مضادات الهيستامين.",
+    "entities": {
+      "symptoms": [
+        "عطسة",
+        "حريق ف النيف"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش ممكن توقع حساسية من شي ماكلة فسن خمسة و عشرين عام؟",
+    "answer": "نعم، الحساسية ممكن تبان ف أي وقت حتى لو ما كانتش من قبل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي صداع وما عرفتش منين جاي، وحتى دوا ديال الهيستامين ما خدامش. شنو خاصني ندير؟",
+    "answer": "خاصك تدير تحاليل باش تعرف واش عندك حساسية أو شي مرض آخر.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأمراض العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فجسمي وخاصني ناخد الدوا، ولكن ملي كيسالي العلاج، الحساسية كترجع. شنو ندير؟",
+    "answer": "خاصك تعرف السبب ديال الحساسية باش تقدر تمنعها. دير اختبارات جلدية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية بين الكاحلين ديالي على شكل خاتم صغير واخا لونو كحل ودايرة ليا وجع قاتل.",
+    "answer": "يمكن تكون بسبب الرطوبة أو احتكاك. خاصك تلبس قطن 100%.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الحوايج لي كتسبب لي الحساسية فالصدر.",
+    "answer": "كاين بزاف د الأسباب، بحال حبوب اللقاح أو شعر الحيوانات. خاصك تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "علاج الحساسية الحرارية عند طبيب الجلدية.",
+    "answer": "خاصك تشاور طبيب مختص فالحساسية. يمكن تحتاج مهدئ أو علاج آخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش الحساسية تقدر تزيد تتحسن لشي حاجة خايبة أكثر؟",
+    "answer": "نعم، الحساسية ممكن تتطور حسب الحالة. خاصك تراقب الأعراض ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فاليدي و الصدر.",
+    "answer": "خاصك تعرف السبب ديال الحساسية باش تعرف شنو تدير. مرطب بلا عطري و كريم إليكا كيساعدو بزاف.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو أحسن علاج للحساسية من الحرارة؟",
+    "answer": "خاصنا نحيدو الحرارة بالمبردات. من بعد نقدمو علاج مناسب للحساسية بالمضادات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالرجلين وكتشبه الحروق.",
+    "answer": "الوصف ما كيعكس الحساسية، خاصك تمشي للطبيب يدير لك تيست.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "حروق"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من السمك وكنحس بحكة.",
+    "answer": "خاصك تتجنب السمك وتدير تحليل الحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "حكة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية جلدية وظهرت ليا انتفاخات.",
+    "answer": "خاصك تمشي للطبيب الجلدية باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخات"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالعين وكنحس بالألم.",
+    "answer": "خاصك تشوف الضغط ديال العين.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "ألم"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من زيت النمل البيض.",
+    "answer": "خاصك توقف استعمال الزيت والسخونة.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ولدي عندو حساسية من الحليب.",
+    "answer": "خاصنا نديرو اختبار الحساسية للماكلة.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الغبرة ديال الطياب.",
+    "answer": "عافاك تحقق من الحساسية ديالك.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من البيض.",
+    "answer": "خاصك تتجنب البيض والاعتدال هو أهم علاج.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية و الطبيب عطاني الكورتيزون، ولكن بدات تظهر أعراض أخرى. كاين شي كريم يعاونني؟",
+    "answer": "خاصنا نديرو تحليل هرمونات باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "أعراض أخرى"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "مشيت لمستشفى وشميت ريحة غريبة، وبدات كانعرق وكنحس بغثيان. شنو هادشي؟",
+    "answer": "غالبا هادشي نفسي.",
+    "entities": {
+      "symptoms": [
+        "عرق",
+        "غثيان"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ولدي عندو حساسية و حبوب فالجهة اليمنى. الطبيب قال هيربس زوستر، شنو خاصني ندير؟",
+    "answer": "خاصك تتابع مع طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "حبوب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي الحساسية الموسمية و الحكة فالأنف. شنو العلاج؟",
+    "answer": "استعمل مرطب للأنف بحال موميتازون مرتين فالنهار لمدة 3 شهور.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الغبرة و الشجر. واش كاين علاج نهائي؟",
+    "answer": "نعم، كاين علاج مناعي إلا حددنا السبب الرئيسي للحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الحشيش و الطبيب قال هادشي طبيعي. شنو رأيكم؟",
+    "answer": "خاصك دير فحص طبي وتحاليل دم.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فاليد و استعملت كريم هيدروكورتيزون. واش غادي يفيدني؟",
+    "answer": "خاص نعرفو السبب ديال الحساسية.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي ولد عندو حساسية الحليب. كيفاش نعرف واش عندو حساسية أخرى؟",
+    "answer": "دير تيست ديال الحساسية ديال الماكلة.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية جلدية و استعملت لوشن و جاني رد فعل. خاصني ندير فحوصات؟",
+    "answer": "نعم، خاصك دير تحاليل بحال اختبار مستوى الإي جي.",
+    "entities": {
+      "symptoms": [
+        "حساسية جلدية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من السمك و كليت حوت. شنو خاصني ندير؟",
+    "answer": "استعمل مضادات الهيستامين.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالنّيف وعطس بزاف. واش خاصني نعالج هاد الشي؟",
+    "answer": "يمكن عندك حساسية، ولكن خاصك تمشي عند طبيب الأذن والحنجرة باش يتأكد.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "عطس"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "من بعد ما كليت التومة، حسيت بالسخانة وجع الراس. شنو السبب؟",
+    "answer": "يمكن تكون حساسية من الثوم أو رد فعل على الحرق. خاصك تراقب الأعراض ديالك.",
+    "entities": {
+      "symptoms": [
+        "سخانة",
+        "وجع الراس"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالأذن اليسرى وكنحس بالزهر. واش عندي حساسية؟",
+    "answer": "خاصك تاخد دوا ديال الهيستامين، وضروري تمشي عند طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "الزهر"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي عطاس واحتقان فالنّف و حكة فالعين. واش يمكن تعطيني وصفة؟",
+    "answer": "خاصك تاخد مضاد الهيستامين جوج مرات فالنهار، ولكن من الأفضل تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "عطاس",
+        "احتقان",
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من السمسم وكنعاني من حبوب فالفم. شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب داخلي باش يدير لك اختبارات الأكل.",
+    "entities": {
+      "symptoms": [
+        "حبوب فالفم"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الدم وكيجرحو جسمي. واش خاصني نمشي للسبيطار؟",
+    "answer": "خاصك تمشي عند طبيب باش يدير لك تحاليل الدم.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "جرح"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية كتشبه لقصة الناموسة. شنو العلاج؟",
+    "answer": "يمكن تكون حساسية من الحيوانات أو البراغيث. خاصك تراقب الوضع.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الجمبري. شنو ندير؟",
+    "answer": "خاصك تبعد على الجمبري نهائياً.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "بنتي عندها حساسية من حليب البقر. شنو ندير باش نمنعها من الغازات؟",
+    "answer": "عطيها حليب مخلط بالبروتين ديال الحليب كامل أو حليب اللوز.",
+    "entities": {
+      "symptoms": [
+        "غازات",
+        "انتفاخ"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "فقت بحكة فالجسم كامل وبدات كتوجع وكتنفخ، واش هادشي خطير؟",
+    "answer": "يمكن تكون عندك حساسية، خاصك تمشي للطبيب باش يشوف الحالة ديالك. ما تخافش، كاينين حلول.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "وجع",
+        "انتفاخ"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالجسم وكتبان حبوب، واش هادشي خطير؟",
+    "answer": "يمكن تكون حساسية خفيفة، ولكن خاصك تشوف طبيب. هو اللي يقدر يحدد الحالة.",
+    "entities": {
+      "symptoms": [
+        "احمرار",
+        "حبوب"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من المنظفات وكتوجعني، شنو ندير؟",
+    "answer": "خاصك تبعد عن المنظفات واستعمل صابون خفيف. دير كريم مرطب للجلد.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "وجع"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من البطاطا، واش كاين علاج؟",
+    "answer": "خاصك دير تحليل حساسية الأطعمة. يمكن تكون عندك حساسية من البطاطا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية موسمية فالعينين، شنو ندير؟",
+    "answer": "يمكن تاخد مضادات الهيستامين. خاصك تمشي للطبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب العينين"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية تحت الشفايف، شنو ندير؟",
+    "answer": "يمكن يكون جفاف أو حساسية من شي فواكه. استعمل كريم مرطب مناسب.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "احمرار",
+        "تقشير"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالصيف، شنو ندير؟",
+    "answer": "خاصك تستعمل مضادات الهيستامين. إذا كانت الحالة خطيرة، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الحليب، واش غادي تزول البقعة؟",
+    "answer": "يمكن تكون عندك حساسية للحليب، خاصك دير تحليل. البقعة يمكن تزول مع الوقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالصدر، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة. يمكن تحتاج دوا آخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية الربيع من سنين، جربت بزاف د الدوا وما نفعونيش.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب. الحساسية كيمكن تعالج بطرق مختلفة.",
+    "entities": {
+      "symptoms": [
+        "حساسية الربيع"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية مزمنة وكنستعمل دوا ميفلازون، ولكن كنحس بالضيق فالتنفس.",
+    "answer": "خاصك دير تحاليل باش تعرف شنو السبب الحقيقي. الطبيب غادي يقدر يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضيق فالتنفس"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة خفيفة فالجسم من 25 يوم، جربت دوا الهيستامين وما نفعنيش.",
+    "answer": "خاص الطبيب يعرف السبب ويدير تحاليل شاملة. هاد الشي غادي يساعدك فالعلاج.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالبلاصة لي كتضرني من 3 شهور، وكتعاود تظهر.",
+    "answer": "يمكن تكون بسبب الجفاف. خاصك تشوف طبيب باش يحدد لك العلاج.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "جفاف"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة وجروح فمناطق حساسة، وكيجيني من النعاس.",
+    "answer": "خاصك دير تحليل ديال السموم فالبول. هاد الشي غادي يساعدك تعرف واش كاين شي مرض.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "جروح"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي صداع خفيف وكنحس بالتعب، الطبيب قال عندي صداع نصفي.",
+    "answer": "الحساسية ديال النيف كتسبب ليك صداع. خاصك تشوف الطبيب باش يعالج الحساسية.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "تعب"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة كبيرة من عام، جربت كريمات وما نفعونيش.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي الكحة والتهاب فالحلق هاد الصباح.",
+    "answer": "يمكن تكون عندك حساسية من شي حاجة. خاصك تشوف طبيب باش يحدد لك العلاج.",
+    "entities": {
+      "symptoms": [
+        "كحة",
+        "التهاب فالحلق"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فكلشي وديما، وديالي عامرة بالندوب.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "ندوب"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من القطن وشي حوايج مضايقاني. ورم كبير فالصدر.",
+    "answer": "خصك تبتعد على الصوف والقطن. استاشر طبيب باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "ورم"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية جلدية، شنو العلاج؟",
+    "answer": "الحساسية الجلدية كتحتاج علاج بالكورتيزون. استاشر طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية جلدية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالجسم بعد ما وقفت الدوا. شنو السبب والعلاج؟",
+    "answer": "كاين بزاف ديال الأسباب، خاصك تمشي لطبيب باش يدير لك الفحص ويعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "حكاك"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "بنتي عندها 10 سنين وعندها حساسية. شنو العلاج؟",
+    "answer": "خاصها تراجع طبيب مختص باش يشوف الحالة ويعطيها العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية مزمنة، واش خاصني ندير فحوصات أخرى؟",
+    "answer": "من الأفضل تراجع طبيب مختص باش يشوف نتائج التحاليل ويعطيك النصيحة.",
+    "entities": {
+      "symptoms": [
+        "حساسية مزمنة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ملي تلدغني نملة، كيبان احمرار. شنو هاد الشي؟",
+    "answer": "يمكن تكون حساس للحشرات. حاول تتجنب قرصات الحشرات.",
+    "entities": {
+      "symptoms": [
+        "احمرار"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حبوب حمرا فالجسم بعد دوا ديال حب الشباب. شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب مختص باش يشوف الحبوب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حبوب حمرا"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالمناطق الحساسة. شنو السبب؟",
+    "answer": "يمكن تكون الحساسية بسبب الكريمات. استاشر طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الحرارة. شنو الحل؟",
+    "answer": "يمكن تحتاج مضادات الهيستامين. استاشر طبيب إذا كانت الحالة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي بنت عندها ست شهور وعندها الكزيمة. شنو العلاج؟",
+    "answer": "استعمل كريم مرطب بحال بيولان وسيتافيل. استاشر طبيب إذا كانت الحالة صعيبة.",
+    "entities": {
+      "symptoms": [
+        "الكزيمة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالبشرة كيبان غير فالأيدين ورجلي وكتكون حمرة وكتختفي.",
+    "answer": "خاصك تمشي للطبيب باش يعرف السبب. هاد الحالة ممكن تكون حساسية مزمنة.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالبشرة",
+        "حمرة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "خويا عندو حساسية من الحليب ومشتقاتو.",
+    "answer": "خاصكم تتبعو نظام غذائي دقيق وتجنبوا الماكلة اللي كتسبب الحساسية. عافاك شاور طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الحليب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية جلدية هادي 10 سنين وبدات كتتحسن.",
+    "answer": "خاصك تمشي عند طبيب الجلد. يمكن تكون عندك كزيما.",
+    "entities": {
+      "symptoms": [
+        "حساسية جلدية"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو السبب ديال الحساسية عند الدراري؟",
+    "answer": "الحساسية عند الدراري كتكون غالبا بسبب عوامل بيئية بحال الغبار أو الروائح. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تهيّج فالحلق",
+        "سعال"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالساق ديالي تحت الركبة.",
+    "answer": "يمكن تكون أكزيما. خاصك ترطيب المنطقة وتجنب الكورتيزون.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حبوب صغار تحت يدي وولّيت فكل بلاصة.",
+    "answer": "يمكن تكون عدوى فيروسية، ولكن غالبا كيتعالج بوحدو. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من بعض الماكلة وكنعاني من ألم فكرشي.",
+    "answer": "الألم ممكن يكون بسبب التهاب الأمعاء. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فكرشي"
+      ],
+      "medical_field": "الأمراض الهضمية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية للپيست ديال الفطريات.",
+    "answer": "خاصك تشوف طبيب إذا كانت الأعراض مستمرة. يمكن تحتاج تغيير الدواء.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حبوب بيضاء صغيرة فبعض البلايص فوجهي.",
+    "answer": "خاصك تمشي عند طبيب باش يدير لك تحاليل. يمكن تكون حساسية.",
+    "entities": {
+      "symptoms": [
+        "حبوب بيضاء"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الغبار والأماكن المغلقة.",
+    "answer": "العلاج المناعي ممكن يساعدك. خاصك تتبع العلاج بانتظام.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الغبار"
+      ],
+      "medical_field": "الأمراض التنفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي 48 عام وكنشرب دوا ديال الكالير، وكنحس بالخروج ديال البول بزاف. واش كاين شي حل؟",
+    "answer": "هاد الحالة ممكن تكون بسبب بزاف ديال الأسباب، خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الخروج ديال البول بزاف"
+      ],
+      "medical_field": "الأمراض الباطنية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "أنا حاملة من شهر خمسة وكنحس بالحساسية والسخانة. واش دوا كيتريسين آمن للأجنة؟",
+    "answer": "تقدري تستعملي كيتريسين فهاذ المرحلة، ولكن خاصك تشربي بزاف ديال الما.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "سخانة"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "بنتي عندها 5 سنين وظهرت عليها حساسية وفالجفن. شنو ندير؟",
+    "answer": "خاصنا نحللو الحساسية ونعرفو منين جات، واش من الماكلة ولا من الهوا ولا شي دوا.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "ورم فالجفن"
+      ],
+      "medical_field": "الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية مزمنة هادي عامين وكنحس بصعوبة فالتنفس. شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب باش يدير ليك فحص ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فجميع أنحاء الجسم هادي ست شهور. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب الحقيقي ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من شجرة الزيتون وكنحس بالنشفة في نيفي وصدري. شنو ندير؟",
+    "answer": "إلا ما تحسنش الأعراض بالدوا، كاين علاج مناعي تحت اللسان لمدة 3 سنين.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "نشفة في النيف"
+      ],
+      "medical_field": "الأمراض التنفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي التهاب في النيف والوجه وكنحس بالوجع في الحلق. شنو ندير؟",
+    "answer": "خاصك تستعمل الدوا لي گال ليك الطبيب بعد ما دير ليه الفحص.",
+    "entities": {
+      "symptoms": [
+        "التهاب في النيف",
+        "وجع في الحلق"
+      ],
+      "medical_field": "الأمراض الأنفية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فعيني وكنستعمل پاتانول. شنو ندير؟",
+    "answer": "خاصك ترجع للطبيب ديال العينين باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حساسية في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية لمدة شهرين. عندي سيلان في الأنف والعطاس. واش عندي حساسية من شي حاجة؟",
+    "answer": "خاصك تاخد الدوا ديال الحساسية وتبعي نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [
+        "سيلان في الأنف",
+        "عطاس"
+      ],
+      "medical_field": "الأمراض التنفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي الربو وكنحس بالاحتقار من الغبار، شنو ندير؟",
+    "answer": "خاصك تتجنب الغبار وتستعمل الأدوية بحال باراسيتامول بحذر. حاول تحسن صحة الجهاز الهضمي ديالك. استشر طبيبك.",
+    "entities": {
+      "symptoms": [
+        "احتقار من الغبار"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ولدي عندو حساسية من الحليب والتفاح، واش الفحوصات ضرورية؟",
+    "answer": "نعم، خاصنا نديرو تحليل لمستويات الأجسام المضادة للحساسية. هادشي مهم باش نعرفو شنو اللي كيسبب الحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الحليب",
+        "حساسية من التفاح"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "جاني البرد ووجع فالعظام، وظهرت ليا حبوب مائية، شنو هاد الحبوب؟",
+    "answer": "هاد الحبوب ممكن تكون رد فعل قوي بسبب المضاد. خاصك تتجنب كل المضادات اللي عندها نفس التركيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعظام",
+        "حبوب مائية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية موسمية، وكنحس بالتهاب فالعين، شنو ندير؟",
+    "answer": "خاصك تتجنب الحبوب والزهور فهاد الوقت. سدي النوافذ وشعل المكيف فالدّار.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالعين"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية القرص مع حكة، شنو ندير؟",
+    "answer": "هاد الحساسية كاتجي من عثة الغبار أو التغيرات فدرجة الحرارة. استعمل مضادات الهيستامين.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كيبانو لي احمرار فبطن ويدين مع حب الشباب، شنو ندير؟",
+    "answer": "هادشي يمكن يكون رد فعل تحسسي. خاصك تشوف طبيب جلدية باش يدير ليك الفحوصات.",
+    "entities": {
+      "symptoms": [
+        "احمرار",
+        "حب الشباب"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي التهاب فالحلق واللوز، واش يمكن لي نستعمل الدرومدين؟",
+    "answer": "خاصك تشوف طبيب ديال الجهاز التنفسي. ما تستعملش الدواء بلا استشارة.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالحلق",
+        "التهاب فاللوز"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الحوت والمأكولات البحرية، شنو ندير؟",
+    "answer": "العلاج هو الابتعاد عن الأكل ديالها. يمكن تستعمل مضادات الهيستامين.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الحوت",
+        "حساسية من المأكولات البحرية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الغبار وكتخرج لي حبوب حمراء.",
+    "answer": "خاصك تتجنبي الأماكن السخونة وتلبسي حوايج قطنية. من الأفضل تمشي عند الطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "حبوب حمراء"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية وكنعاني من احمرار وطفح جلدي.",
+    "answer": "يمكن لك تستعملي مضادات الهيستامين يومياً. خاصك دير فحوصات عند الطبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "احمرار",
+        "طفح جلدي"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالكوعين والساقين وكنعاني من حبوب.",
+    "answer": "خاصك تمشي للطبيب باش يعرف السبب. غالباً تكون من البعوض.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "حبوب"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حبوب فجلدي وكنحس بحكة.",
+    "answer": "يمكن تكون عندك ارتكاريا. خاصك تمشي للطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "حبوب",
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من شي حاجة وما كاينش تحسن.",
+    "answer": "يمكن ليك تاخدي فيكسوفينادين ومضادات الهيستامين. خاصك تراجعي الطبيب إذا ما كاينش تحسن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالجسم وكنحس بالاحمرار.",
+    "answer": "يمكن تكون عندك ارتكاريا. خاصك تمشي للطبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "احمرار"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية الربيع وكنعاني من حكة فالعينين.",
+    "answer": "خاصك تاخدي مضاد لهيستامين بحال ديسلوراتيدين. هاد الدوا غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "حكة فالعينين"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية في الدم وظهرت لي بقع حمرا مع حرارة ونقصان ف الضغط وصعوبة ف التنفس.",
+    "answer": "خاصك تمشي عند الطبيب باش يشرح ليك كيفاش تستعمل إبرة الإنقاذ للحياة بارا إيبين.",
+    "entities": {
+      "symptoms": [
+        "حساسية في الدم",
+        "بقع حمرا",
+        "حرارة",
+        "نقصان ف الضغط",
+        "صعوبة ف التنفس"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من بزاف دالمواد، وولدي عندو تحاليل إيجابية.",
+    "answer": "خاصك تشوفي طبيب وتشرحي ليه الأعراض ديالكم، باش يعرف شنو يدير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الغبرة وكنعاني من التهاب الأنف، وأنا حامل.",
+    "answer": "خاصك تتجنبي الأدوية فالشهور الأخيرة للحمل، وتجنبي الغبار قدر الإمكان.",
+    "entities": {
+      "symptoms": [
+        "حساسية من الغبرة",
+        "التهاب الأنف"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية البيض وكنعاني من قلاع الفم المتكرر.",
+    "answer": "خاصك تمشي عند طبيب روماتيزم باش تعرفي السبب الحقيقي للقلاع.",
+    "entities": {
+      "symptoms": [
+        "حساسية البيض",
+        "قلاع الفم المتكرر"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي مرض الربو وكيجيني فمواسم معينة.",
+    "answer": "خاصك تستشيري طبيب باش يصف ليك الأدوية المناسبة لحالتك.",
+    "entities": {
+      "symptoms": [
+        "مرض الربو"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالرجلين وطلعت لي حبوب.",
+    "answer": "خاصك تمشي عند الطبيب باش يعرف شنو السبب ويدير لك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "حبوب"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية وعسر الهضم بعد ما كليت العسل المغشوش.",
+    "answer": "خاصك تراقبي الأعراض ديالك وتستشيري طبيب إذا استمر الصداع.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "عسر الهضم",
+        "صداع"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالرجلين اليسرى وطلعت ليها الحبوب.",
+    "answer": "خاصك تمشي عند الطبيب باش يعرف شنو السبب ويدير لك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "حبوب"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي احمرار فاليد بين المفاصل.",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يعرف شنو السبب.",
+    "entities": {
+      "symptoms": [
+        "احمرار فاليد"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "زوجتي عندها حساسية فالدم، واش خاصها تكمل دوا هيستاجين؟",
+    "answer": "ما كاينش مشكل فاستمرارها فالدوا إلا كانت محتاجا ليه فالأشهر الأولى من الحمل. ولكن من الأفضل تستاشر طبيب باش يبدل ليها الدوا لشي نوع آخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش الما كايسبب الحساسية؟",
+    "answer": "الما المعسر فيه معادن بحال الحديد والمغنيسيوم، وكيقدر يهيج الجلد. خاصك تشاور الطبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كنحس بالحر فصدري، واش هاد الشي حاساسية؟",
+    "answer": "يمكن يكون عندك التهاب فالجهاز التنفسي. خاصك تمشي للطبيب باش يشوف ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حرارة فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية للبشرة ووجع فالصدر، شنو ندير؟",
+    "answer": "خاصك تشاور طبيب تنفس باش يعرف السبب ويعطيك العلاج المناسب. التاريخ الطبي مهم.",
+    "entities": {
+      "symptoms": [
+        "حساسية للبشرة",
+        "وجع فالصدر"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي أكزيما فصبعي، شنو ندير؟",
+    "answer": "خاصك ترطب الجلد مزيان وتستعمل كريمات تهدي الحساسية. تجنب المسببات بحال الزهور.",
+    "entities": {
+      "symptoms": [
+        "أكزيما",
+        "جفاف",
+        "تقشر",
+        "حكة"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الخوخ، ولكن كنحس بنفس الأعراض. شنو السبب؟",
+    "answer": "كاين فواكه بحال الكيوي والفراولة عندها بروتينات مشابهة للخوخ. يمكن تكون هادي هي السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية ف الركبة و الكوع، واخا خديت دوا ديال ديسونيد، مازال كتعاود تظهر.",
+    "answer": "يمكن تكون عندك حساسية متأخرة. خاصك تشاور طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة قوية، وطبيب وصف ليا إيفاستين، ولكن ما نفعني والو.",
+    "answer": "الحكة كيمكن تكون بسبب الجرب. خاصك تستعمل الأدوية مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "من خمس شهور وانا كانحس بشي حاجة عالقة فحلقي، واش هادي حساسية؟",
+    "answer": "يمكن تكون حساسية من الغبار. خاصك تحيد العثة من الفراش.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالحلق"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية مزمنة، واش خاصني ندير العملية؟",
+    "answer": "خاصك تتجنب الأطعمة اللي كتسبب لك الحساسية. استعمل مضادات الهيستامين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هي أسباب الحساسية؟",
+    "answer": "الحساسية كتكون رد فعل تحسسي من مواد معينة. خاصك تعرف المسببات باش تقدر تعالجها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش كاين شي علاج للحساسية من المأكولات؟",
+    "answer": "خاصك تتجنب الأطعمة اللي كتسبب لك الحساسية، واستعمل مضادات الهيستامين فالحالات الطارئة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "شنو هو العلاج ديال الحساسية مع النيف لي كيتساعد على التبول والنعاس؟",
+    "answer": "خاصك تشوف طبيب باش يحدد لك السبب ويدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "سمعت بلي كاين علاج للحساسية كيتضمن حقن الخلايا بمسبب الحساسية. واش كاين هاد العلاج متوفر فالبلاد، وخاصة فجدة؟",
+    "answer": "إلا كان السبب معروف، يمكن عمل اختبار حساسية. ولكن غالبًا ما يكون السبب غير معروف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش هاد الحكة خطيرة إلا ما تعالجناهاش؟ و حتى ملي كنحس بالحكة، كنحط فازلين على المنطقة، واش هادشي مزيان ولا خايب؟",
+    "answer": "الفازلين مزيان، ولكن خاصك تعرف السبب الحقيقي للحكة. من الأفضل تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية في يديا من سنتين ومرة مرة كتسبب ليا حكة قوية حتى كتخلي صبعان يتهرسو ويبداو كيطيح الدم.",
+    "answer": "خاصك دير اختبار الحساسية المتعدد باش تعرف شنو هو المسبب. يمكن لك تستعمل مرهم يوراكس.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية جلدية ففصل الشتاء ملي كنلعب الكرة ولا كنجري، وكتبان ليا حكة وجع.",
+    "answer": "يمكن تكون حساسية من البرد. حاول تستعمل دوا ديال الهيستامين قبل الرياضة.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "وجع"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية كبيرة فالصدر، ولكن ملي كنحلق لحيتي كيتخف الحساسية.",
+    "answer": "خاصك تستعمل شامبوان خفيف وما فيهش الريحة. حاول تتجنب المواد اللي كتسبب لك الحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالصدر"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية في صبعي لي بدات بقرصات صغيرة وكتزيد تحك.",
+    "answer": "خاصك تبدل نوع المنظفات وتجنب اللي كتسبب لك الحساسية. يمكن لك تستعمل مضادات الآرجية.",
+    "entities": {
+      "symptoms": [
+        "قرصات صغيرة",
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "بنتي عندها خمس سنين و عندها حساسية من الحشرات، و بغيت نعرف واش هاد الحساسية مرتبطة بالرطوبة؟",
+    "answer": "هاد الشي أكيد حساسية، خاصكم تحيدو الرطوبة من الدار. حاولوا تنظفو المكان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية مستمرة طول العام هادي 9 سنين، وانا عندي 21 عام.",
+    "answer": "خاصك تشاور مع الطبيب باش تعرف شنو هو أحسن علاج ليك. كاين بزاف دالعلاجات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "كيفاش نفرق بين السعال التحسسي والسعال من التهاب؟",
+    "answer": "السعال اللي فيه البلغم غالبا كيكون بسبب التهاب، بينما السعال التحسسي كيكون جاف وكيستمر. خاصك تشوف طبيب باش يحدد لك السبب.",
+    "entities": {
+      "symptoms": [
+        "السعال",
+        "البلغم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من القطوط، واش كاين شي علاج؟",
+    "answer": "الحل هو أنك تخرج القط من الدار وتجنب الحيوانات الأليفة. خاصك تشوف طبيب باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حب الشباب وكنحك الجلد، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص باش يدير لك الفحوصات اللازمة. معرفة السبب هي الخطوة الأولى للعلاج.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب",
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "من بعد ما ندوش، كنحس بحكة فالجسم. شنو ندير؟",
+    "answer": "يمكن لك تاخد حمام دافي وتستعمل صابون طبيعي. إذا استمرت الحكة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الصدر، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص باش يدير لك الفحوصات اللازمة. العلاج كيتطلب معرفة السبب الحقيقي.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الحشرات، شنو ندير؟",
+    "answer": "خاصك تتجنب الأماكن اللي فيها الحشرات وتستعمل الأدوية اللي وصفها لك الطبيب. استشارة طبيب مختص مهمة.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالصدر، شنو خاصني ندير؟",
+    "answer": "خاصك تاخد الدوا ديال الحساسية وتجنب التدخين. من المهم تشوف طبيب إذا استمرت الأعراض.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالطقس الحار، شنو ندير؟",
+    "answer": "خاصك تتجنب الشمس وتستعمل واقي شمس. إذا كانت الأعراض شديدة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الغبار، شنو أحسن علاج؟",
+    "answer": "خاصك تبعد على الغبار وتنظف المكان بانتظام. استعمال مضادات الهيستامين يمكن يساعد.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالأكل، شنو ندير؟",
+    "answer": "خاصك تتجنب الأطعمة اللي كتسبب لك الحساسية. استشارة طبيب مختص مهمة.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فأنفي مع عطس ونزيف أنفي. وعندي ألم فالأذن وفمي. واش هادي حساسية؟",
+    "answer": "يمكن يكون عندك التهاب فالحلق وحساسية. النزيف الأنفي ممكن يكون بسبب الشد أثناء العطس. خاصك تشوف طبيب الأذن والحنجرة.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "عطس",
+        "نزيف أنفي",
+        "ألم في الأذن",
+        "ألم في الفم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية مزمنة فأنفي. واش اللحم والدجاج والبيض يقدرو يزيدو الحساسية؟",
+    "answer": "اللحوم والدجاج والبيض يقدرو يزيدو من الحساسية. خاصك تدير فحص الحساسية مع طبيب الأمراض الجلدية. هاد الشي غادي يساعدك تعرف شنو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الريحة. ملي كنشمها كتحرقني حلقي. واش هادي حساسية؟",
+    "answer": "هاد الأعراض كتشير لحساسية. خاصك تبعد على المواد اللي كتسبب لك التحسس. العلاج كيتضمن تجنب هاد المواد.",
+    "entities": {
+      "symptoms": [
+        "تحرق فالحلق"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فرجلي وجرح كبير. عافاكم عاونوني.",
+    "answer": "يمكن تكون حساسية التلامس أو حساسية من الحشرات. خاصك تشوف طبيب باش يعرف السبب. يمكن يكون عندك مشكل صحي آخر.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "جرح"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فالصيف. كنعاني من التهاب الأنف وسيلان الأنف. شنو أحسن دوا؟",
+    "answer": "من الأفضل تشوف طبيب مختص فالحساسية. يمكن يوصي لك بدواء مناسب. العلاج كيساعدك تخفف من الأعراض.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأنف",
+        "سيلان الأنف"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة فالصبع ديالي. كيتحسس وكيحمر. شنو ندير؟",
+    "answer": "خاصك ما تحكش باش ما يزيدش الاحمرار. يمكن تستعمل حبوب مضادة للهيستامين. من الأفضل تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "احمرار"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي مرض جلدي فالقضيب و حبيبات صغيرة كتسبب لي الحك. شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة ويعطيك العلاج المناسب. مايمكنش نوصي بلا فحص.",
+    "entities": {
+      "symptoms": [
+        "حبيبات",
+        "حك"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الحليب وكنحس بالغثيان. شنو ندير؟",
+    "answer": "يمكن تكون عندك حساسية من بروتينات الحليب. جرب حليب خالي من اللاكتوز و إذا استمرت الأعراض، سير عند طبيب الحساسية.",
+    "entities": {
+      "symptoms": [
+        "غثيان"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من التراب وكنحس بالتهاب فالعينين. شنو ندير؟",
+    "answer": "خاصك تتجنب التراب والغبار، ولبس ماسك إذا ماقدرتيش. تقدر تاخد دوا ديال الحساسية بحال فيبروسيلي.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالعينين"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "استعملت كلافوكس وجاتني حساسية. شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب فورا وتخبره بلي حسيت بالحساسية. يمكن يبدل لك الدوا.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حكة هادي ست شهور. شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب الحساسية باش يتأكد من وجود حساسية. يمكن تكون عندك حساسية مزمنة.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية فوجهي من البهارات. شنو ندير؟",
+    "answer": "من الأفضل تمشي لطبيب الجلدية باش يشوف الحالة. يمكن تحتاج اختبارات حساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية فوجه"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "واش كتحس بشي حاجة كتمشي فأنفك وكتسبب ليك الحكة والاحمرار؟",
+    "answer": "يمكن يكون السبب فيروس أو حساسية من الغبار أو حبوب اللقاح. خاصك تشوف طبيب باش يحدد لك السبب بالضبط.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "احمرار"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي مرض الأمعاء وكتجيني نفخة فالبطن وحساسية جلدية.",
+    "answer": "يمكن تكون عندك حساسية متأخرة من بعض الماكولات. خاصك تزور طبيب مختص باش يدير لك التحاليل اللازمة.",
+    "entities": {
+      "symptoms": [
+        "نفخة",
+        "حساسية جلدية"
+      ],
+      "medical_field": "الأمعاء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية من الغبار وكتجيني الوجع فالحلق.",
+    "answer": "يمكن تكون عندك حساسية أو ارتجاع معوي. خاصك تشوف طبيب الجهاز الهضمي أو طبيب مختص في الحساسية.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحلق"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي الحساسية فالنّيف والصدر.",
+    "answer": "خاصك تعرف المادة اللي كتسبب الحساسية وتجنبها. يمكن تحتاج لحقن تحت الجلد باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "عندي حساسية ف اللسان ملي كناكلو شي حاجة حامضة.",
+    "answer": "خاصك تشوف طبيب باش يدير لك الفحوصات اللازمة. يمكن يكون عندك التهاب أو حساسية من بعض الأطعمة.",
+    "entities": {
+      "symptoms": [
+        "حساسية ف اللسان"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Allergy and Immunology",
+    "question_darija": "ولدي عندو حساسية من الجو وكتسبب ليه الحكة ف الأنف والأذن.",
+    "answer": "خاصك توريه لطبيب مختص في الحساسية. يمكن يحتاج لدوا مضاد للهيستامين.",
+    "entities": {
+      "symptoms": [
+        "حكة ف الأنف",
+        "احمرار العينين"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  }
+]
