@@ -1,0 +1,156 @@
+# Documentation – Medical Dataset Processing Pipeline (Brain Health)
+
+
+## 1. Project Objective
+
+Build a clean, annotated medical Q&A dataset in Moroccan Darija (Moroccan Arabic dialect) from raw CSV data, intended for fine-tuning an LLM to serve as a Moroccan medical assistant.
+
+
+## 2. Source Data
+
+Location: Brain/d/ (22 medical specialty folders, each containing a CSV file)
+
+Raw CSV columns:
+- Question_darija_processesd
+- Answer_darija_processesd
+- Category
+
+Categories and volumes:
+
+| #  | Category                       | Raw CSV | Target |
+|----|-------------------------------|---------|--------|
+| 1  | Allergy and Immunology         | 500     | 486    |
+| 2  | Anesthesiology                 | 5000    | 1000   |
+| 3  | Cardiology                     | 5000    | 1000   |
+| 4  | Cosmetic Dermatologist         | 5000    | 1000   |
+| 5  | Dentistry                      | 5000    | 1000   |
+| 6  | Dermatology                    | 5000    | 1000   |
+| 7  | Diabetes Mellitus              | 5000    | 1000   |
+| 8  | Dietetics and Nutrition        | 5000    | 1000   |
+| 9  | Endocrinology                  | 5000    | 1000   |
+| 10 | General Medicine               | 5083    | 1000   |
+| 11 | Gynecologists                  | 5000    | 1000   |
+| 12 | Hematology                     | 5000    | 1000   |
+| 13 | Infectious Diseases            | 500     | 500    |
+| 14 | Internal Medicine              | 5000    | 1000   |
+| 15 | Mental Health                  | 172     | 172    |
+| 16 | Oncology                       | 5000    | 1000   |
+| 17 | Ophthalmologist                | 5000    | 1000   |
+| 18 | Otorhinolaryngology            | 5000    | 1000   |
+| 19 | Pediatric Medicine             | 5000    | 1000   |
+| 20 | Psychiatry                     | 5388    | 1000   |
+| 21 | Respiratory diseases           | 5035    | 1000   |
+| 22 | Rheumatology and Orthopedics   | 4500    | 1000   |
+
+
+## 3. Processing Pipeline — Overview
+
+Raw CSVs (22 categories) → Heuristic Cleaning (pandas) → ChatGPT API (gpt-4o-mini) + NER Annotation → Post-validation (Latin purge) → Final JSON in processed_json/
+
+
+## 4. Pipeline Details
+
+Script: process_dataset_chatgpt.py
+Model: OpenAI gpt-4o-mini
+Batch size: 20 items per request
+Max items: 1000 per category (or max available if < 1000)
+Temperature: 0.3 (deterministic responses)
+Response format: json_object (OpenAI native JSON mode)
+
+Steps:
+
+1. Heuristic cleaning (is_valid()):
+   - Remove phrases with < 3 words
+   - Filter out predefined Arabic "noise" phrases
+   - Use df.iloc[:, 0] and df.iloc[:, 1] instead of column names (to handle typos in CSV headers)
+
+2. Input sanitization (sanitize_text()):
+   - Remove control characters (\x00-\x1f)
+   - Replace double quotes with single quotes
+   - Remove isolated backslashes
+   - Prevents 400 JSON parsing errors from OpenAI API
+
+3. ChatGPT annotation:
+   - Each batch of 20 Q&A pairs is sent to gpt-4o-mini
+   - The model cleans, improves, and annotates each entry
+   - Automatic retry (3 attempts) on API errors
+   - Skip existing files for resume capability
+
+4. Post-validation (post_validate()):
+   - Remove non-dict elements (hallucinations)
+   - Remove entries with empty question or answer
+   - Remove entries still containing Latin characters [a-zA-ZÀ-ÿ]
+   - Normalize entities structure if missing
+
+5. Output: One JSON file per category saved in processed_json/
+
+
+## 5. ChatGPT Prompt Used
+
+You are a medical dataset annotation expert.
+
+Your task:
+- Clean the Darija question (make it natural, short, like a real Moroccan patient speaks)
+- Improve the answer: clear, max 3 sentences, proper punctuation, in Darija marocaine (Arabic script ONLY)
+- Extract medical entities (NER)
+- If the input has no medical sense, skip it entirely
+
+CRITICAL RULES:
+- ALL text must be in Arabic script ONLY. NO French, NO English words.
+- If a medication name is in Latin characters, write it phonetically in Arabic (e.g., Paracetamol → باراسيتامول)
+
+Return JSON: { category, question_darija, answer, entities: { symptoms, medical_field, urgency } }
+Urgency values: منخفض (low), متوسط (medium), عالي (high), طارئ (emergency)
+
+
+## 6. Final JSON Schema
+
+Each entry in the output JSON files follows this structure:
+
+{
+  "category": "Cardiology",
+  "question_darija": "الكفاءة ديال القلب 38%، شنو ندير؟",
+  "answer": "هاد النسبة منخفضة وخصك تستاشر طبيب. يمكن يكون عندك مشكل فالقلب.",
+  "entities": {
+    "symptoms": [],
+    "medical_field": "القلب",
+    "urgency": "متوسط"
+  }
+}
+
+| Field                  | Type         | Description                                              |
+|------------------------|--------------|----------------------------------------------------------|
+| category               | string       | Medical specialty (in English)                           |
+| question_darija        | string       | Patient question in Darija (Arabic script only)          |
+| answer                 | string       | Medical answer in Darija (2-3 sentences max)             |
+| entities.symptoms      | list[string] | Extracted symptoms in Arabic                             |
+| entities.medical_field | string       | Medical domain in Arabic                                 |
+| entities.urgency       | string       | منخفض / متوسط / عالي / طارئ                              |
+
+
+## 7. Project Structure
+
+Brain/
+├── d/                              → Source data (22 category CSV folders)
+│   ├── Allergy and Immunology/
+│   ├── Cardiology/
+│   ├── ...
+│   └── Rheumatology and Orthopedics/
+│
+├── processed_json/                 → Processed output (final JSON files)
+│   ├── Allergy and Immunology.json
+│   ├── Cardiology.json
+│   └── ...
+│
+├── process_dataset_chatgpt.py      → Main pipeline script (ChatGPT + NER)
+└── Readme.md
+
+
+## 8. Technical Decisions
+
+1. GPT-4o-mini: Chosen for reliable JSON output at a modest cost. Temperature set to 0.3 for deterministic, consistent results.
+2. 1000 examples per category: Categories with fewer than 1000 valid entries use all available data.
+3. Built-in NER: Each entry is enriched with extracted medical entities (symptoms, medical field, urgency level), enabling direct use for supervised fine-tuning or semantic search.
+4. Strict post-validation: No Latin residue is tolerated in the final dataset. Any entry containing [a-zA-Z] characters is automatically removed.
+5. Input sanitization: Control characters, double quotes, and backslashes are cleaned before sending to the API to prevent 400 JSON parsing errors.
+6. Resume capability: The script skips categories that already have a JSON file in processed_json/, allowing safe restarts without reprocessing.
