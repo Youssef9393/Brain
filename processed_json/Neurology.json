@@ -1,0 +1,4845 @@
+[
+  {
+    "category": "Neurology",
+    "question_darija": "شنو بخصوص مرض الشقيقة؟",
+    "answer": "مرض الشقيقة كيتطلب علاج خاص. خاصك تشوف طبيب باش يحدد ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف ليمن.",
+    "answer": "خاصك تمشي عند طبيب الأعصاب. يمكن يكون عندك مشكل يحتاج لتشخيص.",
+    "entities": {
+      "symptoms": [
+        "وجع ف ليمن"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شكون طبيب لي كايتكلف بالناقص السابع؟",
+    "answer": "خاصك تشوف طبيب نفسي. هو لي يقدر يساعدك فهاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "تحتت راسي فجاو و أنا تخلعت.",
+    "answer": "خاصك تشوف طبيب. يمكن تحتاج لتقرير طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش التوتر كايجيب الصداع؟",
+    "answer": "أيوة، التوتر كيزيد من احتمالية الصداع. خاصك تحاول تريح راسك.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "مكاينش شي مرض سميتو 'هاوت'؟",
+    "answer": "هاوت هو التهاب بكتيري كيضر الأغشية لي حدا الدماغ. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش التوباماكس كيعاون فالعلاج ديال الشقيقة؟",
+    "answer": "أيوة، التوباماكس كيعتمد عليه فالعلاج. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو لعلاج ديال الصرع؟",
+    "answer": "العلاج كيعتمد على نوع الصرع والسبب. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "فيتامينات باش يقويو لعقل؟",
+    "answer": "فيتامين ب12 مهم بزاف. كاينين فيتامينات أخرى كتعزز الذاكرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فجهة اليسار ديال الراس.",
+    "answer": "يمكن يكون عندك صداع أو مشكل آخر. خاصك تشوف طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "وجع فجهة اليسار ديال الراس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي الأعراض ديال القولون؟",
+    "answer": "الأعراض كتشمل وجع فالبطن، انتفاخ، وإسهال أو إمساك. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبطن",
+        "انتفاخ",
+        "إسهال",
+        "إمساك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "فين كاين أحدث علاج للصرع؟",
+    "answer": "كاينين أدوية جديدة متوفرة فالصيدليات. خاصك تسول طبيبك على الأنسب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو علاج مراض إم إس؟",
+    "answer": "العلاج كيعتمد على الحالة الخاصة بك. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو علاج التهاب العظام؟",
+    "answer": "كاينين أدوية كتعالج التهاب العظام. خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاج ضمور الدماغ شنو هو؟",
+    "answer": "ما كاينش علاج نهائي، ولكن كاين طرق لتحسين الحالة. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا للصرع؟",
+    "answer": "كاين أدوية متعددة لعلاج الصرع. خاصك تسول طبيبك على الأنسب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي نقص فالسائل فالراس، شنو ندير؟",
+    "answer": "خاصك توضح الأعراض ديالك. يمكن تحتاج استشارة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو الدوا ديال النعاس؟",
+    "answer": "كاينين دوايات بحال باراسيتامول وديبريسان، ولكن خاص استشارة طبيب قبل ما تاخد أي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي عمليات جراحية لكسر الصبع؟",
+    "answer": "إيوا كاينين عمليات جراحية لبعض الحالات، ولكن خاص تقييم طبي دقيق.",
+    "entities": {
+      "symptoms": [
+        "كسر الصبع"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو لعلاج ديال إلتهاب لعضم؟",
+    "answer": "العلاج كيتحدد حسب نوع الالتهاب، وكيحتاج استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا لعاضيب لعين؟",
+    "answer": "عافاك وضح سؤالك، حيث خاصنا نعرفو الأعراض بالضبط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين نزيف من فص اليسار ديال راس المخ؟",
+    "answer": "إيوا هاد الشي خطير، خاصك تمشي للطبيب دابا.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا ديال الصداع؟",
+    "answer": "كاينين دوايات بحال باراسيتامول، ولكن خاص تعرف السبب ديال الصداع.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مزيان نتزوج واخا عندي شلل الدراري الصغار؟",
+    "answer": "إيوا تقدر تزوج، ولكن خاصك تكون واعي بالمسؤوليات.",
+    "entities": {
+      "symptoms": [
+        "شلل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو سبب ليت كايضرّو رجلين ديال حاملا؟",
+    "answer": "خاصك تنقص من الكالسيوم والمنيزيم، وضروري تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الرجلين"
+      ],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا نهائي لصرع؟",
+    "answer": "كاينين علاجات كتساعد في التحكم في الصرع، ولكن ما كاينش علاج نهائي.",
+    "entities": {
+      "symptoms": [
+        "صرع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي التنشيطات لحاراريا؟",
+    "answer": "هاد التنشيطات كايتجيو ملي كايكبرو لحرارا. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "حرارا"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش الأدوية ديال النعاس مزيانة للصحة ديال العقل؟",
+    "answer": "الأدوية ديال النعاس كايمكن تحسن المزاج، ولكن خاص تكون تحت إشراف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش ممكن يتقطع العصب بلا ما يجرح؟",
+    "answer": "أي، ممكن يتقطع العصب بلا جروح. ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش التهاب العصب الخامس ماعندو علاج غير العملية؟",
+    "answer": "لا، كاين أدوية كتعالج التهاب العصب الخامس. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب العصب الخامس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كايتعالجو التهاب دماغيا بالعلاج الطبيعي؟",
+    "answer": "التهاب الدماغ كيتطلب علاج خاص. العلاج الطبيعي ماكيتعالجش بسهولة.",
+    "entities": {
+      "symptoms": [
+        "التهاب الدماغ"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مفعول البيراسيتام كيشبه مفعول الجينكوبيلوبا؟",
+    "answer": "المفعول ديال البيراسيتام مختلف على الجينكوبيلوبا. كل واحد عندو خصائصو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاش كايتستعملو لحبوب ديال نيروبيون؟",
+    "answer": "النيوروبيون كايتستعمل فالعلاج ديال التهاب الأعصاب. كيساعد فالتخفيف من الأعراض.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأعصاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش نقدر نستعملو ميرتازا باش نحلو مشكل النعاس؟",
+    "answer": "ممكن تحسن جودة النعاس، ولكن خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [
+        "مشكل النعاس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش فيتامين ب12 و ب6 كايعاونوا ف التهاب العصب السابع؟",
+    "answer": "آه، فيتامين ب12 و ب6 مزيانين فهاد الحالة، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب العصب السابع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو كيسبب الصداع وشنو العلاج ديالو؟",
+    "answer": "الصداع كيتسبب فيه بزاف ديال العوامل. العلاج كيتحدد حسب السبب.",
+    "entities": {
+      "symptoms": [
+        "الصداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي إعاقة ف رجل ليمن بسباب شلل نصفي. شنو الحل؟",
+    "answer": "العلاج الطبيعي هو الحل المناسب، خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "إعاقة ف رجل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش شلل الوجه كايتعاود من بعد العلاج؟",
+    "answer": "آه، يقدر يرجع، ولكن خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [
+        "شلل الوجه"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش الصرع كايجيهوم من لبال؟",
+    "answer": "آه، هجمات الصرع ما يمكنش نتوقعوهم، خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [
+        "الصرع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو أحسن دوا لعلاج باركينسون؟",
+    "answer": "السنيميت هو الدوا الأساسي لعلاج باركينسون.",
+    "entities": {
+      "symptoms": [
+        "باركينسون"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو كيسبب ليا النميل ف صباعي؟",
+    "answer": "كاين بزاف ديال الأسباب، منها النفسية و العضوية.",
+    "entities": {
+      "symptoms": [
+        "النميل ف صباعي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش دوخة وتنميل ليدين ورجلين مرض معين؟",
+    "answer": "ممكن يكون نقص ف فيتامين ب12، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هما لعداوات ل كبار فلعمر؟",
+    "answer": "السكر و لڭرام كايسهرو لخرف، خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو أحسن علاج لالتهاب السحايا؟",
+    "answer": "العلاج كيتطلب كورتيزون فالأيام الأولى. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "التهاب السحايا"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي نسيان ومشاكل فالمركز.",
+    "answer": "خاصنا نعرفو العمر ديالك وواش كاين شي أمراض مزمنة.",
+    "entities": {
+      "symptoms": [
+        "نسيان"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي برد فرجلي، ما عرفتش علاش.",
+    "answer": "شحال فعمرك؟ وشنو الحوايج لي عندك؟",
+    "entities": {
+      "symptoms": [
+        "برد فالرجل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع قوي فاليد اليمنى تحت العين.",
+    "answer": "خاصك تمشي عند طبيب مختص فالأعصاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فاليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أمي كتعاني من ألم فأسفل ظهرها.",
+    "answer": "واش عندها سكر؟ خاصنا نعرفو التفاصيل.",
+    "entities": {
+      "symptoms": [
+        "ألم فأسفل الظهر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو الدوا الفعال لعلاج الصرع؟",
+    "answer": "كاين بزاف ديال الأدوية، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "صرع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي أعراض التشنج؟",
+    "answer": "التشنج كيسبب قلق عضلي، وكيكون بحال السكران.",
+    "entities": {
+      "symptoms": [
+        "تشنج"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو علاج عرق النسا؟",
+    "answer": "خاصك تمشي عند طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "عرق النسا"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو علاج التهاب الأعصاب ديال الدماغ؟",
+    "answer": "خاصك توضح ليا أكثر شنو كاتعني.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأعصاب ديال الدماغ"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع ف الجيهة لفوقاني ديال راسي.",
+    "answer": "غالبا كاين علامات ديال التعب أو النعاس. خاصك ترتاح شوية.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو كيسبب الراحة والنعاس؟",
+    "answer": "كاين بزاف ديال الأسباب، منها النفسية أو العضوية. خاصك تشوف طبيب إذا كانت الحالة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "فيدي اليمنى كايديرني صداع.",
+    "answer": "يمكن يكون عندك توتر ف العضلات أو الأعصاب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف راصي.",
+    "answer": "الوجع كايجي مع عطش، خاصك تشوف طبيب فالحال.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي التهاب عصبي خامس، شنو هو لعلاج ديالو؟",
+    "answer": "خاصك تشوف طبيب الأعصاب لي غادي يعطك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مرض الصرع فالفص الصدغي. شنو خاصني ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأعصاب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كايتسحاب لوسائل ليتكونات ف الدماغ؟",
+    "answer": "كاينة عملية صمام دماغي، ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي الإستراتيجيات باش نقلّيو من لعاراض ديال لعاسيب السابع ف الدار؟",
+    "answer": "بداية الحالة كاتحتاج كورتيزون، ولكن خاص طبيب يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي تحليل باش نتأكدو واش كاين الصداع النصفي؟",
+    "answer": "كاين تحاليل خاصة، ولكن التشخيص كيتطلب زيارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الصداع النصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "السلام عليكم. واش كاين شي دوا ل هبوط صبعي؟",
+    "answer": "كاين علاج طبي، ولكن خاصك تشاور طبيب.",
+    "entities": {
+      "symptoms": [
+        "هبوط صبعي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "راسي كايوجعني بزاف، خاصني نمشي عند شي طبيب.",
+    "answer": "صحيح، خاصك تشوف طبيب مختص فالأعصاب.",
+    "entities": {
+      "symptoms": [
+        "وجع الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي واحد الرعشة ف الشفة ديالي لي بقات ليومين.",
+    "answer": "غالبا نتيجة التوتر أو الإجهاد، ولكن خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الرعشة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش الخلايا الجذعية نافعة ف لعلاج ديال ضمورات لمدامس؟",
+    "answer": "الخلايا الجذعية ماعندهاش فائدة كبيرة فهاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "جرعات السكتونيل لي كتحاول تاخد و شحال من مرة كتاخد؟",
+    "answer": "خاصك تاخد جوج قرعات، وحدة مورا لفطور و وحدة مورا لعشا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاش كايعطي الفاليوم فاش كايكون الدراري كايعانيو من النوبات الصرعية؟",
+    "answer": "الفاليوم كيساعد على ارتخاء العضلات وتخفيف التوتر.",
+    "entities": {
+      "symptoms": [
+        "النوبات الصرعية"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "تنمل ف رجلي ويدّي، ومورّات كايدير في جنبي.",
+    "answer": "يمكن يكون عندك نقص فدهر الزايد، خاصك تعوضو.",
+    "entities": {
+      "symptoms": [
+        "تنمل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحسّ براسّي بحال إلا كايدخل ليا شي التيار ف عيني.",
+    "answer": "خاصك تذكر المدة والأعراض لي كانتو معاه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هوما الحلول المقترحة باش نقللو من خطر تلف الجهاز العصبي؟",
+    "answer": "خاصك ماتزيدش فوق ساعا ف النهار وتعتني بصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش ڭاع دوا ديال الصرع كايعيّمو الرجال؟",
+    "answer": "دوا ديال الصرع ماكيعطيش العقم للرجال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحس بحسارة كتنمل ويدي كتنمل ورجلي كتحرق.",
+    "answer": "هاد الأعراض خفيفة وما كتعنيش بلي كاين شي مرض.",
+    "entities": {
+      "symptoms": [
+        "تنمل",
+        "تحرق"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاش كنشوف شي واحد كيتنمل ف الحيط ملي كينعس؟",
+    "answer": "ممكن يكون نقص ف فيتامين ب12.",
+    "entities": {
+      "symptoms": [
+        "تنمل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كايعاودو يضربوها ف الصراع بين راجل أُ مراتو؟",
+    "answer": "مرض الصرع كايمورّض القدرة ديال الإنجاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش من بعد ما يتشاف من التهاب العصب السابع يقدر يرجع دابا؟",
+    "answer": "أه، ممكن يرجع ولكن خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هوما عتاكير ديال جوندوم و لآثار جانبية ديالها؟",
+    "answer": "جوندوم كيمكن يكون عندو آثار جانبية بحال الصداع و الدوخة. خاص استشارة طبيب باش يشرح ليك أكثر.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "السلام عليكم، علاش كاين هاد المرض لي عند ختي؟",
+    "answer": "هاد المرض كيتعلق بزيادة الكهرباء في الجسم. خاصها زيارة طبيب مختص باش يتشخص بشكل صحيح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا جديد على داء الروماتيزم؟",
+    "answer": "كاين بعض الأدوية الجديدة اللي كتعالج داء الروماتيزم. خاص استشارة طبيب لتحديد الأنسب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش لوالدين لي عندهم التصلب المتعدد يقدرو يحملو؟",
+    "answer": "التصلب المتعدد ممكن يأثر على الحمل. خاص استشارة طبيب مختص قبل اتخاذ أي قرار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "يدي و راسي بارتعدو بزاف من شحال هادي.",
+    "answer": "هاد الأعراض كيمكن تكون نتيجة لعدة أسباب. خاصك تشوف طبيب باش يشخص الحالة.",
+    "entities": {
+      "symptoms": [
+        "ارتعاش"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحس بالدغدغة ف عينيا ليسر.",
+    "answer": "الدغدغة ف العين ممكن تكون نتيجة لإجهاد أو التهاب. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "دغدغة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاش كايتصابو ب الشلل؟",
+    "answer": "الشلل كيتسبب فيه عدة عوامل بحال الجلطات أو إصابات الأعصاب. خاص استشارة طبيب لفهم الحالة بشكل أفضل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي جوج مفراس، واش نقدر ندير الرنين للراس؟",
+    "answer": "نعم، تقدر تدير الرنين المغناطيسي. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش سرعة القذف كتأثر على الحمل؟",
+    "answer": "سرعة القذف ماكتأثرش على الحمل إلا كان القذف داخل المهبل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كايعالجو الصداع فالجبهة؟",
+    "answer": "الطبيب كيدير الفحوصات اللازمة باش يعرف السبب ويدير العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "بغيت شي مهدئ لعقل باش نعس.",
+    "answer": "خاصك تمشي عند الطبيب ديالك باش يعطيك الدوا المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مشكل ف راسي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأعصاب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي علاج للرعشة؟",
+    "answer": "خاصك تشوف طبيب مختص باش يدير ليك الفحص ويقترح عليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "رعشة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو السبب ديال النسيان؟",
+    "answer": "النسيان كيتسبب غالبا من عدم التركيز أو القلق الزايد.",
+    "entities": {
+      "symptoms": [
+        "نسيان"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كايتعالج صداع متفرق خفيف؟",
+    "answer": "خاصك تمشي عند طبيب الأعصاب باش يعاونك فهاد الموضوع.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا خاص للرعشة عند البنات؟",
+    "answer": "مضاد الصرع هو العلاج، خاصك تمشي عند طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "رعشة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي كيس ف راسي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب باش يشوف الحالة وقد يحتاج جراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع ف الجهة اليمين ديال راسي هادي ثلاثة أيام.",
+    "answer": "يمكن يكون عندك التهاب ف الجيوب الأنفية. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فكرشي. شنو السبب؟",
+    "answer": "خاصك توضح أكثر على الأعراض. يمكن تكون أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي بداية الزهايمر. شنو العلاج؟",
+    "answer": "خاصك تشوف طبيب مختص فالأمراض العصبية. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [
+        "بداية الزهايمر"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو علاج متلازمة التصلب المتعدد؟",
+    "answer": "خاصك تشوف طبيب مختص فالأمراض العصبية. كاينين علاجات متعددة حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "متلازمة التصلب المتعدد"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي الما ف راسي. شنو ندير؟",
+    "answer": "خاصك تدير قياس ضغط الدم وتحاليل الدم. يمكن تحتاج تصوير للراس.",
+    "entities": {
+      "symptoms": [
+        "ما ف راسي"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين صداع قوي ف راسي. شنو الحل؟",
+    "answer": "يمكن يكون عندك التهاب فالعصب الخامس. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي الأعراض ديال نقص الشحنات الكهربائية فالدماغ؟",
+    "answer": "الأعراض كيمكن تكون صداع، دوخة، أو ضعف التركيز. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نقص الشحنات الكهربائية"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي رعشة فالجسم، شنو ندير؟",
+    "answer": "خاصك تدير تحليل باش نعرفو السبب. من الأحسن تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "رعشة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو أعراض النزيف الداخلي؟",
+    "answer": "من الأعراض كاين الوجع، السخانة، والسد فالنيف. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "سخانة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا عندي مرض كيضرب بزاف، واش الليزر غادي يعاونني؟",
+    "answer": "الليزر ما كيتستعملش عادة فهاد الحالة. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو سبب داء لوسخا؟ واش خطير؟",
+    "answer": "هاد المرض مناعي، ماشي معدي. خاصك متابعة مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فراسي ومعايا دوخة.",
+    "answer": "خاصك تراقب الضغط والسكر. من الأحسن تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرأس",
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صعوبة ف الوقوف، شنو ندير؟",
+    "answer": "خاصنا نتأكدو من صحة القلب قبل ما نكملو. من الأحسن تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة ف الوقوف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي سمارة ف راسي، واش خطيرة؟",
+    "answer": "ماشي غير تقلق، ولكن خاصك تشوف طبيب. يمكن يكون عندها أسباب.",
+    "entities": {
+      "symptoms": [
+        "سمارة فالرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو العلاج ديال التشنجات؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تشنجات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فالمؤخرة. كيفاش نحل هاد المشكل؟",
+    "answer": "خاصك تمشي عند طبيب باش يشوف الحالة ديالك. ممكن يكون السبب شي حاجة بسيطة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمؤخرة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاج لتشنجات دري عندو ست سنين بلا صرع؟",
+    "answer": "العلاج النفسي مع العلاج الفيزيائي كيمكن يساعد. خاصك تشوفي طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "تشنجات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "راسي كايضرني بزاف وماكنقدرش نعس.",
+    "answer": "يمكن يكون عندك صداع توتري. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع الرأس",
+        "صعوبة في النوم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي إحساس بلي غادي نغلب على راسي. كاين شي حل؟",
+    "answer": "هاد الأعراض كيمكن تكون خطيرة. خاصك تمشي لطبيب فورا.",
+    "entities": {
+      "symptoms": [
+        "إحساس بالغلبة",
+        "مشوش",
+        "رجفة",
+        "تنفس مقطوع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي سويعة رنين، شنو كاين فيها؟",
+    "answer": "يمكن يكون عندك كسور فالعظام أو الغضروف. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي واحد النخرة فكفّي ليمن و ماعرفتش علاش.",
+    "answer": "يمكن يكون عندك التهاب الأعصاب. خاصك تمشي لطبيب باش يتأكد.",
+    "entities": {
+      "symptoms": [
+        "نخرة فالكف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو الناتيجا ديال هاد التقرير؟",
+    "answer": "التقرير كيبين بلي كاين شي حاجة مخبية. خاصك تمشي لطبيب باش يفسر ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي علاج للصرع؟",
+    "answer": "كاينين أنواع من العلاجات، ولكن خاص استشارة طبيب مختص لتحديد الأنسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "العصب السابع كيوصل غير للوجه ولا كامل؟",
+    "answer": "نادرا ما كيتأثر الوجه كامل، غالبا كيبقى التأثير على جهة وحدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو كيسبب ليا النوبات والرعشة ف اليدين؟",
+    "answer": "التوتر والقلق هما من الأسباب الرئيسية. خاصك تراجع طبيب.",
+    "entities": {
+      "symptoms": [
+        "نوبات",
+        "رعشة ف اليدين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي دوا للموبيضاضا؟",
+    "answer": "ما كاينش دوا محدد، ولكن الطبيب هو لي يقدر يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو كيسبب النوبات المفاجئة عند الكبار؟",
+    "answer": "كاينين بزاف ديال الأسباب، خاصك تدير الفحوصات عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "نوبات مفاجئة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي الدورة الشريانية ف الشريان الأمامي الأيمن؟",
+    "answer": "كاين نتوء ف الشريان المخيخي اليميني، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو اللي ماشي مقادش يتوازن؟",
+    "answer": "ممكن يكون التهاب الأمعاء أو ضعف العضلات. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين وجع بحال شي إبر ف اليدين؟",
+    "answer": "خاصك تدير راديو وتشيك على الفيتامين ب12.",
+    "entities": {
+      "symptoms": [
+        "وجع ف اليدين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحس براسي ضاغط ملي كاندير شي حاجة ف عيني؟",
+    "answer": "خاصك توضح أكثر، شنو كاتقصد ب 'ضاغط'؟",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش العلاج ديال سكارتيزم طويل؟",
+    "answer": "العلاج كيعتمد على الحالة، وكيقدر يطول من 5 سنين حتى 3 سنوات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مرض عصبي، كايتشنج ليا جيهتي كاملين؟",
+    "answer": "خاصك تراجع طبيب نفسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي تنمل ف الجيهة ليمين؟",
+    "answer": "خاصك تراجع طبيب وتتابع العلاج بانتظام.",
+    "entities": {
+      "symptoms": [
+        "تنمل ف الجيهة ليمين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي تحليل يبين الجينات للإستسقاء الدماغي؟",
+    "answer": "آه، كاين بزاف من التحاليل المتاحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي 22 عام، كنعاني من سخانة ف رجلي؟",
+    "answer": "عافاك زيد توضيح، شنو كتحس بالضبط؟",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو سبب لارتفاع ضغط الدم المفاجئ؟",
+    "answer": "غالبا كاتكون معاها مشاكل أخرى، خاصك تراجع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي تحليل يبين الجينات للإستسقاء الدماغي؟",
+    "answer": "آه، كاين بزاف من التحاليل المتاحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مشكل فالعصب الخامس.",
+    "answer": "يمكن يدير راديو ديال الماغنتيزم للمخ. خاصك تاخد علاج كيميافيتيمين ب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالعصب الخامس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مرض الديستوني يقدر يسبب الشلل؟",
+    "answer": "مرض الديستوني يقدر يسبب الشلل فبعض الحالات. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الشلل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "المخ كاين شي علاج لقطع الحبل الشوكي؟",
+    "answer": "مازال ماكاينش شي علاج لمشاكل السنسلا. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع نصفي متكرر.",
+    "answer": "الصداع النصفي ممكن يكون بسبب مرض الشقيقة. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش ممكن واحد يمرض ب باركنسون فعمرو 18؟",
+    "answer": "إيوا، هادشي ممكن. خاصك تشوف طبيب مختص باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي لعصبي السابع وباغي نشري سلوبريد ديال 5 غرام واش غادي ينفع لعاب ديال الجيم؟",
+    "answer": "سلوبريد ميمكنش يكون مفيد للعب ديال الجيم. خاصك استشارة طبيب قبل ما تستعمل أي دواء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو الأرق؟",
+    "answer": "الأرق هو صعوبة فالنوم، كاينين جوج أنواع: واحد كيبدا قبل ما تنعس و الآخر كيجي من بعد ما تنعس.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالنوم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي دري عندو ست سنين وتزاد ليه الشلل الكهربائي.",
+    "answer": "هاد الحالة كتعني أنه مصاب بمرض الصرع. خاصك تتابع مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "الشلل الكهربائي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحسّ براسّي كايضرني شوييا من تحت وذنّي ليسر.",
+    "answer": "خاصك تمشي عند طبيب باش يدير لك الفحوصات اللازمة. يمكن يكون عندك مشكل فالأذن.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرأس",
+        "ألم فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "فاق و اليد ديالو مخدورة.",
+    "answer": "خاصك تمشي للطبيب. يمكن يحتاج تصوير أو فحوصات أخرى.",
+    "entities": {
+      "symptoms": [
+        "خدران فليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو سبب ضعف الأعصاب والرعشة فاليد؟ وشنو العلاج؟",
+    "answer": "ضعف الأعصاب يمكن يكون بسبب عدة عوامل. خاص استشارة طبيب لتحديد السبب وطرق العلاج المناسبة.",
+    "entities": {
+      "symptoms": [
+        "ضعف الأعصاب",
+        "الرعشة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فكلشي، واش هادشي طبيعي؟",
+    "answer": "الوجع ممكن يكون بسبب عدة أسباب. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي رعشة خفيفة ويدي كيتعابرو، شنو ندير؟",
+    "answer": "خاصنا نديرو تحليل ديال الغدة الدرقية. هاد التحليل غادي يعاوننا نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "رعشة",
+        "تعب اليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مرض الصرع هو مرض نفسي؟ شنو العلاج؟",
+    "answer": "مرض الصرع ماشي مرض نفسي، كاين بزاف د العلاجات المتاحة. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فالعضام، شحال من حبة ميلجا خاصني ناخد؟",
+    "answer": "خاصك تاكل ميلجا تلاتة دالمرات فالنهار. ولكن خاصك تشوف طبيب قبل ما تبدا تاخد الدوا.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعضام"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا لعلاج الصرع؟",
+    "answer": "كاينين دوايات لعلاج الصرع، ولكن خاصك تشوف طبيب باش يحدد ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش هاد الدوا ديال التهاب الأعصاب خطير على الرضيع؟",
+    "answer": "خاصك تسولي طبيب على نوع الدوا، حيث كاين دوايات لي ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع خفيف ف صباعي، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يقيم الحالة ديالك ويشوف واش كاين شي مشكل.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مرض الصرع عندو علاج نهائي؟",
+    "answer": "ماكاينش علاج نهائي للصرع، ولكن كاين دوايات وعمليات لي ممكن تعاون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش نتعامل مع النفاار من الدار؟",
+    "answer": "الرياضة وتغيير البيئة كيساعدو بزاف، جرب تقرا ولا تدير شي نشاط كيحبس الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش الصداع النصفي كايسبب ليك الوجع فالصدر؟",
+    "answer": "الصداع النصفي ممكن يسبب آلام فالصدر، ولكن خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "وجع فالصدر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو السبب ف الصداع قبل الدورة؟",
+    "answer": "السبب هو التغيرات الهرمونية لي كايترافقو مع الدورة الشهرية.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "فين كاين العلاج ديال الصلاحت لموشريقا؟",
+    "answer": "خاصك تقلب على طبيب ترويض فبلاصتك. كاينين مستشفيات كبار فبلادك كيديرو هاد العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي أوجاع ف صباع رجلي، ما بقيتش قادر نتمشى.",
+    "answer": "خاصك تشوف طبيب باش يشوف الحالة ديالك. الألم يمكن يكون عندو أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "أوجاع ف صباع رجلي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش القدرة على الإنجاب عند اللي عندهم الصرع؟",
+    "answer": "هادشي كيعتمد على الحالة ديالك. خاصك تشاور مع الطبيب قبل ما تفكر فالحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش التهاب لعضم خطير؟",
+    "answer": "أكيد، خاصك تشوف طبيب باش يحدد لك الحالة. زيادة الأعراض يمكن تخلي الأمور تتعقد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كايعالجو الصرع؟",
+    "answer": "العلاج كيعتمد على نوع التشنج والعمر ديال المريض. كيتختار العلاج المناسب حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "يدي و راسي بارتجفو بزاف دابا.",
+    "answer": "سلامتك، خاصك تشوف طبيب ديال الأعصاب. غادي يحلل لك الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "بارتجاف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف لسانّي ليمن.",
+    "answer": "خاصك تشوف طبيب ديال الأعصاب. غادي يشوف الحالة ويعطيك النصائح اللازمة.",
+    "entities": {
+      "symptoms": [
+        "وجع ف لسان"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هوما أعراض الصرع؟",
+    "answer": "الأعراض كيتختلفو من واحد لواحد. كاينين أنواع مختلفة، والعلاج كيتحدد على حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش هادشي كايقتل ولا كايسبب الشلل؟",
+    "answer": "ما كاينش مشكل للمخ ولا للعظام، خاصك تشاور مع طبيب ديال الأعصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "بغيت شي دوا للصداع والدوخة والنوبات اللي كيجيو بزاف هاد الأيام.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "دوخة",
+        "نوبات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحس بتنميل فكرشي وظهر، وعندي بؤرة متغيرة الحجم فالتقرير.",
+    "answer": "خاصك تتابع مع طبيب الأعصاب باش يكمل التحاليل.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش نستعمل زيت كبد الحوت باش نداوي التوتر وأنا عندي 16 عام؟",
+    "answer": "تقدر تاخد كبسولة وحدة بعد العشا، وواحدة أخرى قبل العشا.",
+    "entities": {
+      "symptoms": [
+        "توتر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو الناقل العصبي لي مسؤول على القلق؟",
+    "answer": "الناقل العصبي هو السيروتونين، وهو مهم فالعلاج ديال القلق والاكتئاب.",
+    "entities": {
+      "symptoms": [
+        "قلق"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مشكل فالعصاب ديالي وكنت متوتر ديما. واش كاين شي دوا ليه؟",
+    "answer": "خاصك تاخد شي مهدئ، وغالباً غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "توتر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "المخطط ديال الكهرباء قال بلي بنتي عندها كريز. واش مشروب الديباكين مزيان باش تبدا العلاج ديالها؟",
+    "answer": "خاص الطبيب يحدد لك العلاج المناسب حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "كريز"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو التهاب الأعصاب وشنو لي كايسببو؟",
+    "answer": "التهاب الأعصاب كيتسبب فالألم وضعف الحركة، وكيحتاج علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "ضعف الحركة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع قاصح و تنميل فالأطراف.",
+    "answer": "خاصك تشوف طبيب باش يدير ليك الفحوصات اللازمة. هاد الأعراض ممكن تكون عندها أسباب خطيرة.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش نقص البوتاسيوم والكالسيوم كايسبب التشنجات؟",
+    "answer": "نعم، نقص هاد المعادن يمكن يسبب التشنجات. خاصك تتأكد من مستوى المعادن فالجسم.",
+    "entities": {
+      "symptoms": [
+        "تشنجات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا ما فهمتش علاش كاينة هاد رجفان ديال اليد.",
+    "answer": "خاصك تدير تحليل للغدة الدرقية، حيث يمكن يكون السبب وراثي أو توتر.",
+    "entities": {
+      "symptoms": [
+        "رجفان"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي التهاب فالمسالك البولية، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب مختص فالمسالك البولية. العلاج كيتطلب وصفة طبية.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "المسالك البولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش الصداع التشنجي مرض مزمن ولا حاد؟",
+    "answer": "الصداع التشنجي يعتبر مرض مزمن. خاصك تتبع العلاج المناسب مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي علاج للدوران و الدوخة؟",
+    "answer": "خاصك تشوف طبيب باش يحدد السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "دوران",
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "الطفل عندو 4 سنين، واش خاصو راديو؟",
+    "answer": "من الأحسن تدير راديو للدماغ باش تتأكد من الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي نقصان خلايا اللامفايسيت، واش هادشي خطر؟",
+    "answer": "خاصك تراقب حالتك مع الطبيب، حيث ممكن يكون عندك مشكل فالمناعة.",
+    "entities": {
+      "symptoms": [
+        "نقصان خلايا اللامفايسيت"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي دوا لباركنسون؟",
+    "answer": "كاين علاج، خاصك تتابع مع طبيب مختص باش يحدد ليك الطريقة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي أحسن طريقة لعلاج باركنسون؟",
+    "answer": "أحسن علاج هو الدوبا والكاري، وكيما كاين أمل فالعلاج بالجينات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش تريبتيزول كايتستعمل ف لعلاج الشقيقة؟",
+    "answer": "آه، تريبتيزول كايتستعمل ف علاج الشقيقة وكيعاون ف تخفيف الألم.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو الدوا ديال النيرال؟",
+    "answer": "الدوا ديال النيرال كيتستعمل ف حالات الذهان وكيعاون ف تنظيم الشهية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف الجنب ديال الراس، شنو ندير؟",
+    "answer": "خاصك تدير راديو أو رنين مغناطيسي باش تشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الجنب ديال الراس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي كاس متحجر فصبعي اليسرى؟",
+    "answer": "خاصك تشوف طبيب عام، ممكن يتقاد من الداخل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي دوخة بعد الحبوب، شنو ندير؟",
+    "answer": "خاصك تتواصل مع الطبيب، حيث ممكن تكون عندك آثار جانبية.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي علاج للصبر؟",
+    "answer": "تخريب الأعصاب كيتطلب علاج خاص، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي ألم فالعظام ديال الجبهة، شنو ندير؟",
+    "answer": "خاصك تدير راديو الأشعة السينية و تمشي عند طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعظام"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي رعشة فليدّي ليمن، علاش؟",
+    "answer": "ممكن تكون عندك ارتجاف أولي أو أعراض باركنسون. خاصك تدير فحص عند طبيب باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "رعشة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش نقدر نحفظ القرآن بلا ما ننسى؟",
+    "answer": "خاصك تهتم بالصحة النفسية وتدير رياضة. الماكلة الصحية كتساعد كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مشكل فالمعدة، شنو ندير؟",
+    "answer": "يمكن تحتاج أدوية أو علاج طبيعي. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي تنميل فالجسم، شنو السبب؟",
+    "answer": "خاصني نديرو تحاليل باش نعرفو السبب. التنميل ممكن يكون عندو أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مرض الصرع كايأثر على الحمل؟",
+    "answer": "نعم، يمكن يسبب الإجهاض إذا كانت النوبات متكررة. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو علاج الصرع؟",
+    "answer": "العلاج كيتحدد على حسب نوع الصرع. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي شد فالعصب ديال الحوض، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب. العلاج كيتطلب تقييم دقيق.",
+    "entities": {
+      "symptoms": [
+        "شد فالعصب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "بغيت دوا لاعتلال العصب الحركي، فين نلقاه؟",
+    "answer": "تقدر تاخد كبسولات ليركا75ملجم من الصيدليات. خاصك تلتزم بالجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف الجهة اليسرى ف مقدمة النيف. شنو السبب و شنو هو العلاج؟",
+    "answer": "يمكن يكون عندك التهاب أو مشكلة فالعصاب. خاصك تمشي عند الطبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الجهة اليسرى ف مقدمة النيف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش السخونة كتأثر على الدماغ؟",
+    "answer": "أه، السخونة كتقدر تسبب مشاكل ف الدماغ، خصوصا عند الدراري. خاص العلاج ف الوقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي إلتصاق ف الكتف ديالي. شنو خاصني ندير؟",
+    "answer": "خاصك تمشي عند طبيب مختص. يمكن يحتاج الأمر لجراحة أو علاج طبيعي.",
+    "entities": {
+      "symptoms": [
+        "إلتصاق ف الكتف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فليدّي ليمن, كايبان ليا بلي راه نتايم.",
+    "answer": "خاصك تشوف طبيب إذا كان عندك أعراض أخرى. يمكن يكون عندك ضغط على الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف اليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو السبب و العلاج ديال رعشة اليد عند راجل عندو 66 عام؟",
+    "answer": "خاصه يمشي عند طبيب مختص فالأعصاب. يمكن يكون عنده نوع من الرعاش اللي يحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "رعشة اليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي التهاب عصبي فاليد، واش كاين شي مضاعفات؟",
+    "answer": "يمكن تكون مضاعفات إذا ما تعالجش ف الوقت. خاصك تستاشر طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "التهاب عصبي فاليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاينة شي وجع ف راس بحال إلا كاينة نبضات ف صداع قاصح و الدوخة قاصحة؟",
+    "answer": "خاصك تمشي عند طبيب باش يدير لك الفحوصات. يمكن يكون عندك مشكل فالأعصاب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الراس",
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف راسي من جيهت ليسر ديال راسي.",
+    "answer": "واش كاتعاني من صداع مستمر؟ خاصك تشوف طبيب إذا كان الأمر مزعج.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الراس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واحد الشخص عندو جلطة فالدماغ، واش مزيان ليه يحرك راسو؟",
+    "answer": "الحركة مهمة بزاف، ولكن خاصها تكون تحت إشراف طبي. خاصه متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي التهاب فصبّاطي أرجلي، شنو العلاج؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ديالك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شحال من جرعة مزيانة ديال النوروبين؟",
+    "answer": "الجرعة كتعتمد على الحالة ديالك، خاصك تسول الطبيب المختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي 17 عام ويدي كا يترعدو، شنو السبب والعلاج؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ترعيدة اليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاتضرني راصي دايما، شنو السبب؟",
+    "answer": "خاصك تقيس الضغط ديالك وتمشي عند الطبيب باش يعطوك وصفة.",
+    "entities": {
+      "symptoms": [
+        "ألم الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كنت عندي الصداع 20 عام وناخد ليفيريتاسيتام، شنو الأعراض الحادة؟",
+    "answer": "هاد الدوا عندو آثار جانبية خفيفة، خاصك تراقب الأعراض ديالك.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "المرا رأسها حاد ومتقطع، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب نفسي وتدير تحاليل وفحص.",
+    "entities": {
+      "symptoms": [
+        "ألم الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مرض باركنسون وراثي؟",
+    "answer": "باركنسون كيتعلق بالوراثة، وممكن ينتقل للأحفاد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي علامات مزيانة ديال الاكتئاب؟",
+    "answer": "كاين علامات بحال الحزن وفقدان الاهتمام، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "اكتئاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش نتأكد بلي عندي مرض هنتينغتون؟",
+    "answer": "خاصك تشاور طبيب مختص باش يشوف حالتك ويعطيك التوجيهات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا ديال شلل الدماغ؟",
+    "answer": "كاينين بعض الأدوية، لكن التحسن كيعتمد على الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو الفرق بين الصرع والكهربا الزايدة ف الدماغ؟",
+    "answer": "الصرع هو حالة مرضية، والكهربا الزايدة كتعني نشاط كهربائي غير طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحس براسي عيّان وباغي نعس، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأعصاب إلا بقات الأعراض، باش نقيمو الحالة.",
+    "entities": {
+      "symptoms": [
+        "عياء"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "ملي كايتغوط كا نحس براسي كاندوب.",
+    "answer": "خاصك تدير قياس ضغط الدم و فحص لفقر الدم. سير عند طبيب باش يشوف ليك.",
+    "entities": {
+      "symptoms": [
+        "دوب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كا يضرني هادشي شهور ملي كانمشي نعس و كاندير صبعي لقدام و لور.",
+    "answer": "النعاس كيجيني ملي كتبدا تقلق ولا متوتر.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي علاج لالتهاب العصب الخامس؟",
+    "answer": "كاينين علاجات مختلفة، خاص استشارة طبيب لتحديد الأنسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب العصب الخامس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كنحس بضربات قلب ف راسي هادي 7 شهور، شنو هاد العلامات؟",
+    "answer": "ممكن يكون عندك ضغط مرتفع أو توتر. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضربات قلب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو السبب ديال التهاب الأعصاب المحيطية؟",
+    "answer": "كاين بزاف الأسباب، من بينها السكري. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأعصاب المحيطية"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو السبب ديال الصداع اللي ما كيتسالاش؟",
+    "answer": "أشهر أنواع الصداع هو الصداع التشنجي. العلاج هو المسكنات والاسترخاء.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كايتعالجو الناس اللي عندهم السحايا؟",
+    "answer": "كيحتاجو مضادات حيوية حسب نوع الالتهاب. نسبة الاستجابة قليلة.",
+    "entities": {
+      "symptoms": [
+        "التهاب السحايا"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو أحسن علاج للصرع والتشنجات عند دري عندو 8 سنين؟",
+    "answer": "كاينين علاجات فعالة، خاص استشارة طبيب لتحديد الأنسب.",
+    "entities": {
+      "symptoms": [
+        "صرع",
+        "تشنجات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي علاج ل ديك لهضرا الصعيبة بعد ما تضرب شي حاجة ف لعضم؟",
+    "answer": "تدريبات النطق عند طبيب مختص كيمكن تعاونا.",
+    "entities": {
+      "symptoms": [
+        "صعوبة في الكلام"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فالحناكب وكنحس بالقي ومرتبق. واش هادشي خطير؟",
+    "answer": "خاصك تشوف طبيب، هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحناكب",
+        "قي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش الطيحة ديال الدراري ف الولادة كتسبب الصرع؟",
+    "answer": "إلا طاح الدراري، ممكن تسبب ليهم إصابة ف الدماغ. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي نوبات ديال الصرع غير ملي ناعس، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص فالأمراض العصبية. غادي يساعدك فالتشخيص والعلاج.",
+    "entities": {
+      "symptoms": [
+        "نوبات الصرع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "بغيت علاج للعصب البصري لي ضاع ليا النضر.",
+    "answer": "خاصك تشوف طبيب مختص باش يحدد السبب ويدير لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضعف النضر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي علاج لوجع ف النص الفوقاني ديال صبعي؟",
+    "answer": "خاصك تدير رسومات عصبية باش نعرفو السبب ونعطيوك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف النص الفوقاني ديال صبع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو مرض التصلب اللويحي وشنو أعراضو؟",
+    "answer": "مرض التصلب اللويحي كيتسبب فضعف الأعصاب وكيأثر على الحركة. الأعراض كتكون متنوعة.",
+    "entities": {
+      "symptoms": [
+        "ضعف الأعصاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي رجفة ف رجلي، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص باش يقيم الحالة ديالك. العلاج كيتحدد حسب السبب.",
+    "entities": {
+      "symptoms": [
+        "رجفة ف رجلي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف عيني و الضغط كايتزاد، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يتأكد من الحالة ديالك. ممكن يكون عندك مشكل فالجهاز البصري.",
+    "entities": {
+      "symptoms": [
+        "وجع ف عيني",
+        "ضغط"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي أعراض نقص فيتامين ب12؟",
+    "answer": "الأعراض كتشمل التعب، الهزال، واعتلال الأعصاب. خاصك تتأكد من مستوى الفيتامين.",
+    "entities": {
+      "symptoms": [
+        "تعب",
+        "هزال",
+        "اعتلال الأعصاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو فقدان الشوف المفاجئ؟",
+    "answer": "فقدان الشوف المفاجئ يقدر يكون بسبب عدة عوامل، بحال ارتفاع ضغط الدم أو السكري. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشوف"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي 52 عام وعندي مشاكل فالتفكير.",
+    "answer": "من الأحسن تدير راديو الأشعة السينية للراس. هاد الفحوصات غادي تعاونك تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالتفكير"
+      ],
+      "medical_field": "العقل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فراسي وراسي تقيل.",
+    "answer": "يمكن تحتاج لفحوصات الدم باش تشوف واش عندك شي مشكل صحي. من الأحسن تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرأس",
+        "ثقل فالرأس"
+      ],
+      "medical_field": "العقل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو أحسن دوا للذاكرة؟",
+    "answer": "أوميغا 3 مزيانة بزاف للذاكرة. كنصحك تستعملها بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العقل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي ألم فكتفي ولا فصدري؟",
+    "answer": "خاصك تشوف طبيب إذا كان كاين ألم. هادشي يقدر يكون علامة على شي مشكل.",
+    "entities": {
+      "symptoms": [
+        "ألم فكتف",
+        "ألم فصدر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي ضغط دم عالي ووجع فالرجل.",
+    "answer": "خاصك تدير فحوصات باش تعرف السبب. الضغط الدموي العالي يقدر يكون سبب للألم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجل",
+        "ضغط دم عالي"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي تنمل فصبع.",
+    "answer": "التنمل عندو بزاف دالأسباب، خاصك دير فحوصات الدم. يمكن يكون نقص فالفيتامينات.",
+    "entities": {
+      "symptoms": [
+        "تنمل فصبع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع قاصح ملي كنفايق.",
+    "answer": "خاصك تمشي عند طبيب ديال العقل. هاد الصداع يقدر يكون علامة على شي مشكل.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "العقل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي ألم فالعنق وكاين شي برد.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعنق",
+        "برد"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو أعراض التهاب العصب البصري؟",
+    "answer": "التهاب العصب البصري كيسبب ضعف فالرؤية مع ألم فالعين. العلاج كيتطلب استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضعف فالرؤية",
+        "ألم فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي شحا ديال الضو ف راسي و كانستعمل دوا تيجروتول ٢٠٠.",
+    "answer": "خاصك تشوف طبيب باش يحدد السبب و يعطك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "شحا ديال الضو ف الراس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو الخطر الحقيقي ديال فيروس كورونا؟",
+    "answer": "فيروس كورونا كيسبب التهابات خطيرة فالجهاز التنفسي. خاصنا نكونو حذرين و نتبعو الإجراءات الوقائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي علاج لعصبية اليدين والوجه بعد التلف؟",
+    "answer": "كاين العلاج بالخلايا الجذعية، ولكن خاصك تشوف طبيب مختص لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "عصبية اليدين",
+        "عصبية الوجه"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين عندي وجع ف راسي و كانحس بالدوخة.",
+    "answer": "خاصك دير فحصات للدم و الرنين المغناطيسي باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الراس",
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي لوجع ف لحمي، واش كاين شي دوا؟",
+    "answer": "ممكن باراسيتامول يعاونك، ولكن خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف اللحمي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا لعلاج سكارتيزم؟",
+    "answer": "العلاج كيعتمد على نوع السرطان، خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو العلاج الجديد لمرض الصرع عند الدراري؟",
+    "answer": "العلاج كيعتمد على نوع الصرع، وكيحتاج متابعة طبية مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو السبب ديال ظهور عروق خضر فالصدر و اليدين؟",
+    "answer": "خاصك تشوف طبيب باش يحدد السبب و يعطك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ظهور عروق خضر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كايتعالجو ضمورات خلايا الدماغ؟",
+    "answer": "ماكاينش علاج خاص، ولكن كاينين أدوية كتعزز الصحة العقلية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي عصب ف الجهة السادسة، وسببات لي مشاكل ف الوجه والفم.",
+    "answer": "ممكن البوتكس يعاونك، خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "مشاكل ف الوجه",
+        "مشاكل ف الفم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فطرف راسي من تحت النيف.",
+    "answer": "إذا كان عندك القيء، خاصك تمشي عند الطبيب دابا.",
+    "entities": {
+      "symptoms": [
+        "وجع فطرف راسي",
+        "قيء"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي دوا للصداع النصفي لي كيجي بزاف؟",
+    "answer": "خاصنا نستثنيو المعضلات الطبية قبل ما نعتابرو أن المشكل نفسي.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "إمتا كايتحسب مرض الصرع وراثي؟",
+    "answer": "إلا كان كاين كتر من واحد فالعائلة، أو كانو عندو شي خلل فشي إنزيمات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كايديرني صداع بزاف و كايمحي لي النضر.",
+    "answer": "ممكن يكون صداع نصفي أو الاكتئاب، خاصك تشوف طبيب نفسي أو طبيب أعصاب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "محي النضر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واحد الشخص كيعاني من الصداع المستمر مع دوخة.",
+    "answer": "خاصك تشوف الأذن الداخلية، حيت ممكن تكون فيها التهاب.",
+    "entities": {
+      "symptoms": [
+        "صداع مستمر",
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي باركسون و الدوا زادني الاكتئاب.",
+    "answer": "المرض بوحدو كايمكن يأدي للاكتئاب، والدوا كايزيد فالاكتئاب.",
+    "entities": {
+      "symptoms": [
+        "باركسون",
+        "اكتئاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو اللي كيسبب الدوخة والصداع؟",
+    "answer": "خاصك تقيس القوة ديال النظر.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش التهاب المخ كايعيّي العقل؟",
+    "answer": "خاصك تشوف شي طبيب حيت كاين بزاف ديال الإجراءات لإعادة التأهيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "هادشي تقيل بزاف فالنطق.",
+    "answer": "هادشي من أعراض الورم اللي فالمخ، خاصك تشوف طبيب نفسي.",
+    "entities": {
+      "symptoms": [
+        "تقيل فالنطق"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو الدوا ديال مرض العصب؟",
+    "answer": "العلاج كيتضمن نيروتين مع فيتامين ب12 وبروفين، ولكن خاصك تشوف طبيب ديال الأعصاب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شحال كاتخدم الحجامة ف مرض التصلب اللويحي؟",
+    "answer": "الحجامة ماكاتعالجش التصلب اللويحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "السلام عليكم، كا نحس بالدوخة.",
+    "answer": "يمكن يكون عندك التهاب فالودن.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هما الأسباب ديال النوبات ديال الصرع؟",
+    "answer": "الأسباب كيمكن تكون متعددة، ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عافاك، دكتور، راه فيه الإشعاع فالتقرير ديال المخ.",
+    "answer": "التقرير كيبين التهاب فالجيب، خاصك تتبع مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي شلل فالعصب السابع، واش كاين شي علاج؟",
+    "answer": "ممكن تدير عملية تجميلية لتحسين الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي التهاب ف ركبتي، واش العملية كتأثر على الأعصاب؟",
+    "answer": "العملية ما كتأثرش على الأعصاب ديال الرجل.",
+    "entities": {
+      "symptoms": [
+        "التهاب ف ركبتي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فالصدر و الظهر.",
+    "answer": "خاصك دير راديو للظهر وتراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر",
+        "وجع فظهر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هوما من أبرز الاضطرابات العصبية؟",
+    "answer": "الاعتلال العصبي ديال الأعصاب الطرفية هو من بين الأكثر شيوعاً.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو آخر علاج لنوبات التوتر العضلي؟",
+    "answer": "كاين بزاف د العلاجات، ولكن خاصك تحدد شنو بالضبط اللي بغيتي تعرف عليه.",
+    "entities": {
+      "symptoms": [
+        "نوبات التوتر العضلي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي إلتهاب عصبي ف الرجلين، شنو أحسن علاج؟",
+    "answer": "خاصك تشوف طبيب باش يحدد نوع الإلتهاب، حيث كاين بزاف د الأسباب.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب عصبي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا مريض بالتصلب المتعدد و عندي التهاب البول، شنو العلاج؟",
+    "answer": "من الأحسن تتبع العلاج بالمضادات الحيوية المناسبة، وضروري تشاور طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب البول"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي إلتهاب ف يدي و رجلي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الأعصاب، التحاليل مهمة باش نعرفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو العلاج ديال الصداع النصفي؟",
+    "answer": "خاصك تسول طبيب مختص فالأمراض العصبية، حيث العلاج كيتعلق بنوع الصداع.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش لمرض الصرع كايموت شي واحد؟",
+    "answer": "خاصك تشوف طبيب مختص، حيث كاينين نصائح مهمة تتبعها.",
+    "entities": {
+      "symptoms": [
+        "صرع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع فالعصب، شنو السبب؟",
+    "answer": "ممكن يكون عندك ضغط على العصب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي ألم فالعينين، شنو ندير؟",
+    "answer": "خاصك تقيس ضغط الدم و تدير أشعة الراديو للمخ.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعينين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحس براسي سخون و كايضرني راسي بزاف.",
+    "answer": "من الأحسن تشاور مع طبيب، حيث يمكن يكون عندك أعراض أخرى.",
+    "entities": {
+      "symptoms": [
+        "سخونة",
+        "ألم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "صاحبي ضرب رجلو ب زاجا كبيرة و كاين احتمال تهرس ليه رجلو.",
+    "answer": "خاصو يمشي عند الطبيب دابا. هاد الحالة ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "جرح في الرجل"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش ممكن واحد عندو مرض فالعصب ديال المخ يتعافى من بعد حقن ريبيف؟",
+    "answer": "هاد المرض صعيب يتعالج، ولكن العلاج كيساعد فالتخفيف من الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي التهاب في ظهري و كيوصل للقدم اليمنى. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص. ممكن تحتاج تصوير بالأشعة.",
+    "entities": {
+      "symptoms": [
+        "التهاب في الظهر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي كيس فالصدر على ليسر ديال راسي و كيسبب ليا الصداع.",
+    "answer": "خاصك تشوف طبيب عصباني باش يتأكد من الحالة. الكشف ضروري.",
+    "entities": {
+      "symptoms": [
+        "كيس في الصدر",
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي نقص ف فيتامين ب١٢ و كنخد إبرة ٥٠٠ كل نهار. واش هاد الجرعة مزيانة؟",
+    "answer": "الجرعة مزيانة، ولكن خاصك تراقب التحاليل ديالك.",
+    "entities": {
+      "symptoms": [
+        "نقص فيتامين ب١٢"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع و مشاكل ف التركيز و الكلام و نوبات هلع.",
+    "answer": "نوبات الهلع كاتكون نتيجة للضغط النفسي. خاصك تشوف طبيب نفسي.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "مشاكل في التركيز",
+        "نوبات هلع"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "بغيت نعرف النتيجة ديال التقرير لي عطيتيني.",
+    "answer": "التقرير كيبين بلي كاين التهاب فالجيوب الأنفية. خاصك علاج.",
+    "entities": {
+      "symptoms": [
+        "التهاب في الجيوب الأنفية"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش التنميل فاليدين من أعراض السكر؟",
+    "answer": "إيلا كان السكر ف الدم ماشي مضبوط، هاد التنميل ممكن يكون من أعراض السكر.",
+    "entities": {
+      "symptoms": [
+        "التنميل"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش ممكن يكون عندو التهاب فالعصب الخامس؟",
+    "answer": "خاصو يشوف طبيب مختص باش يعرف السبب الحقيقي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي خزلة فجهة وحدة من الراس، شنو ندير؟",
+    "answer": "خاصك تمشي عند الطبيب، يمكن تحتاج شي علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "خزلة فجهة وحدة من الراس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو لعلاج ديال صادع لعقل؟",
+    "answer": "خاصك تحدد الأعراض اللي كتحس بيهم، ومن بعد تقدر تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا عندي 20 عام، كنعاني من الصداع والقيء. شنو ندير؟",
+    "answer": "خاصنا نديرو رنين مغناطيسي باش نشوفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "قيء"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا عندي انتابرو، شنو العلاج اللي ماكيتعارضش معاه؟",
+    "answer": "يمكن تستعمل سوماتريبتان (٢٥ ملجم) مرة بعد الفطور ومرة بعد العشا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي علاج ل الشلل الدماغي؟",
+    "answer": "ماكاينش علاج شاف، ولكن العلاج يمكن يساعد فالتخفيف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين عندي وجع ف راسي و كا ناخود دوا ديال الضغط. شنو ندير؟",
+    "answer": "يمكن يكون الألم جاي من دوا الضغط، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا فبعض المرات كانحس بشي حاجة ف راسي. شنو السبب؟",
+    "answer": "يمكن يكون عندك شي حاجة خاصة، خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حاجة ف الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا ديال ضغط السحايا؟",
+    "answer": "كاينين بزاف د العلاجات، خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش نعتني بجهازي العصبي؟",
+    "answer": "خاصك تأكل ماكلة صحية وتركز على الفيتامينات. استشارة طبيب مهمة إذا كان عندك مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو علامات المرض اللي خاصني نسول عليها؟",
+    "answer": "فقدان الشهية، عدم التركيز، والنسيان كيمكن يكونو علامات لمشاكل صحية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشهية",
+        "عدم التركيز",
+        "النسيان"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش نتعامل مع ولدي اللي عندو مشكل فذاكرتو؟",
+    "answer": "خاصك تدير تخطيط دماغ وتستاشر طبيب باش يعطيه العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هاد الراديو اللي عندي فعمري 64 عام؟",
+    "answer": "هاد الراديو كيبين بلي كاين تضرر فالدماغ، وخصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع مزمن، شنو السبب؟",
+    "answer": "كاين بزاف دالأسباب للصداع المزمن. خاصنا نديرو تصوير باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع مزمن"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي دوخة وصعوبة فالتفكير، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب العيون أو مختص فالبصر. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "صعوبة فالتفكير"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع قاتل هادي 10 أيام، شنو ندير؟",
+    "answer": "خاصك تفحص الحرارة ديالك وتستاشر طبيب. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي توتر وصداع طويل، شنو الحل؟",
+    "answer": "التوتر كيساهم فبزاف دالأمراض. خاصك تشوف طبيب وتدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "توتر",
+        "صداع"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو غيوقع إلا تفريقات ليه شي وحدة من لعروق فليديه؟",
+    "answer": "خاصك تشوف طبيب باش يحدد السبب. ممكن تكون عندك مشكلة فالدورة الدموية.",
+    "entities": {
+      "symptoms": [
+        "تفريقات فالعروق"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كا يأثر الصرع والدوا ديالو على الحمل؟",
+    "answer": "بزاف من الأدوية ديال الصرع ماشي مزيانة ففترة الحمل. خاصك تستشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين خطر من الهبوط المتكرر فالدورة الدموية فالمخ؟",
+    "answer": "الهبوط الحاد كيمكن يسبب جلطة فالمخ. خاصك تشوف طبيب فهاذ الحالة.",
+    "entities": {
+      "symptoms": [
+        "هبوط فالدورة الدموية"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دوا لضمر الأعصاب وراثياً؟",
+    "answer": "ما كاينش علاج محدد، ولكن خاصك تشوف طبيب مختص فالأعصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاج التهاب الأعصاب شنو هو؟",
+    "answer": "العلاج كيعتمد على السبب ونوع الالتهاب. خاصك تشوف طبيب أعصاب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأعصاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع وضغط فالنص ديال الوجه، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب باش يشوف حالة العصب الوجهي.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "ضغط فالنص ديال الوجه"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش ضروري نستعملو المضاد الحيوي للعصب السابع؟",
+    "answer": "خاصك تشوف طبيب مختص فالأعصاب. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي تنميل فليد الشمال، شنو ندير؟",
+    "answer": "خاصك تدير فحص لفيتامين ب12 وراديو للدماغ.",
+    "entities": {
+      "symptoms": [
+        "تنميل فليد الشمال"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش يمكن يكون التهاب الأعصاب؟",
+    "answer": "خاصك تمشي لطبيب باش يشوف السخانة اللي كتحس بها.",
+    "entities": {
+      "symptoms": [
+        "سخانة فالصدر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو علاج التهاب المافاسيل؟",
+    "answer": "العلاج كيعتمد على الحالة. خاصك تشوف طبيب أعصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش التهاب الأعصاب المحيطية يقدر يسبب الشلل؟",
+    "answer": "إيلا كان عند شي واحد التهاب فالأعصاب، يقدر يسبب الشلل فالأطراف.",
+    "entities": {
+      "symptoms": [
+        "الشلل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي دوخة فالجهة اليسرى ديال اليد والقدم، مع ارتفاع الضغط. شنو يمكن يكون؟",
+    "answer": "خاصك تشوف طبيب، حيث ممكن يكون عندك مشكل فالدورة الدموية أو الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين علاج نهائي للصرع؟",
+    "answer": "كاينين علاجات كتساعد فالتخفيف من النوبات، ولكن ما كاينش علاج نهائي.",
+    "entities": {
+      "symptoms": [
+        "النوبات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مشكل ف الذاكرة، شنو هو أحسن علاج؟",
+    "answer": "من الأفضل تتجنب الإرهاق، وتقدر تاخد دوا بحال جينكو بايلوبا أو الفيتامينات.",
+    "entities": {
+      "symptoms": [
+        "مشكل ف الذاكرة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين علاج لمرض باركنسون؟",
+    "answer": "خاصك تعوض النقص فالدوبامين، وتتابع مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "مرض باركنسون"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي إرتياح ف عيني اليسرى طول النهار، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب عيون، حيث ممكن يكون عندك مشكل فالرؤية.",
+    "entities": {
+      "symptoms": [
+        "إرتياح ف العين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "ملي كاينعصبني، كايمشي ليا الدموع من عيني. شنو هادشي؟",
+    "answer": "غالبا كيتعلق بالصداع النصفي، خاصك ترتاح نفسيا وجسديا.",
+    "entities": {
+      "symptoms": [
+        "الدموع",
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "من بعد ما تعافيت من انتفاخ العصب البصري، كاين وجع ف راسي. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب، حيث ممكن يكون عندك مشكل فالعصب البصري.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي أنواع علاج التشنجات عند الدراري؟",
+    "answer": "كاينين أدوية جديدة آمنة بزاف، ولكن خاصها تكون تحت إشراف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التشنجات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي زهايمر و ماعرفتش شنو ندير.",
+    "answer": "خاصك تشاور طبيب مختص. الرياضة والمكلة الصحية كيساعدو على تحسين الذاكرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "بنت عندها 16 عام و كتعااني من وجع فالراس و رجفان فاليد.",
+    "answer": "خاصها زيارة طبيب للأعصاب و دير ليها الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالراس",
+        "رجفان فاليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي خزات ف الجهة اليسرى د الراس بلا أعراض أخرى. شنو السبب؟",
+    "answer": "خاصنا نديرو راديو باش نشوفو واش كاين شي حاجة. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "خزات ف الجهة اليسرى د الراس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شحال ديال الوقت باش يتعالج نزيف ف اللسان؟",
+    "answer": "إذا كان النزيف كبير، خاصو تدخل جراحي. إذا كان صغير، العلاج يكون أسهل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي دوا كيعالج الشلل النسيف؟",
+    "answer": "العلاج الفيزيائي هو الأفضل إذا كان الشلل بسبب الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي 34 عام و كنعاني من الصداع شبه يومي. شنو السبب؟",
+    "answer": "خاصك تمشي عند طبيب الأعصاب باش يشوف السبب و يدير ليك الفحوصات.",
+    "entities": {
+      "symptoms": [
+        "صداع شبه يومي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاش كاينة رجفة فاليدي؟",
+    "answer": "الأسباب يمكن تكون عضوية. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "رجفة فاليدي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "وجهي كحل بحال البنج. شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب العيون و تدير أشعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي ألم ف الكعب ديال ليمن. شنو السبب؟",
+    "answer": "خاصك تدير فحوصات باش تعرف شنو عندك.",
+    "entities": {
+      "symptoms": [
+        "ألم ف الكعب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش تعالج ضعف الإيدين؟",
+    "answer": "خاصك تمشي عند طبيب الأعصاب. العلاج يعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "ضعف الإيدين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي دوخة خايبة بزاف.",
+    "answer": "خاصك تمشي عند طبيب الأعصاب و تدير الفحوصات.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف راسي و ف عين ليمنيا.",
+    "answer": "خاصك تشوف الضغط ديالك و تمشي عند طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف راسي",
+        "وجع ف عين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي ضعف فالجسم و ماكاينش تحسن.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضعف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش ممكن يوقع التهاب فالعصب و تأثر على العضلات؟",
+    "answer": "أي، ممكن يوقع التهاب فالعصب و هادشي يقدر يأثر على العضلات. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش السفر بالطيارة مضر لمريض الصرع؟",
+    "answer": "ماكاينش مشكل فالسفر بالطائرة، ولكن خاصك تكوني متأكدة من الدوا قبل ما تسافري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين علاقة بين تأخر النطق و ضمور المخ؟",
+    "answer": "أي، كاين علاقة بين تأخر النطق و الضمور فالمخ. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "تأخر النطق"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش العصب السمبتاوي يقدر يتجدد بعد سنتين؟",
+    "answer": "إلا تقطع، مايمكنش يرجع لوظيفتو. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو السبب ديال رعشة اليد و العلاج؟",
+    "answer": "الرعشة ممكن تكون بسبب عدة أسباب، بحال الباركنسون أو القلق. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "رعشة اليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فالصدر و ماعرفتش شنو ندير.",
+    "answer": "الوجع فالصدر ممكن يكون بسبب عدة أسباب، خاصك تشوف طبيب فالأقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين طبيب نفسي يعاونني فالمشاكل ديال النسيان؟",
+    "answer": "نعم، كاين أطباء نفسيين يقدرو يعاونوك. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "نسيان"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين تضاريس نافخة فالدماغ؟",
+    "answer": "هادشي كيعني كاين مشاكل فالجهاز العصبي، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عافاك، عندي صداع وكيضرني فالعينين. شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب العيون باش يشوف حالتك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "وجع فالعينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عافاك، واش ممكن تشرح لي شنو هو 'ديفس' لي لقيتو فالتقرير ديالي؟",
+    "answer": "الديفس هو مصطلح طبي كيعني تغييرات فالمخ، خاصك تستاشر طبيب باش يوضح لك أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المخ",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عافاك، واش كاين شي علاج للعصبية الزايدة؟",
+    "answer": "يمكن تشرب أتاي نعناع طري، راه مزيان للاسترخاء. ولكن خاصك تشوف طبيب إذا كانت الحالة مستمرة.",
+    "entities": {
+      "symptoms": [
+        "عصبية زايدة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش عرفتي بلي كاين انضغاط للعصب العجزي الرابع؟",
+    "answer": "خاصك دير راديو للظهر إلا كان عندك ألم فأسفل الظهر.",
+    "entities": {
+      "symptoms": [
+        "ألم فأسفل الظهر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مومكين ترجع الأعصاب لي خاسرا لوضعها صحيح؟",
+    "answer": "الأعصاب لي تهرسات كتاخد وقت طويل باش ترجع كيف كانت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مشكل كندير فيه سخونية و برودة مع رعشة. شنو السبب؟",
+    "answer": "يمكن يكون السبب عصبي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "سخونية",
+        "برودة",
+        "رعشة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فالراس ديما، بغيت شي دوا.",
+    "answer": "خاصك تشوف طبيب نفسي باش يحدد السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالراس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي 23 عام و كاين عندي مشكل ف اليدين و صعيب نتحرك.",
+    "answer": "خاصنا نديرو فحص شامل و نشوفو الأشعات.",
+    "entities": {
+      "symptoms": [
+        "مشكل ف اليدين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عافاك قولي على الصداع النصفي، شنو خاصني ندير؟",
+    "answer": "خاصك تشوف طبيب و يمكن تحتاج علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي جوج د الدوا، واش ماكاينش شي خطر ناخدهم مع دوا آخر؟",
+    "answer": "ماتخافش، ماكاينش خطر فهاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو مرض النعاس وكيفاش يتشخص؟",
+    "answer": "إلا كان القصد هو النوم المفاجئ، كاين بزاف دالأسباب، بحال قلة النعاس والضجيج. خاص استشارة طبيب لتشخيص الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش نخرج من التعب لي كايبان ليا فالصباح؟ راسي كايدير لي الصداع.",
+    "answer": "خاصك تشوف واش عندك مشكل فالنوم. رتاح مزيان وداوي راسك إلا بقات الحالة.",
+    "entities": {
+      "symptoms": [
+        "تعب",
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو العلاج ديال الإصابات ديال الصبعان؟",
+    "answer": "نوصيوك تاخد أبر ميثيكوبلامين، ومن بعد دوز للحبوب. خاصك تشوف طبيب متخصص باش يدير لك التشخيص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فالعينين والمعدة والصبعين.",
+    "answer": "خاصك تشوف طبيب باش يشخص حالتك. هاد الأوجاع ممكن تكون مرتبطة ببعضها.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعينين",
+        "وجع فالمعدة",
+        "وجع فالصبعين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاش كانحس بدوخة ومشكل فالعقل؟",
+    "answer": "يمكن يكون عندك صداع نصفي. خاصك تشوف طبيب باش يشخص الحالة.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هو اسم دوا الصرع وشنو الأدوية اللي كتعاون؟",
+    "answer": "كاين بزاف د الأدوية لعلاج الصرع، وهادشي كيعتامد على الحالة ديال المريض. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي إلتهاب فيدي ورجلي، هادي شهر وما تعالجتش.",
+    "answer": "خاصك تشوف طبيب باش يشوف حالتك. الالتهاب خاصو علاج مناسب.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش الخلايا الجذعية تقدر تعالج الجلطة الدماغية؟",
+    "answer": "ماكاينش نجاح كبير فالعلاج بالخلايا الجذعية للجلطة. الأدوية مازال هي الأساس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "الوالد ديالي كيعاني من مرض الأعصاب. واش مزيان يستعمل كونفينطين؟",
+    "answer": "يمكن يتاخد كونفينطين ب400 ملجم تلات مرات بعد الأكل يوميا. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاش كايضربني الضو فاليد؟",
+    "answer": "خاصنا نتأكدو من القلب ف الطوارئ، أما اليد غادي تتصلح إن شاء الله.",
+    "entities": {
+      "symptoms": [
+        "ضو فاليد"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كايتطورو الأمراض العصبية وشنو طرق العلاج؟",
+    "answer": "الأمراض العصبية كايتطلبو وقت طويل للفهم. إذا كان عندك سؤال على مرض معين، قولي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فصدري كل صباح، شنو الحل؟",
+    "answer": "خاصك تشوف طبيب، يمكن تكون عندك مشكلة فالصدر. ما تآخدش دوا من غير استشارة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين شي علاج للقلق والتوتر؟",
+    "answer": "العلاج كيتضمن الدوا والعلاج النفسي. خاصك تتبع مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "قلق",
+        "توتر"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي رجفة فالرجل اليمنى، شنو السبب؟",
+    "answer": "يمكن يكون عندك مشكل فالأعصاب. خاصك دير فحص طبي.",
+    "entities": {
+      "symptoms": [
+        "رجفة فالرجل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو الفرق بين التهاب العصب و التهاب العظم؟",
+    "answer": "التهاب العصب كيتعلق بالأعصاب، بينما التهاب العظم كيتعلق بالعظام. كل واحد عندو علاج خاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب والعظام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "السلام عليكم. كاين عندي نوبات صعيبة فالرأس. واش هادشي خطير؟ شنو ندير؟",
+    "answer": "خاصك تشاور طبيب نفسي باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [
+        "نوبات صعيبة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فاليد اليسرى والفم. واش هادشي خطير؟",
+    "answer": "خاصك تدير تحاليل باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فاليد اليسرى",
+        "وجع فالفم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "بكيت بزاف وحسيت بالدوخة. شنو ندير؟",
+    "answer": "من الأحسن تتنفس بعمق وتستريح.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع وكندير دوخة. شنو ندير؟",
+    "answer": "يمكن يكون عندك أعراض لفيروس كورونا، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "ملي كاين عندي وجع فالقلب وكندير دوخة. شنو ندير؟",
+    "answer": "من الأحسن تشوف طبيب ديال القلب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالقلب",
+        "دوخة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عافاك دكتور، عندي صداع ووجع فظهري. شنو عندي؟",
+    "answer": "يمكن تكون أعراض لشي مرض، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "وجع فظهري"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عافاك، واش ممكن نعالج دري عندو ضمور فالمخ؟",
+    "answer": "كاينين طرق علاجية، خاص الطبيب يحدد الأنسب.",
+    "entities": {
+      "symptoms": [
+        "ضمور فالمخ"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "بنت عندها نوبات وكتعيا بزاف. شنو ندير؟",
+    "answer": "عافاك زور شي طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "نوبات",
+        "تعيا"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو كيبين أكثر، التيار الكهربائي ولا تخطيط الدماغ؟",
+    "answer": "تخطيط الدماغ كيبين شحال من تيار كاين ف الدماغ، ماشي الرنين المغناطيسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا عندي مرض العصب الخامس، وكناخد الرييكا و الريفوتريل، ومرّا مرّا كاين الوجع فتراماضول.",
+    "answer": "العلاج اللي كيتستعمل بزاف هو النيفومايا، أو يمكن تحتاج تدخل جراحي.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع ف راسي هادي 4 أيام، ووجهي ليمن فيه لحب لخضر.",
+    "answer": "خاصك تشوف الطبيب، يمكن يكون عندك توتر أو شي حاجة أخرى.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "حب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي تفاعل بين سيفوزيم وديبكين 500 ملغ؟",
+    "answer": "ما كاين حتى تأثير على مرض الصرع، يمكن استعمالهم مع بعض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كيفاش كاتوقف دوا ديال الصرع (ديباكين 300 مڭ)؟",
+    "answer": "خاص التأكد من عدم وجود تشنجات، وتخطيط المخ خاص يكون طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا مريض بشحنة فالدماغ هادي 5 سنين، واش كاين شي عملية باش يتحيدو هاد الشحنات؟",
+    "answer": "يمكن يكون العلاج بالأدوية، ولكن خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحس بشي صعقة ف الجهة اليسار ديال رقبتي، وطلعات ليا راسي.",
+    "answer": "يمكن كاينة شي حاجة ف الرقبة خاصها تصلح، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صعقة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عافاك اعطيني شي دوا مزيان للذاكرة، عندي 23 عام.",
+    "answer": "يمكن تاخد قرص ديال سولبيوتامين فورت 400 ملجم بعد الفطور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كايديرني راصي بزاف و ماعنديش الصداع، ولكن كايخلي الواحد يحس براسو محرج.",
+    "answer": "خاصك تدير راديو الأشعة السينية للراس باش نعرفو الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كنحس بالدوخة هادي شهرين، وكنتلعثم فالهضرة.",
+    "answer": "خاصك تشوف طبيب، يمكن يكون عندك شي مشكل فالعصاب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "تلعثم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مريضة بالصرع لي عندها 15 عام تقدر تنتج الدراري؟",
+    "answer": "ممكن مرض الصرع ما يأثرش على الخصوبة ديالها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي حرقا ف نص دالراس، شوية من جيهت لول و لول، و الحرقا كاينة بزاف ف ليد و لعيون.",
+    "answer": "سلامات... هادشي تأثر العصب الخامس.",
+    "entities": {
+      "symptoms": [
+        "حرقا",
+        "وجع ف الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "خدران كبير فمنطقة اليد اليمنى، كاينة النيف، الشفة، والوجه. هاد الخدران كايبان هادي ربع أيام.",
+    "answer": "خاصنا نديرو رنين مغناطيسي باش نعرفو واش كاين شي تصلب لويحي.",
+    "entities": {
+      "symptoms": [
+        "خدران"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "ملي كا نفيق فالصباح كانحس براسي عييان بزاف، صعيب ليا نتنفس، راسي كا يوجعني، و ملي كانمشي كانحس بدوخة شي دقايق، و كانحس براسي كانقز.",
+    "answer": "قاسا طونسيون أُ دارت تيست.",
+    "entities": {
+      "symptoms": [
+        "عياء",
+        "وجع ف الرأس",
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي 16 عام. المشكل ديالي هو ملي كنلعب شي لعبة فين كنجلس وكنوقف، كايبان ليا جسمي كايترعد. واش هادشي كايعني بلي عندي ضعف فالعصابات؟",
+    "answer": "غاليبان ضعف لعضام.",
+    "entities": {
+      "symptoms": [
+        "ترعيدة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هوما المضاعفات لي كايوقعو للناس لي عندهم مرض الصرع الجزئي من بعد ما كياخدو بزاف ديال المنشطات؟",
+    "answer": "كاين بزاف دالخطورات ديال المنشطات، وخصوصا لي عندهم مرض الصرع، داكشي علاش خاصنا ماناخدوهمش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو كيعني التغييرات الضمورية فالمخ؟",
+    "answer": "هاد التغييرات كتعني أن كاين شي تدهور فالصحة العقلية. خاصك تشوف طبيب مختص باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي ولد عندو مشكل فالعقل، واش كاين شي علاج؟",
+    "answer": "يمكن العلاج بالخلايا الجذعية، ولكن خاصك استشارة طبيب مختص. كل حالة كتعتمد على التشخيص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مشكل فالعين وكاين صداع، شنو ندير؟",
+    "answer": "هاد الأعراض كيمكن تكون بسبب التوتر والإرهاق. خاصك ترتاح وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "تعب فالعين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كاين التهاب فالعصب السابع، شنو ندير؟",
+    "answer": "هاد الحالة خاصها علاج، ويمكن تحتاج لوقت. استاشر طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مشكل فالعصب السابع، شنو خاصني ندير؟",
+    "answer": "يمكن يكون فيروس هو السبب. خاصك تشوف طبيب مختص باش يتأكد من الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع وصعوبة فالنطق، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص فالأعصاب. يمكن يكون عندك مشكل يحتاج لعلاج.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي شد فالرجل والظهر والجانب الشمال.",
+    "answer": "من الأحسن تدير الأشعة السينية باش نعرفو السبب ديال العجز.",
+    "entities": {
+      "symptoms": [
+        "شد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مرض فالقلب وضروري نعاود نديرو عملية، شنو هو العلاج؟",
+    "answer": "خاصك تراجع طبيب نفسي وتدير تخطيط كهربائي ديال الدماغ.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع هادي عامين، كيفاش نعاملوه؟",
+    "answer": "خاصك تجاوب معاه بطريقة طبيعية، ولكن خاصو يرد عليك بنفس الطريقة.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "كانحس براسي كاندور ملي كانحط راسي على راسي.",
+    "answer": "كنصحك بقياس ضغط الدم ودير راسم ديال المخ بالكمبيوتر و عرض النتائج للطبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي مرض التصلب المتعدد، واش هاد الأعراض لي عندي من أعراضه؟",
+    "answer": "أه، تقلصات فالصدر والراس ممكن تكون من أعراض مرض التصلب المتعدد.",
+    "entities": {
+      "symptoms": [
+        "تقلصات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي التهاب عصبي فالعصب السابع، واش كاين أمل باش يتشاف؟",
+    "answer": "إمكان يتخدم التجميل، ولكن خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب عصبي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "أنا راجل عندو ألم فالعضلة ديال الفخذ، شنو ندير؟",
+    "answer": "كانقتارح عليك تشوف طبيب ديال العظام باش يدير ليك فحص.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شنو هي النتائج السلبية والإيجابية لعملية جراحية فظهر؟",
+    "answer": "النتائج كتعتمد على السبب اللي خلاك تدير العملية. خاصك تشاور طبيبك باش يعطيك تفاصيل أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "شكون هو أحسن دواء باش يقوي الأعصاب، الفاليبوك ولا لفابيون ولا نيوروفيت؟",
+    "answer": "الفايروبيك أسيد هو الأفضل. خاصك تاخد 600 ملجم كل 12 ساعة مع إيبيانيسين_ب حقنة عضلية كل 3 أيام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "علاش كاتنعس بزاف و كاتعاني من الصداع؟",
+    "answer": "كاين بزاف دالأسباب. خاصك تدير الفحوصات باش نعرفو شنو كيسبب هاد الأعراض.",
+    "entities": {
+      "symptoms": [
+        "الصداع",
+        "النعاس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش كاين شي دور للهرمونات فمرض التصلب اللويحي؟",
+    "answer": "ماكاين حتى مشكل فاستعمال الهرمونات مع الناس اللي عندهم مرض التصلب المزمن، إلا إذا كانوا كياخدو دوا ديال الجهاز المناعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش لعاب ديال ل پيسيس كيدير أضرار على الدماغ؟",
+    "answer": "بالطبع، كايدير أضرار على صحة الدماغ حيت كاينقص من فعالية المستقبلات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي رعشة فاليد و خاصني نخدم، شنو ندير؟",
+    "answer": "خاصك تدير فحص طبي، وخصوصا فحص للبروستات.",
+    "entities": {
+      "symptoms": [
+        "الرعشة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع نصفي و كندير راديو للدماغ؟",
+    "answer": "ممكن يكون السبب التهاب فالجيوب الأنفية. خاصنا نديرو راديو د الراين.",
+    "entities": {
+      "symptoms": [
+        "الصداع النصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش ماماها دارت شي كسيدا و كتضرها راسها؟",
+    "answer": "خاصني ندير راديو الأشعة السينية باش نتأكد من الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "واش مريض الصرع خاصو يتعالج بالديباكين؟",
+    "answer": "التدخين ضار و يقدر يأثر على العلاج. خاصك تتشاور مع طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "إلا بديتي كتحرك رقبتك وسمعتي صوت عروق، واش هادشي عادي؟",
+    "answer": "ممكن يكون عادي، ولكن خاصك تشوف طبيب باش يتأكد. الصوت كيمكن يكون نتيجة توتر أو إجهاد.",
+    "entities": {
+      "symptoms": [
+        "صوت عروق الرقبة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي سؤال على تضخم الكلى، كيفاش نعالجها؟",
+    "answer": "خاصك تشاور مع طبيب مختص فالكلى. العلاج كيتحدد حسب السبب ديال التضخم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فصبعاتي وضهري. شنو السبب؟",
+    "answer": "يمكن يكون بسبب التوتر أو الإجهاد. خاصك ترتاح وتراجع طبيب إلا استمر الوجع.",
+    "entities": {
+      "symptoms": [
+        "وجع فصبعات",
+        "وجع فظهر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي صداع وكنحس بالتوتر، شنو ندير؟",
+    "answer": "يمكن يكون بسبب الضغط النفسي. حاول ترتاح وتدير تمارين الاسترخاء.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "توتر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع ف راسي من لور، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب أذن ونيف وحلق. يمكن يكون عندك مشكل فالأذن أو الجيوب الأنفية.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرأس"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي وجع فالثدي، شنو السبب؟",
+    "answer": "خاصك تمشي لطبيب مختص باش يفحصك. يمكن يكون عندك شي حاجة تحتاج لتشخيص.",
+    "entities": {
+      "symptoms": [
+        "وجع فالثدي"
+      ],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Neurology",
+    "question_darija": "عندي نوبات الصرع، والدوا ماخدامش. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يغير لك العلاج. كاين دوايات أخرى ممكن تكون أنسب ليك.",
+    "entities": {
+      "symptoms": [
+        "نوبات الصرع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  }
+]

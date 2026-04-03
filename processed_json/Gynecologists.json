@@ -1,0 +1,4396 @@
+[
+  {
+    "category": "Gynecologists",
+    "question_darija": "الرضاعة كتمنع الحمل؟",
+    "answer": "ممكن ولكن ماشي أكيد. خاص استشارة طبيب للتأكد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشكل فالدورة الشهرية.",
+    "answer": "خاصك تشوفي طبيب مختص. كاين بزاف ديال الأسباب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالدورة الشهرية"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي واحد الحامض مالح.",
+    "answer": "خود دوا ديال الوحام. خاصك تشوفي طبيب إذا كانت الأعراض قوية.",
+    "entities": {
+      "symptoms": [
+        "الحامض مالح"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش تكبّر القضيب؟",
+    "answer": "العلاج الوحيد هو الجراحة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "السموم الخطيرة على الحمل؟",
+    "answer": "كتسبب مشاكل فالشكل عند الجنين. خاص الحذر من المواد السامة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش القرمشة كتسبب الاجهاض؟",
+    "answer": "بكميات كبيرة آه. خاص الحذر من الأكل المضر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "تأكد من سلامة الغشاء.",
+    "answer": "خاصك تدي تقييم عند طبيب مختص. هاد الشي مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "مدة الحيض طويلة بزاف",
+    "answer": "يمكن يكون عندك اضطراب في الدورة. خاصك تشوفي طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "هبطت غير جوج أيام",
+    "answer": "هذا ماشي عادي، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش كايعالجو ظهور البضاض؟",
+    "answer": "ما كاينش شي دوا خاص، خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "ظهور البضاض"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي الدورة الشهرية قاصحة",
+    "answer": "خودي مسكنات الألم، وراجعي الطبيب إذا استمر الألم.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي فرازات قبل من الدورة؟",
+    "answer": "أه، هادشي عادي. لكن إذا كان عندك تساؤلات، استشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشكل دهون فالصدر",
+    "answer": "راجعي طبيب جراحة، غادي يساعدك.",
+    "entities": {
+      "symptoms": [
+        "دهون فالصدر"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي الدورة الشهرية متأخرة",
+    "answer": "خاصك دير تيست ديال الحمل فالدم باش تتأكدي.",
+    "entities": {
+      "symptoms": [
+        "الدورة الشهرية متأخرة"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حاملا و عندي انتفاخ فالبطن",
+    "answer": "الانتفاخ ممكن يكون عادي فالحمل، ولكن خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ فالبطن"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش القاميلا كتحبس الحمل؟",
+    "answer": "القاميلا كتكون فعالة بنسبة 98% فإيقاف الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "حمل مرة أخرى وسقط",
+    "answer": "خاصك دير فحوصات لتكرار الإجهاض مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "العلاج ديال التهاب الأمعاء",
+    "answer": "خاصك تراجعي الطبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي ألم فالحبل المنوي.",
+    "answer": "خاصك دير تحليل وتراجع مع الطبيب. هادشي مهم باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو العلاج للحصى فالكلي؟",
+    "answer": "العلاج كيعتمد على نوع الحصى والمكان لي جاي منها. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي نزيف مع حبوب ميرسيلون.",
+    "answer": "هادشي عادي مع استعمال الحبوب. خاصك تراقبي الوضعية ديالك.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشكل فالسلس البول.",
+    "answer": "خاصك تشوف الطبيب لتحديد العلاج المناسب. هاد المشكل كيتطلب متابعة.",
+    "entities": {
+      "symptoms": [
+        "سلس البول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي شك فخصوبتي وقلة النشاط الجنسي.",
+    "answer": "خاصك تحدد مشكلتك بوضوح وتستاشر مع الطبيب. العلاج كيتطلب تقييم دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو الأسباب ديال الانحباس البول عند الرجال؟",
+    "answer": "السرطان ديال البروستات ممكن يكون من الأسباب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "علاقتو مع السرطان ديال الكبدة فالمرحلة المتقدمة؟",
+    "answer": "السرطان ديال الكبدة فالمراحل المتقدمة كيتطلب علاج خاص. خاص استشارة طبيب مختص لتحديد الخيارات المتاحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو دوا الحساسية؟",
+    "answer": "كاينين أدوية متعددة للحساسية، بحال مضادات الهيستامين. خاص استشارة طبيب لتحديد الأنسب ليك.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش مزيان تتحمل الألم فالشهرية؟",
+    "answer": "من الأفضل ما تتحملش الألم. إذا كان الألم قوي، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "وقتاش كايتستعمل الفيبريون قبل الجماع؟",
+    "answer": "الفيبريون خاصو يتستعمل قبل الجماع بساعة. هاد الشي كيساعد على تحسين التجربة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو السبب ديال انسداد القنوات ديال الصرف؟",
+    "answer": "انسداد القنوات كيتسبب فمشاكل صحية متعددة. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو التحليل اللي خاص باش نتحققو من صحة العضو الذكري؟",
+    "answer": "التحليل الأساسي هو فحص الهرمونات. كيمكن للطبيب يطلب تحاليل إضافية حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الذكرية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كاينين شي أسباب لضعف الانتصاب؟",
+    "answer": "ضعف الانتصاب كيتسبب غالبا فمشاكل نفسية أو صحية. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "ضعف الانتصاب"
+      ],
+      "medical_field": "الأمراض الذكرية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينين شي طرق باش نعاودو نجددو الحنش؟",
+    "answer": "التلقيح الصناعي أو استعمال الأنابيب كيمكن يكونو طرق فعالة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الهرمونات كيساعدو فالحمل؟",
+    "answer": "الهرمونات عندها دور كبير فالحمل. خاص متابعة مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش القرمشة كتمنع الحمل؟",
+    "answer": "القرمشة ما كتمنعش الحمل. خاص استشارة طبيب إذا كان عندك أي تساؤلات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو اللي كيسبب الحصى فالبول؟",
+    "answer": "الحصى فالبول كيمكن تكون نتيجة لعدة أسباب، بحال قلة شرب الماء. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "حصى فالبول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الدواء عندو تأثير على القدرة الجنسية؟",
+    "answer": "بعض الأدوية كيمكن تأثر على القدرة الجنسية. خاص استشارة طبيب إذا كان عندك أي قلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الذكرية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا متأكدة أنني حاملا.",
+    "answer": "دير تحليل الحمل باش تتأكدي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو السبب ديال الملل فالعلاقات الجنسية؟",
+    "answer": "غالبا السبب هو عدم التواصل أو التفاهم بين الشريكين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العلاقات الجنسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي أعراض وجود غشاء البنادم؟",
+    "answer": "الأعراض كيمكن تكون آلام أو عدم الراحة. خاصو يدير فحص ذاتي.",
+    "entities": {
+      "symptoms": [
+        "آلام",
+        "عدم الراحة"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "العلاج ديال التهاب المسالك البولية؟",
+    "answer": "العلاج كيعتمد على نتائج تحليل البول. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب المسالك البولية"
+      ],
+      "medical_field": "المسالك البولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حرقا فالبول.",
+    "answer": "خاصك تدير تحليل البول وتستاشر مع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حرقان فالبول"
+      ],
+      "medical_field": "المسالك البولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "علاج فعال لتكيس المبايض؟",
+    "answer": "عافاك اتصل بالطبيب ديالك باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تكيس المبايض",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج التبول اللارادي؟",
+    "answer": "خاصك تشوف طبيب مختص باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التبول اللارادي"
+      ],
+      "medical_field": "المسالك البولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي التهاب مهبلي قوي",
+    "answer": "خاصك تشوفي طبيب باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب مهبلي"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش مرض الانوفيليس كيتنقل عن طريق التواصيل الجنسي؟",
+    "answer": "مرض الانوفيليس ما كيتنقلش عن طريق الجنس. خاصك تحافظي على صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "بغيت شي دوا ديال الماما لي كيدير راسها.",
+    "answer": "من الأفضل تشوفي طبيب مختص باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي التهاب ملتحمي ف الفرج",
+    "answer": "يمكن يكون عندك حساسية أو التهاب. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحمي"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حرقة كبيرة فالمعدة من بعد القيود",
+    "answer": "يمكن تكون عندك مشكلة في الهضم. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرقة فالمعدة"
+      ],
+      "medical_field": "أمراض الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "العلاج ديال ضعف حركة الحيوانات المنوية",
+    "answer": "كاينين منشطات وادويه هرمونية. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هوما أعراض مرض الكلى؟",
+    "answer": "أعراض مرض الكلى كتشمل الألم فالظهر، التورم، والتعب. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالظهر",
+        "تورم",
+        "تعب"
+      ],
+      "medical_field": "أمراض الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي مرض كيضر العذراء؟",
+    "answer": "كاين أمراض نادرة ولكن ممكن. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فاش كيبدا الجنين كيتجه للأسفل فواحد من الأسابيع ديال الحمل؟",
+    "answer": "الجنين كيبدا يتجه للأسفل فالأسبوع السابع. هاد المرحلة مهمة فالحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة شي طريقة باش ننقصو من كمية الدم فاش كنحملو؟",
+    "answer": "ما كايناش طريقة آمنة لنقص الدم فالحمل. خاصك تتبعي نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الحبوب ديال البروباتيك كتحمل؟",
+    "answer": "الحبوب ديال البروباتيك آمنة للنساء الحوامل. ولكن خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش ممكن للمرا تنتج جوج د البيضات من نفس المبيض؟",
+    "answer": "نعم، ممكن للمرا تنتج جوج د البيضات من نفس المبيض. هاد الشي كيتعلق بالهرمونات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الخصوبة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فأين شهر كيبدا التطور ديال الجنين؟",
+    "answer": "التطور ديال الجنين كيبدا بعد الشهر الثالث. هاد المرحلة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو أحسن علاج لغثيان الحمل؟",
+    "answer": "أحسن علاج لغثيان الحمل هو الراحة وشرب السوائل. خاصك تستشيري طبيبك.",
+    "entities": {
+      "symptoms": [
+        "غثيان الحمل"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج ديال التهاب فالخصية؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص. ممكن تحتاج أدوية مضادة للالتهاب.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الخصية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فينا شهر كتحس بالجنين كيتحرك؟",
+    "answer": "كتحسي بالجنين كيتحرك فالشهر الخامس. هاد الشي كيبان فالحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السلمون مزيان للحامل؟",
+    "answer": "من الأفضل تجنب السلمون، خصوصا في الشهور الأولى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشاكل فالإنجاب.",
+    "answer": "خاصك دير تيست ديال الهرمونات وسونار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش التورم ديال المنطق الحساس من أعراض الحمل؟",
+    "answer": "نعم، خاصك دير تيست ديال الحمل.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي وجع فالركبة ديالي اليسرى.",
+    "answer": "خاصنا نلقاو السبب ونتعاملو معاه.",
+    "entities": {
+      "symptoms": [
+        "وجع فالركبة"
+      ],
+      "medical_field": "الجهاز الحركي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج ديال الحبوب البيضا فالصبعان؟",
+    "answer": "خاصك تشوف طبيب الجلدية.",
+    "entities": {
+      "symptoms": [
+        "حبوب بيضا"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي تغيير ف شكل المهبل من بعد ما كتكون عندك الجنس الشرجي؟",
+    "answer": "أه، هادشي كايسبب تغييرات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج لتضخم الحويصلات المزهرة؟",
+    "answer": "خاصنا نديرو فحص باش نعرفو السبب ونعطيو العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الحكة المهبلية كتسبب فقدان العضلات؟",
+    "answer": "الحكة المهبلية ما كتسببش فقدان العضلات، ولكن خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة مهبلية"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نداوي الالتهاب المزمن للقولون؟",
+    "answer": "كاينين طرق متعددة للعلاج، خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حاملة، واش نقدر ناخد أوميغا 3؟",
+    "answer": "نعم، ولكن من الأفضل تستشيري طبيبك قبل ما تاخديها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عيني كتضرني بزاف. شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب العيون باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشكل فالعقل، شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب مختص فالصحة النفسية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النفسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش البكتيريا البولية كتأثر على الإنجاب؟",
+    "answer": "ما كيتأثرش بزاف، ولكن خاصك تراقبي صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا كنعاني من جفاف فالمهبل، شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "جفاف المهبل"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج حصوات الكلى؟",
+    "answer": "العلاج كيتحدد حسب نوع الحصى، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أحسن وقت ندير عملية تكميم الرجلين؟",
+    "answer": "خاصك تستشيري طبيب فهاد الموضوع. الوقت كيتحدد حسب الحالة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "العلاج ديال السيلان شنو هو؟",
+    "answer": "السيلان كيتعالج بالبنسلين. خاصك تشوفي طبيب جلد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينين الوجع فالكرش والخصر من علامات الحمل؟",
+    "answer": "ما كاينش علاقة بيناتهم. خاص علامات الحمل تكون واضحة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكرش",
+        "وجع فالخصر"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الاستخدام المنتظم لوسائل منع الحمل واش كيضر؟",
+    "answer": "ما كاين حتى مشكل. وسائل منع الحمل آمنة فالغالب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الأسباب ديال الزيادة فعدد الأمراض فالحمل شنو هي؟",
+    "answer": "التغيرات الهرمونية كتلعب دور كبير. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الرضاعة عندها تأثير على الصحة العامة؟",
+    "answer": "الرضاعة كتحسن الصحة العامة. كتعطي فوائد كبيرة للأم والطفل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج ديال نقص الحيوانات المنوية؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص. كاينين منشطات ممكن تفيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الخصوبة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو التأثير ديال الكحول على الإنجاب؟",
+    "answer": "الكحول كيمكن يأثر سلبا على الإنجاب. خاص استشارة طبيب لتحديد المخاطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الملح والدم فالبول كيحبس الحمل؟",
+    "answer": "الملح والدم فالبول ما كيأثروش على الحمل. خاص استشارة طبيب إذا كان عندك مشاكل.",
+    "entities": {
+      "symptoms": [
+        "الدم فالبول"
+      ],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج ديال التبول اللارادي عند الدراري؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص. كاين طرق مختلفة حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "التبول اللارادي"
+      ],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش البنادول آمن للمرأة الحامل فشهر الثامن؟",
+    "answer": "البنادول آمن بشكل عام، ولكن خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الغثيان والدوخة المستمرة لابسو الحمل؟",
+    "answer": "الغثيان والدوخة كيتعتبروا من الأعراض الشائعة فالحمل. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "الغثيان",
+        "الدوخة"
+      ],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش شرب البروجيڤا بوحدو كيساعد على الحمل؟",
+    "answer": "نعم، البروجيڤا كيساعد على تنظيم الدورة. ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فاش كيبان الهرمون ديال الحمل ف الدم؟",
+    "answer": "كيبان الهرمون فالأسبوع الرابع من الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي التهاب المسالك البولية، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب المسالك البولية"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش التدخين فالحمل ضار؟",
+    "answer": "نعم، التدخين فالحمل كيضر بصحة الجنين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السفر كيأثر على الحمل؟",
+    "answer": "السفر لمسافات طويلة ممكن يأثر على الحمل، خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الوزن الزايد كيخلي الحمل صعيب؟",
+    "answer": "نعم، الوزن الزايد كيقدر يصعب الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج ديال ضعف الحيوانات المنوية؟",
+    "answer": "يمكن تاخد فيتامين إي والريتينول لتحسين الحالة.",
+    "entities": {
+      "symptoms": [
+        "ضعف الحيوانات المنوية"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو العلاقة بين البطن والظهر؟",
+    "answer": "عافاك حدد الأعراض بشكل دقيق. هادشي غادي يساعدنا نفهمو أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش القهوة كتحسن الدورة الشهرية؟",
+    "answer": "ما كاينش دراسات كافية على هاد الموضوع. خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي البواسير وأنا حامل فشهر تمنية.",
+    "answer": "عافاك ضروري تشوفي طبيب. خاصك متابعة دقيقة.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج حلمة مقلوبة؟",
+    "answer": "يمكن تحتاجي استشارة طبيب مختص. العلاج كيتطلب تقنيات خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "سمح ليا، أنا ما عنديش حليب فالمرض.",
+    "answer": "يمكن تحتاجي تحاليل هرمونات الحليب. استشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الوالدة عندها ألم قوي فكرشها ملي كتكون شهورها تسعود.",
+    "answer": "خاصها تشوف طبيب فحال أسرع. الألم القوي يحتاج متابعة.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الاستمناء كيأثر على القوة العضلية واللياقة؟",
+    "answer": "ما كاينش داعي للقلق. الاستمناء ما كيتأثرش بشكل كبير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النفسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش خطير باش ندخلو الما ف فم المرا؟",
+    "answer": "ما دام موافقة وما كاينش مشاكل صحية، ما كاينش خطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حرقان فالبول وغازات بزاف.",
+    "answer": "خاصك تشوف طبيب. هاد الأعراض ممكن تشير لالتهابات.",
+    "entities": {
+      "symptoms": [
+        "حرقان فالبول",
+        "غازات"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نقدر نوصل للأطباء رسميا؟",
+    "answer": "يمكنك التواصل معهم عن طريق الاستشارة الطبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج تضخم البروستات؟",
+    "answer": "العلاج كيعتمد على الأعراض. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كافي نتسجل فتيست ديال إيدز من بعد شهر؟",
+    "answer": "نعم، يمكن إعادة إصداره بعد ثلاثة شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المنقولة جنسيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الصداع فالبول شنو كيعني؟",
+    "answer": "يعني وجود التهاب في مجاري البول. خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع فالبول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي عقم، شنو الحل؟",
+    "answer": "خاصك ترجع للطبيب باش تعرف السبب وتاخد العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الخصوبة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "وقتاش نقدر ندير الجماع من بعد الكورتاج؟",
+    "answer": "يمكن بعد أسبوعين على الأكثر للشفاء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة شي فوايد فدهن القضيب بزيت الزيتون والعسل؟",
+    "answer": "ماكاينش شي فوائد مثبتة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الجنسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي علاج للفقم فالرحم؟",
+    "answer": "العملية الجراحية هي الحل الأفضل. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "فقم فالرحم"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كيتقلص الرحم بعد الولادة؟",
+    "answer": "الرحم كيتقلص بعد الولادة، ولكن الحجم ديالو مايتأثرش بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي التهاب المفاصل مزمن.",
+    "answer": "خاصك مضاد حيوي لمدة تلت سيمانات. استاشر طبيبك.",
+    "entities": {
+      "symptoms": [
+        "التهاب المفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج البروتينات المثانة؟",
+    "answer": "مضاد حيوي ومطهّر، والأهم هو علاج السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المسالك البولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حاملة وعندي ألم في الجانب السفلي ديال الثدي.",
+    "answer": "الألم فالثدي كيمكن يكون طبيعي، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الثدي"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نقدر نحصل على حمل بسرعة؟",
+    "answer": "الجماع في الوقت المناسب كيساعد. استشيري طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حاملة وعندي ألم فالبطن.",
+    "answer": "خاصك تشوفي طبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي أعراض الحمل فالرّضاعة؟",
+    "answer": "من الأعراض كاين الغثيان والقيء. خاصك تراقبي صحتك مزيان.",
+    "entities": {
+      "symptoms": [
+        "الغثيان",
+        "القيء"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي واحد الأجنة مجمد من 2011، واش مازال موجود؟",
+    "answer": "خاصك تسولي طبيب مختص فهاد المجال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كايسبب دود البطن التهاب المثانة؟",
+    "answer": "ما كاينش علاقة مباشرة بين الحالتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش قرصات الإنزلاق مفيدين للسرعة ديال القذف؟",
+    "answer": "إي، كايتأجل القذف ملي كايتستعملو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كايساعد التمسك باش تحس بالجنين فالشهر الخامس؟",
+    "answer": "إي، هادشي كايقلل من القلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش حرقان البول كيعني بلي راك حاملة؟",
+    "answer": "ما كاينش دليل قاطع على هاد الشي.",
+    "entities": {
+      "symptoms": [
+        "حرقان البول"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فأي شهر كيبان الجنين؟",
+    "answer": "كيبدا يبان من الشهر الثالث حتى الرابع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "ما كاين حتى ضرر فالجماع وقت الدورة الشهرية.",
+    "answer": "هاد الشي عادي وما كيسببش مشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كان كيحس بالقيح قبل وبعد ما دار الدورة، ولكن الدورة كانت قليلة.",
+    "answer": "خاصك تراجعي طبيب إذا استمر هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حرقان وخز فالبضات.",
+    "answer": "خاصك تشوفي طبيب إذا كاين أعراض أخرى.",
+    "entities": {
+      "symptoms": [
+        "حرقان",
+        "وخز"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي ألم فالصدر قبل الشهرية.",
+    "answer": "هاد الألم عادي، ولكن من الأفضل تستشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش العازل الذكري كيحمي من الحمل؟",
+    "answer": "نعم، هو وسيلة فعالة لمنع الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل فالثامن شهر وعندي آلام فظهر.",
+    "answer": "من الأفضل تستشيري طبيب حول الألم.",
+    "entities": {
+      "symptoms": [
+        "آلام فظهر"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة شي انتقال جنسي لليرقان؟",
+    "answer": "نعم، اليرقان يمكن أن ينتقل جنسياً.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي الحالة ديال الجنين فبداية الشهر السابع؟",
+    "answer": "الجنين كيبدا يتطور بشكل كبير فهاد المرحلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الكلوميد كيأثر على عدد الإفرازات بعد التبويض؟",
+    "answer": "نعم، الكلوميد يمكن أن يزيد من الإفرازات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الدوالي الصغيرة فالرجلين كتأثر على الانتصاب؟",
+    "answer": "ما كتأثرش بشكل كبير على الانتصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الرجال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش تكيس المبايض كيخلي الواحد يزيد فالوزن؟",
+    "answer": "نعم، تكيس المبايض يمكن أن يسبب زيادة في الوزن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كيس المبيض عند النسا كيعني نزول الدم؟",
+    "answer": "لا، ماشي بالضرورة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "وقتاش كيتدار الجماع بعد العملية القيصرية؟",
+    "answer": "يمكن الجماع بعد أربعين يوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل 38 أسبوع، واش ممكن يتزاد؟",
+    "answer": "ما كاين لاش، كلشي غادي يكون بخير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج تورم البزق والتهاب الأعضاء المرتبطة؟",
+    "answer": "خاصك تشاور مع طبيب مختص باش يعطيك تشخيص دقيق وعلاج مناسب.",
+    "entities": {
+      "symptoms": [
+        "تورم البزق",
+        "التهاب الأعضاء"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "النتائج ديال التحليل ديال الحمل إيجابية وسلبية، والدم كان سلبي. شنو ندير؟",
+    "answer": "خاصك تعتمدي على التحليل الدموي وتستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الحبوب ديال منع الحمل كتعالج التكيستيت المحيطي؟",
+    "answer": "الحبوب ماشي هي العلاج الرئيسي، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش حبوب منع الحمل هي لي خلاتني نزيد فالبطن؟",
+    "answer": "ممكن ولكن نادرا، خاصك تراقبي صحتك مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "زيادة فالبطن"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عدم انتظام الدورة بعد الولادة، شنو ندير؟",
+    "answer": "خاصك تديري تحاليل هرمونات الحليب وتستشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "عدم انتظام الدورة"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج التبول اللارادي؟",
+    "answer": "عافاك صيفطي عينة من البول ديالك للتحليل، وغادي نساعدوك.",
+    "entities": {
+      "symptoms": [
+        "التبول اللارادي"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هوما الأسباب ديال سرعة القذف وضعف الانتصاب؟",
+    "answer": "الأسباب متنوعة، خاصك تشوف طبيب مختص باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "سرعة القذف",
+        "ضعف الانتصاب"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الدوا ديال القرجوع ممكن يأثر على الحمل؟",
+    "answer": "ممكن، خاصك تستشيري طبيب قبل ما تاخدي أي دواء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "خاصك تمنع الحمل أثناء الحمل؟",
+    "answer": "ما كيتبدلش السري خارج الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي إحساس قوي بالحرقة فالباب ديال القضيب بعد التبول.",
+    "answer": "هاد الإحساس ممكن يكون بسبب التهاب مجاري البول. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرقة فالباب ديال القضيب"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الكورتزون مزيان للحامل؟",
+    "answer": "الكورتزون غالبا ما يكونش ضار للحامل، ولكن خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عدم استقرار الدورة الشهرية ديالي و النزول ديالها بفترات طويلة.",
+    "answer": "السبب كيتحدد من خلال الفحص والتشخيص. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "عدم استقرار الدورة الشهرية"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حمل خارج الرحم، خاصو يتوقف.",
+    "answer": "يمكن تحتاج لعملية جراحية. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "مرحبا، واش ممكن تسبب هاد الدوا العقم؟",
+    "answer": "هاد الدوا ما كيسببش العقم. خاصك استشارة طبيب إذا كان عندك تساؤلات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كايتأثر الحمل بالبروتينات؟",
+    "answer": "علا حساب نوع البروتينات. خاص استشارة طبيب لتحديد التأثير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "النزول ديال الدم بعد الجماع للحامل فشهر السابع واش عادي؟",
+    "answer": "خاصك تشوفي طبيب باش يتحقق من الحالة. هاد الشي ممكن يكون خطر.",
+    "entities": {
+      "symptoms": [
+        "النزول ديال الدم"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الكريم المهبلي مزيان إلا بغيت نولد؟",
+    "answer": "الكريمات كيتختلفو حسب النوع. خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "ما قدرتش نحبس البول ديالي بزاف، شنو ندير؟",
+    "answer": "خاصك تديري تحليل بول. هادشي غادي يساعد في تحديد المشكلة.",
+    "entities": {
+      "symptoms": [
+        "حبس البول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي تكيس فالعدوي وباغي شي دوا باش نحيدو.",
+    "answer": "خاصك ترجعي لطبيب التخصص. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [
+        "تكيس"
+      ],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فيما كيتكشف الجنين بالضبط؟",
+    "answer": "الجنين كيتكشف بعد الشهر الثالث. هادشي مهم للمراقبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الكمون والليمون كايتفاعلو مع دوا ديال الحمل؟",
+    "answer": "خاصك تسولي طبيب، بعض المكونات ممكن تأثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة شي عيادة لعضم فهاد المنطقة؟",
+    "answer": "ما عنديش فكرة على العيادات. خاصك تسول في المنطقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو سمك القضيب؟",
+    "answer": "السمك ديالو كيتراوح بين 5 و8 سنتيمتر. هادشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي يدين كبيرة وصغيرة اللي ما خلقتهومش.",
+    "answer": "عافاك سير عند الطبيب ديالك. هو اللي يقدر يساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي خطر من حبوب الفحم للغازات فشهر الحمل الثالث؟",
+    "answer": "ما كاين حتى خطر. ولكن خاصك تسولي الطبيب ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السريحة كتأثر على الخصيتين؟",
+    "answer": "السريحة ما كتأثرش بشكل كبير. ولكن خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كسر القضيب وانحناءه.",
+    "answer": "عافاك عيط للطبيب ديالك. خاص فحص طبي لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "كسر القضيب",
+        "انحناء القضيب"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي علامة ديال الولادة؟",
+    "answer": "آه، كاين علامات. خاصك تراقبي الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الم كيسبب ألم فالصدر والقولون الطبيعي.",
+    "answer": "خاصك دير تحليل مخبري. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "ألم فقولون"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش ضروري باش يرافق عملية الإبادة الإفرازات المهبلية؟",
+    "answer": "لا، ماشي ضروري. ولكن استشارة الطبيب مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الرياضة كتعالج مرض التبول الارادي؟",
+    "answer": "الرياضة كتساعد، ولكن خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "العلاج ديال الدوالي الرجولية.",
+    "answer": "كيتم علاج الدوالي بطرق جراحية أو غير جراحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الدوري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السدوفاج ضار بالرضاعة؟",
+    "answer": "يمكن ليك ترضعو حيت هو آمن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الرضاعة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي ألم فوق الثدي، عندي 23 عام.",
+    "answer": "راجعي طبيب باطني.",
+    "entities": {
+      "symptoms": [
+        "ألم فوق الثدي"
+      ],
+      "medical_field": "الأمراض الباطنية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة شي علاقة بين شرب الكمون المغلي و انخفاض الهرمونات ديال الحمل؟",
+    "answer": "نعم، عندو تأثير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهرمونات",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش زيت الزيتون مفيد فالعلاج ديال حصى الكلى؟",
+    "answer": "ما كاينش شي دراسات موثوقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "حصى الكلى",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي ضرر فالصدر ديالي ملي كيرضع راجلي؟",
+    "answer": "خاصك تحافظي على النظافة. إذا كان عندك أي ألم، من الأفضل تزوري الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ضرر فالصدر"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حاملة من الأسبوع الرابع وعندي وجع فأسفل البطن.",
+    "answer": "الوجع فأسفل البطن ممكن يكون طبيعي، ولكن خاصك تشوفي الطبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "وجع فأسفل البطن"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الدوا ديال باراسيتامول كيعالج البروتينات المهبلية؟",
+    "answer": "باراسيتامول ما كيعالجش البروتينات المهبلية. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الخصية الوحدة كتأثر على الإنجاب؟",
+    "answer": "لا، الخصية الوحدة ما كتأثرش على الإنجاب. كاينين رجال كينجبوا بخصية وحدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الرجال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا مريضة بالنقرس، واش كاين شي دوا؟",
+    "answer": "كاينين أدوية للنقرس، ولكن خاصك تشوفي طبيب باطني لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نقرس"
+      ],
+      "medical_field": "طب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش شرب لما بعد الجماع خطير؟",
+    "answer": "لا، شرب لما بعد الجماع ما غيسببش شي ضرر. ولكن خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة شي حاجة لي كتمنع الحمل من بعد 4 ولا 3 مرات ديال العلاقة الجنسية؟",
+    "answer": "لا، ما كاين حتى شي حاجة كتمنع الحمل فهاد الحالة. خاصك تكوني واعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيعاني من تأخر الدورة الشهرية لعدة أشهر.",
+    "answer": "خاصك تشوفي طبيب لتحديد السبب. شحال عمرك؟",
+    "entities": {
+      "symptoms": [
+        "تأخر الدورة الشهرية"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي وجع فالبريزة ديالي كي جا و كيمشي",
+    "answer": "هاد الشي ممكن يكون بسبب بوعير. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبريزة"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش سرعة القذف كتسبب التأخر فالحمل؟",
+    "answer": "سرعة القذف ممكن تأثر على الإنجاب. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الجرثومة المعدية أثرت على الحمل ديالك؟",
+    "answer": "الجرثومة المعدية ممكن تأثر بشكل كبير على الحمل. خاصك تراجعي طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي 395 وانا حاملة فالستة شهور",
+    "answer": "خاصك ترجعي لطبيبك في أقرب وقت. هاد الحالة تحتاج متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فاش من وقت كايتغلب المرا على الغثيان ديال الحمل؟",
+    "answer": "كل وحدة كتختلف عن الأخرى. خاصك تستشيري طبيبك.",
+    "entities": {
+      "symptoms": [
+        "الغثيان"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش تقدر تخلص من البول الليلي؟",
+    "answer": "خاصك تمشي عند الطبيب و تتبع التعليمات ديالو. العلاج كيساعد.",
+    "entities": {
+      "symptoms": [
+        "البول الليلي"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "النزول ديال سائل شبه الحليب بعد تأخر الولادة بيامين ولا كاين الحيض؟",
+    "answer": "هاد الشي ممكن يسبب التهيج. خاصك تراجعي طبيب.",
+    "entities": {
+      "symptoms": [
+        "سائل شبه الحليب"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو أحسن دوا لوجع الدورة الشهرية؟",
+    "answer": "أحسن علاج هو استشارة طبيب مختص. يمكن يصف لك دوا مناسب لحالتك.",
+    "entities": {
+      "symptoms": [
+        "وجع الدورة الشهرية"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي دم مقطوع من مدة أيام.",
+    "answer": "خاصك تشوف الطبيب باش يشوف حالتك ويعالجها.",
+    "entities": {
+      "symptoms": [
+        "دم مقطوع"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الدم ديالي حمر و بني.",
+    "answer": "شحال ف عمرك و واش مازال مامزوج و لا باقة حاملا؟",
+    "entities": {
+      "symptoms": [
+        "دم حمر و بني"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الحمل اللي كيدوم 12 شهر كيأثر على الحبوب ديال منع الحمل؟",
+    "answer": "ما يقدرش يتأخر، خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فاش من وقت يمكن ناخد الدوا ديال النعاس؟",
+    "answer": "حسب الحالة ديالك، خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "درت فحص طبي و عطاوني دوا ديال القلق ولكن ما نفعش.",
+    "answer": "يمكن تحتاج دير فحص الهرمونات أو تغيير الدوا.",
+    "entities": {
+      "symptoms": [
+        "قلق"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش البواسير عند النسا كيأثرو على الجماع من الخلف؟",
+    "answer": "بالطبع، راه مؤلم وكيأثر على العلاقة.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السريحة كتسبب العقم؟",
+    "answer": "بشكل عام، إلا ما حصلتيش على مضاعفات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش يمكن ليا نمارس الرياضة بعد الولادة القيصرية؟",
+    "answer": "بعد شهرين، غادي تبدا الرياضة ديالك بشكل تدريجي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السائل المنوي كايسبب الحمل؟",
+    "answer": "نعم، إلا وصل البيض للرحم. السائل المنوي هو اللي كيساهم فالحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإنجاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "زوجتي دارت تحاليل الحمل وطلعات سالبة، شنو ندير؟",
+    "answer": "خاصكم تراجعو مع الطبيب. يمكن يكون عندها أسباب أخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإنجاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش عملية الفتق كتأثر على الإنجاب؟",
+    "answer": "إلا درتيها مزيان، ما غاديش تأثر. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو الحل للاجهاض عند النسا؟",
+    "answer": "الحل كيتطلب استشارة طبيب مختص. كل حالة عندها خصوصياتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإنجاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي انحناء فالصدر.",
+    "answer": "إلا ما كانش عندك مشكل صحي، ما كاينش ما يدير. خاصك غير تراقبي الوضع.",
+    "entities": {
+      "symptoms": [
+        "انحناء فالصدر"
+      ],
+      "medical_field": "الصدر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "علاج نزول اوساخ بنيه بعد شهر من العلاج.",
+    "answer": "هاد الحالة خاصها تتعالج عند الطبيب. يمكن يكون عندك مشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "نزول اوساخ بنيه"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حاملة بالشهر الأول وباغي نطبق روتين للشعر.",
+    "answer": "من الأفضل تبعدي على المواد الكيميائية. استعملي منتجات طبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السكرة كتأثر على الحمل؟",
+    "answer": "السكرة ما كتأثرش على الحمل بشكل مباشر. ولكن خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي علاج لتنزيل الطمث المتأخر لي كيتستعمل شي 10 أيام؟",
+    "answer": "كاين بعض العلاجات، ولكن خاصك تستشيري طبيب. ما كاينش علاج مخصص لهاد الشي.",
+    "entities": {
+      "symptoms": [
+        "الطمث المتأخر"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش سونار التفصيلي للجنين هو نفسو سونار ثلاثي الأبعاد؟",
+    "answer": "نعم، سونار التفصيلي هو رباعي الأبعاد. كيعطي تفاصيل أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة انتقال ديال الإيدز من خلال الإظافر؟",
+    "answer": "لا، ما كاينش انتقال للإيدز من الإظافر. خاص الدم يكون موجود.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المنقولة جنسياً",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "علامات الحمل ونزول الثدي.",
+    "answer": "من علامات الحمل كاين الإحساس بثقل في الثدي. نزول الثدي يمكن يكون علامة.",
+    "entities": {
+      "symptoms": [
+        "نزول الثدي"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي خطر من علاج هرمونات الحليب والبيويضات على الخصيتين؟",
+    "answer": "لا، ما كاين حتى خطر. خاص غير متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهرمونات",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كل شهر كيعاني من احتقان.",
+    "answer": "يمكن لك تاخد مسكنات الألم. ولكن خاصك تشوف طبيب إذا استمر الألم.",
+    "entities": {
+      "symptoms": [
+        "احتقان"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين علاقة بين تفجير البويضة وجنس الجنين؟",
+    "answer": "ما كاين حتى علاقة. جنس الجنين كيتحدد من الحيوانات المنوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الخصوبة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش العادة السرية كتسبب السرطان؟",
+    "answer": "لا، العادة السرية ما كتسببش السرطان. خاص غير تكون عندك معلومات صحيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الغثيان طبيعي فالحمل؟",
+    "answer": "نعم، الغثيان عادي فالحمل. كيتسبب فيه التغيرات الهرمونية.",
+    "entities": {
+      "symptoms": [
+        "غثيان"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشكل فالمعدة، كايكون مقهور بزاف.",
+    "answer": "يمكن يكون عندك مشكل هضمي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي أعراض الإيدز بعد فترة طويلة من التعرض؟",
+    "answer": "الأعراض كتختلف من شخص لآخر. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإيدز",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "ما سبب التهاب المفاصل الحاد؟",
+    "answer": "السبب غالباً كيكون ميكروب. خاصك تشوف طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "التهاب المفاصل"
+      ],
+      "medical_field": "المفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فينا نهار من الشهر باش ناخد الحبوب؟",
+    "answer": "من النهار اللول من الدورة الشهرية. خاصك تتبعي التعليمات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "منع الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "بغيت نطول القضيب ديالي.",
+    "answer": "كاينين طرق جراحية، ولكن خاصك تعرف المخاطر. استشر طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الدوالي كيسببو القصر؟",
+    "answer": "ما كاين حتى علاقة بين الدوالي والطول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي داء الفطريات وأنا حامل فشهر السبعا.",
+    "answer": "خاصك ترجعي لطبيبك باش يعالجها.",
+    "entities": {
+      "symptoms": [
+        "داء الفطريات"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش المرا حملات من أول مرة؟",
+    "answer": "يقدر يوقع الحمل بعد الجماع، ولكن كاينين عوامل كتأثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي علاقة بين حصاة الكلي وحصاة الرجل اليسرى؟",
+    "answer": "ما كاين حتى علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا فشهر 20 ديال الحمل.",
+    "answer": "خاصك تراقبي صحتك وتستشيري طبيبك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي قطعة لحم صغيرة حول فتحه الشرج.",
+    "answer": "خاصك تراجعي طبيب مختص للفحص.",
+    "entities": {
+      "symptoms": [
+        "قطعة لحم حول فتحه الشرج"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش مزيان نستعمل السوبر كيك فالحمل؟",
+    "answer": "آه، هاد الدوا آمن للحامل، ولكن خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "المكلة اللي كتساعد فالتهاب البروستات؟",
+    "answer": "الزبيب، البذور، والعسل كيساعدو فالتخفيف.",
+    "entities": {
+      "symptoms": [
+        "التهاب البروستات"
+      ],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين انتقال الإيدز عن طريق اللعب؟",
+    "answer": "الإيدز ما كيتنقلش عن طريق اللعب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الالتهاب البول كيمنع الحمل؟",
+    "answer": "ممكن، ولكن خاصو يتعالجو قبل الحمل.",
+    "entities": {
+      "symptoms": [
+        "التهاب البول"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "بغيت نولد جوج ولاد، واش كاين شي علاج؟",
+    "answer": "مانصحكش تاخدي شي حاجة، خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "بغيت نداوي الدوالي بلا عملية.",
+    "answer": "ما كاين غير الجراحة باش تصلح الدوالي.",
+    "entities": {
+      "symptoms": [
+        "دوالي"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فأي شهر كيبدا شعر راس الجنين يطلع؟",
+    "answer": "شعر راس الجنين كيبدا يطلع بين السابع والثامن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش كايعالجو الشذوذ؟",
+    "answer": "الطبيب النفسي يقدر يعاونك فالعلاج ويفهمك راسك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي الفوايد ديال البروجينوفا الزرقاء؟",
+    "answer": "البروجينوفا كيتستعمل باش يتحكم فالدورة الشهرية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش مزيان تمارس السرية بلا ما تخرج؟",
+    "answer": "ممارسة السرية بلا ما تخرج ما فيهاش ضرر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الديال الدم ديالي طلع سلبي، شنو خاصني ندير؟",
+    "answer": "خاصك تشوف طبيب باش يحدد لك السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "مرض الإيدز شنو كيأثر؟",
+    "answer": "الإيدز كيأثر على جميع الأعمار وكيحتاج متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج ديال الوجع اللمحي؟",
+    "answer": "الوجع اللمحي ما محتاجش لعلاج طبي، ولكن خاصك تراقب حالتك.",
+    "entities": {
+      "symptoms": [
+        "وجع لمحي"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش قرعة البريمولوت كتمنع الحمل؟",
+    "answer": "البريمولوت ما كيمنعش الحمل بشكل فعال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش البواسير كتأثر على العلاقة؟",
+    "answer": "البواسير ممكن تأثر على العلاقة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج للبواسير؟",
+    "answer": "كاينين أدوية مزيانة للبواسير، خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "حرك الحيوانات المنوية 5، واش كاين مشكل؟",
+    "answer": "خاصك تشوف طبيب باش يحل لك المشاكل الهرمونية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الذكورة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش التوما مزيانة للي عندهم الكلي مضرور؟",
+    "answer": "ما كاين حتى سبب باش ماتاكلش التومة، ولكن خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نقدر نوقف عن الكحول؟",
+    "answer": "خاصك تهتم بممارسات أخرى بحال الرياضة أو القراية. هادشي غادي يساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش النسكافا كيمكن تأثر على الأداء الجنسي ديال الراجل؟",
+    "answer": "ممكن يسبب شوية من الإزعاج، ولكن التأثيرات تختلف من واحد لواحد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين علاقة بين السمنة وحجم الثدي عند البنات؟",
+    "answer": "السمنة ممكن تأثر على حجم الثدي، ولكن ما كاينش دليل قاطع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش مرض الإيدز كينتقل من الراجل للمرا؟",
+    "answer": "نعم، الإيدز كيمكن ينتقل عبر العلاقات الجنسية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين ضرر للحامل من استخدام الليزر للوجه؟",
+    "answer": "ما كاينش مشكل كبير، ولكن من الأفضل استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي ألم فالبطن مع الحريق.",
+    "answer": "خاصك دير تحليل البول باش نعرفو السبب. ممكن يكون التهاب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن",
+        "حريق"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فينا شهر كتحس بالجنين كيتحرك؟",
+    "answer": "يمكن ليه يبدا يتحرك من آخر ربع من الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الكتافات كتحبس الحمل وواش عندها شي علاج؟",
+    "answer": "الكتافات ممكن تأثر على الحمل، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "المرض الثديي بقا كيضرني بعد 10 أيام.",
+    "answer": "خاصك دير تحاليل هرمونات الحليب. ممكن يكون عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "ألم فالثدي"
+      ],
+      "medical_field": "الصحة النسائية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش العقار لي كاين فهاد المنطقة كيرجع للحيوانات المنوية؟",
+    "answer": "ما كاينش علاقة مباشرة، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الم كاين فالمراحيض.",
+    "answer": "إلى كان عندك التهاب فالبول ولا فالبروستات، خاصك دير فحص.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الم الدورة الشهرية كتسبب فالتساقطات؟",
+    "answer": "لا، ما كاينش علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الكرياتين الطبيعي فالبول ديالنا؟",
+    "answer": "نعم، الكرياتين كيتواجد بشكل طبيعي فالبول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل وكرشي كتحرق.",
+    "answer": "هادشي عادي بسبب الضغط اللي كيواجهو الجنين.",
+    "entities": {
+      "symptoms": [
+        "حريق فالبطن"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "السفر بالطائرة خطير على الحامل فشهر الثامن؟",
+    "answer": "إذا كانت المسافة طويلة، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "إلى كان آخر موعد للولادة هو 23 أكتوبر، شنو هو تاريخ ولادتي؟",
+    "answer": "راجعي طبيب النساء لتحديد التاريخ بدقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الولادة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش القولون العصبي كيضغط على المثانة وكيخلي التبول متكرر؟",
+    "answer": "ما كيضغطش على المثانة، ولكن يمكن يكون عندك أعراض أخرى.",
+    "entities": {
+      "symptoms": [
+        "تكرار التبول"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "نزلات نقط بنية قبل الدورة ب 4 أيام، شنو السبب؟",
+    "answer": "يمكن يكون التبويض أو تغيرات هرمونية.",
+    "entities": {
+      "symptoms": [
+        "نقط بنية"
+      ],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش ممكن بروفينيد يضر الحامل فشهر ستة؟",
+    "answer": "ما خاصكش تاخدي بروفينيد خلال الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج ديال التهاب المسالك البولية؟",
+    "answer": "العلاج كيتبنى على نتائج التحليل، وغالباً كيكون مضادات حيوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المسالك البولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو السبب ديال التبول اللاإرادي وكيفاش كايتعالج؟",
+    "answer": "التبول اللاإرادي كيتطلب استشارة طبيب مختص لتحديد السبب والعلاج.",
+    "entities": {
+      "symptoms": [
+        "التبول اللاإرادي"
+      ],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نزيد من المني؟",
+    "answer": "كاين بزاف د الطرق، خاصك تهتم بالصحة ديالك وتغدي مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي إفرازات بيضا طول الشهر.",
+    "answer": "خاصك دير فحص للمخبر باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "إفرازات بيضا"
+      ],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج التبول الزايد؟",
+    "answer": "خاصك تشوف السبب، يمكن يكون نفسي ولا عضوي.",
+    "entities": {
+      "symptoms": [
+        "التبول الزايد"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي التهاب جلدي فالجبهة.",
+    "answer": "خاصك دير فحص طبي باش تعرف العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب جلدي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حاملا، واش يمكن لي نوقف الصيام؟",
+    "answer": "يمكن ليك توقفي الصيام، ولكن أحسن وقت للفطور هو الصباح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي وجع داخل المهبل وما زلت مامزوجش.",
+    "answer": "خاصك تمشي عند طبيب باش يدير لك الفحص.",
+    "entities": {
+      "symptoms": [
+        "وجع داخل المهبل"
+      ],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الماكلة ديال الغدا والعشا عندها تأثير على الحامل؟",
+    "answer": "نعم، خاصك تعتني بالنظام الغذائي ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو الحجم الطبيعي ديال المبيض؟ واش حجم 32 مم كيمنع الحمل؟",
+    "answer": "حجم المبيض الطبيعي كيتراوح بين 20 و 30 مم. حجم 32 مم ما كيمنعش الحمل، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا عندي مشكل فالإنجاب شي مرات.",
+    "answer": "ضعف الانتصاب عند الرجال عندو بزاف دالأسباب. خاصك تشوف طبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فاشمن سيمانة من الحمل نقدرو نعرفو جنس الجنين؟",
+    "answer": "يمكن تعرفو جنس الجنين بعد سيمانة 12 من الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي علاج لسرعة القذف؟",
+    "answer": "أه، كاين علاج نفسي وكاين أدوية خاصة بهاد المشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو أحسن وسريع لعلاج الرمل في المسالك البولية؟",
+    "answer": "الشرب ديال بزاف ديال الماء ضروري، وخصك تتجنب الأكل المالح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المسالك البولية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا فالسبوع التمنيا ومازال ما بانش النبض، شنو خاصني ندير؟",
+    "answer": "خاصك دير فحص الدم الرقمي باش تتأكدي من الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش التهاب البروستات كايسبب لسان كيتسوس؟",
+    "answer": "التهاب البروستات يمكن يسبب مشاكل فالغدد المفرعة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السريحة تقدر تسبب العقم؟",
+    "answer": "بشكل عام، إلا وقعت مضاعفات، ممكن تأثر. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل فالشهر ستة وطايحة بزاف.",
+    "answer": "خاصك تراجعي طبيب باطني باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "طايحة"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شرب الما بزاف يقدر يقتل البكتيريا فالسوائل المنوية؟",
+    "answer": "شرب الما مفيد، ولكن ما كيحلش المشكل الأساسي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش كايتعالجو الإلتهاب البروستي من البكتيريا؟",
+    "answer": "خاصك تشوف طبيب مختص فالمسالك البولية. العلاج كيتطلب وصفة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المسالك البولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "علاش كتزيد الشهرة ديال البنت قبل الدورة الشهرية؟",
+    "answer": "هاد الشي طبيعي، كيتزاد فالسيمانة الثالثة قبل الدورة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حرقا فالمهبل وخرج منها إفرازات بيضاء.",
+    "answer": "هاد الأعراض ممكن تكون علامة على عدوى فطرية. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرقا",
+        "إفرازات بيضاء"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حرقة فالمعدة وكرشتي هادي أكثر من عام.",
+    "answer": "خاصك دير تحليل مخبري وزراعة للبول باش تتأكد من السبب.",
+    "entities": {
+      "symptoms": [
+        "حرقة فالمعدة"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي سرعة فالانتصاب، علاش؟",
+    "answer": "هاد الشي عادي عند الشباب، ولكن خاصك تحاول تتجنب المواقف المحرجة.",
+    "entities": {
+      "symptoms": [
+        "سرعة فالانتصاب"
+      ],
+      "medical_field": "الطب الجنسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش ممكن يسبب السائل المنوي مرض الكورني؟",
+    "answer": "لا، السائل المنوي ما كيسببش هاد المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الجنسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش ممكن يخرج ليه ضرسو فشهر الخمسة ديال الحمل؟",
+    "answer": "أه، هادشي عادي فبعض الحالات. خاصها متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "معدل البروستاتا 6، واش هادشي مزيان؟",
+    "answer": "المعدل مزيان والكلتين سليمين. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البروستاتا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي دوا ديال منع الحمل؟",
+    "answer": "كاين دوا خاص بمنع الحمل، ولكن خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "منع الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش تمارين البول كتنفع فالسلسة؟",
+    "answer": "تمارين البول كيمكن تفيد فالسلسة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "السلسة"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي التأثيرات على الجنين فالحمل؟",
+    "answer": "التأثيرات كتعتمد على شهر الحمل. من الأفضل ماتاخديش أدوية فالأول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الحمل الخاوي كيتعتبر حمل كاذب؟",
+    "answer": "الحمل الخاوي هو حمل غير سليم. خاص النزول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج السيلان؟",
+    "answer": "علاج السيلان كيتطلب تشخيص دقيق. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السيلان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو مرض البلورات فالبول؟",
+    "answer": "البلورات كتنجم عن تفاعل الملح مع الما. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فاش كيبدا الجنين كيتحرك فالحمل؟",
+    "answer": "الجنين كيبدا يتحرك من السيمانة السابعة. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش لبس الحليب ديال ولدك اللي فيه الجدري يقدر يضر الحامل؟",
+    "answer": "نعم، هادشي يقدر يضر الحامل والجنين. خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حبوب فالمهبل والشرايين كيتحركو بزاف. شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب للفحص. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "حبوب فالمهبل"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فأي سيمانة كيتدار الربط لعنق الرحم المتسع؟",
+    "answer": "الربط كيتدار من السيمانة 12 حتى 14. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي نزيف دم شهري هاد الشهر، علاش؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة. النزيف الشهري ممكن يكون عندو أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "نزيف دم شهري"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش التوليد فالرحم كيأثر على الحمل؟",
+    "answer": "التوليد في بعض الأحيان يمكن يأثر على الحمل. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "في السيمانة 24 ديال الحمل، كان عندي ارتفاع في ضغط الدم.",
+    "answer": "خاصك تراجعي طبيبك باش يحدد العلاج المناسب. ارتفاع ضغط الدم يمكن يكون خطر.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كنت كنعاني من نزيف لمدة 10 أيام.",
+    "answer": "عافاك، خاصك تمشي للطبيب للفحص. النزيف المستمر يحتاج لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "نزيف لمدة 10 أيام"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو التحليل اللي كيبين بلي ماكاينش شي سيلان؟",
+    "answer": "تحليل الدم الأول فالصباح هو اللي كيبين الحالة. خاصك تمشي للمختبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو اللي خلا الطبقة فالبول تكون بحال الزيت؟",
+    "answer": "خاصك تحلل بول كامل باش تعرف السبب. هاد الشي ممكن يكون عندو دلالات صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش حك الفتحة غادي تولي رقيقة؟",
+    "answer": "حك الفتحة ما كينفعش، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو الوقت اللي كيبدا فيه الجنين يتغذى بالكالسيوم من جسم الأم؟",
+    "answer": "الجنين كيبدا يتغذى بالكالسيوم بعد الشهر الرابع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش التهبات المهبلية كتمنع الحمل ديال ولد ذكر؟",
+    "answer": "ماشي بالضرورة، ولكن ممكن يتأخر الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين الألم فالتحت ديال الظهر من التهاب المسالك البولية؟",
+    "answer": "نعم، الألم فالتحت ديال الظهر ممكن يكون من التهاب المسالك البولية.",
+    "entities": {
+      "symptoms": [
+        "ألم فالتحت ديال الظهر"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة شي عملية ليزر باش نحيدو آثار الحنة؟",
+    "answer": "خاصك تسول طبيب مختص على هاد الموضوع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل بالشهر ستة، والوالدة ديالي فرحانة بزاف.",
+    "answer": "هادشي مزيان، الحمل كيتطلب العناية والصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشكل فالام، راه قاتلني.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حاملا وكنحس بوجع فكرشي.",
+    "answer": "خاصك دير فحص للجنين باش تتأكدي من كلشي.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج مرض المثانة العصبية؟",
+    "answer": "خاصك تدير تحاليل قبل ما تبدا العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المثانة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "علاش البواسير كتكون مرتبطة بالشذوذ الجنسي؟",
+    "answer": "أه، البواسير فعلاً كتقدر تكون مرتبطة بهاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي جوج تمازكات فجيبي، شنو ندير؟",
+    "answer": "خاصك تراجع طبيب جراحة.",
+    "entities": {
+      "symptoms": [
+        "تمازكات فجيبي"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كيبان الحمل خارج الرحم بالسونار؟",
+    "answer": "أه، كيبان الحمل خارج الرحم بالسونار بعد ستة أسابيع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش مضاد الإيزيماك ممكن يكون ضار؟",
+    "answer": "ما كاين حتى ضرر منو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي ألم فالبطن هادي تلت أيام، وانا ماشي مزوج",
+    "answer": "خاصك دير فحص الحمل باش تعرفي السبب. يمكن يكون عندك شي مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كايعاون فيمارا فإنتاج البويضات؟",
+    "answer": "نعم، فيمارا كيساعد فإنتاج البويضات. خاصك تستشيري الطبيب على الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الجماع بزاف كيضر المرا؟",
+    "answer": "الجماع بشكل معتدل ما كيضرش. ولكن خاص يكون فظروف مريحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الجماع كيأثر على عملية البواسير الليزر؟",
+    "answer": "من بعد ما تشافاو الجروح، ما كايأثرش الجماع. ولكن خاصك تستشيري الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الفواكه كتزيد من نسبة الحمل؟",
+    "answer": "الفواكه مفيدة للصحة العامة، ولكن ما كاينش دليل واضح على أنها كتزيد من نسبة الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا عندي ضعف فالإنجاب بعد الإجهاض.",
+    "answer": "ضعف الإنجاب بعد الإجهاض ممكن يكون بسبب عدة عوامل. خاصك تستشيري طبيب مختص لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "ضعف الإنجاب"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش تصبغ الشعر للمرضع كيأثر على الطفل؟",
+    "answer": "صباغة الشعر ما كتأثرش على الطفل، ولكن من الأفضل تحاولي تبعدي عليه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا فالبداية ديال الشهر التمنية وكنحس بألم فظهري. واش هادشي عادي؟",
+    "answer": "آه، هادشي عادي فهاد المرحلة من الحمل. ولكن إذا كان الألم قوي، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فظهري"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السمن كيأثر على عدد الحيوانات المنوية؟",
+    "answer": "السمنة ممكن تأثر على الخصوبة. من الأفضل تحافظ على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش هاد الدورة الشهرية لي كتجي كل 37 يوم طبيعية؟",
+    "answer": "آه، الدورة الشهرية كل 37 يوم تعتبر طبيعية عند بعض النساء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش ضروري تاخد البروجيفي من نفس الوقت؟",
+    "answer": "من الأفضل تاخدي البروجيفي في نفس الوقت كل يوم لضمان فعاليته.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا متأخرة فالعمر وبغيت ناخد دواء منع الحمل.",
+    "answer": "خاصك دير فحص الحمل قبل ما تبداي أي دواء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو كيسبب الدوالي فالركبة اليسرى؟",
+    "answer": "يمكن تكون مشاكل فالمفاصل أو ضعف فالشرايين. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوالي"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فاش كيبداو الأعراض ديال الحمل؟",
+    "answer": "الأعراض كيبداو بعد أسبوعين من الحمل. خاصك تراقبي جسمك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي بقع خضرا والألم فالحوض.",
+    "answer": "خاصك تشوفي طبيب، هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "بقع خضرا",
+        "ألم فالحوض"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "النزول ديال إفرازات البنية كيبدا فالأسبوع التاني من الحمل؟",
+    "answer": "إيوا، خاصك دير السونار ويمكن تحتاجي لمثبت.",
+    "entities": {
+      "symptoms": [
+        "إفرازات البنية"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الدوا ديال فيزان ما بقاش فعال بعد الشهر التالت؟",
+    "answer": "إيوا، ممكن يكون هاد الشي. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش المشي السريع فهاد الشهر الأول كيأثر على الحامل؟",
+    "answer": "لا، المشي مفيد للحامل فهاد المرحلة. خاصها غير تحافظ على راحتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش لبس الصبيجات ضار فالصدر؟",
+    "answer": "لا، ما كاين حتى ضرر. خاصك غير تختاري المقاس المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصدر",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فاش من نهار فالمدة ديال الخدمة كيبان الصدر وكيولي فيه اللام؟",
+    "answer": "من نهار لي بدات الخدمة، خاصك تراقبي الأعراض. إذا كان الألم مستمر، استشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "الألم"
+      ],
+      "medical_field": "الصدر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش القطط ديالو طلعو الحمل؟",
+    "answer": "لا، ما كاينش علاقة بين القطط والحمل. ولكن خاصك دير فحص للتأكد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "بغيت نضغط ونتكبر القضيب؟",
+    "answer": "عافاك، خاصك تشوف مع اختصاصي. هو لي غادي يقيم الحالة ويعطيك النصائح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش عدم نبض القلب كيعني بلي راها حاملة؟",
+    "answer": "ما كاينش علاقة مباشرة. خاصك استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الدوالي فالرجلين عندها علاقة بالبواسير؟",
+    "answer": "لا، الدوالي ما عندها علاقة بالبواسير. كل واحد عندو الأسباب ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش تخلص من الخجل فالعلاقة الحميمية مع راجلك؟",
+    "answer": "مع الوقت، هاد الرهبة غادي تزول. التواصل مع الشريك مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "إلى ما عطيتيش ليه العادة، واش غادي يرجع الطبيعي؟",
+    "answer": "أه، راه عادي بزاف. خاصك غير تصبري شوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "هو متزوج من 3 سنين وكيغني الجنس كل دقيقة؟",
+    "answer": "شوف، سرعة القذف ممكن تكون مشكلة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاينة شي مرضية إلا ضيعت شي سجق ففقيبتي؟",
+    "answer": "النقانق ما كايسببوش لمرض الإيدز. ولكن خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كاين وجع فالركبة ديالي اليسرى؟",
+    "answer": "خاصك تشوفي طبيب، هو لي غادي يدير التشخيص المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي بزاف ديال الكلفطريات مند مدويين حدا راس القضيب؟",
+    "answer": "خاصك تشوفي طبيب جلدية. هو لي غادي يعالج الحالة.",
+    "entities": {
+      "symptoms": [
+        "الكلفطريات"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي جوج د الصدرين كبار، واش هادشي عادي ولا خاصني ندير عملية جراحية؟",
+    "answer": "هادشي عادي، ولكن إذا كان عندك قلق، استشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصدر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "خاصني علاج باش نقصو من تكرار التشنجات اللي كيجيوني؟",
+    "answer": "خاصك تشوفي طبيب، هو لي غادي يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التشنجات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السيريا سكران كل سيمانة مزيان؟",
+    "answer": "خاصك تستشيري طبيب، حيث كاينين عوامل كتأثر على الصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي أيام التبويض إلى كان شهريا ديالها كايجي كل 25 يوم؟",
+    "answer": "أيام التبويض كاتكون من نهار 11 حتى 15.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نمنعو الحمل بلا ما نضربو الصحة؟",
+    "answer": "كاين طرق آمنة، خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش الكلوميد كيعطي ألم فالمعدة وغازات؟",
+    "answer": "ممكن يسبب هاد الأعراض، ولكن ماشي عند جميع الناس.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة",
+        "غازات"
+      ],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو العلاج ديال نقص الحيوانات المنوية؟",
+    "answer": "خاصك تعرف السبب وتدير تشخيص، ومن بعد دير العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الذكرية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي ضرر للحامل من السيفو دوكس فشهرها التامن؟",
+    "answer": "ما كاين حتى ضرر للحامل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "فأي أسبوع من الحمل كتوصف أبر سيليستين؟",
+    "answer": "هادشي كايعتامد على الحالة ديال الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش لعضم ديال القط كيعطي العياقة للبنات العازبات؟",
+    "answer": "لا، ما كيسببش العقم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي كلويد فالصدر وخايف يرجع بعد الجراحة.",
+    "answer": "خاصك تراجع طبيب جراح باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو المخاطر ديال ما تعلقوش الخصية لي طاحو؟",
+    "answer": "كاين خطر أنها تولي خايبة، خاصها تتعالج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الذكرية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش جاك داء الدم؟",
+    "answer": "لا، ما كيسوء الوضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين نزيف من البول بعد الزواج؟",
+    "answer": "يمكن يكون نزيف، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "نزيف من البول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي وجع ف راسي وكرشي قبل من الشهر.",
+    "answer": "يمكن تحتاجي مسكنات، ولكن خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الرأس",
+        "وجع ف الكرش"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي أسباب صعوبة التبول مع الألم؟",
+    "answer": "صعوبة التبول كتكون غالبًا بسبب التهاب أو عدوى. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة التبول",
+        "ألم"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "بدلتي الشهرية من 34 ل 36، واش هادشي مزيان؟",
+    "answer": "هاد التغيير عادي، ولكن خاصك تراقبي صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حساسية من الحشرات، شنو ندير؟",
+    "answer": "يمكن تستعملي مضادات الهيستامين. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية والمناعة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نعرف نوع غشاء البقرة؟",
+    "answer": "يمكن تحديده بالفحص الطبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش ضروري تاكل الأسبرين فبداية الحمل؟",
+    "answer": "ضروري فبعض الحالات، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "علاش كايتبول بعد الممارسة الجنسية؟",
+    "answer": "هادشي عادي، كيمكن يكون بسبب الاسترخاء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو علاج زلال البول عند النسبة 280 ملغم؟",
+    "answer": "خاصك تشوفي طبيب باطني.",
+    "entities": {
+      "symptoms": [
+        "زلال البول"
+      ],
+      "medical_field": "الباطنية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي ضرر فالصدر ملي كيرضع راجلي؟",
+    "answer": "ما كاين حتى ضرر صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النسائية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي حمى عالية بزاف.",
+    "answer": "خاصك تشوف طبيب، حيث الحمى العالية ممكن تكون علامة على شي مرض.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كاين شي علاج للخصية الصغرى عند الدراري بعد العملية؟",
+    "answer": "ما كاينش علاج محدد، خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "مزيان للحامل تاكل التونة فالاول ديال الشهر؟",
+    "answer": "التونة مزيانة ولكن خاصها تكون مطبوخة مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نتأكد واش حاملة ولا لا؟",
+    "answer": "دير تحليل الحمل، هو الطريقة الأكيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الريحة ديال الدورة الشهرية ديالي اليوم، راه فيا 4 ديال الأبيات.",
+    "answer": "من الأحسن تشوفي طبيب حيث ممكن يكون عندك شي مشكل.",
+    "entities": {
+      "symptoms": [
+        "ريحة الدورة الشهرية"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل بأسبوع 31 في الشهر الحالي.",
+    "answer": "باقي عندك شوية، خاصك تراقبي صحتك وصحة الجنين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كان عندك القطرة ديال الشهر السابع؟",
+    "answer": "ممنوع استعمالها أثناء الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل فالأسبوع 35، شحال من أسبوع باقي؟",
+    "answer": "الحمل العادي كيدوم 40 أسبوع. باقي ليك 5 أسابيع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي وجع فالحوض وأنا حاملة، شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب. الألم فالحوض ممكن يكون عندو أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحوض"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي سائل المنوية، شنو معنى 'مزرعة'؟",
+    "answer": "المزرعة هي تحري مخبري باش نعرفو واش كاينين الجراثيم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو الدوا ديال التهاب المسالك البولية؟",
+    "answer": "شرب السوائل مهم بزاف، والماء هو أحسن حاجة. خاصك تشوفي طبيب إذا استمر الألم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش كاينعالجوا ظهور البضاض؟",
+    "answer": "ظهور البضاض شي طبيعي، ماكاين لاش تدير شي حاجة. إذا كان كاين ألم، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الآثار الإيجابية والسلبية للأوميغا 3 للحامل؟",
+    "answer": "الأوميغا 3 مفيد بزاف للحامل والجنين. كيزيد من نسبة الذكاء ديال الجنين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "في أي شهر كيبدا الجنين يتحرك؟",
+    "answer": "الجنين كيبدا يتحرك عادة من الشهر الخامس. كل حالة تختلف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيفاش نعرفو واش شي واحد عندو السيدا من بعد أربع سنين؟",
+    "answer": "كاين تيست خاص باش نعرفو واش كاين فيروس السيدا. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشكل فالكلي 68/120، شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب مختص باش يعرف السبب. ممكن يكون عندك مشكل فالكلي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كيعاني من تورم وحب فالشفة اليمنى، شنو ندير؟",
+    "answer": "راجعي طبيب مختص. التورم ممكن يكون علامة على التهاب.",
+    "entities": {
+      "symptoms": [
+        "تورم",
+        "حب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش شرب أتاي لخضر كيزيد من خطر سرطان القولون؟",
+    "answer": "ما كاينش دليل على هاد الشي. شرب أتاي بشكل معتدل مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض السرطانية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج للجلطة الدموية المزمنة؟",
+    "answer": "خاصك تشاور مع طبيب مختص باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "جلطة دموية مزمنة"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي العواقب من معاشرة الراجل لمراتو فوقت الحيض؟",
+    "answer": "ممكن تكون عندها مضاعفات صحية. خاصها تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "الدم اللي كيطيح فالأسبوع الرابع من الحمل بعد الجماع، شنو يعني؟",
+    "answer": "يمكن يكون علامة على مشكل طبي. خاصك تمشي للطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السريحة ديالها مازال خدامة بعد العملية ديال الخصيب؟",
+    "answer": "ماكاينش ضرر مباشر. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي كيس دموي فالمبيض، شنو ندير؟",
+    "answer": "خاصك عملية إزالة. ضروري تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "كيس دموي"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هو العلاج للتحرش الجنسي ف الطفولة؟",
+    "answer": "العلاج النفسي هو الحل. خاصك تشاور مع طبيب نفساني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي التهاب فالبطن و نزلة في البول، شنو ندير؟",
+    "answer": "خاصك تحلل البول وتزور الطبيب. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالبطن",
+        "نزلة في البول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي مشكل فالتحفيز الجنسي، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالتحفيز الجنسي"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "عندي ألم فالدورة الشهرية، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالدورة الشهرية"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل وعندي وجع قوي فالمخرج، شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب. ممكن تحتاجي مسكن.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمخرج"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "وقتاش كايتوقف النمو ديال الرجل؟",
+    "answer": "النمو كيتوقف عادة بين 16 و 18 عام، ولكن كيتفاوت من واحد لواحد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كاين شي علاقة بين التهاب البول والطحالب؟",
+    "answer": "التهاب البول يمكن يكون سبب فالألم، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب البول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "شنو هي الفحوصات الأولية لانتاج الحيوانات المنوية؟",
+    "answer": "تحليل السائل المنوي هو الفحص الأساسي، كيعطي معلومات مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الذكورة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "خديت الكلوميد و دوزت الفحوصات ديال الحمل لخمس سنين، ولكن ما وصلتش للوراثة.",
+    "answer": "خاصك دير فحص الحمل، يمكن تكون عندك مشاكل أخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش السلس البولي كيأثر على الخلف؟",
+    "answer": "ما كاينش علاقة مباشرة، ولكن خاص العلاج إذا كان عندك مشاكل.",
+    "entities": {
+      "symptoms": [
+        "السلس البولي"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "أنا حامل بالشهر السابع وأنا كنشكي من حركة الجنين بزاف. واش هاد الشي طبيعي؟",
+    "answer": "نعم، الحركة الكثيرة للجنين فهاد المرحلة عادية.",
+    "entities": {
+      "symptoms": [
+        "حركة الجنين"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش زيادة البروتين كتسبب ألم فالصدر؟",
+    "answer": "آه، ممكن تسبب لك ثقل فالصدر، خاصك تراجع طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "كنت كنستعمل الأكسليتون وركبت اللقاح، واش هاد الشي طبيعي أنه يسبب نزيف؟",
+    "answer": "نعم، يمكن يكون نزيف بسبب التفاعل بين الأدوية.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Gynecologists",
+    "question_darija": "واش كيبانو الأعراض الأولى ديال الإيدز؟",
+    "answer": "الأعراض ما كيبانوش عند جميع الناس، كيعتمد على الحالة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  }
+]

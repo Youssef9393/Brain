@@ -1,0 +1,4784 @@
+[
+  {
+    "category": "Hematology",
+    "question_darija": "عندي إحساس دائم بالاغماء.",
+    "answer": "خاصك تشوف الطبيب، لأنه ممكن يكون عندك مشكل فالجهاز الهضمي.",
+    "entities": {
+      "symptoms": [
+        "اغماء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو العلاج ديال النوبة الحمرا؟",
+    "answer": "العلاج كيتحدد حسب نوع النوبة وسببها. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "نوبة حمرا"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج نقص الدم؟",
+    "answer": "العلاج كيختلف حسب السبب. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نقص الدم"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط الدم 100/240.",
+    "answer": "خاصك تمشي تشوف الطبيب دابا، هاد الضغط عالي بزاف.",
+    "entities": {
+      "symptoms": [
+        "ضغط الدم العالي"
+      ],
+      "medical_field": "الضغط الدموي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي أعراض فقر الدم؟",
+    "answer": "من بين الأعراض كاين الاصفرار ديال الوجه والدوخة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم",
+        "اصفرار الوجه",
+        "دوخة"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايتزرع الدم؟",
+    "answer": "كايتزرع الدم فالمختبرات الطبية. هاد العملية كتطلب دقة وعناية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو خصني ندير من بعد ما نقدم الدم؟",
+    "answer": "خاصك تشرب الماء وتاكل مزيان. هادشي غادي يساعدك ترجع لطبيعتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي اليوم هو 120 على 90. واش هادشي عادي؟",
+    "answer": "نعم، هاد الضغط عادي وما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كانحس بالدوخة والغثيان.",
+    "answer": "خاصك تشوف طبيب. هاد الأعراض ممكن تكون بسبب عدة أسباب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "غثيان"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي نبضات ديال 92 و ضغط الدم ديالي 130/80.",
+    "answer": "هادشي عادي ومش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج نقص الدم؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كايخفّف القرفة الضغط؟",
+    "answer": "نعم، القرفة كيمكن تساعد فالتخفيف من الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش 133 على 80 مزيان؟",
+    "answer": "نعم، هاد الضغط عادي وما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو غادي ندير من بعد ما نقدم الدم؟",
+    "answer": "خاصك تشرب مزيان وتاكل مزيان بعد التبرع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التبرع بالدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كيتعتبر الحجامة علاجًا فعالًا للمرض المناعي؟",
+    "answer": "الحجامة ممكن تكون مفيدة، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب البديل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "مخزون الحديد عندي 5. واش هادشي عادي؟",
+    "answer": "هادشي ماشي عادي، خاصك تشوف طبيب. يمكن يكون عندك نقص في الحديد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج فقر الدم؟",
+    "answer": "العلاج كيعتمد على نوع فقر الدم والسبب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الضغط الطبيعي فسن الخمسين؟",
+    "answer": "الضغط الطبيعي خاصو يكون أقل من 140/90. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ملي طاح على الأرض، حس بالدوخة.",
+    "answer": "خاص يتقيم الأذن والفم. يمكن يكون عندو مشكلة في التوازن.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الخل كينقص من الضغط ديال الدم؟",
+    "answer": "أه، الخل كيساعد في تقليل الضغط. لكن خاصك ما تعتمدش عليه بوحدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن يتصاب شي واحد بمرض المبيض فعمرو 17 عام؟",
+    "answer": "نعم، ممكن يتصاب بمرض المبيض فهاد العمر. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج فقر الدم؟",
+    "answer": "علاج فقر الدم كيعتمد على السبب. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو العلاج ديال نقص الصفارة؟",
+    "answer": "خاصك تعرف السبب باش تقدر تدير العلاج المناسب. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "نقص الصفارة"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نقدر نحيد الدهون الثلاثية بنسبة 248؟",
+    "answer": "يمكن تحيد الدهون الثلاثية بالرياضة والحمية الغذائية. خاصك تتبع نظام صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغذاء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو قياس ضغط الدم الطبيعي؟",
+    "answer": "ضغط الدم الطبيعي هو 120/80. إذا كان عندك قياس مختلف، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش قياس ضغط الدم 113/71 مزيان؟",
+    "answer": "نعم، هاد القياس مزيان وطبيعي. ماكاينش داعي للقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو أحسن علاج للضغط؟",
+    "answer": "أحسن علاج هو اللي كيوصي به الطبيب. خاصك تتبع نصائحو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط العالي كايسبب الدوخة؟",
+    "answer": "نعم، الضغط العالي ممكن يسبب الدوخة. خاصك تراقب ضغطك.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج التهاب الأذن؟",
+    "answer": "خاصك تشوف طبيب الأذن. العلاج كيتعلق بالسبب ديال الالتهاب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش هاد الدوا كينقص من الضغط؟",
+    "answer": "خاصك تسول الطبيب على الدوا. كل دواء عندو تأثير خاص.",
+    "entities": {
+      "symptoms": [
+        "ضغط الدم"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش فقر الدم كيزيد من خطر سرطان الدم؟",
+    "answer": "فقر الدم ما كيسببش السرطان، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش دوا ديال سيزيمكس عندو تأثير على مرضى الضغط؟",
+    "answer": "خاصك تسول الطبيب أو الصيدلي. كل حالة مختلفة.",
+    "entities": {
+      "symptoms": [
+        "ضغط الدم"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ضغط الدم ديالي 106 على 66 مزيان؟",
+    "answer": "هاد القياس مزيان، ولكن خاصك تراقب صحتك بانتظام.",
+    "entities": {
+      "symptoms": [
+        "ضغط الدم"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الدوا لي كيتستعمل باش يعالج فقر الدم؟",
+    "answer": "كاين عدة أدوية بحال الحديد. خاصك تسول الطبيب على الأنسب ليك.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 121 على 85. واش هادشي عادي؟",
+    "answer": "هاد الرقم عادي، ما كاينش داعي للقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الضغط الدموي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي أسرع طريقة باش تداوي الفلونزا؟",
+    "answer": "الراحة وشرب بزاف ديال الماء كيساعدو فالتعافي.",
+    "entities": {
+      "symptoms": [
+        "الفلونزا"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو النظام الغذائي اللي كيناسب مرضى ارتفاع الضغط عند الناس الكبار؟",
+    "answer": "خاصهم يتبعو ريجيم ناقص من الملح والفواكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الضغط الدموي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مريض الغدة الدرقية يقدر يعطي الدم؟",
+    "answer": "نعم، مريض الغدة الدرقية يقدر يعطي الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي علاقة بين فقر الدم وسرطان الدم؟",
+    "answer": "ما كاين حتى علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايتعرف طول الضغط؟",
+    "answer": "الطبيب كايستعمل جهاز خاص باش يقيس ضغط الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الضغط الدموي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاش كيهبط الضغط الحامل؟",
+    "answer": "كتوسع الشرايين فالحمل وهاد الشي كيأدي لانخفاض الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الضغط الدموي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديال الدم ديالي هو 83/131 وهو عندي 18 عام.",
+    "answer": "هاد الرقم عادي ومناسب لسنك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الضغط الدموي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش عرفتي بلي الجرحة تامات؟",
+    "answer": "يمكن تعرف من خلال الفحص المباشر. خاص الطبيب يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو ناكل باش نحسن صحة الدم ديالي؟",
+    "answer": "خاصك تاكل الخضراوات والفواكه. كاينين مواد غنية بالحديد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال الضغط عند الكبار؟",
+    "answer": "المعدل الطبيعي هو 120/80. خاص يكون الضغط مستقر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مريض الغدة الدرقية يقدر يعطي الدم؟",
+    "answer": "إيوا، مريض الغدة الدرقية يقدر يعطي الدم إذا كان حالتو مستقرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال ضغط الدم للشخص اللي كيتمرن؟",
+    "answer": "المعدل الطبيعي هو أقل من 120 للانقباض و80 للانبساط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال ضغط الدم عند الرجال فالعمر ديال 84 سنة؟",
+    "answer": "ما خاصوش يقل عن 140/90.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج ضغط الدم؟",
+    "answer": "خاصك تشوف طبيب مختص باش يحدد العلاج المناسب لحالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي أسباب الضغط ديال الدم وعلاجه؟",
+    "answer": "الضغط الدم كيتسبب فيه عوامل كثيرة بحال التوتر، التغذية، والوراثة. خاصك تشوف طبيب مختص باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايتعامل مع انخفاض الضغط؟",
+    "answer": "من المهم تشرب الماء وتاكل مزيان. إذا كان الانخفاض مستمر، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو معدل الضغط الطبيعي عند واحد عندو 40 عام؟",
+    "answer": "المعدل الطبيعي هو أقل من 130 على 90. خاصك تراقب الضغط ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايعالجو الضغط المنخافض؟",
+    "answer": "كيحتاج الأمر لتغيير العادات الغذائية، وكيعطيو أدوية خاصة. من الأفضل استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الدوا اللي كيتعطى بزاف باش يعالج فقر الدم؟",
+    "answer": "علاج فقر الدم كيتعتمد على السبب، ولكن غالبًا كيعطيو الحديد. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الفرق بين قياس الضغط الإلكتروني و اليدوي؟",
+    "answer": "القياس الإلكتروني سهل ومريح، ولكن اليدوي كيعطي دقة أكبر. المهم هو تعرف كيفاش تقيس الضغط بشكل صحيح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو كيسبب الدم الأحمر بزاف فالبراز؟",
+    "answer": "كاين بزاف د الأسباب، خاصنا نتحققو من الحالة. من الأفضل تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "دم أحمر فالبراز"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي نسبة الخضاب الطبيعية فالجسم ديال المرأة عندها 22 عام؟",
+    "answer": "النسبة الطبيعية للخضاب عند النساء هي من 12 حتى 16.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أعراض فقر الدم؟",
+    "answer": "من الأعراض كاين تساقط الشعر، ضعف التركيز، والشعور بالتعب المستمر.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر",
+        "ضعف التركيز",
+        "تعب مستمر"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هوما الأسباب اللي كتخلي الضغط العالي؟",
+    "answer": "كاينين بزاف د الأسباب، بحال السمنة، التوتر، ونقص النشاط البدني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مريض السكري يقدر يبرع بالدم لشي واحد بصحة مزيانة؟",
+    "answer": "ما كاين حتى مشكل، ولكن خاصو يتأكد من حالتو الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش حبوب البانتوجار كتسمن الوجه وشنو هي الآثار الجانبية ديالها؟",
+    "answer": "خاصك تسول طبيب مختص فهاد المجال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "العلاج ديال النوبات القلبية المتكررة؟",
+    "answer": "العلاج كيتطلب تحديد السبب الكامن. من الأفضل تزور طبيب القلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أعراض فقر الدم؟",
+    "answer": "العيا المستمر، ضعف التركيز، وضيق التنفس من الأعراض الشائعة.",
+    "entities": {
+      "symptoms": [
+        "العيا المستمر",
+        "ضعف التركيز",
+        "ضيق التنفس"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الانخفاض البسيط فحجم الصفائح الدموية شي حاجة خاصها تقلق؟",
+    "answer": "ماشي مشكل، ولكن خاصك تراقب الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ضغط الدم ديالي وصل ل ١٦٠/٩٠! واش هادشي خطير؟",
+    "answer": "هاد الضغط مرتفع، خاصك تراجع طبيب القلب فالأقرب وقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش التحليل كيعني شي مرض خطير بحال سرطان الدم؟",
+    "answer": "خاصك تدير فحص الدم باش تشوف مستويات الحديد. التحليل بوحدو ما كيعني والو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش 12.2 من الملي جرام في الدم هو نقص الدم؟",
+    "answer": "لا، هاد المستوى من الهيموجلوبين ما كيتعتبرش فقر الدم. كلشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مزيان ناكلو العلكة قبل التحاليل ديال الدم؟",
+    "answer": "مضغ العلكة ما كيأثرش على التحاليل. تقدر تدير التحليل بلا مشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن يتبرع بالدم اللي فجسمو وشم؟",
+    "answer": "الوشم ما كيمنعش التبرع بالدم. تقدر تتبرع بلا مشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "نسبة الخلايا الليمفاوية ف الدم هي 15%. واش هاد النسبة قليلة بزاف؟",
+    "answer": "راه طبيعي وماشي قليل. هاد النسبة عادية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي هو 108/65. واش هادشي عادي؟",
+    "answer": "آه، هادو قياسات طبيعية. ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أعراض الالتهاب الدم شنو هي؟",
+    "answer": "الارتفاع فالحرارة والانخفاض فالتوتر والصداع. هاد الأعراض ممكن تدل على التهاب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الحرارة",
+        "انخفاض التوتر",
+        "صداع"
+      ],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو دواء ديوفان؟",
+    "answer": "ديوفان هو دوا كيتستعمل فالعلاج ديال الضغط العالي وفشل القلب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي صفار فالفم و العينين مع قلة الدم.",
+    "answer": "خاصك تشوف طبيب، هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "صفار فالفم",
+        "صفار العينين",
+        "قلة الدم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو خاصني ناخد ملي كيكون الضغط منخفض؟",
+    "answer": "خاصك تاخد الملح، وإذا كان الهبوط قوي خاصك تمشي للسبيطار.",
+    "entities": {
+      "symptoms": [
+        "ضغط منخفض"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي نفاخات وورمات وعلامات حمراء فاليد ورجلي ليسرى.",
+    "answer": "خاصك تمشي للطبيب دابا، هاد الأعراض تحتاج تقييم.",
+    "entities": {
+      "symptoms": [
+        "نفاخات",
+        "ورمات",
+        "علامات حمراء"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ارتفاع مفاجئ للضغط اللي ما يمكنش التحكم فيه.",
+    "answer": "خاصك تشوف طبيب مختص فالمعدة والكرش.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "زوجتي عندها فقر الدم والنسب ديالها 51.",
+    "answer": "خاصها تشوف طبيب باش يشوف الحالة ديالها.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "بغيت نعرف كيفاش كيتقاس ضغط الدم.",
+    "answer": "كاين جهاز خاص عند الطبيب غادي يورّيك كيفاش تستعملو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الجلد كيتحمر وكيذوب.",
+    "answer": "خاصك تمشي للطبيب بسرعة، هاد الحالة تحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "تحمر الجلد",
+        "ذوبان الجلد"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شكون هو الطبيب المتخصص فالعلاج ديال نقص الخلايا البيضاء؟",
+    "answer": "خاصك تمشي لطبيب الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي نقص فالكربون، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ورق الزيتون مزيان للضغط العالي؟",
+    "answer": "أوراق الزيتون عندها فوائد، ولكن خاصك استشارة طبيب قبل ما تستعملها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي علاج نهائي للأنيميا؟",
+    "answer": "إذا عرفت السبب وخديتي العلاج المناسب، ممكن تتحسن الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ارتفاع ضغط الدم عند النسا كيسبب نزيف؟",
+    "answer": "نعم، ارتفاع ضغط الدم يقدر يسبب نزيف عند النساء.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو السبب ديال الدوار الخفيف من الوقوف؟",
+    "answer": "غالبا كيكون اضطراب فالودن، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوار"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كانحس براسي كانهدر بحال إلا كان عندي الدوخة، شنو ندير؟",
+    "answer": "خاصك تدير تحليل ديال الصفائح الدموية وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش انخفاض ضغط الدم خطير؟",
+    "answer": "إذا ما تعاملش مزيان، يقدر يأدي لمشاكل خطيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الدم اللي كينزل بزاف علامة على مشكلة؟",
+    "answer": "خاصك توضح التفاصيل باش نقدروا نساعدوك.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الرجلين تروّمو بسباب مرض الكلى؟",
+    "answer": "هاد الحالة خاصها تتعالج بسرعة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "سرعة التحلل فالدم عالية عند هاد المريض لي عندو 48 عام.",
+    "answer": "خاص الطبيب يشوف الحالة ديالو مزيان. السرعة العالية كيمكن تكون علامة على مشكل صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مرض الانيميا كايأثر على الم فالصدر؟",
+    "answer": "مرض الانيميا كيمكن يأثر على القلب و يسبب ألم فالصدر. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي منخفض، 99 على 60.",
+    "answer": "إذا ماكاينش أعراض بحال الدوخة، ماكاينش داعي للقلق. ولكن خاص تراقب الضغط ديالك.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو فقر الدم الانحلالي؟",
+    "answer": "فقر الدم الانحلالي هو حالة كيتسبب فيها تكسير الخلايا الحمراء. خاص العلاج و نقل الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايعالجو انخفاض ضغط الدم؟",
+    "answer": "كيحتاجو مشروبات غنية بالسكر و خاص يتفاداو الماكلة المالحة. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "نسبة الكبد الوبائي ديالي هي 11، واش هادي منخفضة؟",
+    "answer": "النسبة 11 تعتبر عادية. خاص تراقب صحتك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي صداع و الضغط ديالي وصل ل 140/85.",
+    "answer": "خاصك تشوف الطبيب، حيث الضغط مرتفع و ممكن يكون عندك صداع بسبب هاد الشي.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو المعدل ديال ضغط الدم عند الحامل ف الأشهر الثلاثة الأولى؟",
+    "answer": "المعدل الطبيعي هو 120 على 80. خاص الحامل تراقب ضغطها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش يمكن ليه يعطي دم ديالو؟",
+    "answer": "الوشم ما كيمنعش التبرع بالدم. ولكن خاص يتأكد من حالته الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "إلا كان هرمون الكورتيزول مرتفع، واش هادشي كيسبب ارتفاع ف ضغط الدم؟",
+    "answer": "نعم، ارتفاع الكورتيزول كيمكن يسبب ارتفاع ف ضغط الدم. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الانقطاع من الدوا ديال الضغط كيجيب مشاكل؟",
+    "answer": "نعم، الانقطاع كيمكن يأدي لمشاكل خطيرة. خاص الالتزام بالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي الأدوية اللي كتعالج هبوط الضغط؟",
+    "answer": "كل حالة عندها علاج خاص بها. خاص الطبيب يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شكون هو الطبيب المتخصص فالعلاج ديال نقص الخلايا البيضاء؟",
+    "answer": "الطبيب المتخصص هو طبيب الدم و المناعة. خاص استشارة مباشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الرجلين ديالي كيتورمو و كيتعقدو بزاف.",
+    "answer": "هاد الأعراض كيمكن تكون علامة على مشكل فالكلي. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو أكثر الدوا اللي كيتستعمل باش يعالج فقر الدم؟",
+    "answer": "الأدوية كتعتمد على السبب. خاص استشارة الطبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو السبب ديال ضغط الدم 94/51؟",
+    "answer": "هاد الضغط غالبا عادي، ولكن خاصك تشوف طبيب إذا كان عندك أعراض أخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي أعراض بحال الأنفلونزا من بعد دوا الضغط العالي.",
+    "answer": "خاصك تقولي شنو هو الدوا لي خديتي، باش نقدر نساعدك.",
+    "entities": {
+      "symptoms": [
+        "أعراض الأنفلونزا"
+      ],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاجات ضغط الدم 140/100 شنو ندير؟",
+    "answer": "هاد الضغط ما مقبولش. خاصك تمشي لطبيب مختص باش يتكلف بحالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كنحس بالدوخة والغثيان.",
+    "answer": "خاصك تشاور مع طبيب، هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "غثيان"
+      ],
+      "medical_field": "أمراض الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الدوا لي كيعاون فالتفكير بلا ما يزيد الضغط؟",
+    "answer": "خاصك تسول طبيب مختص، هو لي يقدر يحدد لك الدوا المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي ضرر إلى طلع الضغط ل140؟",
+    "answer": "هاد الضغط يعتبر مرتفع، خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كيتحكم الضغط؟",
+    "answer": "خاصك تراقب الضغط ديالك وتزور طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن الشفاء التام من نقص الصفيح الدموي؟",
+    "answer": "الشفاء ممكن إلا عرفت السبب وخديتي العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش 122 من الهيموغلوبين فكل مليليتر ديال الدم عادي؟",
+    "answer": "لا، هاد المستوى ما كيتعتبرش فقر الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا مصاب بالأنيميا.",
+    "answer": "العلاج كيعتمد على السبب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "أنيميا"
+      ],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "نقص عدد كريات الدم البيضاء شنو يعني؟",
+    "answer": "كاين خطر كبير باش تشد شي فيروس، خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي علاج نهائي للأنيميا؟",
+    "answer": "إلا عرفتي السبب وخديتي العلاج المناسب، ممكن الشفاء.",
+    "entities": {
+      "symptoms": [
+        "أنيميا"
+      ],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نقدر نعالج سيلان الدم؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "سيلان الدم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش طبيب الدم هو نفسه طبيب أمراض الدم؟",
+    "answer": "لا، طبيب الدم كيعني جراح الأوعية الدموية، ماشي طبيب أمراض الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "لحبة الزنك مزيانة ليا؟",
+    "answer": "ما كاين حتى مشكل، ولكن خاصك تشوف طبيب قبل ما تاخدها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي نقص فعدد كريات البيض، شنو دير؟",
+    "answer": "كاين خطر كبير من الفيروسات بسبب نقص كريات الدم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نقص كريات البيض"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو الفوايد ديال التبرع بالدم؟",
+    "answer": "التبرع بالدم كيساعد فمساعدة الآخرين وكيساهم فصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الجري الخفيف مزيان للضغط؟",
+    "answer": "المشي السريع مزيان، ولكن كل حالة عندها ظروفها الخاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "جوج قطرات زيت غادي يرفعو الضغط ديال العين؟",
+    "answer": "إيوا، بروستاغلين كيعون فالتخفيف من الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي وجع ف راسي، واش الضغط هو السبب؟",
+    "answer": "ماشي ضروري، ولكن خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف راس"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أدوية السيولة كتحسن الضغط؟",
+    "answer": "أدوية السيولة كيمكن تساعد على رفع أو نقصان الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "معدل الضغط ديالي 130/100، شنو دير؟",
+    "answer": "خاصك دير فحص كامل باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاج ارتفاع ضغط الدم 155/100؟",
+    "answer": "كاينين بزاف د الخيارات، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش توقف دوا الضغط كيجيب مشاكل؟",
+    "answer": "إيوا، ارتفاع الضغط كيمكن يسبب مضاعفات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي 12/8، واش ناخد دوا؟",
+    "answer": "الضغط ديالك عادي، ما كيتعالجش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الضغط يأثر على التبول؟",
+    "answer": "إيوا، إلا ما تعالجاتش مزيان، يمكن يكون عندها عواقب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين تحسن فالعلاج ديال الأنيميا؟",
+    "answer": "العلاج كيتطلب وقت، ولكن مع إعطاء الدم أو الفيتامينات كيمكن يتحسن الوضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "فوقيا كايدورني راسي، شنو ندير؟",
+    "answer": "خاصنا نعرفو التاريخ الطبي باش نحددو السبب.",
+    "entities": {
+      "symptoms": [
+        "دوران ف الرأس"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط 14/9 و النبض 55 مزيان؟",
+    "answer": "نعم، ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو كياكلو مرضى الضغط؟",
+    "answer": "خاصهم يتجنبو الملح والأطعمة الغنية بالدهون. من الأفضل ياكلو خضار وفواكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو الفرق بين الأملودابين والنورموترين؟",
+    "answer": "الأملودابين والنورموترين كيتستعملو لعلاج ضغط الدم. كل واحد عندو طريقة عمل مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الكورّان يقدر يرفع لي ضغط الدم؟",
+    "answer": "نعم، فبعض الحالات الكورّان يقدر يسبب ارتفاع ضغط الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش رفع الأثقال مضر للي عندهم ضغط دم منخفض؟",
+    "answer": "لا، رفع الأثقال ممكن يكون مفيد. ولكن خاصهم يكونو حذرين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نعالج التهاب الدم؟",
+    "answer": "خاصنا نعرفو نوع البكتيريا باش نعطيو المضاد الحيوي المناسب. التحاليل مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التهاب الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين علاقة بين ارتفاع الضغط والنبض؟",
+    "answer": "نعم، كاينة علاقة بيناتهم. ارتفاع الضغط يقدر يؤثر على النبض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نفرق بين نوبات ارتفاع وانخفاض ضغط الدم؟",
+    "answer": "الطريقة الوحيدة هي قياس ضغط الدم. خاصنا نكونو واعيين بالأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو السبب لي خلا الضغط ينزل وجسمي يتنمل؟",
+    "answer": "خاصنا نديرو تحاليل باش نعرفو السبب. يمكن يكون نقص فالمعادن.",
+    "entities": {
+      "symptoms": [
+        "تنمل"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مزيان للمريض بالضغط الصيام؟",
+    "answer": "الصيام مزيان، كيساعد على تحسين الصحة. ولكن خاصو يتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نعرف الضغط ديالي؟",
+    "answer": "خاصك تقيس الضغط بانتظام. إذا كان مرتفع خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 55 فالمليون ديال كريات الدم الحمرا، واش هادشي عادي؟",
+    "answer": "العدد الطبيعي لكريات الدم الحمرا عند الرجال هو بين 4 و 5.72 مليون. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "كريات الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي حكة تحت ركبتي ومنطقة الصدر.",
+    "answer": "خاصك تشوف طبيب باش يتأكد من الحالة. يمكن تكون عندك دوالي.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو الحل لرقم 15 والواطي أقل من العادي؟",
+    "answer": "خاصك تزور اختصاصي باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي منخفض ومتوسط، شنو يعني؟",
+    "answer": "إلا كان الضغط ما بين 110 و80، راه عادي. لكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كيعالج الجسم الدم الزايد؟",
+    "answer": "يمكن تبرع بالدم أو دير تحاليل عامة. خاصك تشوف طبيب الأمراض الدموية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الدوا ديال باراسيتامول مزيان للضغط؟",
+    "answer": "الأعراض الجانبية ماشي ديما كتكون خطيرة. خاصك تسول طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي العواقب ديال ارتفاع ضغط الدم؟",
+    "answer": "يمكن يسبب مشاكل صحية خطيرة. خاصك تراقب الضغط ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين تحسن فالعلاج ديال الأنيميا فقل من سيمانة؟",
+    "answer": "خاصك تدير تحاليل باش نتأكدو من التحسن. العلاج كياخد وقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي أعراض انخفاض ضغط الدم؟",
+    "answer": "من أعراض انخفاض ضغط الدم كاين الدوخة والإرهاق. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "إرهاق"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا مصاب بالأنيميا، شنو العلاج؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش فصيلة الدم وراثية؟",
+    "answer": "أه، كيتحدد نوع الدم ديال الجنين على حساب الجينات اللي كيرثها من والده ووالدته.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "قست ضغطي اليوم هو 53/123 قبل الفطور. واش هادشي عادي؟",
+    "answer": "لا، هاد الضغط غير عادي. خاصك تشوف طبيب باش يحدد الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايعالج الجسم الدم اللي ماشي ديالو؟",
+    "answer": "خاصك تبرع بالدم، سير للعيادة ديال الدم، وخاصك تشوف شي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايعالجو الأنيما الحادة بالماكلة؟",
+    "answer": "خاصك تزيد من الأكل المتوازن، وتركز على البروتينات باش تعوض النقص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي أعراض انخفاض ضغط الدم؟",
+    "answer": "أعراض انخفاض ضغط الدم كتشمل الدوخة، التعب، والضعف. خاصك تشوف طبيب إذا حسيت بهاد الأعراض.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "تعب",
+        "ضعف"
+      ],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاج تجلط الدم؟",
+    "answer": "كاين بزاف د الخيارات بحال الوارفارين أو الإبر بحال الهيبارين. خاصك استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "والدتي ضغطي عالي وما مرتاحش باش ينزل، شنو الحل؟",
+    "answer": "خاصها ترجع للطبيب ديالها باش يعدل العلاج حسب الاستجابة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاجات ارتفاع الضغط؟",
+    "answer": "كاين الدوا، وضروري التغيير فنمط الحياة، بحال نقصان الملح والرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مرض لزوجة الدم هو فقر الدم المنجلي؟",
+    "answer": "لا، هاد شي مختلف. لزوجة الدم وفقر الدم المنجلي أمراض مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "لقيت الضغط ديالي 127/74، واش مزيان؟",
+    "answer": "نعم، هاد الضغط طبيعي ومزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايعالجو التهاب الدم؟",
+    "answer": "كيتم عمل مزرعة للدم، ومن بعد كيعطيو المضاد الحيوي حسب نوع البكتيريا.",
+    "entities": {
+      "symptoms": [
+        "التهاب الدم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج ارتفاع ضغط الدم؟",
+    "answer": "خاصك تشوف طبيب مختص باش يتأكد من حالتك. دير فحص دم ونتائج التحاليل.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ضغط الدم مرض مزمن؟",
+    "answer": "نعم، ضغط الدم من الأمراض المزمنة. خاص العلاج مدى الحياة لأنه القاتل الصامت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ارتفاع في الصفائح الدموية 461، واش عادي؟",
+    "answer": "خاصك تابع مع طبيب باش يشوف باقي التحاليل ويقيم الوضع.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الصفائح الدموية"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الدوا ديال السكري كيزيد الضغط؟",
+    "answer": "إلا كان تحت رعاية طبيب، ما كاينش مناش تخاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الغريب فروت كيتعارض مع الدوا ديال ضغط الدم؟",
+    "answer": "نعم، كيتعارض مع بعض الأدوية بحال مثبطات الكالسيوم والاستاتينات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي أعراض ارتفاع ضغط الدم؟",
+    "answer": "الأعراض كتشمل الوجع ف اللور ديال الراس والدوخة. خاصك تشوف طبيب إذا كانت الأعراض مستمرة.",
+    "entities": {
+      "symptoms": [
+        "وجع ف اللور ديال الراس",
+        "دوخة"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "خاصك تشوف شي طبيب باش تعرف السبب ديال دمك لي كيتقطع.",
+    "answer": "خاصنا نعرفو السبب باش نقدر نوصي بفحوصات إضافية عند طبيب الدم.",
+    "entities": {
+      "symptoms": [
+        "دم كيتقطع"
+      ],
+      "medical_field": "طب الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش السكر ولا الملح ضروريين باش ينقصو من الضغط ديال الدم؟",
+    "answer": "نعم، الما الزايد كايسبب الضغط وأمراض القلب. خاصك تحافظ على توازنهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الدوا لي كينقص من الضغط؟",
+    "answer": "أحسن علاج كيتحدد من طرف طبيب بعد ما يتعرف على الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش خروج الدم من مؤخرة الرجل مرض؟",
+    "answer": "خروج الدم ممكن يكون علامة على مشاكل صحية، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "خروج الدم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو سبب زيادة في نسبة الدم لي هي 14.3؟",
+    "answer": "هاد النسبة طبيعية، ولكن خاصك تراقب صحتك بصفة عامة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاش طالع ليا الضغط بلا ما نعرف؟",
+    "answer": "90% من حالات ارتفاع الضغط ما كتعطيش أعراض، و غير 10% اللي كيبان فيها شي أعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايعالجو الأنشيميا الحادة بالماكلة بلا مواد كيميائية؟",
+    "answer": "خاصك تزيد من كمية الماكلة وتركز على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كياخد المرا بزاف د الفوليك أسيد يقدر يأثر على الحامل والجنين؟",
+    "answer": "عافاك استاشر مع طبيب مختص فالأمراض النسائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط دم مرتفع هادي خمس سنين دابا.",
+    "answer": "خاصك تراقب ضغطك بانتظام وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو أحسن دوا لعلاج ارتفاع ضغط الدم؟",
+    "answer": "كاين بزاف د الأنواع دالعلاج، والاختيار كيعتمد على الحالة الصحية ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ارتفاع فحجم الصفائح الدموية 461. واش هادشي عادي؟",
+    "answer": "خاصك تتابع مع الطبيب ديالك باش يقيم الحالة ديالك. يمكن يكون عندك مشكل صحي خاص بالصفائح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاج ارتفاع الضغط عندي 78 عام.",
+    "answer": "ارتفاع الضغط كيتطلب متابعة دقيقة. خاصك تتبع نصائح الطبيب وتاخد الأدوية بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش التدخين كايتأثر بضغط الدم؟",
+    "answer": "التدخين كيزيد من ضغط الدم وكيأثر على صحة القلب. خاصك تحاول تقلل من التدخين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي علاج لفقر الدم؟",
+    "answer": "نعم، كاينين علاجات لفقر الدم، والاختيار كيعتمد على السبب. خاصك تشاور الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "نسبة الهيموغلوبين ديالي 11، واش هادي منخفضة؟",
+    "answer": "نعم، نسبة الهيموغلوبين 11 تعتبر منخفضة. خاصك تشوف طبيب باش يقيم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أش من مرض كيسبب ارتفاع ضغط الدم فالرجلين؟",
+    "answer": "تضيق الشرايين كيمكن يكون سبب لارتفاع ضغط الدم فالرجلين. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاجات ارتفاع ضغط الدم؟",
+    "answer": "كاينين بزاف د الأدوية لعلاج ارتفاع ضغط الدم، والطبيب هو اللي غادي يحدد الأنسب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن نخلي الدوا ديال ضغط الدم من بعد ما يرجع الضغط الطبيعي؟",
+    "answer": "لا، خاصك تستمر في العلاج حتى لو رجع الضغط طبيعي. استاشر طبيبك قبل ما توقف أي دواء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاش فاش كنوض من النعاس كنترنح بحال إلا كنت سكران؟",
+    "answer": "خاصك تشوف طبيب عام وتدير تحاليل. هاد الأعراض ممكن تكون بسبب نقص فالتوازن أو مشاكل صحية أخرى.",
+    "entities": {
+      "symptoms": [
+        "ترنح"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "قولون عصبي وارتفاع ضغط الدم، شنو ندير؟",
+    "answer": "خاصك تتبع نظام غذائي صحي، وتقلل من التوتر. يمكن تحتاج ملينات طبيعية.",
+    "entities": {
+      "symptoms": [
+        "قولون عصبي",
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديال الدم ديالي هو 84/137، واش هادشي عادي؟",
+    "answer": "خاصك تمشي لطبيب القلب وتدير إيكو. هاد الضغط يحتاج تقييم دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو اللي كيسبب انخفاض ضغط الدم؟",
+    "answer": "غالبًا ما كيكون نقص فالماء أو ارتفاع فدرجة الحرارة. بعض الأدوية تقدر تسبب هاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نحيد الدهون من الدم؟",
+    "answer": "تقدر تحتاج تتبع نظام غذائي صحي وأدوية بحال الفينوبرات. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو مرض فقر الدم الانحلالي؟",
+    "answer": "راه حالة خطيرة خاصها علاج عاجل، ويمكن تحتاج نقل الدم. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو السبب ديال الصداع النصفي؟",
+    "answer": "الصداع النصفي يمكن يكون بسبب عوامل متعددة، بحال التوتر أو التغذية. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نقصت وزنك بطريقة صحية؟",
+    "answer": "خاصك دير الرياضة بانتظام وتاكل ماكلة متوازنة. هاد الشي غادي يحسن صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاينين شي مستشفيات فالأردن ولبنان كيعالجو الأمراض ديال الدم؟",
+    "answer": "في لبنان والأردن، كاينين مستشفيات كتعالج الأمراض ديال الدم. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كيبين تحليل الدم أن عندو الإيدز و فيروس سي و بي؟",
+    "answer": "كاينين تحاليل خاصة بالإيدز والتهاب الكبدة ب و سي. خاصك دير التحاليل المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الفرق بين أقراص كانديلون وأتاكاند 8؟",
+    "answer": "كانديلون وأتاكاند 8 هما أدوية كتعالج ضغط الدم. خاصك تسول طبيبك على الفرق بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش دوا الايزوتريتينو ينقص ولا يزيد فالوزن؟",
+    "answer": "الايزوتريتينو ممكن يأثر على الوزن، ولكن خاصك تراقب حالتك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "دوكسازين كايهيج الضغط؟",
+    "answer": "دوكسازين كيساعد على تخفيض الضغط، ولكن خاصك تراقب الجرعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاش كيتحرك دايستولك غير ل90 ملي كناخد الدوا؟",
+    "answer": "هذا كيعني أن الضغط الانبساطي عندك ممكن يكون مرتفع. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاينة شي حبوب ديال الكبدة لي ماكاتعارضش مع مرض الكبد؟",
+    "answer": "غالبًا لا، ولكن خاصك تسول طبيبك على الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كيبين تحليل الدم أن عندو الإيدز وفيروس سي وبي؟",
+    "answer": "تحليل الدم كيبين وجود الفيروسات، ولكن خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو السبب ديال الضغط العالي ف راسي والاذن؟",
+    "answer": "الضغط العالي ممكن يكون بسبب التوتر أو مشاكل صحية أخرى. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضغط عالي"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن تتعافى من السرطان؟",
+    "answer": "التعافي من السرطان ممكن، ولكن كيعتمد على النوع والعلاج. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي نقص ف الصفائح الدموية، واش كاين شي علاج؟",
+    "answer": "نقص الصفائح الدموية يحتاج لتشخيص دقيق. خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [
+        "نقص الصفائح الدموية"
+      ],
+      "medical_field": "الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش السرطان ديال الدم هو نفس الشي بحال التلوث ديال الدم؟",
+    "answer": "السرطان ديال الدم مختلف عن التلوث. خاصك توضيح أكثر باش نفهم مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ارتفاع مفاجئ في الضغط؟",
+    "answer": "ارتفاع الضغط المفاجئ ممكن يكون خطير. خاصك تشوف طبيب فورًا.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ارتفاع في ضغط الدم وكنت كناخد إيريستابكس. الضغط ديالي رجع طبيعي. شنو هو التشخيص؟",
+    "answer": "خاصك تسول طبيبك على التشخيص المناسب لحالتك.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي 33 عام وضغطي 90/130 واخا هادشي طبيعي؟",
+    "answer": "هاد الضغط عادي، ولكن خاصك تراقب صحتك بشكل عام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي علاج لفقر الدم؟",
+    "answer": "نعم، كاين علاج لفقر الدم، ولكن خاصك تشاور طبيب باش يعرف السبب ونوع فقر الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش فقر الدم كيسبب التأخر فالدورة الشهرية؟",
+    "answer": "يقدر يكون السبب، ولكن خاصك تشاور طبيب النساء باش يتأكد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ارتفاع في ضغط الدم.",
+    "answer": "نعم، خاصك تقيس الضغط ديالك بانتظام وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هوما الأسباب اللي كتخلي الواحد ياخد أقراص المالتي راليكس؟",
+    "answer": "كيتستعملو لعلاج الألم والتقلصات اللي كتسببها الأمراض العضلية والعظام.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "تقلصات"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي حساسية من الإيثيروكس؟",
+    "answer": "كل دواء ممكن يسبب الحساسية، خاصك تراقب ردة الفعل ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن تعالج التهاب الدم، وواش خطير على الدراري؟",
+    "answer": "التهاب الدم يمكن يكون خطير، خاصك تشاور طبيب للأطفال باش يعرف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج اصفرار الدم؟",
+    "answer": "كاين بزاف ديال الأسباب للصفراء، خاصنا نعالجو السبب الأساسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الدوا لي عطاني الطبيب وشنو تأثيرو على مرضى الضغط؟",
+    "answer": "خاصك تسول الطبيب ديالك على الدوا وشنو التأثيرات ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض القلبية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاج جيني منخفضة الضغط شنو هو؟",
+    "answer": "علاج انخفاض ضغط الدم كيتطلب معرفة السبب وكيعتمد على الحالة الصحية.",
+    "entities": {
+      "symptoms": [
+        "انخفاض ضغط الدم"
+      ],
+      "medical_field": "الأمراض القلبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 33 عام و الضغط ديالي 112/78. واش هادشي مزيان؟",
+    "answer": "نعم، الضغط ديالك مزيان إلا ما كانش عندك شي أعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض القلبية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين علاج لفقر الدم؟",
+    "answer": "كاين بزاف د الأنواع ديال فقر الدم، وكل نوع عندو سبب خاص. خاصك دير تحاليل باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن النحيف يصاب بإرتفاع ضغط الدم؟",
+    "answer": "نعم، ممكن، ولكن الناس اللي عندهم السمنة كيتعرضو ليه أكثر.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "الأمراض القلبية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو أحسن علاج للضغط العالي؟",
+    "answer": "الضغط العالي عندو بزاف د الأسباب، خاصنا نعرفو السبب باش نحددو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "الأمراض القلبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش التغيرات في هرمونات الحمل كتحط الضغط ديال الدم فوق 20/12؟",
+    "answer": "نعم، ممكن، وهاد الشي مرتبط بالسبب ودرجة التأثير.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "الأمراض النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو اللوكسيطيزم؟",
+    "answer": "اللوكسيطيزم هو زيادة فعدد الصفائح الدموية. خاصك تستاشر مع طبيب باش يفهمك الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن يوقع التهاب بعد العملية بسبب نقص الدم؟",
+    "answer": "نعم، ممكن يوقع التهاب بعد العملية لعدة أسباب. خاصك تراقب حالتك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي 105 على 65 وكنحس بالدوخة.",
+    "answer": "خاصك تراجع الطبيب وتدير فحوصات. يمكن يكون عندك مشكل فضغط الدم.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو سبب ظهور الكدمات الزرقة فالجسم؟",
+    "answer": "غالبا نقص الصفائح الدموية هو السبب. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "كدمات زرقة"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي السكري والضغط طالع، واش الحجامة كتنفع؟",
+    "answer": "الحجامة يمكن تكون مفيدة، ولكن خاصك تتابع مع طبيبك. السكر والضغط خاصهم مراقبة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 70 عام، الضغط ديالي 150/100، والگليكوز 70. واش خاصني علاج؟",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب. الضغط العالي خاصو متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الزعفران والورد كايساعدو فزيادة الضغط؟",
+    "answer": "ما كايناش دراسات كتأكد هاد الشي. خاصك تحاول تتجنب الضغط العالي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج فقر الدم؟",
+    "answer": "علاج فقر الدم كيعتمد على السبب. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش فقر الدم كيسبب تأخير فالمجموعات الشهرية؟",
+    "answer": "ممكن يكون، ولكن خاصك تشوف طبيب النساء. هو لي يقدر يعطيك التشخيص الصحيح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي مرض ضمور فالنخاع العظمي وكنعاني من انيميا خبيث. شنو التخصص اللي خاصني نختار؟",
+    "answer": "خاصك تشوف طبيب مختص فالأمراض الدم. هو لي يقدر يساعدك فهاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ارتفاع فالضغط وكنشرب كونسور 10. واش هادشي مزيان؟",
+    "answer": "خاصك تتبع نصائح الطبيب. الضغط العالي خاصو علاج مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي 46 عام وضغطي 150/100. واش هادشي عادي؟",
+    "answer": "لا، هادشي ماشي عادي. خاصك تشوف طبيب لفحص الضغط ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو ضغط الدم اللي مزيان لواحد عندو 44 عام؟",
+    "answer": "الضغط المثالي هو 120 على 80. خاصك تحافظ على هاد القياس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي مرض التصلب المتعدد و الربو. شنو التخصص اللي خاصني؟",
+    "answer": "خاصك تستاشر مع طبيب مختص في الأمراض العصبية أو التنفسية.",
+    "entities": {
+      "symptoms": [
+        "التصلب المتعدد",
+        "الربو"
+      ],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كيتعالج الضغط العالي عند مرضى جلطات الدم؟",
+    "answer": "العلاج كيتطلب تناول الأدوية المناسبة وتتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [
+        "الضغط العالي"
+      ],
+      "medical_field": "أمراض القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "القياس ديال ضغط الدم ديالي هو 135/67. واش هادا طبيعي؟",
+    "answer": "هذا القياس عادي وما كاينش مناش تخاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 26 عام وكنعاني من فقر الدم. شنو أحسن طريقة لتحفيز النخاع العظمي؟",
+    "answer": "خاصنا نعرفو السبب ديال فقر الدم ونديرو الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الضغط المنخفض كيسبب الصداع؟",
+    "answer": "إيوا، الضغط المنخفض ممكن يسبب الصداع، وغالبا كايتسبب فظهور أعراض أخرى بحال الدوار.",
+    "entities": {
+      "symptoms": [
+        "الصداع",
+        "الدوار"
+      ],
+      "medical_field": "أمراض القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاينة شي علاقة بين ارتفاع الضغط و الكلى؟",
+    "answer": "إيوا، أمراض الكلى والشرايين كيمكن تكون من الأسباب اللي كتسبب ارتفاع الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي انيميا و ضربات القلب طلعات. شنو خاصني ندير؟",
+    "answer": "خاصك تعطيه شي حاجة باردة وعاود قيم الدم.",
+    "entities": {
+      "symptoms": [
+        "انيميا",
+        "ضربات القلب"
+      ],
+      "medical_field": "أمراض الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ما عنديش شي حاجة، ولكن عندي 47.7% من الليمفوسيتات. شنو ندير؟",
+    "answer": "من الأحسن نعاودو نحللو الأمور بعد شهر باش نشوفو شنو اللي واقع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ارتفاع مستوى الصفيحات الدموية فوق المعدل الطبيعي خطير؟",
+    "answer": "علاش لا، خاصنا نعرفو العدد الحقيقي ونشوفو الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أمراض الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط دم 140/90، عندي وجع فالعروق وصداع وعيان. شنو خاصني ندير؟",
+    "answer": "خاصك تشرب الماء وتاخد شي باندود. إذا استمر الألم، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعروق",
+        "صداع",
+        "عيان"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كنت عندي ضغط دم منخفض هادي خمس شهور. شنو خاصني ندير؟",
+    "answer": "خاصك تشوف طبيب مختص وتدير تحاليل دم باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي مشكل ديال الدوار المفاجئ ملي كنوقف، واش كاين شي علاج ليه؟",
+    "answer": "ممكن يكون السبب هو نقصان الضغط. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوار"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "درجة انخفاض ضغط الدم ديالي هي 14 ودرجة انخفاض الإبساط ديالي هي 12.7. شنو هي درجة الخطورة؟",
+    "answer": "خاصك تدير العلاج بالدوا ديال ضغط الدم مع الريجيم ديال الملح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الشعر كيتبدل اللون ديالو من الشمس؟",
+    "answer": "الشمس كتخلي الشعر يولي شقر، ولكن التعرض المفرط ليها ميمكنش يكون مفيد للشعر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 24 عام ودمي قوي، شنو أحسن علاج باش نزيد القوة؟",
+    "answer": "خاصك تعرف السبب ديال نقص الكروموسومات باش تاخد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مزيان تاكل اللحم الأحمر للي عندو الضغط؟",
+    "answer": "اللحم الأحمر فيه الدهون، خاصك تحاول تقلل منو إذا كنت عندك الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي صداع ف راسي، واش ممكن يكون الضغط؟",
+    "answer": "الصداع عندو أسباب بزاف، ماشي غير الضغط. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "نزلات ليك الضغط ديال الدم ل9 على 5، واش هادشي عندو علاقة بالزائفة؟",
+    "answer": "ما كاينش علاقة بين تكيس المبيض والهزات فضغط الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو المدة المثلى ديال كل تبرع دالدم وشنو الكمية اللي كيتسحب فيها؟",
+    "answer": "المدة المثلى هي ثلاثة شهور بعد التبرع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تبرع الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو أحسن علاج للفقر الدم عند ولد عندو 15 شهر ونسبة الدم ديالو 6؟",
+    "answer": "العلاج كيتحدد حسب نوع فقر الدم والسبب ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط دم مرتفع بسباب ضعف الجنسية.",
+    "answer": "الضغط المرتفع كيتأثر بأمراض الشرايين، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش واحد اللي عندو السكري وارتفاع الضغط يقدر يستعمل الفياجرا؟",
+    "answer": "هادشي كيتطلب تقييم مفصل من الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "سكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي 157 على 81، واش هادشي عادي؟",
+    "answer": "ماشي مشكل، ولكن خاصك تعرف السبب ديال ارتفاع الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو كياكل واحد مريض بالضغط وما كياكلش شي حاجة معينة؟",
+    "answer": "كياكل كلشي بلا ملح، والطماطم، والجبن بلا ملح، وكياكل بزاف ديال الما.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط دم مرتفع من شهرين ونص، واخا كاناخد الدوا.",
+    "answer": "الجرعة ضعيفة، خاصها تتزاد. من الأفضل تشاور مع الطبيب ديالك.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم مرتفع"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش 143 على 89 هو ضغط الدم عالي؟",
+    "answer": "نعم، هاد الرقم كيدل على ارتفاع ضغط الدم. خاصك تشوف طبيب باش يتابع الحالة.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم عالي"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "خويا مريض عندو نقص فالمعاعمة والصفائح الدموية.",
+    "answer": "خاصو يتقيم عند طبيب مختص فالأمراض الدموية. هاد الحالة كتشكل خطر على الصحة.",
+    "entities": {
+      "symptoms": [
+        "نقص فالمعاعمة",
+        "نقص الصفائح الدموية"
+      ],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج انخفاض الضغط؟",
+    "answer": "العلاج كيتحدد حسب السبب. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "انخفاض الضغط"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "مي خدات جوج دوا ديال الضغط... دابا راه مفيقاش... شنو غادي يوقع؟",
+    "answer": "خاصها تمشي للسبيطار دابا. الحالة كتطلب تدخل طبي عاجل.",
+    "entities": {
+      "symptoms": [
+        "فقدان الوعي"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو العلاج ديال الضغط العالي؟",
+    "answer": "العلاج كيتحدد حسب الحالة. خاصك تشاور مع الطبيب ديالك.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم عالي"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "مرحبا، واش 145/85 مزيان ولا غالي شوية؟",
+    "answer": "هاد الضغط يعتبر عالي شوية. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم عالي"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي 30 عام و الضغط ديالي طالع... واش عندي مشكل؟",
+    "answer": "خاصك تنقص من الوزن وتدير الرياضة. هادشي غادي يساعدك بزاف.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم مرتفع"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عمرني ضغط الدم ديالي طلع، كيفاش ينزل؟",
+    "answer": "خاصك تشوف طبيب باش يحدد العلاج المناسب. ممكن تحتاج دواء ضد الضغط العالي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديال الدم هو 160/90، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب القلب باش يشوف الحالة ديالك. العلاج غادي يتحدد حسب الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش لعقاقير ديال الضغط كتأثر على القلب؟",
+    "answer": "لا، إلا كان تحت إشراف طبي، كيساعد باش يحافظ على صحة القلب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ألم فالمعدة، الضغط ديالي وصل ل 190/11، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب فورا. الضغط العالي خطر على صحتك.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "بنتي عندها نقص فالجلطات، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب باش يدير تحاليل ويشوف السبب. العلاج ضروري.",
+    "entities": {
+      "symptoms": [
+        "نقص الجلطات"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين التهاب بعد العملية بسبب نقص الدم؟",
+    "answer": "الالتهاب بعد العملية ممكن يكون بسبب عدة عوامل. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي زيادة فعدد الصفائح الدموية، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الدم باش يدير لك تحاليل. ضروري تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو كايعني هاد النتيجة ديال تحليل الدم؟",
+    "answer": "المريض مصاب بثلاسيميا وفقر الدم. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي علاقة بين الشد فالرجلين والدم؟",
+    "answer": "بالطبع، الدورة الدموية كتنقل الدم لكل الجسم وكتحمل الحرارة. خاصك تشوف طبيب إذا كانت عندك أعراض أخرى.",
+    "entities": {
+      "symptoms": [
+        "شد فالرجلين"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو اللي كيسبب ليا النوبات والدوخة؟",
+    "answer": "الأسباب كيمكن تكون متنوعة، بحال مشاكل قلبية أو نفسية. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "نوبات",
+        "دوخة"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الضغط المنخفض كيخلي العين تشتت دايما؟",
+    "answer": "نقص الضغط ممكن يسبب الدوخة والغثيان. إذا كانت عندك أعراض مستمرة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "غثيان"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الزنجبيل كيتعارض مع الوارفارين؟",
+    "answer": "لا، الزنجبيل ما كيتعارضش مع الوارفارين. ولكن خاصك تسول طبيبك قبل ما تستعمل أي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي بديل للي كيتعرف بـ 'الضغط المفاجئ'؟",
+    "answer": "خاصك تسول طبيبك على البدائل المتاحة. كل حالة كتعتمد على الشخص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 24 عام و عندي قوة دمية ديال 12.2. شنو هو أحسن علاج باش نزيد القوة؟",
+    "answer": "خاصك تعرف السبب ديال نقص الهيموغلوبين باش تاخد العلاج المناسب. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش العظام والجلد واللسان مرتبطين بمرض الدم الجلدي؟",
+    "answer": "هاد الأعراض كيمكن تكون بسبب نقص فيتامين د. خاصك تشوف طبيب لتحديد العلاج.",
+    "entities": {
+      "symptoms": [
+        "ألام"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "مرحبا، كيفاش كيتعالجو مرضى فقر الدم لي عندهم ارتفاع ضغط الدم؟",
+    "answer": "ما كاينش علاقة مباشرة بين علاج فقر الدم وارتفاع ضغط الدم. كل حالة خاصها علاج خاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي الاجهاض فالسيمانة السابعة وكنت عطيتوني حقنة دم من النوع أ-، واش هاد الشي كيأثر على الحمل؟",
+    "answer": "ما غاديش يأثر على الحمل، ولكن خاصك تراقبي صحتك وتستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي تفاعل بين الباروكسيتين والابيليفاي اللي ممكن يزيد من الضغط ديال الدم؟",
+    "answer": "غالبا لا، ولكن خاصك تراقب الضغط ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ارتفاع فالضغط ديالي شي مرات حتى ل 166/93.",
+    "answer": "خاصك تقييم دقيق لحالتك، وضروري تتبع العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "العلاج ديال انخفاض الضغط شنو هو؟",
+    "answer": "العلاج كيتضمن إضافة الملح للماكلة، وفي الحالات القاصحة خاصك ترفع رجليك للأعلى.",
+    "entities": {
+      "symptoms": [
+        "انخفاض الضغط"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كيحافظو مرضى الضغط على صحتهم؟",
+    "answer": "خاصهم يتبعو نظام غذائي صحي، يمارسو الرياضة، ويلتازمو بالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب والشرايين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الضغط النفسي كيسبب مشاكل فالرجولة عند الرجال فوق 57 عام؟",
+    "answer": "إيوا، الضغط النفسي يقدر يأثر على القدرة الجنسية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاش كيرتفع الضغط عندي وأنا عندي 38 عام؟",
+    "answer": "رافع ضغط الدم كيتطلب استشارة طبيب. خاصك تعرف الأسباب والعلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين فرق ف الضغط بين الراس والرجلين مني كنكون واقف؟",
+    "answer": "ماشي ضروري يكون الفرق كبير، ولكن خاصك تراقب حالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي 136/65. واش هادشي عادي؟",
+    "answer": "هاد الضغط عادي وما خاصكش تقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندو سرطان وكيشرب الدوا، واش غادي يأثر عليه؟",
+    "answer": "خاصك تستاشر مع الطبيب ديالك بخصوص الحالة ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الدهون الثلاثية 409 والكولسترول 239. واش نقدر نقصهم بالماكلة والرياضة؟",
+    "answer": "نعم، الماكلة الصحية والرياضة كيساعدو. ولكن ممكن تحتاج دوا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكولسترول",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايعالجوا الالتهاب الدم؟",
+    "answer": "خاصك تشوف طبيب مختص، حيث الالتهاب الدم كيتطلب تشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الالتهابات",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش أسبو نصر كيساعد على تنقية الدم؟",
+    "answer": "أه، كايساعد ولكن خاصو يتستعمل تحت إشراف طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تنقية الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش تقلصات فالبطن كتعني فقر الدم؟",
+    "answer": "هادي واحدة من الأسباب، خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "تقلصات فالبطن"
+      ],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي صداع و ضغط الدم ديالي 108/65.",
+    "answer": "الصداع عندو بزاف دالأسباب، ولكن الضغط ديالك عادي.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كيتنقل فيروس السيدا بالملامسة؟",
+    "answer": "الإيدز ما كيتنقلش عن طريق اللمس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فيروس السيدا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "خاصني ناخد دوا ديال الضغط كل نهار؟",
+    "answer": "نعم، خاصك تاخد الدوا كل نهار إذا كان عندك ضغط دم عالي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو كيعني قياس قوة الدم؟",
+    "answer": "الهيما توكريت هو نسبة الخلايا الحمراء في الدم وكتحسب عن طريق قياس عددها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "قوة الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كيتعالجو مرضى فقر الدم لي عندهم ارتفاع ضغط الدم؟",
+    "answer": "ما كاينش علاقة مباشرة بين علاج فقر الدم وعلاج ارتفاع ضغط الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم وارتفاع ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو كيعني الضغط الانبساطي كيزيد مع العمر؟",
+    "answer": "الضغط الانبساطي كيزيد مع تقدم العمر، وهاد الشي طبيعي. ولكن خاصك تراقب الضغط ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش فيروس سي كيتنقل باللمس؟",
+    "answer": "فيروس سي ما كيتنقلش باللمس، ولكن خاصك تكون حذر من طرق العدوى الأخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو المغذي الوريدي المناسب للحامل مع انخفاض ضغط الدم؟",
+    "answer": "الحل الملحي هو الخيار المناسب، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "انخفاض ضغط الدم"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي بقع زرقا ف رجلي، شنو ندير؟",
+    "answer": "خاصك تدير تحليل سيولة الدم باش نتأكدو من الحالة. هاد البقع ممكن تكون نتيجة نقص الصفائح الدموية.",
+    "entities": {
+      "symptoms": [
+        "بقع زرقا"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 100 كرة دم بيضا، واش هادشي طبيعي؟",
+    "answer": "ممكن يكون طبيعي، ولكن خاصك تدير تحاليل باش نتأكدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كاينعالج النزيف والنوبات؟",
+    "answer": "خاصك تدير الفحوصات باش نعرفو نوع فقر الدم وشنو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نزيف",
+        "نوبات"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي وجع فركابي ليمن، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يشوف السبب ويدير لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فركابي"
+      ],
+      "medical_field": "العظام والمفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش لقاح استرازيكيا كيدير تأثيرات على الناس اللي عندهم الضغط العالي؟",
+    "answer": "لقاح استرازيكيا ممكن يكون عندو آثار جانبية، ولكن ما كينش دليل على أنه كينقص الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو سبب الصفائح الدموية اللي تصلقت؟",
+    "answer": "الصفائح الدموية اللي تصلقت ممكن تكون بسبب التهابات مستمرة. خاصك تشاور طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ندوب قديمة فالجنب. واش يمكن يتعالجو؟",
+    "answer": "خاصك تشوف طبيب مختص فالأمراض الجلدية. هو لي غادي يقدر يقيم الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ندوب"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ضغط الدم ديالك عادي؟ شنو هو المعدل المناسب لضغط الدم؟",
+    "answer": "الضغط الطبيعي هو 120 على 80. إذا كان عندك شك، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو مرض ارتفاع ضغط الدم؟",
+    "answer": "مرض ارتفاع ضغط الدم هو حالة كيزيد فيها الضغط فوق المعدل الطبيعي. خاصك تتبع العلاج وتراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين تقلصات فالبطن من علامات فقر الدم؟",
+    "answer": "تقلصات البطن ممكن تكون علامة على فقر الدم، ولكن خاصك تشوف طبيب مختص باش يشوف حالتك.",
+    "entities": {
+      "symptoms": [
+        "تقلصات فالبطن"
+      ],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي زيادة فعدد الصفائح الدموية، واش هاد الشي خطير؟",
+    "answer": "زيادة الصفائح الدموية ممكن تكون علامة على مرض. خاصك تشوف طبيب باش يدير ليك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصفائح الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الفينتامين د ديالي هو 24، والحديد ديالي هو 21. شنو خاصني ندير؟",
+    "answer": "عندك نقص فالفينتامين د والحديد. خاصك تعوضهم بالأدوية أو الماكلة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "نقص الفيتامينات",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش التدخين كيسبب السكتة القلبية؟",
+    "answer": "التدخين هو واحد من العوامل الخطيرة اللي كتسبب السكتات القلبية. خاصك تحاول تبعد عليه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاينة شي علامة على فقر الدم فوجهك؟",
+    "answer": "نعم، فقر الدم كيسبب شحوب فوجهك. خاصك تشوف طبيب لتقييم حالتك.",
+    "entities": {
+      "symptoms": [
+        "شحوب الوجه"
+      ],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو السبب ديال الضغط العالي؟",
+    "answer": "كاين بزاف ديال الأسباب، ولكن فالأغلب ما كيعرفوش السبب الحقيقي. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش التبرع بالدم للشخص العادي مزيان؟",
+    "answer": "التبرع بالدم مزيان وكيعاون فتنشيط إنتاج الدم. كينفع الصحة وكيكون عندو فوائد متعددة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش تعرف بلي شي واحد مصاب بفقر الدم وشنو هي أعراضها؟",
+    "answer": "من الأعراض كاين الدوخة، التعب، والشحوب. خاص استشارة طبيب لتأكيد التشخيص.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "تعب",
+        "شحوب"
+      ],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو العلاج ديال فقر الدم عند الحامل؟",
+    "answer": "غالبا العلاج كيتضمن مكملات الحديد وحمض الفوليك. خاص متابعة طبية مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي علامات واضحة ديال السكر ف الدم؟",
+    "answer": "نعم، من العلامات كاين العطش المفرط وكثرة التبول. خاص استشارة طبيب لتأكيد الحالة.",
+    "entities": {
+      "symptoms": [
+        "عطش مفرط",
+        "كثرة التبول"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الصداع كيجي من الارتفاع فالضغط؟",
+    "answer": "نعم، الصداع ممكن يكون نتيجة ارتفاع الضغط. خاص متابعة طبية لتفادي المضاعفات.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "السلام، أنا عندي ضغط الدم العالي وما عرفتش شنو ندير.",
+    "answer": "خاصك تشوف طبيب لتحديد العلاج المناسب. الضغط العالي يحتاج متابعة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شحال من وقت كايتسنا بين كل تبرع دالدم؟",
+    "answer": "ثلاث شهور بين التبرع والتسلسل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي طلب ديال دوا لعلاج فقر الدم.",
+    "answer": "خاصنا نعرفو نوع فقر الدم وشنو السبب باش نحددو العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش التبرع بالدم مزيان للشخص العادي؟",
+    "answer": "نعم، التبرع بالدم مفيد لأنه كينشط إنتاج الدم من نقي العظم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أعراض نقص الهيموغلوبين شنو هي؟ ووقتاش نمشي للطبيب؟",
+    "answer": "من الأعراض كاين الارتفاع في الحرارة، تسارع دقات القلب، والاعياء العام. خاصك تمشي للطبيب إلا حسيت بهاد الأعراض.",
+    "entities": {
+      "symptoms": [
+        "الارتفاع في الحرارة",
+        "تسارع دقات القلب",
+        "الاعياء العام"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي انخفاض كبير في ضغط الدم، شنو خاصني ندير؟",
+    "answer": "إذا ما كانوش أعراض، ما كاينش مشكل. ولكن إذا حسيت بشي حاجة، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ممكن الكبسولات ديال زيت جنين القمح تسبب الحساسية؟",
+    "answer": "أه، يمكن تسبب الحساسية لبعض الناس.",
+    "entities": {
+      "symptoms": [
+        "الحساسية"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "إذا كان الضغط ديالي عالي، شنو خاصني ندير؟",
+    "answer": "الضغط الانبساطي ديالك عالي، خاصك تشوف طبيب ديال القلب دابا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاج عدم تدفق الدم للمخ شنو هو؟",
+    "answer": "كاينين بزاف د الأسباب، خاصك تشاور طبيب باش تعرف السبب الحقيقي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش عندك شي دوا ديال ضعف الإنجاب اللي ما كيأثرش على الضغط؟",
+    "answer": "كاين دوا كينقص من الضغط وممنوع يتستعمل مع دوا القلب سميتو نترات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو النطاق الطبيعي للضغط؟",
+    "answer": "الضغط العادي كيتراوح بين 90 و 140 للضغط العالي، ومن 60 ل 90 للضغط المنخفض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كنت عندي الضغط العالي هادي عشر سنين. واش نقدر نستعمل باراسيتامول؟",
+    "answer": "إلا ما كانوش مضادات الاستجابات، ممكن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايتحكم ف الضغط؟",
+    "answer": "الضغط كيتحكم فيه خاصية التناضح، اللي كتحبس الماء فالأوعية الدموية، وهاد الشي كيزيد الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو اختبار الدم الكامل؟",
+    "answer": "اختبار الدم الكامل كيتضمن قياس كريات الدم البيضاء والحمراء وبعض العناصر الأخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تحليل الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي أعراض تكسير الدم فمرض أنيميا الفول ووقتاش نمشي للطبيب؟",
+    "answer": "الأعراض كتشمل ارتفاع الحرارة، تسارع ضربات القلب، والصفار. خاص تمشي للطبيب فحالة ظهور هاد الأعراض.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الحرارة",
+        "تسارع ضربات القلب",
+        "الصفار"
+      ],
+      "medical_field": "أنيميا الفول",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي ديما عالي، حتى مع العلاج المنتظم. شنو ندير؟",
+    "answer": "يمكن ليك تشوف طبيبك باش يبدل لك الدوا أو يزيد لك شي عيارات أخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو خصني ندير مع ارتفاع ضغط الدم؟",
+    "answer": "خاص يتدار فحص طبي باش نأكدو التشخيص ونحددو السبب، ومن بعد نتعالجوه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو العلاج ديال فقر الدم عند الحامل؟",
+    "answer": "غالبا السبب هو نقص فحمض الفوليك، وكيحل هاد المشكل بتعويضه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "مرحبا، كاين شي واحد كيمرض بزاف وخاصو يمشي للمستشفى. شنو هو العلاج المناسب؟",
+    "answer": "كنصحك تشوف شي طبيب مختص فالمعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المعدة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كاين شي علاج للعجز الجنسي بعد حادث السير؟",
+    "answer": "خاصك تشوف طبيب مختص باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "عجز جنسي"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو علاج نزلة البرد للناس لي عندهم انيميا البحر المتوسط؟",
+    "answer": "العلاج كيعتمد على نوع نزلة البرد. خاص الراحة والسوائل.",
+    "entities": {
+      "symptoms": [
+        "نزلة برد"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو العلاج ديال مرض الانيميا البحرية؟",
+    "answer": "العلاج كيتطلب الراحة والسوائل. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "انيميا"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط دم منخفض، واش هادشي عادي؟",
+    "answer": "ضغط الدم ديالك ف الحدود الطبيعية، ما تقلقش. ولكن خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم منخفض"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ارتفاع ضغط الدم كايسبب في التبلمور؟",
+    "answer": "نعم، ممكن يكون عندو تأثير على رجليك. خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش فقر الدم مرض معدي؟",
+    "answer": "لا، فقر الدم ماشي معدي. كيتسبب فمشاكل فالتغذية.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو السبب ديال هبوط الضغط؟",
+    "answer": "هبوط الضغط كيتسبب فقلة فمستوى ضغط الدم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "هبوط الضغط"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كينصحو الناس اللي عندهم ارتفاع ضغط الدم ياخدو الثوم؟",
+    "answer": "إي، ولكن خاصهم ما يعتمدوش عليه بوحدو، خاصهم يتبعو العلاج اللي وصفو الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "القلب والأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "مراتي عندها نقص فالكرياتين، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ديال نقص الوزن ونقص كريات الدم.",
+    "entities": {
+      "symptoms": [
+        "نقص الوزن",
+        "نقص كريات الدم"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش استعمال الهرمونات ديال بناء العضلات كيسبب فهبوط الضغط؟",
+    "answer": "إي، عند بعض الناس، حسب طبيعة الجسم والتفاعل مع الهرمونات.",
+    "entities": {
+      "symptoms": [
+        "هبوط الضغط"
+      ],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ارتفاع فعدد كريات الدم البيضاء، شنو خاصني ندير؟",
+    "answer": "خاصك تدير تحاليل إضافية، ولكن ما كاينش مشكل كبير إلا إذا كانت عندك أعراض أخرى.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع عدد كريات الدم البيضاء"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش يمكن لي نبدل الحبوب ديال الضغط؟",
+    "answer": "على حسب شدة الضغط، ولكن من الأفضل تستمر فاستعمال الدوا اللي وصفو الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "القلب والأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو المعدل الطبيعي ديال الضغط؟",
+    "answer": "المعدل الطبيعي هو تحت 120/80.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب والأوعية الدموية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الخوف والتوتر كيسببو فارتفاع الضغط؟",
+    "answer": "نعم، هادشي يقدر يسبب ارتفاع الضغط، حسب شدة التوتر.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "القلب والأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الأدوية ديال تخفيض الضغط كيسببو فمشاكل فالعلاقة الجنسية؟",
+    "answer": "إي، يقدر يكون عندهم تأثير، خاصك تتشاور مع الطبيب إذا لاحظتي شي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب والأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الزنجبيل كيتعارض مع الوارفارين؟",
+    "answer": "من الأفضل تبعد على الزنجبيل إلا كنتي كتستعمل الوارفارين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي الأسباب ديال نقصان الهيموغلوبين؟",
+    "answer": "نقص الهيموغلوبين كيتسبب ففقر الدم، وعندو بزاف ديال الأسباب، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "نقص الهيموغلوبين"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نعالج فقر الدم؟",
+    "answer": "خاصنا نعرفو نوع فقر الدم باش نحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش هيلوتيازيد يقدر يضر الكلى؟",
+    "answer": "لا، إلا كان تحت مراقبة طبيب وبالجرعة المناسبة. خاصك تتابع الحالة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الملح كيزيد فضغط الدم؟",
+    "answer": "إلا ماكانش عندك تاريخ عائلي لارتفاع الضغط، ماغاديش يكون مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ارتفاع ضغط الدم كيأثر على الشعر؟",
+    "answer": "ما كاينش دليل علمي على تأثير مباشر، ولكن بعض الأدوية كيتستعملو فالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ضغط الدم ديالي هو 119/91، واش هادشي مزيان؟",
+    "answer": "ماشي مشكل، ولكن خاصك تراقب الضغط ديالك وتكمل الفحوصات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عروقي كيبانو بزاف، واش هادشي مقلق؟",
+    "answer": "خاصك تشوف مع طبيب، يمكن يكون عندك شي مشكل صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين تحليل دم باش نعرفو إذا مريض ولا لا؟",
+    "answer": "نعم، التحليل الجيني هو وسيلة فعالة باش نعرفو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تحليل الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين تعارض بين كونسير 10 و دوا فيفا فاسك 10/160؟",
+    "answer": "يمكن يكونو متعارضين، خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نعالج الضغط المنخافض؟",
+    "answer": "شرب الما كيعاون فتنظيف الجسم، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو خاصني ندير ملي كيوصل الضغط ل 200؟",
+    "answer": "خاصك تمشي عند الطبيب دابا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين علاج طبيعي باش نقصو من الصفائح الدموية؟",
+    "answer": "خاصك تعرف العدد الحالي وتلقى السبب باش تاخد علاج مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصفائح الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "اليوم قمت بقياس الضغط ولقيت 100 على 65، واش هادشي مقلق؟",
+    "answer": "إلا ماكانش شي عراض، ماكاينش داعي للقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كيتحدد عدد كريات الدم الحمراء ف الدم؟",
+    "answer": "عدد كريات الدم الحمراء كيتحدد عن طريق الفحص المخبري. كيتقاس تحت المجهر فمساحة معينة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "نقص الصفائح الدموية، واش كاين شي علاج طبيعي باش نزيدو فعددها؟",
+    "answer": "خاصك تعرف العدد الحالي وتلقى السبب ديالو. من بعد يمكننا نحددوا العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الانيميا كتسبب الجفاف؟",
+    "answer": "الانيميا بحد ذاتها ما كتسببش الجفاف. ولكن إلا كانو عندهم نزيف، يقدرو يسببو الجفاف.",
+    "entities": {
+      "symptoms": [
+        "الجفاف"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاينة علاقة بين شرب القرفة بزاف و السيلان ديال الدم؟",
+    "answer": "القرفة ما كتسببش السيولة ف الدم إلا إذا شربنا كميات كبيرة بزاف. هاد الشي مستحيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش لارتفاع الضغط ديال هاد البنت اللي عندها 19 عام عادي؟",
+    "answer": "ارتفاع الضغط عند الشباب ماشي عادي. خاصك تتأكد من السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ارتفاع ف الضغط وكنحس بالسخانة فالأذن. علاش؟",
+    "answer": "السخانة فالأذن ممكن تكون من أعراض ارتفاع الضغط. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط",
+        "سخانة فالأذن"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي جميع التحاليل اللي خاصنا نديرو باش نعرفو السبب ديال ارتفاع ضغط الدم عند الشباب؟",
+    "answer": "خاصنا نديرو تحاليل الكلى، وتحاليل وظائف الكبد. كاين حتى سجل النعاس لمدة 24 ساعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو اللي سبب ارتفاع ضغط الدم المفاجئ؟",
+    "answer": "ارتفاع ضغط الدم المفاجئ ممكن يكون بسبب عوامل مختلفة. خاص المريض يتابع حالتو مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كاين شي حاجة فصدري حدا حلمة دهنية، واش هادي مرض؟",
+    "answer": "ماشي ضروري تكون مرض، ولكن خاصك تشوف طبيب باش يتحقق من طبيعتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي نقص فالكريات البيضاء، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويدير لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش نرفع الدم المنخفض؟",
+    "answer": "يمكنك تزيد الملح فالمكلة أو تشرب العرقسوس. ولكن خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "مريض القلب يقدر ياخد باراسيتامول لعلاج الضغط؟",
+    "answer": "خاصك تتبع مع الطبيب، خصوصا إلا كان كياخد مكملات غذائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الحليب مزيان للمرضى ديال التهاب الدم؟",
+    "answer": "الخضرة والفواكه الطرية مزيانين للمناعة وكيعاونو فالتهاب الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "اللحوم الحمراء كتأثر على ضغط الدم؟",
+    "answer": "اللحوم الحمراء كتقدر تزيد الضغط، من الأحسن تقلل منها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ألم حاد من تحت العمود الفقري للرجلين.",
+    "answer": "الألم ممكن يكون بسبب أمراض العمود الفقري، خاصك فحص عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو كاين من ضرر من جرعة زايدة من كوراسور؟",
+    "answer": "ما كاينش ضرر خطير، ولكن خاصك تراقب الضغط ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الحد الأدنى لفيتامين ب12؟",
+    "answer": "المعدل الطبيعي لفيتامين ب12 هو 110-1500 بيكوغرام لكل مليليتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط دم منخفض بلا أعراض، شنو ندير؟",
+    "answer": "القياس 120/68 هو قياس طبيعي، ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي صداع والضغط عالي.",
+    "answer": "الصداع عندو بزاف دالأسباب، ولكن ممكن يكون بسبب ارتفاع الضغط.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي الأعراض ديال الضغط؟",
+    "answer": "الضغط العالي غالبا ما كيكونش عندو أعراض، ولكن كاين صداع ودوخة.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "دوخة"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش فقر الدم كيسبب شحوب الجلد؟",
+    "answer": "نعم، فقر الدم كيعطي لون شاحب للجلد.",
+    "entities": {
+      "symptoms": [
+        "شحوب الجلد"
+      ],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش أنيميا المنجلية كتأثر على الجنس؟",
+    "answer": "آه، عندها تأثير على الجنس، خاصك تسول طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهيماتولوجيا",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي زيادة فالوزن، شنو السبب والعلاج؟",
+    "answer": "زيادة الوزن كيمكن تكون بسبب عدة عوامل، بحال التغذية وقلة النشاط. خاصك تشوف طبيب باش يحدد السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "زيادة الوزن"
+      ],
+      "medical_field": "السمنة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "علاش العيالات مايديروش التحليل ديال الدم؟",
+    "answer": "ما كاينش شي شرط يمنع العيالات من التحليل. خاصهم غير يتبعو التعليمات الطبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحليل الطبي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي زيادة فالدم، شنو الأسباب والعلاج؟",
+    "answer": "زيادة الدم كيمكن تكون بسبب عدة عوامل، بحال التغذية أو الأمراض. خاصك تشوف طبيب باش يحدد السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "زيادة الدم"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ملي كانحرك راسي كندير دوخة، شنو هادشي؟",
+    "answer": "الدوخة كيمكن تكون بسبب التهاب الأذن الداخلية. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كاين شي دوا لتخفيف الماء الزايد فالجسم؟",
+    "answer": "كاين أدوية ولكن خاص الطبيب يحدد العلاج المناسب حسب الحالة. ما تنساش تشرب الماء بكمية كافية.",
+    "entities": {
+      "symptoms": [
+        "الماء الزايد"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي 28 عام، ووزني 50 كيلو. واش هاد الشي كيأثر على ضغط الدم؟",
+    "answer": "الوزن الخفيف ما كيأثرش بشكل كبير على ضغط الدم. خاصك تراقب صحتك وتدير الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي ضغط دم منخفض، واش هادشي عادي؟",
+    "answer": "إذا ما كاينش أعراض أخرى، ضغط الدم المنخفض ما كيشكلش خطر. ولكن خاصك تراقب حالتك.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم منخفض"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الدوا لي كيتستعمل فالحالات ديال الضغط العالي؟",
+    "answer": "الأدوية كتشمل مضادات الضغط بحال الكالسيوم واللابيتول. خاصك استشارة طبيب لتحديد الدواء المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضغط عالي"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو العلاج ديال ارتفاع ضغط الدم عند المدخنين؟",
+    "answer": "التوقف عن التدخين هو أفضل علاج. خاصهم يتبعو نصائح الطبيب لتحسين صحتهم.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط دم مرتفع و223 كالسيرول، بغيت علاج بالأعشاب.",
+    "answer": "العلاج بالأعشاب ما كيعوضش الأدوية. خاصك تتابع مع طبيب وتلتزم بالعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم مرتفع",
+        "كالسيرول مرتفع"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي نقص فكريات الدم البيضاء، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب لتحديد السبب. العلاج كيتطلب متابعة طبية.",
+    "entities": {
+      "symptoms": [
+        "نقص فكريات الدم البيضاء"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي طرق الوقاية من ارتفاع ضغط الدم؟",
+    "answer": "ممنوع التدخين، تناول أكل صحي، وممارسة الرياضة بانتظام. حافظ على وزنك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو السبب ديال ارتفاع كريات الدم البيضاء فالجسم؟",
+    "answer": "من الأسباب كاين التهاب المصرانة أو اللوكيميا. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش ارتفاع مستوى الصفيحات الدموية خطير؟",
+    "answer": "ارتفاع مستوى الصفيحات الدموية يمكن يكون خطير، ولكن خاص تقييم طبي دقيق. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو العلاج ديال ارتفاع ضغط الدم؟",
+    "answer": "العلاج كيتطلب تغيير نمط الحياة، بحال التوقف عن التدخين. كينصح بمراقبة الضغط بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كايتعالج التهاب الدم؟",
+    "answer": "خاص تحديد السبب من طرف طبيب مختص. العلاج كيتطلب تشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش كاين شي آثار جانبية للتبرع بالدم؟",
+    "answer": "التبرع بالدم عموماً ما عندوش آثار جانبية. بالعكس، كيعاون الجسم على إنتاج خلايا جديدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو اللي خلا الضغط ديالي يطلع و يهبط؟",
+    "answer": "كاين بزاف دالأسباب، بحال التوتر أو الأدوية. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مرض انيميا المنجليه كيأثر على الجنس؟",
+    "answer": "نعم، مرض انيميا المنجليه يمكن يأثر على الجنس. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الضغط 110/60 عادي؟",
+    "answer": "الضغط خاصو يتراقب، ولكن ماشي بالضرورة يتعالج. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش فقر الدم مرض معدي؟",
+    "answer": "لا، فقر الدم كيتسبب عادة من مشاكل فالتغذية أو مشاكل صحية أخرى. ماشي مرض معدي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي 25 عام وكنت عندي خثر دم خفيف. واش التخثر مزمن؟",
+    "answer": "بعض أمراض التخثر كيبقاو مزمنين، ولكن كاينين اللي كيتعالجوا. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التخثر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش مرض الدم المنجلي وراثي؟",
+    "answer": "آه، مرض الدم المنجلي وراثي. التحليل اللي كيتستعمل هو تحليل جيني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي 18 عام، شنو هو عمر الهموجلبين؟",
+    "answer": "عمر الهموجلبين كيتغير بين الذكور والإناث. خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهموجلبين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش راجل مصاب بالانيميا المنجلية يمكن له يمارس الجماع؟",
+    "answer": "الناس اللي عندهم الانيميا المنجلية يمكن لهم يمارسوا الجماع. ما كاينش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الانيميا",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "ضغط الدم ديالي منخفض بزاف. واش خاصني ناخد شي دوا؟",
+    "answer": "إلا ما كنتيش كتحس بشي أعراض، ما كاينش مشكل. ولكن خاصك تراقب الضغط ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش نقص كريات الدم البيضاء كيسبب أمراض خطيرة؟",
+    "answer": "نقص كريات الدم البيضاء يقدر يسبب عدة أمراض خطيرة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "كريات الدم البيضاء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو كيعني انخفاض ضغط الدم؟",
+    "answer": "انخفاض ضغط الدم يقدر يكون طبيعي أو مرضي. خاصك تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "الضغط ديالي ديما تقريبا 94 على 44. واش هادشي مزيان؟",
+    "answer": "هاد الضغط مزيان، وكيتوافق مع الصحة الجيدة. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي الأسباب لارتفاع ضغط الدم فالنعاس؟",
+    "answer": "كاينين أسباب مختلفة، بحال التاريخ الطبي ونمط الحياة. خاصك تشوف طبيب باش يحدد لك السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو ندير مع الضغط المنخافض وعدم وضوح الرؤية؟",
+    "answer": "خاصك تشرب الما بزاف وتضيف الملح فالمأكولات. القهوة مع الماكلة تقدر تعاونك.",
+    "entities": {
+      "symptoms": [
+        "عدم وضوح الرؤية"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو تأثير أدوية ضغط الدم على الإنسان العادي؟",
+    "answer": "التأثير كيعتمد على نوع الدوا والجرعة. كل واحد عندو استجابة مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي هبوط فالغذاء، شنو ندير؟",
+    "answer": "الضغط المنخافض بلا أعراض غالبا ما يحتاجش علاج. لكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [
+        "هبوط فالغذاء"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي الماكلة اللي فيها بزاف دالحديد؟",
+    "answer": "كاينين بزاف ديال الأطعمة بحال السبانخ، العسل، والتفاح. هادو كيعطيو الحديد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "أنا عندي 45 عام وكنعاني من ضغط دم مرتفع، واش هادشي عادي؟",
+    "answer": "خاصك تراجع طبيب باش يشوف حالتك. يمكن يحتاج تعديل الدوا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هي نسبة الناس اللي كيتعافاو من زيادة البيوض؟",
+    "answer": "خاصك تراجع طبيب الدم باش يعرف السبب. كل حالة تختلف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كاين شي علاج لالتهاب الأوعية الدموية المناعية؟",
+    "answer": "كاين علاج، خاصك تمشي لطبيب باش يشوف حالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التهاب الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي بقع حمرا فكرشي، شنو هاد الشي؟",
+    "answer": "البقع الحمرا تقدر تكون بسبب ارتفاع ضغط الدم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "بقع حمرا"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش الدوخة وانخفاض الضغط من فولتارين؟",
+    "answer": "ماخاصكش تاخد دوا بلا استشارة طبيب. يمكن يكون عندك تأثير جانبي.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "انخفاض الضغط"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "درنا تحليل دم، شنو كيعني هاد الشي؟",
+    "answer": "ماكاين حتى شي علامة غريبة. خاصك تنتظر النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تحليل الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي ضغط دم 85/135، واش خاصني نستمر فالدوا؟",
+    "answer": "من الأفضل تراجع طبيب مختص. يمكن يحتاج تعديل الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "كيفاش كاين الفقر الدم وباش كايتعالج؟",
+    "answer": "الفقر الدم عندو بزاف دالأسباب. خاصك تشوف الطبيب وتدير تحاليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "خويا كايعاني من ارتفاع ضغط الدم والرعاف، شنو ندير؟",
+    "answer": "خاصك تتحكم فالضغط وتراقب حالتو. يمكن يحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم",
+        "الرعاف"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "واش النعاس ولا المشروبات المخدرة كيتأثرو على النقرس؟",
+    "answer": "ماكاينش دراسات كافية على هاد الموضوع. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النقرس",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "عندي علامات زرقا فالجسم ووجع، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب فورا. هادشي يحتاج تقييم.",
+    "entities": {
+      "symptoms": [
+        "علامات زرقا",
+        "وجع"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Hematology",
+    "question_darija": "شنو هو الغذاء اللي كينقص من الضغط؟",
+    "answer": "المأكولات اللي فيها شوية ملح ودهون قليلة. خاصك تركز على الخضار والفواكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تغذية",
+      "urgency": "منخفض"
+    }
+  }
+]

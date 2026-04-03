@@ -1,0 +1,5810 @@
+[
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج التهزيق؟",
+    "answer": "علاج التهزيق كيعتمد على السبب. خاصك تشوف طبيب باش يحدد لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهزيق"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "علاج التهاب السباط؟",
+    "answer": "يمكن تاخد كبسولة ديال البنسلين مرة جوج. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب السباط"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الأسباب ديال الانتفاخ وغازات القولون؟",
+    "answer": "التوتر وسوء التغذية كيمكن يكونو من الأسباب. خاصك تحاول تحسن النظام الغذائي ديالك.",
+    "entities": {
+      "symptoms": [
+        "الانتفاخ",
+        "غازات القولون"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت شي دوا للقولون العصبي.",
+    "answer": "يمكن تاخد دوسبولز أو ليبراكس. خاصك تسول الطبيب على الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [
+        "القولون العصبي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالصدر.",
+    "answer": "خاصك تحدد لي المنطقة اللي فيها الألم. من بعد يمكن نساعدك أكثر.",
+    "entities": {
+      "symptoms": [
+        "ألم في الصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج اللي كينفع من الجرثومة؟",
+    "answer": "كيتعطى ليه كلينيتروموكسيسيلين وناكسبيرازول لمدة جوج سيمانات. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [
+        "الجرثومة"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أسباب السل؟",
+    "answer": "السل كيتسبب فيه بكتيريا. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو القولون العصبي؟",
+    "answer": "القولون العصبي هو اضطراب كيأثر على حركة الأمعاء. كيمكن يسبب آلام في البطن وغازات.",
+    "entities": {
+      "symptoms": [
+        "آلام في البطن",
+        "غازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نعالج المغص وعسر الهضم؟",
+    "answer": "ممكن تستعمل مضادات التشنج. لكن خاص استشارة طبيب إذا استمر الألم.",
+    "entities": {
+      "symptoms": [
+        "المغص",
+        "عسر الهضم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الماما عندها مرض فالمعدة، شنو ندير؟",
+    "answer": "خاصها تشوف طبيب مختص فالبطن. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالعضلة، شنو ندير؟",
+    "answer": "خاصك تاخد علاج مناسب. إذا ما تحسنش، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعضلة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج قرحة المعدة؟",
+    "answer": "العلاج كيتكون من أدوية مثل الناكسيبرازول. خاص استشارة طبيب لتحديد الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج الحمى المالطا؟",
+    "answer": "العلاج كيتطلب أدوية مثل ريفامپيسين. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال وغازات، واش ممكن تكون بكتيريا؟",
+    "answer": "يمكن تكون بكتيريا، خاصك دير فحص عند الطبيب. العلاج كيتحدد حسب السبب.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "غازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج مرض السد الكلوي؟",
+    "answer": "خاصك تراجع طبيب مختص. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج الباسور الخارجي؟",
+    "answer": "خاصك تشوف طبيب عام باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "باسور"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الأسباب ديال سماع أصوات من تحت البطن؟",
+    "answer": "هاد الأصوات غالبا كترجع للغازات أو مشاكل فالهضم.",
+    "entities": {
+      "symptoms": [
+        "أصوات من تحت البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كايعالجو مرض الكبدة؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "مرض الكبد"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عالج الألم في المعدة.",
+    "answer": "خد قرص ديال باراسيتامول أو پانتازول حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم في المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ارتفاع إنزيمات الكبد.",
+    "answer": "خاصك تشوف طبيب الجهاز الهضمي والكبدي لتحديد العلاج.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع إنزيمات الكبد"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج مرض كرون؟",
+    "answer": "مرض كرون كيتطلب علاج خاص. خاصك تشوف طبيب مختص لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمعاء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "تفركعات ليه البطن.",
+    "answer": "خاصك تراجع طبيب الجراحة باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "تفركعات البطن"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش حبس الغازات خطير؟",
+    "answer": "من الأفضل ما تحبسش الغازات. خاصك تشوف طبيب إذا كانت عندك مشاكل.",
+    "entities": {
+      "symptoms": [
+        "حبس الغازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو أحسن مسكن الألم للمغص؟",
+    "answer": "خاصك تعرف السبب ديال المغص باش تختار المسكن المناسب.",
+    "entities": {
+      "symptoms": [
+        "المغص"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج ريح الفم؟",
+    "answer": "خاصك تحسن العادات الغذائية ديالك. استشارة طبيب ممكن تكون مفيدة.",
+    "entities": {
+      "symptoms": [
+        "ريح الفم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الأسباب والعلاج ديال الإمساك.",
+    "answer": "الإمساك كيتسبب فيه النظام الغذائي الخايب أو التوتر. خاصك تشوف طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي عوارض السكري؟",
+    "answer": "عوارض السكري كتشمل العطش المفرط، والتعب، وفقدان الوزن. خاصك تشوف طبيب إذا حسيت بها.",
+    "entities": {
+      "symptoms": [
+        "عطش",
+        "تعب",
+        "فقدان الوزن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو السبب ديال الألم فكرشك؟",
+    "answer": "كاين بزاف الأسباب للألم فالبطن، خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "الألم فالبطن"
+      ],
+      "medical_field": "الأمعاء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "العلاج النهائي لجرثومة المعدة.",
+    "answer": "العلاج الثلاثي كيتضمن مضادات حيوية ودواء لحماية المعدة. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المعدة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الغازات قبل الدورة، السبب والعلاج.",
+    "answer": "هاد الحالة عادية، تحسين النظام الغذائي كيساعد. إذا استمرت، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الغازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاينة شي علاقة بين القرحة ديال المعدة والسرطان؟",
+    "answer": "عموماً، القرحة ما كتكونش سبب مباشر للسرطان. خاصك استشارة طبيب لتوضيح الأمور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المعدة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "فرق بين أعراض الكولون والزائدة الدودية.",
+    "answer": "التشخيص كيتطلب فحوصات مثل السونار. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي التهاب للمعدة.",
+    "answer": "التهاب المعدة كيتسبب فيه بزاف ديال العوامل. خاصك تشوف طبيب لتحديد العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المعدة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو نستعمل باش نداوي التهاب القولون العصبي؟",
+    "answer": "خاصك تستاشر طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب القولون العصبي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش مرض السل المعوي وراثي؟",
+    "answer": "لا، مرض السل المعوي ماشي وراثي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض تلف الكبد؟",
+    "answer": "الأعراض كتشمل التعب، اليرقان وفقدان الوزن. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "اليرقان",
+        "فقدان الوزن"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج البواسير الداخلية؟",
+    "answer": "خاصك تمشي عند طبيب مختص باش يشخص الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شحال ديال الوقت باش يتعالج السل؟",
+    "answer": "علاج السل كياخد تقريبا ست شهور. خاصك تلتزم بالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي الحمية اللي مزيانة للمريض اللي عندو كبد مضرور؟",
+    "answer": "خاصه ينقص من البروتينات والدهون. خاصك تستاشر طبيب التغذية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كايضرني لمعدا ملي كانّاكول.",
+    "answer": "غالبا كتكون من التهاب المعدة. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الحموضة والاكتئاب كيفاش نعالجهم؟",
+    "answer": "يمكن استعمال جوفيسكون وزانتاك لمدة أسبوع. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الحموضة",
+        "الاكتئاب"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال.",
+    "answer": "خاصك تدير تحليل الدم والبول باش نعرفو السبب. من الأفضل زيارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالبطن على اليمين.",
+    "answer": "من الأفضل زيارة الطبيب لتحديد السبب. يمكن يكون عندك مشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج الفعال للتهيّج العصبي فالقولون؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص. يمكن يوصي بأدوية أو تغييرات في النظام الغذائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي غازات ووجع فالصدر.",
+    "answer": "خاصك تحلل البراز ديالك. يمكن تكون عندك مشاكل في الهضم.",
+    "entities": {
+      "symptoms": [
+        "غازات",
+        "وجع فالصدر"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حكة فالبريز.",
+    "answer": "كينصح تدير فحص البراز. يمكن تكون عندك عدوى.",
+    "entities": {
+      "symptoms": [
+        "حكة فالبريز"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش السيليسيوم كيعالج الإمساك المزمن؟",
+    "answer": "ما كاينش دليل قوي على فعاليته. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "إمساك مزمن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش يمكن نعيش مع متلازمة بهجت؟",
+    "answer": "نعم، يمكن العيش مع المتلازمة. خاص متابعة طبية مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المناعية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو الأعراض ديال التهاب المستقيم؟",
+    "answer": "الأعراض كتشمل ألم، نزيف، وتهيج. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "نزيف",
+        "تهيج"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نداوي الدودة ديال الاسكارس؟",
+    "answer": "يمكن استعمال البيتدازول 400 مجم مرة وحدة. خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الطفيلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش نسبة البيليربين ديالي 1.8 مزيانة؟",
+    "answer": "خاصك تسول الطبيب على التحليل وشنو المعنى ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الجلوس بزاف كايسبب البواسير؟",
+    "answer": "الجلوس بزاف يقدر يسبب البواسير، خاصك تحرك شوية.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج الطبي للقولون؟",
+    "answer": "العلاج كيعتمد على الأعراض. خاصك تشوف الطبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كرشي ديما كا يضرني، شنو خاصني ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يدير ليك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "ألم في البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كايضرني راسي و كايخرج ليا لعطش.",
+    "answer": "شرب الماء كيساعدك توقف القبط. حاول تشرب بزاف.",
+    "entities": {
+      "symptoms": [
+        "ألم الرأس",
+        "العطش"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كانضن عندي التهاب الزايدة.",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "علاج القي والغثيان؟",
+    "answer": "خاصك تعرف السبب ديال القي والغثيان، ومن بعد تقدر تعالجها.",
+    "entities": {
+      "symptoms": [
+        "القي",
+        "الغثيان"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كايضرّوني ضهري ديما.",
+    "answer": "كاين بزاف د الأسباب، ولكن من الأحسن تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم الظهر"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "العلاج ديال الامساك عند الحوامل؟",
+    "answer": "من الأفضل استعمال الوسائل الطبيعية وتجنب المسهلات.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي القيء أكثر من سيمانة.",
+    "answer": "خاصك تشوف طبيب باش يدير لك التحاليل اللازمة.",
+    "entities": {
+      "symptoms": [
+        "القيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو السبب ديال الألم فالمعدة؟",
+    "answer": "الألم فالمعدة كيتسبب فيه بزاف د الأسباب، خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "الألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "معدل الكرياتينين عندي 0.54.",
+    "answer": "هاد النتيجة أقل من الطبيعي، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ما عنديش الشهية.",
+    "answer": "فقدان الشهية عندو بزاف د الأسباب، من بينها الاكتئاب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشهية"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالمعدة.",
+    "answer": "خاصنا نديرو تحاليل الجرثومة الحلزونية ونتكلمو معاك بالنتيجة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي نفخة فالصدر اليسار بلا ألم.",
+    "answer": "خاصك تشوف طبيب، يمكن تكون نتيجة التشنجات.",
+    "entities": {
+      "symptoms": [
+        "نفخة فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "مدة الشفاء من التهاب المعدة شحال كتكون؟",
+    "answer": "عادة كتاخد 14 يوم ديال العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو أحسن علاج لارتجاع المرئ؟",
+    "answer": "كاينين جوج أنواع ديال العلاج: الدوا و الجراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي تخدير فوقت عملة الحصى؟",
+    "answer": "كاين تخدير محلي أو عام حسب الحالة. خاص استشارة طبيب لتحديد الأنسب.",
+    "entities": {
+      "symptoms": [
+        "حصى"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو تأثير التيفود على الأم المرضعة؟",
+    "answer": "التيفود يمكن يأثر على صحة الأم والرضيع. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تيفود"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نحيد من آلام المعدة؟",
+    "answer": "خاصك ترجع للطبيب باش يشوف شنو هو السبب ويدير ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آلام المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كايعالجو الناس القولون العصبي بالأعشاب؟",
+    "answer": "يمكن استعمال الأعشاب بحال اليانسون والزنجبيل. لكن خاص استشارة طبيب قبل.",
+    "entities": {
+      "symptoms": [
+        "قولون عصبي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاينة شي علاقة بين استعمال مكمل ديكاميل و الإمساك؟",
+    "answer": "يمكن يكون السبب في الإمساك. خاص استشارة طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "إمساك"
+      ],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش السل وراثي؟",
+    "answer": "السل ماشي غير وراثي، كيتسبب فيه عوامل جرثومية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "سل"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش السيمونيلا مرض معدي؟",
+    "answer": "السيمونيلا مرض معدي كيتسبب فيه بكتيريا. خاص الحذر من الماكلة الملوثة.",
+    "entities": {
+      "symptoms": [
+        "سيمونيلا"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "أعراض البواسير وعلاجها؟",
+    "answer": "الأعراض كتشمل ألم ونزيف. خاصك ترجع للطبيب باش يدير ليك فحص شامل.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "وقتاش نقدر نتمرن بعد الأكل؟",
+    "answer": "خاصك تنتظر حوالي 3 ساعات بعد الأكل قبل ما تمشي للرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي علاجات البلهارسيا المزمنة؟",
+    "answer": "خاصك تاخد بارازيكوان وعاود تاخدو 3 مرات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو المرض الباطني لي كيسبب ضيق التنفس؟",
+    "answer": "كيوجد بزاف ديال الأمراض الباطنية لي تقدر تسبب ضيق التنفس، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "جرثومة كلابية شحال خطيرة؟",
+    "answer": "خاصك تدير تحاليل عند الطبيب باش يعرف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "علاش البريكة ديالي ماشي قاصحة؟",
+    "answer": "السبب كيتعلق بالعمر وطبيعة البراز وشكله.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو نعطيه للشخص اللي عندو ألم فالمعدة؟",
+    "answer": "يمكن تعطيه كبسولات باراسيتامول أو دواء آخر حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فكرشي، شنو ندير باش نخرج الغزوات؟",
+    "answer": "كول النعناع وشرب الديسفلاتيل، غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي نسبة فيتامين د ديال 11%، شنو ندير؟",
+    "answer": "خاصك تتبع مع طبيبك باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيعاني من الصداع فالنعاس؟",
+    "answer": "خاصك تشوف طبيب الأذن والحنجرة، يمكن يكون عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي الغاز بزاف والانتفاخ والضيق؟",
+    "answer": "خاصك تشوف طبيب الجهاز الهضمي، يمكن تحتاج لعلاج.",
+    "entities": {
+      "symptoms": [
+        "غاز",
+        "انتفاخ",
+        "ضيق"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج مرض المرارة؟",
+    "answer": "علاج الحصى كيتطلب استشارة طبيب، ممكن تحتاج للأنتيبيوتيك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المرارة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ريحتي دالبول والبراز متشابهة؟",
+    "answer": "خاصك تدير تحليل للبول والبراز عند الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "وقتاش نقدر نعاود نشد الرياضة من بعد عملية منظار القولون؟",
+    "answer": "يمكن لك ترجع للرياضة من بعد 24 ساعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القولون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نتعامل مع الدوخة؟",
+    "answer": "يمكن تاخد علاج الميبيندازول أو فيرموكس حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كتعاود الرواح من بعد ما تشافات؟",
+    "answer": "ممكن ولكن نادرا، خاصك تراقب حالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاينة علاقة بين مرض الكلى والجرثومة ديال المعدة؟",
+    "answer": "ما كاينش علاقة مباشرة، ولكن خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض مرض القولون؟",
+    "answer": "الدوخة ماشي من أعراض القولون العصبي. خاصك تشوف طبيب باش يحدد لك الأعراض الصحيحة.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "علاش كاين الشرر مع الدخان؟",
+    "answer": "كاين بزاف د الأسباب، خاصك تزور طبيب الجهاز الهضمي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كايتعاملو مع حالات التسمم بالدوا؟",
+    "answer": "خاصك دير غسيل مزيان للمعدة. من الأفضل تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السموم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج لمرارة المرار؟",
+    "answer": "الحصى المراري ما كيتعالجش بالأدوية. خاص تدخل جراحي فبعض الحالات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "فين كاين المصران فالجسم؟",
+    "answer": "المصران كاين فالنص لي على اليمين تحت الكبد مباشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كاين شي علامات ديال التهاب المعدة؟",
+    "answer": "ماكاينش علامات واضحة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج للأمراض المزمنة؟",
+    "answer": "تحسين النظام الغذائي مهم بزاف. خاصك تقلل من الماكلة المصنعة وتزيد الخضرة والفواكه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الباطني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كاينعالجو الإسهال؟",
+    "answer": "الإسهال عندو أسباب مختلفة. خاصك تشوف طبيب باش يعرف شنو السبب.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كاين شي مشاكل فالهضم؟",
+    "answer": "الإمساك كيسبب مشاكل فالبطن. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "إمساك",
+        "ألم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي التهاب المصران وحرقة فالمعدة.",
+    "answer": "خاصك تتجنب الماكلة الثقيلة. من الأفضل تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب المصران",
+        "حرقة فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عافاك، قطع ليك الكبدة على شكل هرم.",
+    "answer": "خاصك دير تحاليل لوظائف الكبد. هادشي مهم بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كاين التهاب فالكبد؟",
+    "answer": "كاين علامات على التهاب فالكبد. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فكرشي وإسهال قاصح.",
+    "answer": "خاصنا نديرو تحليل لبراز. هادشي غادي يساعدنا نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فكرشي",
+        "إسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل نزيف الدم من شهرين هادي.",
+    "answer": "خاصك دير تحليل وفحص طبي. هادشي ضروري.",
+    "entities": {
+      "symptoms": [
+        "نزيف الدم"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض انتفاخ المعدة؟",
+    "answer": "الماكلة والشراب الخايبين هما الأسباب الرئيسية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "درت تحليل لبراز ولقيت الباسيلوبلازما.",
+    "answer": "خاصها تعالج بالميترونيدازول. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الغثيان كيسبب ليك شي حاجة؟",
+    "answer": "نعم، الغثيان والقيء ممكن يكونو من الأعراض. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "الغثيان",
+        "القيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال و انتفاخ و حرقة فالمعدة.",
+    "answer": "هاد الأعراض ممكن تشير لمشاكل فالهضم. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "انتفاخ",
+        "حرقة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو كيسبب الحموضة فالفم؟",
+    "answer": "السبب الأكثر شيوع هو استرجاع الحمض من المعدة. خاصك تشوف طبيب إذا كانت الحالة مستمرة.",
+    "entities": {
+      "symptoms": [
+        "حموضة فالفم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هوما الماكلة اللي كتزيد فالطاقة؟",
+    "answer": "زيت الحوت غنية بأوميغا 3 والفيتامينات. خاصك تركز على الماكلة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "أنا مريضة وعندي نزيف، شنو خاصني ندير؟",
+    "answer": "خاصك تمشي للطبيب فورا. النزيف يحتاج لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج مرض الدوسينتاريا؟",
+    "answer": "يمكن لك تاخد فلاجي أل 500 مغ فثلاث مرات فالنهار. خاصك تستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج التهاب المريء؟",
+    "answer": "العلاج كيتطلب أدوية أو جراحة حسب تشخيص الطبيب. خاصك تستاشر معاه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ما كاينش شي علاج لفيروس سي؟",
+    "answer": "مازال ما كاينش علاج موثوق لفيروس سي. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شحال خاص فالعلاج ديال الأميبيا؟",
+    "answer": "العلاج كيدوم عادة 3 أيام، ولكن خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "أنا مصاب جروح فالمعدة، شنو هو العلاج؟",
+    "answer": "خاصك تستعمل ميترو نيزولازول وكلينفيرميسين لمدة سيمانة.",
+    "entities": {
+      "symptoms": [
+        "جروح فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ماقدرتش نخرج البراز.",
+    "answer": "يمكن دير حقنة عازل أو تستعمل الحبوب الغليسين.",
+    "entities": {
+      "symptoms": [
+        "صعوبة في إخراج البراز"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الإسهال مع الغازات والقيء.",
+    "answer": "خاصك دير تحليل وفحص عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "غازات",
+        "قيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت شي حاجة باش نحيد الحموضة.",
+    "answer": "يمكن تستعمل ميرزول مرة وميتيول مرة فالسيمانة.",
+    "entities": {
+      "symptoms": [
+        "حموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالمعدة و البول سائل.",
+    "answer": "خاصك تدير تحليل البول والبراز باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة",
+        "البول سائل"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين علاقة بين الجرثومة و الكحول؟",
+    "answer": "خاصنا نعرفو شنو هي الجرثومة باش نجاوبوك مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي صعوبة فالتفكيك.",
+    "answer": "خاصك تشاور مع الطبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتفكيك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي سخانة و غثيان.",
+    "answer": "مهم نعرفو السبب ديال الحرارة، خاصك دير كشف وتحليل.",
+    "entities": {
+      "symptoms": [
+        "سخانة",
+        "غثيان"
+      ],
+      "medical_field": "الأمراض العامة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو المضاعفات ديال الأميبا؟",
+    "answer": "الأميبا ممكن تسبب إسهال ومشاكل فالإمتصاص.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كاين الشق فالمستقيم؟",
+    "answer": "العملية بسيطة وفعالة إذا دارها جراح متمكن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نعرف الفرق بين الإسهال و البرز السائل؟",
+    "answer": "الإسهال هو لما تكون عندك براز مائي بشكل متكرر.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت شي دوا للبرد.",
+    "answer": "يمكن لك تستعمل باراسيتامول أو أدوية أخرى حسب الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو أعراض التهاب القولون؟",
+    "answer": "من الأحسن تعرض الأعراض ديالك باش نقدر نساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي نزيف خفيف.",
+    "answer": "خاصني نتحقق من حالتك سريرياً.",
+    "entities": {
+      "symptoms": [
+        "نزيف خفيف"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ممكن يكون علامة على مشكل صحي بحال السكري؟",
+    "answer": "خاصك تشوف طبيب لتحديد الحالة. السكري يمكن يكون عندو أعراض متعددة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالكرش وما عنديش دوا.",
+    "answer": "خاصك تشوف طبيب. يمكن يكون عندك مشكل صحي يحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكرش"
+      ],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي الفائدة ديال الطحال؟",
+    "answer": "الطحال كيساعد فتنقية الدم وكيحارب العدوى. هو جزء مهم من المناعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المناعة",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الكبدة فيها التهاب؟",
+    "answer": "نعم، وجع فالكرش يمكن يكون علامة على التهاب الكبد. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكرش"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش ممكن يتحيد القولون العصبي بالعملية الجراحية؟",
+    "answer": "ما كاينش علاج جراحي للقولون العصبي. العلاج كيركز على تخفيف الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القولون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إرتفاع الحموضة ملي كيكون المعدة خاوية.",
+    "answer": "خاصك تشوف طبيب. العلاج كيتطلب تغييرات فالنمط الغذائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المعدة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الميترونيد كيعالج الدودة ديال الجارديا؟",
+    "answer": "نعم، الميترونيدازول كيعالج الجارديا. خاصك تتبع الجرعة المحددة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علاج للقولون العصبي؟",
+    "answer": "يمكن ليك تاخد دوا ديال السيميثيكون. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القولون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الحر قاتلني والبطن ديالي كيتنفخ.",
+    "answer": "يمكن يكون عندك مشاكل فالهضم. خاصك تشوف طبيب إذا استمر الألم.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الم في البطن عند التنفس.",
+    "answer": "هادشي غالبا نتيجة شد فالعضلات. خاصك ترتاح وتشوف طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "ألم في البطن"
+      ],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض التهاب الزائدة الدودية؟",
+    "answer": "الأعراض كتشمل ألم فالبطن على اليمين وارتفاع فدرجة الحرارة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن"
+      ],
+      "medical_field": "الزائدة الدودية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش التهاب الدم يقدر يسبب فشل الكلى؟",
+    "answer": "نعم، التهاب الدم يمكن يسبب مضاعفات خطيرة. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "مرحبا، واش التهاب المرارة ممكن يسبب ألم في الكتف الأيمن؟",
+    "answer": "أه، التهاب المرارة يمكن يسبب ألم فكتفك. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الكتف الأيمن"
+      ],
+      "medical_field": "المرارة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الناس لي عندهم سمنة عندهم علاقة بهاد الشي؟",
+    "answer": "السمنة كترتبط بالعديد من المشاكل الصحية. خاصك تحافظ على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السمنة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش مزيان نستعمل شي ملين مع الريجيم؟",
+    "answer": "الملين ماشي هو الحل الأمثل مع الريجيم. خاصك تركز على التغذية السليمة وممارسة الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش حبوب الديباكين كتسبب التشنج فالمعدة؟",
+    "answer": "أه، الديباكين يمكن يسبب بعض العوامل الجانبية، من بينها التشنجات. خاصك تستاشر طبيبك.",
+    "entities": {
+      "symptoms": [
+        "تشنج"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالبطن.",
+    "answer": "خاصك تمشي للطبيب باش يتأكد من الحالة ديالك. ممكن يكون عندك شي مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض الجرثومة ديال المعدة وكيفاش كايعالجوها؟",
+    "answer": "أعراض الجرثومة كتشمل وجع فكرش، غثيان، وإسهال. العلاج كيتطلب مضادات حيوية.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرش",
+        "غثيان",
+        "إسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال مستمر هادي شهر، واش هادشي خطير؟",
+    "answer": "الإسهال المستمر خاصو يتراقب، لأنه ممكن يكون علامة على مشكل صحي. خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ديدان فالمعدة وبطن كيوجعني.",
+    "answer": "خاصك تشوف طبيب باش يعطيك العلاج المناسب. الديدان كيتعالجوا بمضادات الطفيليات.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج الحبوب اللي كاينة فالمخرج وكتسبب الحريق؟",
+    "answer": "يمكن تكون عندك ديدان، العلاج هو ميبيندازول. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "حريق"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي انتفاخ فالبطن، شنو السبب وواش كاين شي حل؟",
+    "answer": "الانتفاخ ممكن يكون بسبب الأكل أو الغازات. حاول تشرب الماء وتجنب الأطعمة الثقيلة.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالمعدة... شنو خاصني ندير؟",
+    "answer": "حاول تحسن الأكل ديالك، وركز على الخضرة والفواكه. إذا استمر المشكل، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالمعدة وخاصني نتعافى.",
+    "answer": "خاصك تشوف طبيب مختص فالمعدة باش يحدد العلاج المناسب. ما تهملش صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "تحليل وظائف الكبد يمكن يتصيفط فاش؟",
+    "answer": "يمكن يتصيفط ف أي وقت، ولكن من الأفضل يكون فالصباح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالصدر من الداخل ملي كان عندي الإمساك.",
+    "answer": "خاصك تشوف الطبيب، يمكن يكون عندك شي مشكل آخر.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر",
+        "الإمساك"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج الصفار؟",
+    "answer": "العلاج كيعتمد على السبب، سواء كان فيروس أو حاجة أخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج الجوندس؟",
+    "answer": "الجوندس عندو بزاف دالأسباب، خاصنا نعالجو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بنتي كتعاني من تقلصات ورائحة كريهة فالبراز.",
+    "answer": "خاصنا نعرفو شحال فعمرها وشنو كتاكل.",
+    "entities": {
+      "symptoms": [
+        "تقلصات",
+        "رائحة كريهة فالبراز"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض قرحة المعدة؟",
+    "answer": "الأعراض كتشمل صعوبة فالبلاع وحرقة فالمعدة.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالبلاع",
+        "حرقة فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش يمكن لي نتشخص مرض البنكرياس؟",
+    "answer": "خاصنا نديرو إجراءات تصويرية وتحليل الأميليز واللايبيز.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البنكرياس",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالسروال وضربات القلب سريعة.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ديالك. هاد الأعراض ممكن تكون عندها أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالسروال",
+        "ضربات القلب سريعة"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علاج لالتهاب الكبد؟",
+    "answer": "أه، كاين دوا عند الطبيب. خاصك تشوف الطبيب ديالك باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كايتنتاقل القولون؟",
+    "answer": "القولون كيتنتاقل عن طريق الماكلة والشراب الملوث. خاصك تحافظ على النظافة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شحال من كلورستول طبيعي فالدم؟",
+    "answer": "خاص يكون أقل من 200. إذا كان أكثر، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ابني كان عندو ديدان، شنو نوع الديدان؟",
+    "answer": "خاصك تشوف الطبيب باش يدير التحاليل اللازمة. كل نوع عندو علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "ديدان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو الحل ديال نفاخ المعدة؟",
+    "answer": "يمكنك تجرب بعض الأدوية اللي كتعالج النفخة. إذا استمرت، خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "نفاخ المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علاقة بين الإلتهاب المزمن و الضعف ديال الانتصاب؟",
+    "answer": "ما كاينش علاقة مباشرة، ولكن خاصك تشوف الطبيب إذا كانت عندك مشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الريحة من فمي كتكون قوية بزاف، شنو ندير؟",
+    "answer": "خاصك تدير تحليل ديال البراز. هاد الريحة ممكن تكون عندها أسباب صحية.",
+    "entities": {
+      "symptoms": [
+        "ريحة قوية من الفم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالكلي مع الكحة.",
+    "answer": "خاصك تمشي عند الطبيب، هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالكلي",
+        "كحة"
+      ],
+      "medical_field": "الكلى",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي صداع ونعاس وسخانة، شنو ندير؟",
+    "answer": "هاد الأعراض خاصها تتشاف عند الطبيب باش نعرفو السبب. ممكن تكون عندها أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "نعاس",
+        "سخانة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الدوا ديال سيميثكون كيعالج الارتجاع المرئي؟",
+    "answer": "هاد الدوا يمكن يتستعمل فالحالات البسيطة. إذا كانت الحالة خطيرة، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي فوائد زيت الزيتون للمعدة؟",
+    "answer": "زيت الزيتون مفيد للمعدة، كيساعد على الهضم وكيقلل من الالتهابات. خاصك تاخدو بكميات معقولة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالمعدة ملي كنهضر، شنو ممكن يكون السبب؟",
+    "answer": "المشكل ممكن يكون بسبب القلق النفسي أو مشاكل هضمية. خاصك تشوف الطبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "علاج الحمى المالطية؟",
+    "answer": "خاصك تاخد ريفامبيسين من عند الطبيب. العلاج ضروري باش تتعافى.",
+    "entities": {
+      "symptoms": [
+        "حمى المالطية"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو اللي كيوجعك فكرشك؟",
+    "answer": "كاين بزاف د الأسباب اللي ممكن تسبب الألم. خاصك تشوف الطبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرش"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كتجي غير بالجوع وكتحس بالغثيان بزاف؟",
+    "answer": "خاصك تنقص من السكر وتراقب الماكلة ديالك. يمكن يكون عندك مشكل فالهضم.",
+    "entities": {
+      "symptoms": [
+        "غثيان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو السبب ديال وجود كرة فالبطن، وجع، وغازات؟",
+    "answer": "خاص الطبيب يدير فحص باش يعرف السبب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبطن",
+        "غازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الرياضة كتأثر على الحجاب الحاجز؟",
+    "answer": "الرياضة كتلعب دور مهم، ولكن خاصنا نعرفو شنو نوع الرياضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الداخلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي بواصير و ما كاينش شي خيط.",
+    "answer": "البواصير يمكن تصلح جراحيا، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "بواصير"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو أحسن علاج للقولون مع التشنج؟",
+    "answer": "ميبيرين هو دوا مزيان للقولون، خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "تشنج"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال و نفخة فكرشي.",
+    "answer": "عافاك سير للقسم الطوارئ فالمستشفى، الحالة كتشكل خطر.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "نفخة"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الوالدة كتقلق من البرد فالبطن.",
+    "answer": "خاصها تحافظ على الدفء فالبطن ديالها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الداخلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي دم مع البراز.",
+    "answer": "خاصك تدير فحص و تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "دم مع البراز"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "وجع و استفراغ.",
+    "answer": "خاصك تشوف طبيب، الحالة كيمكن تحتاج تدخل جراحي.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "استفراغ"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش مرض البواسير كيتنقل؟",
+    "answer": "ما كينتقلش، هو مرض خاص بيه.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نحيد الغازات من القولون؟",
+    "answer": "نعناع الشمر والينسون كيساعدو، شربهم فالصباح.",
+    "entities": {
+      "symptoms": [
+        "غازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عافاك شفي من الدود.",
+    "answer": "نعم، كاين علاج للدود، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ديدان"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي دم فالبراز مع ديدان بيضاء.",
+    "answer": "دير فحص للبراز عند طبيب.",
+    "entities": {
+      "symptoms": [
+        "دم فالبراز",
+        "ديدان"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج التهاب المتانة؟",
+    "answer": "شرب الما بزاف و شوية ديال العصير.",
+    "entities": {
+      "symptoms": [
+        "التهاب المتانة"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الخميرة كتحارب الديدان؟",
+    "answer": "لا، خاص علاج خاص للدود.",
+    "entities": {
+      "symptoms": [
+        "ديدان"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الأدوية ديال نقص الحديد ممكن تسبب ارتفاع إنزيمات الكبد؟",
+    "answer": "لا، الأدوية ديال نقص الحديد ما كتسببش ارتفاع إنزيمات الكبد. خاصك غير تتبع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الاستسقاء كيخلي الواحد ميبغيش ياكل؟",
+    "answer": "نعم، الاستسقاء ممكن يأثر على الشهية. خاصك تشوف الطبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشهية"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش ممكن تعافا من القرحة دالبطن نهائيا؟",
+    "answer": "أه، ممكن تعافا من القرحة نهائيا بالعلاج المناسب. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو أحسن علاج لعراض انتفاخ القولون؟",
+    "answer": "أفضل علاج هو تغيير النظام الغذائي. خاصك تركز على الأطعمة الغنية بالألياف.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ القولون"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم ففمي وفمي.",
+    "answer": "خاصك تتابع مع طبيب الجهاز الهضمي. الألم ممكن يكون بسبب مشاكل فالفم أو المعدة.",
+    "entities": {
+      "symptoms": [
+        "ألم فم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش النبتة ديال الشمر مزيانة للقولون؟",
+    "answer": "نعم، الشمر مفيد للقولون وكيخفف من الغازات. ممكن تستعملو كأعشاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الرضاعة كتسبب القبط؟",
+    "answer": "لا، الرضاعة ما كتسببش القبط. خاصك تشوف النظام الغذائي ديالك.",
+    "entities": {
+      "symptoms": [
+        "قبض"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الانتفاخ ديال البطن، صعوبة التبول، وصعوبة التنفس هوما أعراض شائعة كتجي مع التهاب الكبد.",
+    "answer": "خاصك دير فحص طبي للتأكد من الحالة. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ البطن",
+        "صعوبة التبول",
+        "صعوبة التنفس"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش دوا ديال زيادة الحمل كايسبب القبط؟",
+    "answer": "لا، دوا زيادة الحمل ما كيسببش القبط. خاصك تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [
+        "قبض"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش زيت الخروع مزيانة؟",
+    "answer": "يمكن تستعمل كمرجع، ولكن غير لفترة قصيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالمعدة، شنو هو العلاج المناسب؟",
+    "answer": "أومبريزول و أموكسيسلين و كليراتريميسين يمكن يكونو مفيدين.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "البندورة مزيانة للقهرة ديال المعدة؟",
+    "answer": "البندورة ما كتعالجش القرحة وكتزيدها.",
+    "entities": {
+      "symptoms": [
+        "القهرة ديال المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو أعراض التهاب المصران؟",
+    "answer": "أعراض التهاب المصران كتشمل حرقة فالمعدة.",
+    "entities": {
+      "symptoms": [
+        "حرقة فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو العلاج للجاردان ديال المبللة؟",
+    "answer": "تينيدازول كيحيد الطفيلي بنسبة 99%.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الطفيلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع قاتل فجنبي اليمين.",
+    "answer": "خاصك ترجع للطبيب دابا.",
+    "entities": {
+      "symptoms": [
+        "وجع فجنبي اليمين"
+      ],
+      "medical_field": "",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كاين شي علاج بالأعشاب للأنفلونزا؟",
+    "answer": "العلاج بالأعشاب ما كينش فعال، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض التنفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال مزمن ومغص.",
+    "answer": "يمكن تاخد ميترونيذيدول وسيفليفكسين.",
+    "entities": {
+      "symptoms": [
+        "إسهال مزمن",
+        "مغص"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي سخونة ف رجلي مع ألم.",
+    "answer": "من الأفضل تشاور طبيب العظام.",
+    "entities": {
+      "symptoms": [
+        "سخونة فرجلي",
+        "ألم فرجلي"
+      ],
+      "medical_field": "طب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "علاش كا يضرني المعدة و كا طلع ليا السخانة؟",
+    "answer": "يمكن يكون عندك مرض خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة",
+        "سخانة"
+      ],
+      "medical_field": "الأمراض الباطنية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي المعدة كتحس بالوجع والغليان.",
+    "answer": "خاص يتدار منظار للجهاز الهضمي العلوي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمعدة",
+        "غليان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو ما مسموحش ناكل فالشهر الأول ديال الحمل؟",
+    "answer": "ماكاينش شي ماكلة مغذية ممنوعة، ولكن خاصك تبتعدي على الأطعمة الغير صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الزيادة ديال الإنزيم ب 5 درجات فوق المعدل الطبيعي، شنو ندير؟",
+    "answer": "عاود التحاليل بعد 3 حتى 6 شهور. خاصك تراقب صحتك مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحاليل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي النفخة، القيء، والصداع، شنو ندير؟",
+    "answer": "دير فحص الجرثومة الحلزونية وخبرنا بالنتيجة. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "نفخة",
+        "قيء",
+        "صداع"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كاين شي تحليل كيبين وظائف الكبد؟",
+    "answer": "لا، التحليل العادي ما كيشملش وظائف الكبد. خاصك تحليل خاص للكبد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي نزيف، شنو ندير؟",
+    "answer": "خاصك تمشي لأقرب صبيطار باش تاخدي التيتانوس. هاد الشي مهم.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الطوارئ",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي غازات وانتفاخ، شنو ندير؟",
+    "answer": "بعد على الماكلة اللي كتسبب الانتفاخ واستعمل الباسكوي. إذا استمر المشكل، خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "غازات",
+        "انتفاخ"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج للجرثومة فالمعدة؟",
+    "answer": "دوا ديال البرازول ومضاد حيوي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي الوظيفة ديال البنكرياس؟",
+    "answer": "البنكرياس كيساعد فالهضم وإنتاج الأنسولين. خاصك تسول الطبيب للمزيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "البنكرياس",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالسرة والتهاب فالمعدة، شنو ندير؟",
+    "answer": "ماكاين حتّى علاقة بيناتهم، ولكن خاصك تشوف طبيب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالسرة",
+        "التهاب فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي رغبة قوية باش نبرز وكيخرج مني البراز سائل، شنو ندير؟",
+    "answer": "خاصك فحص سريري وتحليل البراز. هاد الحالة تحتاج متابعة.",
+    "entities": {
+      "symptoms": [
+        "رغبة قوية فالبراز",
+        "براز سائل"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو كيسبب الإسهال الحاد بعد البيتزا؟",
+    "answer": "التلوث الفيروسي أو الجرثومي. خاصك تشوف طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "إسهال حاد"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الجراثيم ديال الإكولي كتسبب الجرثومة ديال الهيلوبكتير؟",
+    "answer": "لا، الجرثومتين مختلفتين. خاصك تعرف الفرق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراثيم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حصى فالشرج وكنحس بالنزيف، شنو ندير؟",
+    "answer": "استعمل مسكن للبثور بحال أونيسول مع هيدروكورتيزون. خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "حصى فالشرج",
+        "نزيف"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش البرتقال مزيان للمصابين بمرض القولون؟",
+    "answer": "لا، ولكن تأثيرها على المعدة يختلف من شخص لآخر. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القولون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج الغدة الكظرية؟",
+    "answer": "خاصك تسول طبيب مختص. العلاج كيتعلق بالحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدة الكظرية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي توتر وخوف من الموت، شنو ندير؟",
+    "answer": "راجع طبيب نفسي باش يعاونك. هاد الحالة تحتاج دعم.",
+    "entities": {
+      "symptoms": [
+        "توتر",
+        "خوف"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش ممكن تتعافى من السل الكامن بعد العلاج؟",
+    "answer": "نعم، بإذن الله، العلاج كيساعد على الشفاء. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الكريتينين فالدم ديالي 68، شنو يعني؟",
+    "answer": "هاد النتيجة كتعني أن الكريتينين مرتفع شوية. خاصك تهضر مع الطبيب باش يفهمك أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الولد عندو 4 سنين وكيعاني من حكة فالشعر.",
+    "answer": "غالبا عندو ديدان، خاصك تدييه للطبيب باش يتشاف.",
+    "entities": {
+      "symptoms": [
+        "حكة فالشعر"
+      ],
+      "medical_field": "الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "المص في البطن مع السعال، شنو السبب؟",
+    "answer": "ممكن يكون السبب التهيج ديال القولون أو المعدة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في البطن",
+        "سعال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالمعدة من بعد ما شربت عصير الليمون.",
+    "answer": "عافاك شوف شي طبيب باش تدير ليك تنظير. يمكن يكون عندك حساسية.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كاتعالج الدودة؟",
+    "answer": "خاصك تشوف الطبيب، هو اللي غادي يعطيك العلاج المناسب. كل نوع عندو طريقة علاج خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فكرشي.",
+    "answer": "خاصك تراجع الطبيب دابا، يمكن يكون عندك شي مشكل.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش البواسير كتسبب الألم فالظهر؟",
+    "answer": "البواسير ما كتسببش ألم فالظهر. خاصك تشوف الطبيب إذا كان عندك ألم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالظهر"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش يمكن لي نوقف الصيام حيت عندي خنزير دم فيه 11 غرام ديال الحمض الهيدروجيني؟",
+    "answer": "بالطبع، يمكن لك توقف الصيام إذا كنت محتاج. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "السلام، شنو هو العلاج الطبي اللي كيتستعمل باش نحلو مشكل الحموضة فوقت الصيام؟",
+    "answer": "مضادات الحموضة كتنفع قبل الفطور ولا السهرة. خاصك تسول الطبيب على الأنسب ليك.",
+    "entities": {
+      "symptoms": [
+        "مشكل الحموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نقدر نعالج مشاكل المستقيم بلا جراحة؟",
+    "answer": "كاينين تمارين خاصة بالعضلات ديال الحوض اللي يمكن تعاونا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشاكل فالمعدة، شنو ندير؟",
+    "answer": "خاصك تدير منظار هضمي علوي باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش علاج القولون العصبي دائم ولا مؤقت؟",
+    "answer": "علاج القولون العصبي غالبا مؤقت وكيتركز على الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الديرموفيلكس كيعالج البواسير؟",
+    "answer": "لا، هاد الدوا كايتستعمل لعلاج الفطريات فقط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج قرحة المعدة؟",
+    "answer": "الفحص ديال الدم كيبين بلي المعدة فيها التهاب الحلزوني، وخصك علاج مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نعرف مرض السلياك؟",
+    "answer": "خاصك تدير تحاليل معينة بحال الأنتي باديز لتأكيد المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كيعاون تدليك البطن فالتخفيف من الإمساك؟",
+    "answer": "تدليك البطن كيساعد على تحفيز حركة الأمعاء، وكيخفف من الإمساك.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علاج نهائي لإنهاء اضطراب القولون؟",
+    "answer": "ما كاينش علاج نهائي، لكن خاصك تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي السخانة والصداع والغثيان.",
+    "answer": "خاصك تدير تحليل البول، البراز، الدم الكامل وصور للكولون.",
+    "entities": {
+      "symptoms": [
+        "السخانة",
+        "الصداع",
+        "الغثيان"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إحساس قوي بالحموضة فكرشي.",
+    "answer": "يمكن ليك دير تحليل جرثومة المعدة كخطوة أولى.",
+    "entities": {
+      "symptoms": [
+        "الحموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم متكرر فالبطن.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف حالتك ويطلب ليك شي تحاليل.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيبان بلي عندك حرقة فكرشك.",
+    "answer": "خاصني ندير منظار هضمي علوي.",
+    "entities": {
+      "symptoms": [
+        "حرقة فكرش"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي القيء ملي كنشرب الما.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب. القيء ممكن يكون نتيجة لعدة عوامل.",
+    "entities": {
+      "symptoms": [
+        "القيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج للغازات والريح الكريهة فكرشي؟",
+    "answer": "يمكن تستعمل أدوية مثل باراسيتامول أو أدوية مضادة للغازات. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الغازات",
+        "الريح الكريهة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج للغازات والانتفاخ فالبطن عندي 29 عام ومتزوجة؟",
+    "answer": "يمكن تستعملي أدوية مضادة للغازات. خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الغازات",
+        "الانتفاخ"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو الماكلة لي ماخصهاش لي عندو التهاب المعدة المزمن؟",
+    "answer": "خاصك تتجنب الحامض والملح والبهارات. هاد الماكلة كيمكن تزيد من الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "هي باغية تعرف واش خاصها توقف ولا تبقى على الصيام.",
+    "answer": "خاصها تشوف طبيب لتحديد الحالة الصحية ديالها. الصيام كيمكن يكون مفيد أو ضار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيحس بالشبع والبطن تقلق والما صعيب عليه يدخل ليه.",
+    "answer": "يمكن يكون عندك مشكل في الهضم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الشبع",
+        "تقلق البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "نسبة البروبين ديالي 7 ملغ. واش هادشي خطير؟",
+    "answer": "خاصك تشوف طبيب باش يحلل الأسباب. نسبة البروبين تحتاج تقييم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت شي طريقة باش نحيد نفخة البطن.",
+    "answer": "يمكن تشرب شاي بالأعشاب أو تأكل كاربوهيدرات. هادشي كيساعد.",
+    "entities": {
+      "symptoms": [
+        "نفخة البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو الماكلة المزيانة للكلى والماكلة الخايبة؟",
+    "answer": "خاصك تقلل من البروتين والملح. هادشي كيساعد على صحة الكلى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي فائدة للجهاز الهضمي من شرب خل التفاح مع الما؟",
+    "answer": "خل التفاح كيمكن يكون مفيد للجهاز الهضمي. ولكن خاصك تستعمله بحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش استئصال المرارة كيسبب زيادة فالوزن؟",
+    "answer": "لا، استئصال المرارة ما كيسببش زيادة فالوزن. خاصك تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيعاني من ألم فالبطن لفوق بعد الأكل.",
+    "answer": "خاصك تشوف طبيب الجهاز الهضمي. الألم بعد الأكل كيتطلب تقييم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نداوي الأسهال بمواد طبيعية؟",
+    "answer": "يمكن تستعمل الرز المسلوق والبطاطا. هادشي كيساعد على تحسين الحالة.",
+    "entities": {
+      "symptoms": [
+        "الإسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "النتيجة ديال التحاليل ديال المصرانة كتبان من بعد ما تاخد المضاد.",
+    "answer": "خاصك تتبع نظام غذائي مع العلاج الثلاثي. هادشي كيساعد على الشفاء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيتوتر بزاف وغالبا كيحس بالقي ونقص الشهية.",
+    "answer": "خاصك تشوف طبيب لتقييم الحالة. الأعراض كتعبر عن مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "القيء",
+        "نقص الشهية"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين تأثير ديال حمى البحر المتوسط على الجهاز العصبي فالقولون؟",
+    "answer": "لا، ما كاينش تأثير مباشر. خاصك تشوف طبيب إذا عندك أعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "المعدة كاضرني وماكانقدرش نتنفس بسهولة.",
+    "answer": "خاصك تشوف طبيب. الألم وصعوبة التنفس كيتطلبو تقييم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة",
+        "صعوبة التنفس"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "القيء والغازات فالمعدة، شنو هو السبب؟",
+    "answer": "ممكن تكون عندك مشكلة في الهضم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "القيء",
+        "الغازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كاين دود صغير كايخرج من الما لي لونو بيج.",
+    "answer": "خاصك تشوف طبيب. هادشي كيتطلب تقييم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي سكران بزربة مع النوبات والتعب.",
+    "answer": "خاصك تشوف طبيب الغدد الصماء. هادشي كيتطلب تقييم دقيق.",
+    "entities": {
+      "symptoms": [
+        "التعب"
+      ],
+      "medical_field": "الغدد الصماء",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين خطر فالحمل من الكبدة؟",
+    "answer": "ما كاين والو، الكبدة ما كتأثرش على الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحمل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو خطر إهمال الكورتيزون لمرضي الذئبة الحمراء؟",
+    "answer": "إهمال الكورتيزون ممكن يسبب تفاقم الحالة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المناعة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الحليب ديال بريمالاك كايسبب القبط؟",
+    "answer": "ممكن تكون فيه نسبة الألياف قليلة. جرب حليب آخر.",
+    "entities": {
+      "symptoms": [
+        "قبط"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالبطن و انتفاخ.",
+    "answer": "خاصك دير فحص سريري وسونار للبطن.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن",
+        "انتفاخ"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين تهيج فالمعدة بسبب القولون؟",
+    "answer": "ما كاين حتى علاقة. هاد جوج مشاكل مختلفين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش ممكن يرجع السل بعد العلاج؟",
+    "answer": "أه، ممكن يرجع. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو ندير إلا زادت القيء عند المراة؟",
+    "answer": "خاصها تزور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "قيء"
+      ],
+      "medical_field": "الحمل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين دم فالبراز؟",
+    "answer": "خاصك دير تحليل للبراز.",
+    "entities": {
+      "symptoms": [
+        "دم فالبراز"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فكرشي ملي كندفعو.",
+    "answer": "خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فكرشي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي قولون عصبي وكنستعمل ليفراكس.",
+    "answer": "استعمل حبة قبل كل وجبة 2-3 مرات فالنهار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالهضم.",
+    "answer": "شنو هي الأعراض لي كتحس بيهم؟ خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت شي دوا فعال للغازات والوجع.",
+    "answer": "كانقتارح عليك تاكل الخضر و تشرب الماء بكثرة.",
+    "entities": {
+      "symptoms": [
+        "غازات",
+        "وجع"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الشهية نقصات و كا يوجعو راسي و كا يضرّني لمعدة.",
+    "answer": "خاصك دير سونار للبطن و تحاليل للدم و البول.",
+    "entities": {
+      "symptoms": [
+        "نقصان الشهية",
+        "وجع الرأس",
+        "وجع المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ديدان لفترات شهرين.",
+    "answer": "خاصك تعرف نوع الديدان باش نقدر نساعدك بالعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ديدان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض نزيف الداخل؟",
+    "answer": "أهم الأعراض هي نقصان الضغط وسرعة نبضات القلب.",
+    "entities": {
+      "symptoms": [
+        "نزيف",
+        "نقصان الضغط",
+        "سرعة نبضات القلب"
+      ],
+      "medical_field": "الطب الباطني",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج الغذائي لتحسين الهضم؟",
+    "answer": "خاصك تزيد فالأكل و تشرب الماء، العلاج بالملينات ما كتحل والو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو أحسن علاج للسهال؟",
+    "answer": "العلاج كيعتمد على السبب، ولكن بشكل عام كين حب الفاكهة.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي شي حبوب بيضاء على عضله فتحة الشرج.",
+    "answer": "خاصك تراجع الطبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حبوب بيضاء"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ها هوما الصفراء 22.",
+    "answer": "خاصك دير تحاليل للكبد باش تعرف السبب وتحدد العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاينة زيادة فالبروتين فالبول منين كاين التهاب فالمعدة؟",
+    "answer": "ما كاينش علاقة مباشرة بين البروتين فالبول والتهاب المرارة. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو كيعني تحليل الدم ديالي؟",
+    "answer": "خاصك تشوف طبيب الدم باش يفسر ليك النتائج. الأرقام اللي عندك كيبينو نسبة خلايا الدم الحمراء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "تحليل الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو الأعراض ديال كوفيد-19؟",
+    "answer": "من بين الأعراض كاين السخونية، السعال، والإسهال. خاصك تراقب الأعراض وتستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "السخونية",
+        "السعال",
+        "الإسهال"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عافاك، واش الكبدة كتأثر على الشهية؟",
+    "answer": "نعم، بعض الأمراض ديال الكبدة كتقدر تأثر على الشهية. خاصك تشوف طبيب إذا كان عندك مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حبة فأسفل فتحة الشرج، شنو ندير؟",
+    "answer": "خاصك تشاور مع الطبيب باش يشوف الحالة. ممكن تكون عندك حاجة خاصة تحتاج علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالمعدة من بعد ما كنخرج البراز، شنو ندير؟",
+    "answer": "عافاك شاور شي طبيب باش يدير ليك شي فحص طبي. هادشي مهم باش تعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو السبب ديال زيادة إفرازات المعدة؟",
+    "answer": "واحد من الأسباب الرئيسية هو وجود البكتيريا الحلزونية. خاصك تشوف طبيب باش يدير لك الفحص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "راجلي كيعاني من مشاكل فالمعدة وكيتقلا.",
+    "answer": "خاص تمشي عند الطبيب ديال الجهاز الهضمي باش يتأكد من الحالة.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كايعالجو النفخة عند الدراري الصغار؟",
+    "answer": "من الأفضل تسول أخصائي الأطفال باش يعطيك النصائح المناسبة.",
+    "entities": {
+      "symptoms": [
+        "النفخة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج المغص؟",
+    "answer": "العلاج كيتطلب معرفة السبب ومعالجتو، ماشي غير مسكن الألم.",
+    "entities": {
+      "symptoms": [
+        "المغص"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو الحل ديال نفاخ البطن من بعد ما تشرب الما بزاف؟",
+    "answer": "حاول ما تشربش الما بزاف مورا الماكلة.",
+    "entities": {
+      "symptoms": [
+        "نفاخ البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كيعاون سونار فكشف الأمراض فالبطن، بحال الكبد والكلي؟",
+    "answer": "نعم، السونار كيساعد فالكشف على الأمراض فالبطن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ملي كنوض من النعاس، كنلقى فمي مرّ.",
+    "answer": "يمكن يكون عندك مشكل فالفم أو الحساسية، خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "فمي مرّ"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فشهيتي هادي جوج سيمانات هادي.",
+    "answer": "من الأفضل مراجعة الطبيب باش يدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالشهيتي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش المرارة هي الكيس الصفراوي؟",
+    "answer": "نعم، المرارة هي الكيس الصفراوي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش العنب مزيان للناس لي عندهم مشاكل فالقلب؟",
+    "answer": "العنب فيه فوائد، ولكن خاص الناس لي عندهم مشاكل فالقلب يستشارو الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي التهاب القولون منذ أربعة شهور، شنو ندير؟",
+    "answer": "خاصك تدير تحاليل وتستاشر مع طبيب مختص. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "حسيت بالقيح بعد ما كليت فيتامين د، شنو ندير؟",
+    "answer": "ممكن يكون عندك حساسية أو تفاعل مع الفيتامين. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "قيح"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين ضرر للكلى من شرب الكحول؟",
+    "answer": "نعم، شرب الكحول كيمكن يضر بالكلى ويأثر على صحتك العامة. خاصك تقليل من الاستهلاك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو اللي كيخلي شي واحد يجوع بزاف؟",
+    "answer": "الجوع المفرط ممكن يكون نتيجة لعدة أسباب، بحال التوتر أو مشاكل صحية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "جوع مفرط"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش يمكن نتزوج وعندي مشاكل فالمعدة؟",
+    "answer": "نعم، الزواج ممكن، ولكن خاصك تهتم بصحتك وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش مزيان نشرب دالبروتين ديال الصوجا فالعمر ديال 18؟",
+    "answer": "نعم، شرب دالبروتين مزيان، ولكن خاصك ما تبالغش فيه. التوازن هو المهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو أسرع علاج للبواسير؟",
+    "answer": "العلاج الجراحي ممكن يكون ضروري فبعض الحالات. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو مرض جرثومة ليستريا ومدة العلاج؟",
+    "answer": "مرض ليستيريا كيتعالج بأدوية بحال أمبيسلين أو كوتريموزول لمدة 10 أيام. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجرثومية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو السبب ديال التهاب المرارة؟",
+    "answer": "التهاب المرارة غالبا كيكون بسبب حصى فالبطن. خاصك تشوف طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي الأسباب ديال الحموضة؟",
+    "answer": "الحموضة ممكن تكون نتيجة للجرثومة الحلزونية أو عادات غذائية. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش شرب الما كامل دفعة وحدة ضار بالكبدة؟",
+    "answer": "ما كاينش مشكل من شرب الماء دفعة وحدة، ولكن خاصك تشرب بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاينة علاقة بين ارتجاع المريخ وظهور الزغاريت؟",
+    "answer": "ما كاينش علاقة مباشرة، ولكن ممكن يكون عندك جوج مشاكل صحية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين خطر من خزعة المعدة باش يتختبر الجرثوم؟",
+    "answer": "لا، خزعة المعدة آمنة وتتم تحت مراقبة طبية. خاصك ما تخافش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو دوا لعضم الداخل؟",
+    "answer": "خاصك تشوف طبيب مختص باش يدير لك تشخيص دقيق ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش القالون كيجيب الم فالجيب؟",
+    "answer": "غالبا لا، الألم كيكون فالبطن. خاصك تشوف طبيب إذا كان الألم مستمر.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شحال ديال الوقت كياخد الكبد باش يرجع الخلايا ديالو؟",
+    "answer": "الكبد يحتاج من 300 حتى 500 يوم باش يرجع الخلايا ديالو. خاصك تحافظ على صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي التهاب فالتقرحات وانتفاخ فالبطن.",
+    "answer": "خاصك تشوف طبيب مختص فالجهاز الهضمي.",
+    "entities": {
+      "symptoms": [
+        "التهاب التقرحات",
+        "انتفاخ البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو النتائج ديال التحاليل والتصوير بالرنين المغناطيسي؟",
+    "answer": "التحاليل مزيانين، خاصك غير تنتظر النتائج النهائية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ملي شربت الما بارد، حسيت بغثيان.",
+    "answer": "حاول ما تشربش الما بارد، راه كيسبب الغثيان.",
+    "entities": {
+      "symptoms": [
+        "غثيان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش زيت الزيتون مزيان لمرض القولون؟",
+    "answer": "زيت الزيتون ما عندوش تأثير سلبي على مرض القولون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نحيد الديدان الدقيقة؟",
+    "answer": "استعمل علاج مبيدات الآفات، وكرريه لعائلتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي احتباس السوائل فكرشي.",
+    "answer": "خاصك تشوف طبيب مختص فالباطني.",
+    "entities": {
+      "symptoms": [
+        "احتباس السوائل"
+      ],
+      "medical_field": "الباطنية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي سخونة وجع فالأطراف.",
+    "answer": "خاصك تشوف طبيب وتدير تحاليل.",
+    "entities": {
+      "symptoms": [
+        "سخونة",
+        "وجع فالأطراف"
+      ],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو السبب ديال ألم البطن؟",
+    "answer": "ممكن يكون مغص كلوي، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم البطن"
+      ],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حبوب صفرا فالشَّرج.",
+    "answer": "خاصك الكشف عند طبيب الجراحة.",
+    "entities": {
+      "symptoms": [
+        "حبوب صفرا"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال ووجع فالمؤخرة.",
+    "answer": "يمكن يكون شق أو جرح، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "وجع فالمؤخرة"
+      ],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالعظم وبغيت دوا للصداع.",
+    "answer": "خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعظم",
+        "صداع"
+      ],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين علاقة بين الغثيان والمرارة؟",
+    "answer": "نعم، الغثيان يقدر يكون بسبب التهاب المرارة.",
+    "entities": {
+      "symptoms": [
+        "غثيان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كان كايضرني الظهر ملي ناعس.",
+    "answer": "خاصك تدير تحليل دم لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فظهر"
+      ],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالمعدة وما عرفتش علاش.",
+    "answer": "خاصنا نديرو تحاليل الجرثومة الحلزونية.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ما هو الدوا ديال فيروس سي ثنائي؟",
+    "answer": "عادةً كيدوم كورس ستة شهور، وبعدها كيتقيم العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عافاك، واش هو طبيعي ولا لا؟",
+    "answer": "كاين ارتفاع فبعض الخلايا، بحال الخلايا الليمفاوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "درت تحاليل باش نعرف واش عندي شي مشكل.",
+    "answer": "التحاليل مزيانين، ولكن كاين ارتفاع فالبروتين التفاعلي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي تجسس وريحة كريهة بعد ساكسند.",
+    "answer": "هادشي طبيعي، غيتلاشى مع الوقت.",
+    "entities": {
+      "symptoms": [
+        "تجسس",
+        "ريحة كريهة"
+      ],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم أسفل ويمين البطن.",
+    "answer": "كاين بزاف د الأسباب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم أسفل البطن"
+      ],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش مزيان نستعمل السكرة للبطن، واخا أنا مزوجة؟",
+    "answer": "السمنة ممكن تكون سبب لمشاكل صحية. خاصك تحافظي على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج التهاب الغدة الليمفاوية الاربية؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تشوف طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الحزق اللي كيخرج بزاف من بعد ما تخرج البراز كيضر الشرايين ديال القلب؟",
+    "answer": "ما كاينش علاقة بيناتهم. خاصك تراقب صحتك العامة.",
+    "entities": {
+      "symptoms": [
+        "الحزق"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج الغازات، وشنو هي أسبابها؟",
+    "answer": "الغازات ممكن تكون نتيجة لعادات غذائية. خاصك تشوف طبيب إذا كانت مستمرة.",
+    "entities": {
+      "symptoms": [
+        "الغازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "قرحة المعدة ديالي ولات قاصحة بزاف، وكتعذبني بزاف، وكتعمرني بالسخانة والغثيان.",
+    "answer": "خاصك تشوف طبيب لأخذ العلاج المناسب. ما تهمليش الأعراض.",
+    "entities": {
+      "symptoms": [
+        "قرحة المعدة",
+        "السخانة",
+        "الغثيان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج مرض القولون التقرحي؟",
+    "answer": "الميسالازين هو العلاج الأساسي. الكورتيزون كيتزاد في بعض الحالات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالبول.",
+    "answer": "يمكن يكون عندك بواسير أو جرح. خاصك تشاور طبيب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالبول"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي التهاب فالمعدة وكنشرب بزاف دالمرا بلا فايدة.",
+    "answer": "خاصك تشوف طبيب باش يدير لك الفحص المناسب. المنظار يمكن يساعد في تحديد المشكلة.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مغص مع غثيان.",
+    "answer": "خاصك تدير فحص للجرثومة الحلزونية. هاد الفحص غادي يوضح لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "مغص",
+        "غثيان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج ديال الجيارديا لمبيا؟",
+    "answer": "استعمل باراسيتامول 500 مغ ثلاث مرات فالنهار لمدة سيمانة. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كاين عندي ألم فالصدر وغثيان بعد القهوة.",
+    "answer": "خاصك تشوف طبيب باش يدير لك الفحص. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "غثيان"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو كيدير البرد للشرج؟",
+    "answer": "الكاوتشو بالماء السخون كيتستعمل لعلاج البواسير والشقوق الشرجية. خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت شي دوا لعلاج القيء.",
+    "answer": "خاصنا نعرفو السبب ديال القيء. كنصحك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "قيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو السبب ديال الإسهال المستمر؟",
+    "answer": "الإسهال المستمر عندو أسباب كثيرة. خاصك تدير تحاليل عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال مستمر"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علاقة بين الإسهال والغازات مع أميبرازول؟",
+    "answer": "نعم، ممكن يكون هناك علاقة. خاصك تراقب الأعراض ديالك.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "غازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الجزر مفيد فالحالات ديال القولون العصبي؟",
+    "answer": "الجزر فيه الألياف ومفيد للقولون. خاصك تستهلكه بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم قوي فالعضلة مع نزيف دم.",
+    "answer": "هاد الأعراض كتطلب تدخل طبي عاجل. خاصك تمشي للطبيب فورا.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعضلة",
+        "نزيف دم"
+      ],
+      "medical_field": "الجهاز العضلي",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عافيتيني بهاد العلاج الطبيعي ديال بواسير.",
+    "answer": "كاين بزاف ديال الأدوية بحال أنيسول مع هيدروكورتيزون. خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض نزيف الهضم عند الأطفال؟",
+    "answer": "الأعراض كتشمل نزيف وظهور دم. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "أنا كناخد دوا ديال المرارة و مازال عندي سيلان فالسرة.",
+    "answer": "خاصك تشوف طبيب الجراحة. ممكن يكون عندك مشكل آخر.",
+    "entities": {
+      "symptoms": [
+        "سيلان"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالمعدة.",
+    "answer": "ممكن تكون غازات، جرب كربونات الصودا. إذا استمر المشكل، خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالمعدة",
+        "غازات"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو التحليل لي كيبين بلي الصفراء طالعة؟",
+    "answer": "التحليل هو البيلو براتين و البيلو براتين المباشر. خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مرض المصرانة المعدية وكنحس براسي مريض بزاف.",
+    "answer": "خاصنا نديرو تحاليل الجرثومة الحلزونية. من بعد نقدروا نتكلمو على العلاج.",
+    "entities": {
+      "symptoms": [
+        "مرض المصرانة المعدية"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال وكنحس براسي كنهرق من بعد ما كناكل.",
+    "answer": "عافاك سير للصبيطار فأقرب وقت. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "هراق"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش البرد كيسبب الإسهال؟",
+    "answer": "نعم، البرد كيخلي الأمعاء تتحرك بزاف. هادشي كيسبب التقلصات.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "تقلصات"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض الميكروب الحلزوني؟",
+    "answer": "الأعراض كتشمل التهاب المعدة والقولون والأمعاء. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب المعدة",
+        "التهاب القولون",
+        "التهاب الأمعاء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش فصيلة الدم كتبدل؟",
+    "answer": "فصيلة الدم ما كتتبدلش بحال البصمات. كيبقى ثابتة طول الحياة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي قيء مستمر وألم فالمعدة.",
+    "answer": "خاصك تشوف طبيب بسرعة. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "قيء",
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "علاش كاين علاج لحرقة المعدة؟",
+    "answer": "كاين أدوية بحال باراسيتامول ونيكسيام. خاص استشارة طبيب قبل البدء.",
+    "entities": {
+      "symptoms": [
+        "حرقة المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي نزلة برد وألم حاد.",
+    "answer": "سير للطبيب باش يدير ليك فحص. هاد الأعراض ممكن تشير لشي حاجة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "نزلة برد",
+        "ألم حاد"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فأسفل البطن، واش ممكن تكون بواسير؟",
+    "answer": "خاصك دير فحص للبراز باش تتأكد. هاد الأعراض ممكن تكون مرتبطة بالبواسير.",
+    "entities": {
+      "symptoms": [
+        "ألم فأسفل البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش مرض الكلى كيتعتبر وراثي؟",
+    "answer": "الفشل الكلوي ممكن يكون وراثي أو لا. خاص تقييم طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش التوتر ديال المعدة كيجي غير فالظهر؟",
+    "answer": "المشاكل ديال المعدة ما كتسببش الصداع. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التوتر ديال المعدة",
+        "الصداع"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو السبب ديال تضخم الكبد عند الدراري؟",
+    "answer": "الأسباب متنوعة بزاف، خاص تشوف طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "تضخم الكبد"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هوما الماكلة اللي مزيانة للقولون؟",
+    "answer": "التفاح والخضرة مزيانين للقولون. خاصك تتجنب الأكل المقلي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "السكر ديالي وصل ل٤٥٠، راه سخون بزاف.",
+    "answer": "مهم بزاف تشوف طبيب الغدد والسكري. خاصك علاج فوري.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع السكر"
+      ],
+      "medical_field": "الغدد والسكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الفلفلة كتضر القولون؟",
+    "answer": "نعم، الفلفل الحار كيسبب القيء والغازات. خاصك تتجنبو.",
+    "entities": {
+      "symptoms": [
+        "القيء",
+        "الغازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش مرض كرون كيأثر على الدراري د 10 سنين؟",
+    "answer": "نعم، المرض يقدر يصيب الدراري. خاصهم متابعة طبية.",
+    "entities": {
+      "symptoms": [
+        "مرض كرون"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو اللي كيسبب الإسهال اللي كيجي بزاف و كيكون فيه لون حمر فاتح؟",
+    "answer": "التهاب القولون كيتطلب علاج. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الإسهال",
+        "التهاب القولون"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الديدان اللي كاينة فالمعدة ممكن تسبب صداع خفيف فالعينين.",
+    "answer": "أه، يقدر يسبب الصداع. خاصك علاج للديدان.",
+    "entities": {
+      "symptoms": [
+        "الصداع",
+        "الديدان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش التهاب البنكرياس خطير؟",
+    "answer": "راه خطير بزاف، خاصك علاج فالمستشفى.",
+    "entities": {
+      "symptoms": [
+        "التهاب البنكرياس"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت شي دوا ديال الإسهال.",
+    "answer": "خاصك تقييم باش نعرفو السبب. من بعد نعطيوك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الإسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال متقطع.",
+    "answer": "الأسباب متنوعة، خاص تشوف الطبيب للفحوصات.",
+    "entities": {
+      "symptoms": [
+        "الإسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي تطعيم ضد فيروس سي؟",
+    "answer": "للأسف، لا، ولكن كاين علاج ليه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نقدر نحيد الغازات والانتفاخات؟",
+    "answer": "خاصك تقلل من الأطعمة اللي كتسبب الغازات بحال البقوليات، وتجنب المشروبات الغازية.",
+    "entities": {
+      "symptoms": [
+        "الغازات",
+        "الانتفاخات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي علامات مشاكل القلب؟",
+    "answer": "من علامات مشاكل القلب كاين الألم فالصدر، ضيق التنفس، والتعب السريع. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الألم فالصدر",
+        "ضيق التنفس",
+        "التعب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "وقتاش نقدر ناكل من بعد ما يتحيد المرارة؟",
+    "answer": "يمكن لك تاكل بعد 24 ساعة، ولكن خاص تكون ماكلة خفيفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي أعراض مرض باركنز؟",
+    "answer": "من الأعراض كاين الرعشة، صعوبة فالحركة، والتصلب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الرعشة",
+        "صعوبة فالحركة",
+        "التصلب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نقدر نحل مشاكل الإمساك؟",
+    "answer": "يمكن لك تاخد باراسيتامول وتكثر من شرب الما والألياف. خاصك تاكل الخضرة والفواكه.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج التهاب السباط؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كل ما كناكل كيجيني النعاس والوجع فكرشي، شنو الحل؟",
+    "answer": "هاد الأعراض ممكن تكون من القولون الهضمي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الوجع فكرشي",
+        "النعاس"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت دوا للباسور بلا عملية.",
+    "answer": "يمكن تستعمل هيمبروكت أو بروتوكيلير. خاصك تشوف الطبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الباسور"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالصدر.",
+    "answer": "خاصنا نديرو التشخيص باش نعرفو السبب ونعطيو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش مرض الكبدة كيتورث؟",
+    "answer": "بعض الأمراض ديال الكبدة كيتورثو، بحال أمراض الاستقلاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فظهري وظهر رجلي من بعد ما خديت البريز.",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب ويدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "ألم فظهري"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كندير تحليل ديال السكر و البول.",
+    "answer": "دير التحاليل فالصباح بكري، وغادي يعطيوك النتائج اللي غادي تساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حكة فتحتة الشرج.",
+    "answer": "يمكن تكون مصابة بالدجاجة الشعرية، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فتحتة الشرج"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ماقدرتش نخرج وكرشي كيوجعني.",
+    "answer": "خاصك تدير تحليل لعضم ومنظار لداخل.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو أحسن علاج للمغص الكلوي؟",
+    "answer": "العلاج كيعتمد على السبب، ولكن كيتستعمل بعض الأدوية لتخفيف الألم.",
+    "entities": {
+      "symptoms": [
+        "المغص الكلوي"
+      ],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي 33 عام وكنحس بآلام.",
+    "answer": "خاصنا نديرو فحص الجرثومة الحلزونية ونتكلمو مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "آلام"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش العسل كيعالج التهاب الكرون؟",
+    "answer": "ما كاينش دليل علمي، ولكن ما كاينش ضرر من استعماله.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج المغص؟",
+    "answer": "خاصنا نعرفو نوع المغص، واش معوي ولا كلوي، باش نعطيو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "المغص"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "القيء مازال مستمر.",
+    "answer": "خاصك تشوف الطبيب فوراً باش يتقيم حالتك.",
+    "entities": {
+      "symptoms": [
+        "القيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "المس كاينة تحت البطن وكتختفي فالظهر.",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "المس تحت البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هي المواد الغذائية اللي كتعاون الكلى؟",
+    "answer": "الماء بزاف والبروتين قليل، هادشي كيعاون الكلى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو دواء الحكة فالرجلين؟",
+    "answer": "يمكن تكون مصابة بالديدان، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالرجلين"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش السكر مسموح لمرضى الأميبا؟",
+    "answer": "خاص استشارة طبيب باش يعرف النظام الغذائي المناسب. الخضروات ممكن تكون مفيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فبلع الماء فالليل.",
+    "answer": "خاصك تشوف طبيب باش يحدد السبب. ممكن يكون عندك مشكل فالحلق أو فالمعدة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فبلع الماء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين علاج للقولون العصبي؟",
+    "answer": "كاين علاجات كتساعد فالتخفيف من الأعراض، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج الدودة الشعيرية؟",
+    "answer": "ممكن تستعمل باراسيتامول، ولكن خاص تعالج جميع أفراد العائلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فكرشي.",
+    "answer": "خاصك تشوف طبيب باش يدير الفحوصات اللازمة. ممكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش عملية تنظير القولون مزعجة؟",
+    "answer": "مع التخدير، المريض ما كيحسش بألم. العملية كتكون بسيطة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو علاج ثقل المعدة والقي؟",
+    "answer": "خاصك تدير تحاليل الجرثومة الحلزونية. العلاج كيتحدد على حسب النتيجة.",
+    "entities": {
+      "symptoms": [
+        "ثقل المعدة",
+        "القي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علاقة بين إفراز حمض المعدة ونمط الحياة السرية عند الرجال؟",
+    "answer": "مازال ما تثبت علميا. خاص مزيد من الأبحاث.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "أمّي كتعاني من خروج الدم من الجلد.",
+    "answer": "خاصها تشوف طبيب باش يدير الفحوصات اللازمة. هاد الحالة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "خروج الدم من الجلد"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كنحس براسي مريض",
+    "answer": "من الأفضل تمشي للطبيب باش يشوف حالتك. خاصك استشارة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كنشرب الخل مع الما ووليت كتحرقني المعدة",
+    "answer": "يمكن توقف الخل وتشوف واش كيتحسن الوضع. إذا ما تحسنش، خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرقان المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كاين شي وجع خفيف فالبطن على اليمين؟",
+    "answer": "غالبا كيتعلق بمشاكل فالقولون. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي غثيان ونتفخ البطن",
+    "answer": "من الأفضل تراجع الطبيب باش يدير فحص ويحدد السبب. يمكن يكون عندك مشكلة في الهضم.",
+    "entities": {
+      "symptoms": [
+        "غثيان",
+        "انتفاخ البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالمعدة بعد شرب الماء",
+    "answer": "يمكن يكون عندك التهاب. خاصك تشوف طبيب الجهاز الهضمي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج المناسب لمرض القولون العصبي؟",
+    "answer": "الراحة والهدوء مهمين. خاصك تتجنب الضغط والقلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو خصني ندير باش نحيد التخمة من الحلق؟",
+    "answer": "من الأفضل تشوف طبيب الحنجرة. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "تخمة فالحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي البيروفولبين مرتفع",
+    "answer": "خاصك تراجع الطبيب وتشوف واش عندك أعراض أخرى. يمكن يكون عندك مشكلة صحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كايتسبب الألم فالأمعاء فالتسمم الغذائي؟",
+    "answer": "التقلصات فالأمعاء كيمكن تكون نتيجة للتسمم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالأمعاء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي تحليل باش نأكدو على قلة المغنيزيم فالدم؟",
+    "answer": "نعم، كاين تحليل لقياس تركيز المغنيسيوم فالدم. خاصك طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ورم خفيف ففتحة الشرج.",
+    "answer": "يمكن يكون عندك التهاب، خاصك دير فحص عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ورم خفيف"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو الحل لارتفاع الضغط؟",
+    "answer": "من الأفضل مراجعة طبيب لتحديد السبب والعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الضغط"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالعظم مع القيء.",
+    "answer": "خاصنا نديرو تحاليل الجرثومة الحلزونية ونتكلمو معاك بالنتيجة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعظم",
+        "قيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو الدوا لنفخة البطن والغازات؟",
+    "answer": "يمكن تستخدم الفحم الطبيعي أو بعض الأدوية الأخرى.",
+    "entities": {
+      "symptoms": [
+        "نفخة البطن",
+        "غازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشاكل فالمعدة وكنحس براسي مقهور. شنو الحل؟",
+    "answer": "خاصنا نديرو لك منظار للمعدة باش نشوفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نعرف بلي المرارة خاصها تخرج؟",
+    "answer": "ملي كيتكتشفو الحصى في المرارة، كينصح الجراح باستئصالها.",
+    "entities": {
+      "symptoms": [
+        "حصى في المرارة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال مزمن وألم فالمعدة.",
+    "answer": "خاصك تشوف طبيب مختص فالهضم باش يحدد العلاج.",
+    "entities": {
+      "symptoms": [
+        "إسهال مزمن",
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علاج نهائي للبواسير؟",
+    "answer": "الجراحة هي الحل الفعال للبواسير.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي غازات وألم فالبطن وعندي حساسية من البهارات.",
+    "answer": "خاصك تراقب الماكلة ديالك وتجنب الأطعمة اللي تسبب لك الحساسية.",
+    "entities": {
+      "symptoms": [
+        "غازات",
+        "ألم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي غثيان وصداع.",
+    "answer": "خاصك تشوف طبيب باش يدير لك الفحص ويحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "غثيان",
+        "صداع"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ولدي عندو شهرين وعندو وجع فكرشو، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأطفال باش يشوف الحالة ديالو.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشو"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نقدر نزيد فالوزن إلا عندي الكرون؟",
+    "answer": "خاصك تاكل الماكلة اللي فيها نشويات و الفيتامينات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج ديال نقص الحديد إلا كان النسبة 69%؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويدير لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالمعدة ولساني كيتحرقني من شي ماكلة فيها البياض.",
+    "answer": "خاصنا نتعالجو الجرثومة، سير عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالمعدة",
+        "لسان كيتحرق"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج المناسب لمريض التهاب البنكرياس؟",
+    "answer": "العلاج كيعتمد على نوع الالتهاب، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التهاب البنكرياس",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش الدوسالبين مزيان للقولون العصبي؟",
+    "answer": "نعم، الدوسالبين مفيد فالعلاج ديال أعراض القولون العصبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القولون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فالمعدة وكيستمر لفترات طويلة، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب، خاصة إلا كان الألم مستمر.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش نحيدو ألم الدوالي بعد الولادة؟",
+    "answer": "استعمل مراهم بحال باروكتيهيل ولا نظائرها.",
+    "entities": {
+      "symptoms": [
+        "ألم الدوالي"
+      ],
+      "medical_field": "الجهاز الدوري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاينة شي قرحة فالمعدة؟",
+    "answer": "ماشي بالضرورة قرحة، يمكن يكون تشنج ولا التهاب ولا سوء الهضم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو أسرع طريقة باش تحيد القرحة المعدية؟",
+    "answer": "خاصك تتبع علاج مناسب، بحال باراسيتامول أو أدوية أخرى. استاشر مع طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم فكرشي تالول 6 مليمتر وماكيعالجوش.",
+    "answer": "إلا ما كانش شي أعراض أخرى، ما كاينش داعي للعلاج.",
+    "entities": {
+      "symptoms": [
+        "ألم فكرشي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال مزمن ونقصان فالحديد.",
+    "answer": "خاصك دير منظار وتحاليل باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "إسهال مزمن",
+        "نقصان الحديد"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كنحس بنبض فكرشي ملي كنكون متوتر.",
+    "answer": "القلق والتوتر هما لي كيسببو هاد المشكل. حاول ترتاح.",
+    "entities": {
+      "symptoms": [
+        "نبض فكرشي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي تضخم فالبطن.",
+    "answer": "خاصني تفاصيل أكثر باش نقدر نساعدك. عافاك وضح الحالة.",
+    "entities": {
+      "symptoms": [
+        "تضخم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج ديال الدسنتاريه اللي كيجي مع السهال الدموي؟",
+    "answer": "خاصك تاخد ميترويدازول 500 مغ ثلاث مرات ف النهار لمدة عشرة أيام.",
+    "entities": {
+      "symptoms": [
+        "سهال دموي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كاتعالج التهاب الكبد الوبائي؟",
+    "answer": "العلاج كيعتمد على نوع الفيروس. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل ديال الحموضة، خاصة من بعد ما ناكل.",
+    "answer": "خاصنا نديرو فحص الجرثومة الحلزونية ونتكلمو مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش يمكن ليه يخدم الحامل بعد عملية جراحية لقرحة المعدة؟",
+    "answer": "كينصح باش تبعد على الخدمة حتى تتعافى مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كايتعالجو التهاب الأمعاء الغليظ بالأعشاب؟",
+    "answer": "ما كاينش دليل علمي على هاد الشي، ولكن خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأمعاء الغليظ"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالمفاصل، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمفاصل"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حكة فالبطن، شنو السبب؟",
+    "answer": "الحكة فالبطن كيمكن تكون بسبب عدة عوامل، من الأحسن تدير تحاليل عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حريق فالصدر، شنو ندير؟",
+    "answer": "إذا كان عندك حريق فالصدر، خاصك تشوف طبيب، خصوصا إذا كان بعد الأكل.",
+    "entities": {
+      "symptoms": [
+        "حريق فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فالصدر، شنو السبب؟",
+    "answer": "وجع الصدر كيمكن يكون عندو أسباب متعددة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كيجي الغثيان مع الهضم الصعيب؟",
+    "answer": "أه، الغثيان من الأعراض الشائعة لعسر الهضم. خاصك تشوف طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "الغثيان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حبة فالبطن، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب جراحة عامة باش يحدد لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "حبة فالبطن"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالبراز، راه لونو خضر. شنو ندير؟",
+    "answer": "خاصك تدير تحليل للبراز، لأن اللون كيمكن يكون بسبب الأكل.",
+    "entities": {
+      "symptoms": [
+        "لون البراز الخضر"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مرض فمي، شنو أحسن علاج؟",
+    "answer": "من الأفضل تشوف طبيب الأسنان، وديما شرب الماء ومارس الرياضة.",
+    "entities": {
+      "symptoms": [
+        "مرض فمي"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو التأثير ديال الدهون الثلاثية على الجسم؟",
+    "answer": "الدهون الثلاثية كيمكن تأثر على صحة القلب والشرايين. خاصك تحافظ على نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشكل فالبراز، راه لونو خضر. شنو خاصني ندير؟",
+    "answer": "المأكولات لي كناكلو كتأثر على لون البراز. خاصك تشوف طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "لون البراز الخضر"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "ولدي عندو شهر وعشرين يوم وكيعاني من انتفاخ البطن والغصة.",
+    "answer": "خاصك تشاور مع طبيب الأطفال باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ البطن",
+        "الغصة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "وجع أسفل البطن بلا سبب واضح.",
+    "answer": "خاصك تدير فحص بول وبراز باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع أسفل البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو اللي كيسبب لتوتر الغدد الليمفاوية فالصدر؟",
+    "answer": "التهاب أو عدوى أو أمراض المناعة. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المناعة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم حاد فالمعدة.",
+    "answer": "ممكن يكون التهاب عادي، ولكن خاصك تشوف طبيب باش تعرف السبب الحقيقي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علامات ديال القولون العصبي فاش كتخرج الدم مع البراز؟",
+    "answer": "لا، ماشي من أعراض القولون العصبي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "خروج الدم مع البراز"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش كاين شي علاج للفيروس لي كيضر الكبدة؟",
+    "answer": "كاين علاج ولكن خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حكة فالرجلين بلا ألم، شنو السبب؟",
+    "answer": "ممكن تكون الديدان، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالرجلين"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "صداع فالراس وارتفاع في درجة الحرارة، شنو السبب؟",
+    "answer": "خاصك تشوف الطبيب ديالك باش يدير ليك الفحص. كاين بزاف د الأسباب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "ارتفاع في درجة الحرارة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي فتق السري، واش نقدر نبقا فيه بزاف حتى نكمل الامتحانات؟",
+    "answer": "لا، خاصك تشوف طبيب باش تعرف واش ممكن تبقى فيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي الم فالمعدة.",
+    "answer": "خاص يتدار فحص الجرثومة الحلزونية و تتعرض النتيجة للطبيب.",
+    "entities": {
+      "symptoms": [
+        "الم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عافاك شنو النتيجة ديال التحليل؟",
+    "answer": "خاص نعرفو التحليل اللي درتيه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحاليل الطبية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم قاتل فالمعدة والبطن.",
+    "answer": "خاص تقييم طبيب باطنية للفحص السريري وتحديد الإجراءات الأخرى.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة",
+        "ألم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم أسفل البطن، و نزيف بعد البراز.",
+    "answer": "خاصك تخدم المنظار البطني لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم أسفل البطن",
+        "نزيف"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي التهاب الأمعاء والمعدة.",
+    "answer": "خاصك تشوف طبيب لتحديد النوع والعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأمعاء",
+        "التهاب المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حكة شرجية.",
+    "answer": "الديدان ممكن تكون السبب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة شرجية"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي مشاكل فالمعدة، كاين لي كيعاني من الغثيان.",
+    "answer": "خاصك تشوف طبيب لتحديد السبب والعلاج.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالمعدة",
+        "الغثيان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إسهال ودوخة مفاجئة.",
+    "answer": "خاصك تمشي للطبيب باش يشوفك. يمكن يكون عندك مشكل فالصحة.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "دوخة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي نفخة فكرشي.",
+    "answer": "المكلة لي فيها الدهون والسكر خاصها تتاكل مع حبوب الفحم باش تنقي المعدة.",
+    "entities": {
+      "symptoms": [
+        "نفخة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو كيضر فالبطن على اليسار؟",
+    "answer": "يمكن يكون عندك حصى فقولونك. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي إمساك بلا ألم، واش هادا إمساك؟",
+    "answer": "إيوا، هادشي إمساك. خاصك تشوف طبيب إذا بقات الحالة.",
+    "entities": {
+      "symptoms": [
+        "إمساك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "الألم بعد عملية البواسير، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب لي دار ليك العملية. يمكن يحتاج يراقب حالتك.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم مستمر، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوفك مزيان. يمكن يحتاج يدير ليك أشعة.",
+    "entities": {
+      "symptoms": [
+        "ألم مستمر"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو السبب ديال القولون العصبي؟",
+    "answer": "خاصك تاكل الخضرة وتشرب الماء بزاف. هادشي كيساعد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ألم بعد 25 يوم من عملية الزائدة.",
+    "answer": "إذا بقى الألم، خاصك ترجع للطبيب ديالك. يمكن يكون عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "هاد الدوا كيسبب التهاب الكبد؟",
+    "answer": "عافاك، خاصك توضح أكثر على الدوا. كل دوا عندو تأثيرات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع فكرشي، واش نقدر ناكل؟",
+    "answer": "خاصنا نديرو تحاليل الجرثومة الحلزونية. من بعد نقدروا نتكلمو على النتيجة.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو العلاج ديال المعدة؟",
+    "answer": "خاصك تشوف طبيب لي يقدر يعطيك العلاج المناسب. كل حالة مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي صداع وقيء.",
+    "answer": "الصداع والقيء كيمكن يكونو من أعراض القولون العصبي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "قيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "بغيت شي دوا للديدان.",
+    "answer": "خاصنا نعرفو نوع الديدان بتحليل البراز. عافاك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كيفاش كايتستعمل أومبرازول؟",
+    "answer": "أومبرازول كيتستعمل باش ينقص الحامض المعدي. خاصك تسول طبيبك على الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش فيروس سي كيتنقل من الوالد للجنين؟",
+    "answer": "إيوا، كيتنقل من الأم للجنين. خاصك تراقب حالتك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كل مرة كناكل حاجة حارة، كنحس مريض.",
+    "answer": "خاصك توقف تاكل الحوايج السخونة. يمكن تكون عندك حساسية.",
+    "entities": {
+      "symptoms": [
+        "إحساس بالمرض"
+      ],
+      "medical_field": "الأمراض الهضمية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو الحل للبطن المسخوط؟",
+    "answer": "خاصك ما تأكلش الحوايج اللي كتحرق، ولبس حوايج فيها فيتامينات.",
+    "entities": {
+      "symptoms": [
+        "الم البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي وجع متواصل فكرشي معاه ألم حار.",
+    "answer": "يمكن يكون عندك مشكل فالمعدة. خاصك تشوف طبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرش",
+        "ألم حار"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "واش يمكن تأجيل عملية استئصال المرارة؟",
+    "answer": "نعم، يمكن تأجيل العملية، ولكن خاصك تتشاور مع الطبيب على الوقت المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حمى مزمنة، والمشروبات سخونة ما كتعالجش.",
+    "answer": "خاصك تشوف طبيب، يمكن يعطيك باراسيتامول أو أدوية أخرى حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "كنحس تاني بالوجع والمشاكل ديال الجهاز الهضمي، التعب والغثيان والقيء.",
+    "answer": "خاصك تمشي عند الطبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "تعب",
+        "غثيان",
+        "قيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي حصاة في الكلى عندها 4 مليمتر. واش هاد الحصاة كبيرة؟",
+    "answer": "الحصاة متوسطة، ممكن تخرج من غير مشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "نفخة صغيرة فالبريز مصحوبة بألم خفيف.",
+    "answer": "ماشي خطيرة بزاف ولكن خاصك تمشي عند طبيب الجراحة.",
+    "entities": {
+      "symptoms": [
+        "نفخة",
+        "ألم خفيف"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي سخانة فأسفل البطن ونفاخات.",
+    "answer": "خاصك تاخد قرص 3 مرات فالنهار من بعد الأكل.",
+    "entities": {
+      "symptoms": [
+        "سخانة فأسفل البطن",
+        "نفاخات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "عندي ريق صعيب، ولكن كنشرب الزنجبيل مع الما وعندي مرض الربو.",
+    "answer": "خاصك تشوف طبيب، الزنجبيل ماشي كافي لوحده.",
+    "entities": {
+      "symptoms": [
+        "ريق صعيب"
+      ],
+      "medical_field": "الربو",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "شنو هو الدوا ديال التهاب الأمعاء؟",
+    "answer": "خاص توضيح أي نوع من التهاب الأمعاء، كل حالة عندها علاج خاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Internal Medicine",
+    "question_darija": "خاصني نخرج من هاد القوقعة ديالي حيت راه مقلق.",
+    "answer": "خاصك ترجع للطبيب ديالك فوراً باش يتأكد من التشخيص ويوجه العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "طارئ"
+    }
+  }
+]
