@@ -1,0 +1,5687 @@
+[
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كايتحيد تآكل العين؟",
+    "answer": "التآكل كيتحيد عبر عملية جراحية. خاص استشارة طبيب العيون لتحديد الطريقة المناسبة.",
+    "entities": {
+      "symptoms": [
+        "تآكل العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي الأسباب ديال الاحمرار فالعين؟",
+    "answer": "الأسباب كيمكن تكون التدخين، الكحول، أو الحساسية. خاص تشخيص دقيق من طرف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاج حرقان العين؟",
+    "answer": "يمكن استعمال قطرات مضادة للهيستامين. خاص استشارة طبيب العيون لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حرقان العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني اليمنى كتخرج الدموع؟",
+    "answer": "من الأفضل تمشي عند طبيب العيون. يمكن يكون عندك مشكل خاص بالعينيين.",
+    "entities": {
+      "symptoms": [
+        "دموع العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نعالج جفاف عينيا؟",
+    "answer": "يمكن استعمال قطرات ترطيب للعين. خاص تشوف طبيب العيون إذا استمر الجفاف.",
+    "entities": {
+      "symptoms": [
+        "جفاف العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتضرني وكتحمر؟",
+    "answer": "خاصك تراجع طبيب العيون. هاد الأعراض كيمكن تدل على مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "ألم العين",
+        "احمرار العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش تقصر النظر كايسبب الصداع؟",
+    "answer": "إيوا، تقصر النظر يمكن يسبب الصداع. خاصك تشوف طبيب العيون لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين الم فالعيان؟",
+    "answer": "خاصك تمشي عند طبيب العيون باش تعرف السبب. الألم كيمكن يكون ناتج عن عدة أسباب.",
+    "entities": {
+      "symptoms": [
+        "ألم العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "دخلاتني لعصا وجرحت راسي؟",
+    "answer": "من الأفضل تمشي عند طبيب العيون. الجرح كيمكن يأثر على العين.",
+    "entities": {
+      "symptoms": [
+        "جرح العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش قطرات الدموع ديالك كيديرو مشاكل فالرؤية؟",
+    "answer": "لا، ما كينش مشاكل. خاصك تشوف طبيب العيون إذا كان عندك شي مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي كيس دهني صغير ف عيني.",
+    "answer": "خاصها عملية صغيرة. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "كيس دهني"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاج جفاف الجفن العلوي شنو هو؟",
+    "answer": "خاصك ترطب الجفن باستعمال قطرات مرطبة. استاشر مع طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "جفاف الجفن"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حك ف عيني اليسرى.",
+    "answer": "يمكن تكون عندك الحساسية. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "حك"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش النظارات كينقصو من الحجم ديال العين؟",
+    "answer": "ما كينش علاقة بين النظارات وحجم العين. النظارات كتحسن الرؤية فقط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحل مشكلة الحول؟",
+    "answer": "الحل هو عملية جراحية. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "حول"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي مشكل فالرؤية بسبب الغبرة.",
+    "answer": "خاصك تشوف شنو السبب. يمكن تحتاج قطرات مرطبة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالرؤية"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "العضلات ديال عيني مزيرين.",
+    "answer": "خاصك تشوف عند الطبيب باش يدير ليك فحص.",
+    "entities": {
+      "symptoms": [
+        "مزيرين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي الأسباب ديال حرقان العين وطرق العلاج؟",
+    "answer": "خاصك تشوف شنو السبب. العلاج يعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "حرقان العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كاينة لحمور ف عينيا؟",
+    "answer": "خاصك تشوف طبيب العيون. يمكن تكون عندك مشكلة.",
+    "entities": {
+      "symptoms": [
+        "لحمور"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي علاج ل شبكية متلفة؟",
+    "answer": "للأسف، ما كاينش علاج فعال. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "شبكية متلفة"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شفت شعر كحل و ضبابي.",
+    "answer": "خاصك ترجع للطبيب بسرعة. يمكن تكون عندك مشكلة فالعين.",
+    "entities": {
+      "symptoms": [
+        "شعر كحل",
+        "ضبابي"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "بغيت شي دوا ديال احمرار العين من العدسات.",
+    "answer": "استعمل قطرات مرطبة. خاصك تشوف طبيب العيون إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نجنبو الأمراض ديال عينينا؟",
+    "answer": "خاص الابتعاد عن مسببات الأمراض. دير فحص دوري عند الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي المخاطر ديال البقعة الحمرا فالعين؟",
+    "answer": "ما كاين حتى خطر. ولكن خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "بقعة حمرا"
+      ],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي صداع و مشكل فالنضاضر.",
+    "answer": "خاصك تشوف طبيب العيون. يمكن يكون عندك مشكل فالرؤية.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "مشكل فالنضاضر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كان تجمع دموى عندو عين.",
+    "answer": "خاصك تشاور مع الطبيب باش يقيم الوضعية. يمكن تحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "تجمع دموى"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي سخونية فالعين وحرقة.",
+    "answer": "خاصك تراجع الطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "سخونية",
+        "حرقة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي مشكل فالعين.",
+    "answer": "خاصك تراجع الطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج انفصال الشبكية؟",
+    "answer": "العلاج هو عملية جراحية فحالة طارئة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي عروق حمرا فالعين.",
+    "answer": "السبب كاين بزاف، بحال التدخين أو الاحتقار.",
+    "entities": {
+      "symptoms": [
+        "عروق حمرا"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين اليسرى.",
+    "answer": "الله يشافيك، خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين اليسرى"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعينين وصداع.",
+    "answer": "خاصك تراجع طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعينين",
+        "صداع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو أحسن علاج للجفاف ديال العينين؟",
+    "answer": "القطرات المرطبة مع فيتامين أ هما الحل.",
+    "entities": {
+      "symptoms": [
+        "جفاف العينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ظباب فالعيون.",
+    "answer": "خاصو يتحل هاد المشكل بسرعة.",
+    "entities": {
+      "symptoms": [
+        "ظباب فالعيون"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي مشكل فالعين",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب و يعالجك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاج احمرار العينين؟",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب و يعالجك.",
+    "entities": {
+      "symptoms": [
+        "احمرار العينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو اللي كيسبب ليا هاد النقرات فالعينين ديالي؟",
+    "answer": "يمكن يكون نقص في الفيتامينات. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "نقرات فالعينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو الحل ديال انسداد مجرى الدموع؟",
+    "answer": "يمكن تحتاج عملية جراحية باش يتكون مجرى جديد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كايضرني راصي من تحت عيني",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب فقرنية.",
+    "answer": "خاصك دير فحص للقرنية باش تحدد الحالة بدقة.",
+    "entities": {
+      "symptoms": [
+        "التهاب فقرنية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتضرني و راسي كايوجعني.",
+    "answer": "خاصك دير فحص عند طبيب العيون باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم العين",
+        "ألم الرأس"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج لحمور العين؟",
+    "answer": "كيحتاج عملية جراحية بسيطة.",
+    "entities": {
+      "symptoms": [
+        "حمور العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كيتستعمل ليدوكائين لعلاج العينين؟",
+    "answer": "أه، كيتستعمل ولكن تحت إشراف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب ملتحوظ.",
+    "answer": "خاصك دير فحص عند طبيب العيون باش يتقيم الوضعية.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحوظ"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضعف فالرؤية فاليسار.",
+    "answer": "خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "ضعف الرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي أعراض حساسية العين؟",
+    "answer": "الأعراض كتشمل حكة و احمرار فعينيك.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "احمرار العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش التهاب الغدد اللعابية كيتسبب في انتفاخ العينين؟",
+    "answer": "يقدر يكون عندو تأثير على العينين.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ العينين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش يمكن علاج تمزق القزحية؟",
+    "answer": "أه، ممكن فبعض الحالات.",
+    "entities": {
+      "symptoms": [
+        "تمزق القزحية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كان زاج و ضربت بيه عيني.",
+    "answer": "خاصنا نديرو عملية تفتيت الما.",
+    "entities": {
+      "symptoms": [
+        "إصابة العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين علاج لضغط العين؟",
+    "answer": "ضغط العين يحتاج لمتابعة طبية. خاصك تشاور مع طبيب العيون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ما كاينش وضوح للرؤية فالعيون اليمينية؟",
+    "answer": "خاصك تشاور طبيب العيون باش يعرف السبب ويدير لك الفحص.",
+    "entities": {
+      "symptoms": [
+        "عدم وضوح الرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش النظارات ديال النظر كتحسن النظر؟",
+    "answer": "النظارات كتحسن الرؤية ولكن ما كتعالجش المشكل الأساسي. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "دخل شق في العين من الداخل. خاصو يتصلح.",
+    "answer": "خاصك تمشي للطبيب ديالك في أقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "شق في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "سبّ حمرة ف عيني.",
+    "answer": "الحساسية أو الالتهابات ممكن تكون السبب. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "حمرة في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندو بقع حمرا ف عينيه.",
+    "answer": "خاصه يمشي عند طبيب العيون باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "بقع حمراء في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج حساسية العين؟",
+    "answer": "كاينين قطرات مضادة للحساسية. خاصك تشوف طبيب العيون باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب قرني.",
+    "answer": "التهاب القرنية يحتاج لعلاج خاص. خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب القرنية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين ديالي اليمنى.",
+    "answer": "خاصك تمشي عند طبيب العيون باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "جدتي عندها نزيف فالعيون.",
+    "answer": "خاصها دير فحص عند طبيب العيون في أقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "نزيف في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي جفاف ف عيني، شنو ندير؟",
+    "answer": "يمكن لك تحط قطرات مرطبة. خاصك تشوف طبيب إذا استمر الجفاف.",
+    "entities": {
+      "symptoms": [
+        "جفاف"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحيد السيلان من العينين؟",
+    "answer": "خاصك تستعمل قطرات مخصصة. إذا بقات الحالة، شاور طبيب.",
+    "entities": {
+      "symptoms": [
+        "سيلان"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ماما عندها مشكل ف عينها، شنو ندير؟",
+    "answer": "خاصها تشوف طبيب مختص. ماشي كل مشكل يمكن يتعالج بنفس الطريقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيضرني ف عيني؟",
+    "answer": "التحسس هو سبب شائع. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضغط دم مرتفع، واش عادي؟",
+    "answer": "لا، خاصك تراقب ضغط الدم ديالك. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم مرتفع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي خطوط حمرا ف عيني، شنو ندير؟",
+    "answer": "غالبا جفاف، ولكن خاصك تشوف الطبيب. يمكن يكون عندك مشكل آخر.",
+    "entities": {
+      "symptoms": [
+        "خطوط حمرا"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي نفخة ف عيني، شنو ندير؟",
+    "answer": "خاصك تشوف واش الكلاوي خدامين مزيان. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "نفخة"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب فالعين بسبب لحام.",
+    "answer": "خاصك تمشي عند طبيب العيون باش يدير لك الفحص ويوصي بالدوا.",
+    "entities": {
+      "symptoms": [
+        "التهاب العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي صداع وحكة فالعين.",
+    "answer": "خاصك تمشي عند طبيب العيون باش يشوف حالتك.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "حكة فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو العلاج السريع لانتفاخ الجفن السفلي؟",
+    "answer": "خاصك تدير فحص للكلى باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ الجفن السفلي"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حكة فالعين مع احمرار.",
+    "answer": "ضروري تمشي عند الطبيب باش يشوف حالتك.",
+    "entities": {
+      "symptoms": [
+        "حكة فالعين",
+        "احمرار"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضعف النظر فالعين.",
+    "answer": "خاصك تمشي عند طبيب العيون باش يدير لك الفحص.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حبة تحت كل عيني.",
+    "answer": "خاصك تزور طبيب العيون باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حبة تحت العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كانشوف شي خط فالعين.",
+    "answer": "خاصك تدير فحص عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "خط فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج قرحة الجفن؟",
+    "answer": "خاصك تشوف الطبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "قرحة الجفن"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي احمرار وأكيله فالعين.",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "احمرار",
+        "أكيله"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عافاك شنو هو التهاب العين؟",
+    "answer": "التهاب العين كيتطلب مضاد حيوي. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو سبب لحمرة فواحدة من لعينين ديالي هادي مدة ديال يوماين؟",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حمرة فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضعف فالرؤية فالصبّاح.",
+    "answer": "خاصك دير فحص العين باش نعرفو شنو هو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضعف فالرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "بديت كانشوف الحوايج بعيد على لبلاصتهم الحقيقية فالعين ليمن.",
+    "answer": "خاصك نضاضر طبية.",
+    "entities": {
+      "symptoms": [
+        "تشويش فالرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كانشوف الحوايج ف لخضر.",
+    "answer": "خاصك دير فحص العينين باش تقيّم الوضعية.",
+    "entities": {
+      "symptoms": [
+        "تشويش فالرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب ملتحي وحيانا كاين قرطا ف عيني.",
+    "answer": "خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحي",
+        "قرطا فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الحمرة والتهاب فعينيهوم.",
+    "answer": "خاصها دير تيست ديال التحمل باش يعرفو شنو هو الدوا المناسب ليها.",
+    "entities": {
+      "symptoms": [
+        "حمرة",
+        "التهاب"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ما هو التهاب العصب البصري وما هو السبب ديالو؟",
+    "answer": "أهم الأسباب ديال التهاب العصب البصري هي مرض السكري. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب العصب البصري"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج التهاب العين؟",
+    "answer": "العلاج كيتحدد حسب تشخيص الحالة بدقة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "تغرشة فالعين الشمال وحسات بيه.",
+    "answer": "مرحبا، كننصحك تدير فحص للنظارات ديالك.",
+    "entities": {
+      "symptoms": [
+        "تغرشة فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو العلاج اللي كيناسب التهاب الجفن المزمن؟",
+    "answer": "خاصك تشوف طبيب العيون باش يشخص الحالة و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الجفن"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كايضرني الحاجب ديالي.",
+    "answer": "يمكن يكون عندك التهاب في الحاجب، خاصك تزور طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "ألم في الحاجب"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي دوا ديال حب الشباب ديال الدموع؟",
+    "answer": "كاينين قطرات مرطبة للعين، خاصك تسول طبيب العيون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كانشوف غير لون كحل فالعين.",
+    "answer": "خاصك تفحص عينيك عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "تغير في الرؤية"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي أحسن الماكلة اللي تعاونني باش نحسن النظر؟",
+    "answer": "خاصك تسول مختص في التغذية، الماكلة المتوازنة مهمة للصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج الحساسية فالربيع؟",
+    "answer": "كاين قطرات مضادة للحساسية، خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كايضرني راصي وعندي حمرة فعيوني.",
+    "answer": "خاصك تشوف طبيب العيون، يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "ألم في العين",
+        "حمرة في العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتحس بحال إلا كانو ديال الرملة وكيوجعوني.",
+    "answer": "خاصك تمشي للطبيب، هاد الأعراض تحتاج فحص.",
+    "entities": {
+      "symptoms": [
+        "إحساس بالرمل",
+        "ألم في العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كايعالجو توسع حدقة العين المفاجئ؟",
+    "answer": "خاصك تزور طبيب العيون، غادي يشوف السبب.",
+    "entities": {
+      "symptoms": [
+        "توسع حدقة العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني ولاو كيتحركو بزربة وبغيت نعرف علاش.",
+    "answer": "يمكن يكون عندك توتر، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حركة غير طبيعية للعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش يمكن لي نعاود نصلح النظر؟",
+    "answer": "المتابعة مع طبيب العيون و الماكلة المتوازنة يمكن يساعدوك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي الآثار الخطيرة ديال ارتفاع ضغط الدم على العينين؟",
+    "answer": "ارتفاع ضغط الدم يمكن يسبب مشاكل فالعين، خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عافاك، واش كاين شي طبيب عيون محترف بزاف فإيران؟",
+    "answer": "ما عنديش معلومات على الأطباء فإيران.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندو بقع بيضا فالعين.",
+    "answer": "خاصك تدير فحص طبي شامل عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضاء في العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كنشوف شي نقطة سودا ولا شي رمادي فعيني.",
+    "answer": "خاصك تمشي للطبيب، هاد الشي يحتاج فحص.",
+    "entities": {
+      "symptoms": [
+        "نقطة سوداء في العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عافاك شنو هو علاج لعيبان ديال لعينين لي كيحرقو وكيضربو؟",
+    "answer": "يمكن تستعمل قطرات مرطبة، خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرق في العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كايعاون كريم ستيركس فالجفاف ديال لعين؟",
+    "answer": "خاصنا نستعملو قطرات دمعة اصطناعية، هادي هي الحل.",
+    "entities": {
+      "symptoms": [
+        "جفاف العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضباب فالعيون ديالي ليمن.",
+    "answer": "خاصك تشاور طبيب العيون فأقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "ضباب في الرؤية"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "وقتاش يقدر ينزل للجيم بعد العملية ديال تثبيت القرص؟",
+    "answer": "غالبا بعد تلت سيمانات، ولكن خاصك تسول الطبيب ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين.",
+    "answer": "ممكن يكون ضعف النظر، خاصك دير فحص عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش ممكن العين تصاب بالسرطان؟",
+    "answer": "نعم، ممكن تصاب العين بالسرطان ولكن هادشي نادر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كان كيدور فعينيه وخلاني كيمرض.",
+    "answer": "خاصك تراجع الطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "دوار فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش الانحراف النصف درجة فالعين طبيعي؟",
+    "answer": "أه، هادشي عادي وما كيشكلش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج جفاف العينين؟",
+    "answer": "يمكن تستعمل القطرات المرطبة، كاينين بزاف منهم.",
+    "entities": {
+      "symptoms": [
+        "جفاف العينين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو التهاب القرنية؟",
+    "answer": "التهاب القرنية هو حالة كتأثر على الرؤية، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ملي قاسيت الضغط ديال العين لقيت بلي الجدول ديالو هو 12/13.",
+    "answer": "هادشي ف الحدود العادية، ما كاينش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش الانحراف عندو تأثير على عملية الليزك؟",
+    "answer": "الليزك كيتستعمل باش يصلحو الانحراف، وعادة ما كيشكلش مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "نفخ من الجفن بسبب إفرازات العين.",
+    "answer": "ممكن يكون التهاب الجفون، خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "نفخ فالجفن"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ولدي كيحك عينيه بلا ما يعرف علاش.",
+    "answer": "خاصك توريه للطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "حك فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "بغيت شي دوا ديال لقرحة ديال القرنيه.",
+    "answer": "أسباب القرحة مختلفة والعلاج كيعتمد على السبب، خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كاينة لحمرة بزاف ف عينيا؟",
+    "answer": "الحساسية ديال عينيك خلاتها تحك وتحمّر.",
+    "entities": {
+      "symptoms": [
+        "حمرة فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاج قصر النظر.",
+    "answer": "النظارات دالطبيب، واخا يقدرو يكونو مزيانين إلا كان عندك قرنية مزيانة.",
+    "entities": {
+      "symptoms": [
+        "قصر النظر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ضرب ضوّن بحال البرق بيدّي اليسرى.",
+    "answer": "خاصك دير فحص للشبكية عند الطبيب ديال العينين.",
+    "entities": {
+      "symptoms": [
+        "ضوء فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش يمكن ليه ياخد القطرة ديالو بعد ساعتين من ما خداها؟",
+    "answer": "أه، يمكن ليك تاخد القطرة بعد ساعتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي الأسباب ديال الإجهاد البصري؟",
+    "answer": "الإجهاد البصري كيتسبب فيه استعمال الشاشات بزاف. خاصك ترتاح وتحد من الوقت اللي كتشوف فيه الشاشات.",
+    "entities": {
+      "symptoms": [
+        "الإجهاد البصري"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحيد احمرار العين؟",
+    "answer": "خاصك تعرف السبب ديالو. من الأفضل تمشي عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي الحمرة فالعين بزاف.",
+    "answer": "خاصك دير فحص عند طبيب العيون باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضبابية فالرؤية، شنو السبب؟",
+    "answer": "ضبابية الرؤية كتقدر تكون بسبب عدة عوامل. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "ضبابية الرؤية"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو السبب ديال التهاب العينين؟",
+    "answer": "التعب والتوتر كيمكن يكونو من الأسباب. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "التهاب العينين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالجبهة والعينين.",
+    "answer": "خاصك تمشي عند الطبيب باش يدير الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالجبهة",
+        "وجع فالعينين"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش الحساسية كتسبب ضعف النظر؟",
+    "answer": "الحساسية ممكن تسبب ضعف النظر فبعض الحالات. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو اللي خلا القرنية تضعف؟",
+    "answer": "القرنية كتقدر تتصاب بأمراض مختلفة، وهذا كيسبب الضعف ديالها.",
+    "entities": {
+      "symptoms": [
+        "ضعف القرنية"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ما كاين حتى ضرر فالتهاب العين.",
+    "answer": "النوع ديال الالتهاب والسبب هوما عوامل مهمة خاصنا ناخدوهم بعين الاعتبار.",
+    "entities": {
+      "symptoms": [
+        "التهاب العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو الدوا للنزيف والاحمرار والورم فالعينين؟",
+    "answer": "العلاج كيعتمد على نوع الالتهاب. خاصك تشوف طبيب العيون باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نزيف",
+        "احمرار",
+        "ورم"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين عملية زرع الشبكية؟",
+    "answer": "للأسف، مازال ما كاينش عملية زرع الشبكية. خاصك تتبع مع طبيب العيون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي إستيماتيزم، واش عملية الليزر غادي تنجح؟",
+    "answer": "غالبا كتعطي نتائج مزيانة. خاصك استشارة طبيب العيون لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "إستيماتيزم"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي عين حمرا، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف السبب. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "عين حمرا"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيخرج من الجفن، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يعطيك العلاج المناسب. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي طرق لعلاج اعتلال الشبكية ديال السكري؟",
+    "answer": "نعم، كيستعمل الليزر كحل لبعض الحالات. خاصك استشارة طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "اعتلال الشبكية"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كتكون عيني حمرين ملي كاتفيق من النعاس؟",
+    "answer": "يمكن يكون بسبب الجفاف ديال العين. خاصك تشرب الماء وتستعمل قطرات مرطبة.",
+    "entities": {
+      "symptoms": [
+        "عين حمراء"
+      ],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعينين، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف السبب. يمكن يكون عندك التهاب أو إجهاد.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعينين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ملي خرجت من الدار، جاني إلتهاب ف عيني.",
+    "answer": "الإلتهاب يمكن يكون بسبب البيئة. خاصك تمشي عند الطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب ف عيني"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش تقوية النظر بالليزر خطيرة؟",
+    "answer": "العملية عندها مخاطر، خاص تقييم طبي قبل ما تديرها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاينة شي مضاعفات خطيرة لبقعة الدم فالعين؟",
+    "answer": "ما كايناش مضاعفات خطيرة، ولكن خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كاينين شعيرات دموية ف عيني؟",
+    "answer": "هادشي عادي، الطقس كيلعب دور فظهورهم.",
+    "entities": {
+      "symptoms": [
+        "شعيرات دموية ف عيني"
+      ],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "وقتاش يمكن ليك تلبس العدسات بعد عملية ليزيك؟",
+    "answer": "من الأحسن تنتظر على الأقل شهر بعد العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو اللي كيسبب الحريق ف عينيك؟",
+    "answer": "كاين بزاف ديال الأسباب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حريق ف عينيك"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي خلع ف عيني، شنو هو أحسن طريقة للعلاج؟",
+    "answer": "خاصك تقييم طبي باش تعرف شنو تدير.",
+    "entities": {
+      "symptoms": [
+        "خلع ف عيني"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع ف الجفون العلوي.",
+    "answer": "يمكن تحتاج لفحص طبي لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الجفون العلوي"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش مزيان تحط قطرة ديال ليمون ف العين؟",
+    "answer": "لا، هادشي يمكن يضر عينيك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي علاج لكسلوب عيون؟",
+    "answer": "العلاج كيدير مزيان ف سن الطفولة، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع قاتل ف راسي و مشاكل ف لعقل.",
+    "answer": "خاصك تشوف طبيب العيون، يمكن يكون عندك مشكل ف العين.",
+    "entities": {
+      "symptoms": [
+        "وجع قاتل ف راسي"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الدموع فعينيك بزاف.",
+    "answer": "خاصك تشوف واش كاينين القطرات المناسبة.",
+    "entities": {
+      "symptoms": [
+        "الدموع بزاف"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كاينعالجوا النظارات ديال النظر؟",
+    "answer": "خاصك تلبس النضارات المناسبة. استشارة طبيب العيون غتساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش يمكن تكرر عملية تثبيت القرنية؟",
+    "answer": "نعم، يمكن تكرارها إلا كنتي محتاج لها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش يمكن تبدل لون العينين؟",
+    "answer": "لا، ما يمكنش تبدل لون العينين بشكل طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتوجع بزاف.",
+    "answer": "يقدر يكون عندك نقص فالمغنيزيوم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالمنطقة الخلفية دالعين.",
+    "answer": "خاصك تشوف طبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني ليمين كايبكي و راسي كيوجعني.",
+    "answer": "خاصك تشوف طبيب العيون فالحال.",
+    "entities": {
+      "symptoms": [
+        "بكاء العين",
+        "وجع الرأس"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاج التهاب العين شنو هو؟",
+    "answer": "العلاج كيتحدد حسب نوع الالتهاب. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي الأسباب ديال العيون لي كيبريو بزاف؟",
+    "answer": "كاين بزاف د الأسباب، خاصك دير فحص طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتضرني و بديت كانبكي",
+    "answer": "غالبا كاين التهاب فالعين. سير عند الطبيب باش تاخد الدوا المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم العين",
+        "بكاء"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ارتفاع ضغط العين وما قدرتش نتحكم فيه",
+    "answer": "بدا العلاج باستعمال قطرات لتنقيص الضغط داخل العين. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب الجفون الدايم. شنو هو الحل؟",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الجفون"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتضرني بزاف وماقدرتش نتحركها",
+    "answer": "خاصني نفحص عينيا مزيان عند الطبيب باش نعرف السبب. ما تآخدش الأمور بخفة.",
+    "entities": {
+      "symptoms": [
+        "ألم العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كتعالج التورم فالعيون؟",
+    "answer": "خاصك تقيم الوضعية وتوصف الدوا اللي خاصك. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "تورم العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي غشاوة فالعين اليسرى.",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "غشاوة فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ما سبب لون العينين الأصفر؟",
+    "answer": "كاين بزاف ديال الأسباب، منها مشاكل فالكبدة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "لون العينين الأصفر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي إحساس خايب فالعين.",
+    "answer": "يمكن يكون عندك حساسية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "إحساس خايب فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيسبب لي الصداع تحت العين؟",
+    "answer": "يمكن يكون التهاب أو فقر الدم. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع تحت العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين هبوط تحت عيني، شنو ندير؟",
+    "answer": "يمكن تحتاج عملية جراحية. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "هبوط تحت العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب فالعين، شنو العلاج؟",
+    "answer": "العلاج كيتحدد حسب درجة الالتهاب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي انفاس صعيبة ودموع.",
+    "answer": "يمكن يكون عندك ربو أو حساسية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "انفاس صعيبة",
+        "دموع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي دموع مع صداع فالعين.",
+    "answer": "خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "دموع",
+        "صداع فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الما بيض فعيني.",
+    "answer": "هاد الشي كيتعالج باستخراج الساد وزرع عدسة.",
+    "entities": {
+      "symptoms": [
+        "الما بيض"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ولدي كيبكي بزاف.",
+    "answer": "خاصو عملية بسيطة باش يفتح مجرى الدموع.",
+    "entities": {
+      "symptoms": [
+        "بكاء"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "دخول السائل المنوي للعين واش خطير؟",
+    "answer": "لا، ماشي خطير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "جفاف العيون كيتعافى بعد شحال؟",
+    "answer": "الحالة كتعتمد على السبب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "جفاف العيون"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع خفيف تحت العين، كيفاش نداويه؟",
+    "answer": "خاصك ترجع للطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج الماء الأبيض؟",
+    "answer": "الجراحة ديال تنظيف المرارة وزرع عدسة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "باش نبيضو عينيها؟",
+    "answer": "استعمل المرطبات، ولكن ما تنصحكش بمضادات الاحتقان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني اليسار كايدمعو. واش هادا مرض؟",
+    "answer": "خاصك تشوف طبيب باش يعرف علاش.",
+    "entities": {
+      "symptoms": [
+        "دموع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ما كاينش شي سبب واضح للبثور.",
+    "answer": "ممكن يكون عندو علاقة بالتوتر. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "بثور"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حمرة و تورم ف عيني.",
+    "answer": "خاصك دير فحص عند الطبيب باش يعرف العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حمرة",
+        "تورم"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حالة طبية خطيرة ديال الحكة.",
+    "answer": "خاصنا نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ماقادرش نشوف مزيان منين نفيق.",
+    "answer": "خاصك دير فحص العين.",
+    "entities": {
+      "symptoms": [
+        "ضعف الرؤية"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو اللي خلا واحد يبان ليه كيس ديال لحم تحت عينو؟",
+    "answer": "هاد الشي فيه الدهن. كنصحك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "كيس تحت العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش متلازمة العيون ديال دوان كتنتقل للولاد؟",
+    "answer": "نعم، كيتورث من الأجيال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج جفاف العين؟",
+    "answer": "يمكن استعمال الدموع الصناعية. خاصك تحمي عينيك من الدخان.",
+    "entities": {
+      "symptoms": [
+        "جفاف العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي اصفرار ف عيني.",
+    "answer": "الاصفرار ممكن يكون بسبب مشاكل في الكبد. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "اصفرار العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي عرق ف العينين.",
+    "answer": "خاصك تشوف طبيب باش يتأكد من عدم وجود مشاكل في الكبد.",
+    "entities": {
+      "symptoms": [
+        "عرق في العينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش عندي عينين حمرين دائما؟",
+    "answer": "خاصها تفحص عند الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش لبس النظارات كيسبب الصداع؟",
+    "answer": "إلا كان التصحيح ماشي مزيان، غادي يسبب لك الصداع.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي تقلصات فالعضلات ديال الرقبة والعينين.",
+    "answer": "خاصك تفحص العينين ديالك أولا، ومن بعد راسّك.",
+    "entities": {
+      "symptoms": [
+        "تقلصات العضلات"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حساسية ضد الحشرات فالعينين.",
+    "answer": "خاصك تلبس قطرات مضادة للحساسية فمواسم الحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي جفاف فعيني، واش كاين شي علاج؟",
+    "answer": "خاصك تشوف عينيك باش تعرف السبب وشنو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "جفاف العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج حساسية العين؟",
+    "answer": "كيتعطى قطرات مضادة للهيستامين فوقت التحسس وحسب الدرجة ديالو.",
+    "entities": {
+      "symptoms": [
+        "حساسية العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كايعالجو الحول؟",
+    "answer": "كاين اللي كيعالجو بالنظارات وشي وحدين كيعالجو بالعملية.",
+    "entities": {
+      "symptoms": [
+        "حول العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الضغط داخل العين شنو كيدير؟",
+    "answer": "الضغط اللي فالعين خاصو يتعالجو بانتظام، ولا غادي يقدر يضر العين وحتى يسبب العمى.",
+    "entities": {
+      "symptoms": [
+        "ضغط العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الأسباب ديال السواد تحت العين شنو هي؟",
+    "answer": "مازال ما معروفش علميا، ولكن كاينين مخففات.",
+    "entities": {
+      "symptoms": [
+        "سواد تحت العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو العلاج ديال ضعف النظر؟",
+    "answer": "بعد الفحص الطبي، يمكن ليك تاخد النظارات أو العدسات اللاصقة.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ولدي عندو شهرين، واش خاصو فحص العين؟",
+    "answer": "إيوا خاصو فحص العين واستشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيوني ولاو أصفرين، شنو السبب؟",
+    "answer": "يمكن تكون حالة طبيعية أو كاينة مشكلة فالكبد.",
+    "entities": {
+      "symptoms": [
+        "اصفرار العيون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيسبب لعاب عيني؟",
+    "answer": "يمكن يكون بسبب التهابات، حساسية، أو أمراض الغدة الدرقية.",
+    "entities": {
+      "symptoms": [
+        "لعاب العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي خط أحمر فالعين، شنو ندير؟",
+    "answer": "إلا استمر هاد الشي، خاصك تمشي لطبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "خط أحمر فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتقطر دموع وجبهتي حمرة، شنو الحل؟",
+    "answer": "استعمل قطرة مرطبة وحاول تنعس مزيان.",
+    "entities": {
+      "symptoms": [
+        "دموع العين",
+        "احمرار الجبهة"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حبة فالعين، واش خاصني نتخاف؟",
+    "answer": "خاصك تشوف طبيب العيون باش يقيم الوضعية.",
+    "entities": {
+      "symptoms": [
+        "حبة فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني صفارين، شنو ندير؟",
+    "answer": "يمكن يكون علامة على شي أمراض فالكبد، خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "اصفرار العيون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين دم ف عيني و الدخان؟",
+    "answer": "خاصك تمشي للطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "دم ف العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحجز موعد لتنظيف العيون؟",
+    "answer": "قلب على نمرة تليفون الطبيب و دير ليه موعد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي تاماروت خفيف ف عيني، واش عادي؟",
+    "answer": "ماشي عادي، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "تاماروت ف العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضعف ف الرؤية و عيني ليمن كتر من ليمن.",
+    "answer": "غادي تحتاج نظارات طبية.",
+    "entities": {
+      "symptoms": [
+        "ضعف ف الرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين شي دوا لجفاف العين؟",
+    "answer": "ممكن تستعمل قطرات مرطبة للعين.",
+    "entities": {
+      "symptoms": [
+        "جفاف العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي إلتهاب ف عيني ليلا.",
+    "answer": "ممكن تستخدم قطرات التقطير للعين.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب ف العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو الحل لعلاج نزيف العين؟",
+    "answer": "خاصك تمشي للطبيب و تدير فحص.",
+    "entities": {
+      "symptoms": [
+        "نزيف ف العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش تعالج هبوط الجفن عند دري عندو سبع سنين؟",
+    "answer": "تقدر تدير عملية ترفع الجفن.",
+    "entities": {
+      "symptoms": [
+        "هبوط الجفن"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كيسبب ليا احمرار فالعين؟",
+    "answer": "خاصك توقف استعمال الحاجة اللي كاتسبب الحساسية. من الأفضل تزور طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "احمرار فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج العمى المؤقت؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص. كل حالة عندها طريقة علاج خاصة بها.",
+    "entities": {
+      "symptoms": [
+        "العمى المؤقت"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني اليمني صغر من ليصر، واش كاين شي حل؟",
+    "answer": "خاصك دير تقييم عند طبيب العيون. هو اللي غادي يحدد الحل المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ديما مشكل فالعينين، كيبانو ليا صفارين ولا حمرين.",
+    "answer": "الاحمرار كيتسبب غالبا فالحساسية. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "احمرار فالعينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "العمى المفاجئ فعين وحدة.",
+    "answer": "خاصك دير فحص شامل عند طبيب العيون باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "العمى المفاجئ"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حكة كبيرة فالعين ديالي وهاد الشي كيوجعني بزاف.",
+    "answer": "خاصك تستعمل قطرة ديال الحساسية. من الأفضل تزور طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "حكة فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش زيت الخروع مزيان باش تعالج الجفاف ديال العينين؟",
+    "answer": "زيت الخروع مزيان للبشرة ولكن ماشي مزيان للعينين. خاصك تستعمل قطرات مرطبة.",
+    "entities": {
+      "symptoms": [
+        "الجفاف فالعينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعينين و تورم فالجفون.",
+    "answer": "خاصك تشوف طبيب العيون باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعينين",
+        "تورم فالجفون"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ملي كانحس بألم فالعين.",
+    "answer": "خاصك تشوف شي طبيب متخصص فالعين.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "دخل شي حاجة فالعين.",
+    "answer": "خاصك تمشي للطبيب باش يشوف العين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كاين الحب ف رموشنا؟",
+    "answer": "الحب فالرموش كيعني وجود مرض، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حب فالرموش"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الما بارد كيضر العين؟",
+    "answer": "الكمادات الباردة ما كاضر العين، وكتعاون فالتهاب الملتحمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هوما الأسباب ديال الجفاف ديال العيون؟",
+    "answer": "الجفاف كيتسبب فيه بزاف ديال العوامل، بحال الهواء الجاف أو قلة الرطوبة.",
+    "entities": {
+      "symptoms": [
+        "جفاف العيون"
+      ],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين التهاب حاد في عيني.",
+    "answer": "خاصك ترجع للطبيب باش يعرف نوع الالتهاب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش ممكن تبدل لون العين بالليزر؟",
+    "answer": "ما كاينش دابا، ولكن يمكن يكون فالمستقبل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيسبب البرودة فالجفون؟",
+    "answer": "ممكن تلبس مرهم مرطب للعين بزاف ديال المرات.",
+    "entities": {
+      "symptoms": [
+        "برودة فالجفون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش النقص ديال 1/10 كافي باش يكون عندك العملية؟",
+    "answer": "سؤال الطبيب ديالك هو اللي غادي يعطيك الجواب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش صحيح بلي الخضراوات كتبدل لون العين؟",
+    "answer": "هادشي غالط، ما كاينش علاقة بين الخضراوات ولون العين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيعني 'رفع العين اليمنى'؟",
+    "answer": "النعاس والاكتئاب كيتباينو بين اليمين واليسار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج التهاب القرنية الفيروسي؟",
+    "answer": "هادشي خطير وخاصو يتعالجو فوراً من بعد ما يتحلّو عينيهم.",
+    "entities": {
+      "symptoms": [
+        "التهاب القرنية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيسبب النعاس والدوخة؟",
+    "answer": "تقدر تحتاج لنظارات دِيناميكية.",
+    "entities": {
+      "symptoms": [
+        "النعاس",
+        "الدوخة"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو أحسن علاج لالتهاب القزحية؟",
+    "answer": "كيتعالجو عادة بالقرطاس ديال الكورتيزون تحت إشراف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "التهاب القزحية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج انتفاخ العين؟",
+    "answer": "خاص معالجة الأملاح، وضروري تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ما بعد الماء الأبيض، شنو خاصني ندير؟",
+    "answer": "الرأي كايعتابر حاجة مهمة بزاف وخاصها عملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حساسية فالعينين، واش أنا معرض لحساسيات أخرى؟",
+    "answer": "أه، هادشي ممكن.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالعينين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "إلا كان فالعين، شنو الحل؟",
+    "answer": "الحور هي صفة زوينة ما كيتعالجاتش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي علاج لالتهاب الشبكية؟",
+    "answer": "نعم، كاين علاج لالتهاب الشبكية. خاصك ترجع للطبيب ديال العينين.",
+    "entities": {
+      "symptoms": [
+        "التهاب الشبكية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي رعشة فيدي، وشد فيدي وضعف فالرؤية.",
+    "answer": "خاصك مشورة طبيب نفسي.",
+    "entities": {
+      "symptoms": [
+        "رعشة فيدي",
+        "ضعف فالرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ما كيعجبنيش النظرات الغريبة. شنو هو الحل؟",
+    "answer": "كاينين النضاضر رقيقين حتى فدرجات عالية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش الوزن الزايد عندك علاقة بسباب التهاب العصب البصري؟",
+    "answer": "كاين علاقة بين الوزن الزايد والتهيّب ديال العصب البصري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضباب وانتفاخ فالعيون، والرؤية ضعيفة.",
+    "answer": "خاصك تشوف عينيك باش تعرف علاش.",
+    "entities": {
+      "symptoms": [
+        "ضباب",
+        "انتفاخ فالعيون",
+        "ضعف فالرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج التكيسات تحت العبن؟",
+    "answer": "إلا كنتي كتقصد الحبة الدهنية اللي فالجفون، راه خاصها عملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "العمى كيتكرر بزاف، شنو ندير؟",
+    "answer": "كنصحك بشي فحص طبي شامل مع شوفان النضارات ديالك.",
+    "entities": {
+      "symptoms": [
+        "العمى"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الذباب لي كيطير فالعين ديالي ظهر هاد الشهر، شنو ندير؟",
+    "answer": "خاصك فحص شامل للعين والشبكية باش نتحققو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني اليسرى كتحس بشي حاجة؟",
+    "answer": "إلا استمرت الحالة، خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كنعاني من مشكل فالقراية؟",
+    "answer": "خاصك دير فحص عينين فاقرب وقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي نقطة حمرا فعيوني من بعد النعاس.",
+    "answer": "خاصك تشوف طبيب العيون باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "نقطة حمرا"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني اليسار كايتوجع و كايتبكي.",
+    "answer": "استعمل القطرات المرطبة للعين بزاف دالمرات فالنهار.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "بكاء"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني حمرا وكتعطيني صداع.",
+    "answer": "خاص قياس ضغط العين وفحص الحجرة الأمامية.",
+    "entities": {
+      "symptoms": [
+        "عين حمرا",
+        "صداع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "العيون ديالي منفوخين ومحمرين.",
+    "answer": "ممكن يكون عندك التهاب خاصك تفحص عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ",
+        "احمرار"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو الأسباب ديال الضغط العظمي؟",
+    "answer": "كاين بزاف ديال الأمراض لي كتسبب ارتفاع ضغط العين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "بغيت طبيب عيون يعالجني من مشكل النظارات.",
+    "answer": "العلاج كيتطلب عملية بسيطة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش الجنس كيعطي تأثير على العينين؟",
+    "answer": "ما كاينش تأثير كبير إلا كانو العينين صحيين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش النظارات كتعالج القصر ديال النظر؟",
+    "answer": "النظارات كتصحح النظر ولكن ما كتعالجش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كاينعالج قصر النظر؟",
+    "answer": "تصحيح النظر كيتحقق بواسطة الليزك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو السبب لارتفاع ضغط العين؟",
+    "answer": "الأسباب متعددة والعلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين خاصني شي واحد يعاونني.",
+    "answer": "خاصك تشوف طبيب العيون باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "وقتاش نقدر نحيي النضاضر دالشمس بعد عملية الليزك؟",
+    "answer": "من بعد ما تشافى الجرح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي علاج نهائي لالتهاب حواف الأجفان؟",
+    "answer": "التهاب كيتلاشى بشوية مع تقدم العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضعف النظر وكنحس بغادي نغمى من التركيز.",
+    "answer": "خاصك تشوف طبيب العيون باش يتبدل ليك النضادر.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش يمكن تعرف حجم العدسات من القياس؟",
+    "answer": "ما خاصكش تسول الطبيب على حجم العدسات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي عملية جراحية باش نصلحو العضلة ديال العين؟",
+    "answer": "نعم، خاصك تحقق مع اختصاصي النظر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي عين وحدة مسدودة، واش كاين شي علاج قريب؟",
+    "answer": "آه، العرق كيسبب الحول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي إضراب فالرؤية وكنحس بالدوخة وباين ليا نبض القلب فجنب الراس.",
+    "answer": "خاصك دير فحص عند طبيب العيون. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "إضراب فالرؤية",
+        "دوخة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كيسيل من عينيه وكيغزز فمو؟",
+    "answer": "خاصك تفحص العين باش تعرف السبب. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "سيلان من العين",
+        "غزز فمو"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو العلاج المنزلي لمرض رمد العيون عند الدراري لي عندهم عشر سنين؟",
+    "answer": "العلاج كيتحدد حسب الحالة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "رمد العيون"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتذبلو وكنتخنق وكنحس بالغضب والحيرة فقلبي.",
+    "answer": "خاصك تشوف طبيب العيون. هاد الأعراض ممكن تكون مرتبطة بمشاكل فالعين.",
+    "entities": {
+      "symptoms": [
+        "ذبلان العين",
+        "خنقة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضباب فالعين. شنو خاصني ندير؟",
+    "answer": "خاصك دير فحص عند طبيب العيون. هاد الحالة ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ضباب فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "معدل النظر ماخدامش.",
+    "answer": "خاصك تشوف طبيب العيون. العلاج كيتضمن النظارات أو العدسات.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كنحس بالعطش طول النهار حتى ملي كانلبس نضاضر العيون.",
+    "answer": "خاص يتشخص السبب ديال الجفاف. يمكن يكون عندك مشكلة فالعين.",
+    "entities": {
+      "symptoms": [
+        "عطش"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش مسموح للمرضع يدير ليزك باش يصلح البصر؟",
+    "answer": "نعم، ممكن تديرها من بعد شهرا قليلا. خاصها استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي نفخة ف عينيا و ما عرفتش كيفاش نحلها بلا ما نستعمل شي مواد كيميائية.",
+    "answer": "خاصك تشوف طبيب العيون باش تعرف السبب. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "نفخة فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش خطر تطيح دبة الطيارة على العين؟",
+    "answer": "إلا كانت الشبكية صالحة، ماكاينش خطر. خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي احمرار تحت عيني مع حرارة خفيفة. شنو السبب؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "احمرار",
+        "حرارة خفيفة"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين التهاب فعين بعد عملية زرع القرنية؟",
+    "answer": "راجع الطبيب لي دار ليك العملية.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتوجعوني، الدموع كيسيلو، وجهي حمر.",
+    "answer": "يمكن تحتاج قطرات خاصة. من الأفضل تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "دموع",
+        "وجه أحمر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حكة فالعيون ديالي من خمسة دالايام.",
+    "answer": "يمكن تكون حساسية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي شي اصفرار فالبياص ديال عينيا. شنو السبب؟",
+    "answer": "خاصك دير فحوصات للكبدة. يمكن يكون عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "اصفرار"
+      ],
+      "medical_field": "الكبدة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ولدي عندو الحكة فالعينين من شهرين",
+    "answer": "خاصك تشوف طبيب العيون باش يعطيك وصفة ديال قطرات مناسبة.",
+    "entities": {
+      "symptoms": [
+        "الحكة فالعينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو التعليمات بعد شهر من زراعة القرنية؟",
+    "answer": "خاصك تلتزم بالعلاج اللي وصفه ليك الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كيبكيو بزاف و كيتسدو",
+    "answer": "خاصك تشوف طبيب العيون باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "بكاء العينين",
+        "انسداد العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي دموع فالعين، شنو ندير؟",
+    "answer": "إذا كانت فالعمود، خاصها عملية.",
+    "entities": {
+      "symptoms": [
+        "دموع فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب قرني وورم خفيف",
+    "answer": "خاصك تشوف طبيب العيون باش يقيم الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب القرنية",
+        "ورم"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي تورم فالعين اليسرى",
+    "answer": "خاصك دير فحص للغدة الدرقية باش تمنع المشاكل.",
+    "entities": {
+      "symptoms": [
+        "تورم فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين شي حاجة كتخرج من عيني طول النهار",
+    "answer": "ممكن يكون التهاب ملتيحي، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "خروج شيء من العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ملي كنوض، كنشوف فعيني شي حاجة مقرفة",
+    "answer": "خاصك تزور طبيب العيون باش تاخد وصفة ديال القطرات.",
+    "entities": {
+      "symptoms": [
+        "رؤية أشياء مقرفة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كان عندو وجع فالعين اليسرى ودموع حمرين",
+    "answer": "خاصك دير فحص عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين",
+        "دموع حمرين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عينلي ليسرى كبيرة وعينلي يمين صغيرة",
+    "answer": "إذا كان الموضوع جديد، خاصك تشاور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "اختلاف حجم العينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج البقعة المظلمة فالعين؟",
+    "answer": "خاصنا نديرو فحوصات وتصاور باش نعرفو أحسن علاج.",
+    "entities": {
+      "symptoms": [
+        "بقعة مظلمة"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي علاج لمرض العين الصفرا؟",
+    "answer": "دابا ماكاينش علاج نهائي لهاد المرض.",
+    "entities": {
+      "symptoms": [
+        "مرض العين الصفرا"
+      ],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي مخاطر فاستعمال العدسات الطبية؟",
+    "answer": "خاصك تبع ممارسات النظافة باش ماتسببش التهابات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واحد عيني كتضرني هادي شي يامات، شنو ممكن يكون السبب؟",
+    "answer": "خاصك دير فحص عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ضرباتني الكورة فعيني و ولاو عيني حمرين و فيهم الدم.",
+    "answer": "خاصك دير فحص العين باش تقيم الوضعية.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين",
+        "نزيف"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو القياس الطبيعي للنظارات؟",
+    "answer": "القياس الطبيعي هو ستة فكل عين. خاصك تشوف طبيب العيون باش يحدد لك القياس الصحيح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي جفن نازل، شنو السبب؟",
+    "answer": "يمكن يكون عندك مشكل فالعين. خاصك تمشي للطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "جفن نازل"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كتعني 180 درجة ديال الانحراف فحص العين؟",
+    "answer": "هادشي كيعني الاستيغماتيزم. خاصك تتبع العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي الحمرة والسخانة فالعينين.",
+    "answer": "هاد الأعراض كتعني التهاب. خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "حمرة",
+        "سخانة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الرّضيع عندو بقع حمرا فالعينين، شنو ندير؟",
+    "answer": "خاصو يتفحص عند طبيب العيون. هاد الحالة تحتاج اهتمام خاص.",
+    "entities": {
+      "symptoms": [
+        "بقع حمرا"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين وإلتهاب وحمر.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "إلتهاب",
+        "حمرة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي جفاف فالعين. شنو العواقب؟",
+    "answer": "الجفاف كيمكن يسبب مشاكل كبيرة. جرب القطرات المرطبة وغادي تحس بالفرق.",
+    "entities": {
+      "symptoms": [
+        "جفاف"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب ملتحمة العين.",
+    "answer": "هاد الحالة ممكن تكون بسبب أمراض أخرى. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحمة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاج حساسية العين شنو هو؟",
+    "answer": "كاين بزاف ديال القطرات لي كتساعد. خاصك تشوف طبيب العيون لتحديد الأنسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي علاج باش نعاودو البصر؟",
+    "answer": "كاين عمليات لتحسين البصر، خاصك تشوف طبيب مختص باش يحدد لك الخيار المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو اللي كيخلي نشوفو دوائر بيضا فالأماكن البيضا؟",
+    "answer": "يمكن يكون بسبب التوتر أو الإرهاق. خاصك ترتاح وتراجع طبيب إذا استمر الوضع.",
+    "entities": {
+      "symptoms": [
+        "دوائر بيضا"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيسبب تورم العين بزاف، بحال كل شهر؟",
+    "answer": "التهاب الجفن هو سبب شائع. خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تورم العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتبان لييا كتنبض بسرعة بعد ما خديت شي دوا سميتو 'أوبتيلون'؟",
+    "answer": "إذا حسيت بشي حاجة غريبة، خاصك ترجع للطبيب لي وصف لك الدوا.",
+    "entities": {
+      "symptoms": [
+        "نبض العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعيون ليمن و كاين شي بحبة ف جلد العيون.",
+    "answer": "خاصك تشوف طبيب عيون لتشخيص الحالة وعلاجها.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعيون"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كايضرني راصي بزاف و عندي حر قاسح ف وادي عيني.",
+    "answer": "خاص مراجعة الأخصائي الطبي، حيث كاين بزاف ديال الأسباب اللي ممكن تسبب هاد الأعراض.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "حر قاسح"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "حكة فالعين والحريق والحساسية من الشمس.",
+    "answer": "الحساسية كتقدر تسبب هاد الأعراض، خاصك تحمي عينيك من الشمس وتراجع طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالعين",
+        "حريق"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كيتستعمل أبيتون على العين ولا غير على الجفن؟",
+    "answer": "يمكن يتستعمل داخل العين، ولكن خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش يمكن نبدل العدسة اللي زرعت؟",
+    "answer": "نعم، يمكن تبديل العدسة. خاصك تستاشر مع الطبيب ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين شي حاجة باش نقصو الميلانين فالعينين؟",
+    "answer": "للأسف، مازال ماكاينش علاج فعال. خاصك تحافظ على صحة عينيك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شحال خاص زيت السيليكون يبقى فالعين؟",
+    "answer": "ما خاصوش يبقى أكثر من عام. خاصك تراقب الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش الدموع كتجف بسرعة؟",
+    "answer": "حيت فيها 99% ماء. خاصك تشوف الطبيب إذا كانت المشكلة مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ألم فالعينين والوجه عند السجود.",
+    "answer": "خاصك تشوف العيون ديالك باش تعرف واش كاين شي التهاب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعينين",
+        "ألم فوجه"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني تهرسو ملي كتنزل الدموع.",
+    "answer": "يمكن تكون عندك حساسية. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "دموع"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني فيها ضباب كبير وملي كيحرقني النيف.",
+    "answer": "خاصك دير فحص عند الطبيب. يمكن تكون عندك مشكلة فالعين.",
+    "entities": {
+      "symptoms": [
+        "ضباب فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج الشبكية بعد 10 سنين من التمزق؟",
+    "answer": "خاصك تفحص شامل باش تحدد الحالة. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي تجويف تحت العين وكيعطيني شكل كبير.",
+    "answer": "يمكن تدير عملية تجميل للتجويف. خاصك تستاشر مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حساسية خايبة ولحية حمراء.",
+    "answer": "خاصك تدير فحص عند الأنيستيموس. يمكن يوصي بقطرات مناسبة.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "لحية حمراء"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحيدو لاصفرار ديال العينين؟",
+    "answer": "حاول ما تحكش عينيك وقلل من شرب الكحول. خاصك تشوف طبيب إذا استمرت المشكلة.",
+    "entities": {
+      "symptoms": [
+        "اصفرار العينين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعيون ديالي لي ليسرى، شنو ممكن يكون السبب؟",
+    "answer": "يقدر يكون عندك حساسية. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعيون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو دواء حكة العين؟",
+    "answer": "قطرات مضادة للهيستامين كتحيد بزاف الحكة ديال العين. خاصك تستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين شي علاج لمرض العينين لي كتوجعهم بزاف؟",
+    "answer": "عندو علاج، ولكن خاصو يتشخص أولا. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني حمرين بزاف وماكاينش ألم فودنيهوم.",
+    "answer": "كننصحك بالزيارة للعيادة. خاصك فحص شامل.",
+    "entities": {
+      "symptoms": [
+        "احمرار فالعينين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي احمرار فعيني.",
+    "answer": "خاصك تشوف الطبيب باش تعرف السبب وتاخد الدوا. يمكن تكون عندك حساسية.",
+    "entities": {
+      "symptoms": [
+        "احمرار فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي حاجا كتضرني راصي؟",
+    "answer": "خاصك تشاور مع طبيب العيون باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ارتفاع في ضغط العين.",
+    "answer": "خاصك تشوف طبيب العيون وتاخد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "أشناهيا لما زرق؟",
+    "answer": "راه كيتعمر بالعدسة الداخلية وسميتو كتاراكت، وكيتحيد بالعملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي ضرر فاش كيتسرب السيلكون فالعيون؟",
+    "answer": "أه، يقدر يسبب ارتفاع ضغط العين.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين دليمي مع الألم دالراس دليمي.",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف شنو كاين.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين",
+        "ألم فالرأس"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واحد الحبة حمرا بانت ف عينييا بلا ما نعرف علاش.",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف شنو كاين.",
+    "entities": {
+      "symptoms": [
+        "حبة حمرا فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش الحول ممكن يكون سببو طول النظر؟",
+    "answer": "إيوا، الحول يمكن يكون نتيجة لطول النظر.",
+    "entities": {
+      "symptoms": [
+        "حول"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتضرني ملي كانستعمل التيليفون.",
+    "answer": "تقدر تحتاج نضارات طبية، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضعف البصر.",
+    "answer": "يمكن تحتاج لنضارات طبية، خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "ضعف البصر"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعيون وصداع فالجبهة.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعيون",
+        "صداع"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حريق فعيني من الصباح.",
+    "answer": "خاصك تشوف طبيب العيون، يمكن تكون عندك مشكلة فالعين.",
+    "entities": {
+      "symptoms": [
+        "حريق فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي بياض فالعيون، شنو السبب والعلاج؟",
+    "answer": "خاصك دير تقييم عند طبيب العيون باش يعرف الوضعية.",
+    "entities": {
+      "symptoms": [
+        "بياض فالعيون"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كاين علاج لضعف النظر؟",
+    "answer": "كاين حلول بحال النظارات، العدسات، ولا الليزر.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين علاج نهائي لقرنية عاوجة؟",
+    "answer": "نعم، يمكن تقوية القرنية بالليزر أو زراعة قرنية.",
+    "entities": {
+      "symptoms": [
+        "قرنية عاوجة"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضو قوي فعينيا اليسرى.",
+    "answer": "يمكن يكون عندك السكري، خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "ضو قوي فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني حمرين وقزحام ديال الصفرة.",
+    "answer": "هذا مرض كيتسمى 'دريتي' وكيحتاج قطرات مضادة للالتهاب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين",
+        "صفرة"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش العين ديالو ولات حساسة للضوء بعد التهاب السحايا؟",
+    "answer": "حيت كتأثر على الأعصاب ديال القرنية.",
+    "entities": {
+      "symptoms": [
+        "حساسية للضوء"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي واحد التشويش فنظري مع دوخة وصداع.",
+    "answer": "يمكن تحتاج لنظارة من طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "تشويش فالنظر",
+        "دوخة",
+        "صداع"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني حمرين و زرقين من 3 أيام، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين",
+        "زرقان العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو الأعراض الجانبية ديال القطرة لي كتستعمل للضغط؟",
+    "answer": "الأعراض الجانبية كيمكن تكون احمرار وجفاف فالعين.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين",
+        "جفاف العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحيد البقع الحمرا من العينين؟",
+    "answer": "يمكن تحتاج لعلاج الحساسية أو قطرات مقبضة للأوعية.",
+    "entities": {
+      "symptoms": [
+        "بقع حمرا"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ولدي عندو عام وكيعاني من دوران العين.",
+    "answer": "خاصك تشوف طبيب العيون باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "دوران العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني جافين و متعبين، شنو السبب؟",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "جفاف العين",
+        "تعب العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش مزيان نعطيو دوا ديال العين لولد عندو 4 شهور؟",
+    "answer": "خاصك تتبع وصفة الطبيب، هو لي يعرف شنو مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيسبب الدموع؟",
+    "answer": "الدموع كتحمي العينين، ومرات كايتسرب منها سائل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش ضعف النظر علاج ممكن و شنو الأسباب؟",
+    "answer": "ضعف النظر كيتسبب من عدة عوامل، ولكن ماكاينش علاج نهائي.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حساسية فعيني كتسبب ليا النعاس.",
+    "answer": "استعمل قطرات مضادة للتحسس لمدة سيمانتين.",
+    "entities": {
+      "symptoms": [
+        "حساسية العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي احمرار فالعين.",
+    "answer": "خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين وكنحس بلي كتحرقني.",
+    "answer": "يمكن يكون جفاف العين أو حساسية.",
+    "entities": {
+      "symptoms": [
+        "وجع العين",
+        "حرقان العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "وقتاش نقدر نبدأ الجماع بعد عملية انفصال الشبكية؟",
+    "answer": "خاصك تسول طبيبك على الوقت المناسب حسب حالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حريق فعيوني ووجع فاش كاتبكي.",
+    "answer": "خاصك تشوف طبيب العيون باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "حريق",
+        "وجع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "فقت البارح على راحة خفيفة، بحال إلا كان الضلام.",
+    "answer": "خاصك دير فحص العينين ديالك فورا مع قياس ضغط العين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حب فالعينين البيضين، عندي احمرار وجع.",
+    "answer": "خاصك تشاور مع الطبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب",
+        "احمرار",
+        "وجع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني حمرا من الجنب وزرقا من التحت.",
+    "answer": "خاصك دير تقييم عند طبيب العيون باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حمرا",
+        "زرقا"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "حمرة قاصحة فالعيون اليسرى هادي ربعة يامات.",
+    "answer": "خاصك تاخد معاها تفتيش عند الطبيب باش يتقيم الوضعية.",
+    "entities": {
+      "symptoms": [
+        "حمرة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي عتامة فاليسار. واش كاين شي علاج؟",
+    "answer": "يمكن يتدار عملية باش يحيد الساد ويزرع عدسة.",
+    "entities": {
+      "symptoms": [
+        "عتامة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحسنو النظر بلا نلبسو نضاضر؟",
+    "answer": "يمكن ليك تلبس عدسات لاصقة ولا دير عملية ليزر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "وقتاش يمكن ليا ندوش من بعد ما درت عملية زرع الانبوب؟",
+    "answer": "خاصك تسول طبيبك على الوقت المناسب بعد العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو خصني ندير إلا طاح عليا منظف الصحون؟",
+    "answer": "غسل العين بماء بارد لمدة دقايق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو السلبيات والإيجابيات ديال العدسات اللاصقة؟",
+    "answer": "العدسات اللاصقة تقدر تسبب الحساسية والتهابات فالعين، ولكن كتعطي رؤية واضحة وراحة فالاستخدام.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "التهابات"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاينين عمليات لتحسين النظر القريب بسبب العمر؟",
+    "answer": "نعم، كاينين عمليات متاحة لتحسين النظر القريب، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتضرني وفيهم حمرة.",
+    "answer": "هاد الأعراض كتشير لمشكل فالعين، خاصك زيارة طبيب العيون باش يصف لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "حمرة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو العلاج ديال انفصال الشبكية؟",
+    "answer": "علاج انفصال الشبكية خاصو يتدار بسرعة عن طريق عملية جراحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتضرني و فيهم حمرة.",
+    "answer": "خاصك تشوف طبيب العيون، يمكن تحتاج علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "حمرة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كنحس بنغزة تحت العين ديالي.",
+    "answer": "إذا استمرت هاد النغزة، خاصك تراجع طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "نغزة"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش عملية تصلح النظر آمنة على المدى البعيد؟",
+    "answer": "نعم، العمليات لتحسين النظر آمنة وغالبا ما تعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي ضرر فالعينين بسبب الصفار؟ كيفاش نحل هاد المشكل؟",
+    "answer": "يمكن يكون عندك مرض آخر. خاصك تمشي عند طبيب العيون باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [
+        "ضرر فالعينين",
+        "صفار"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي التهاب وحرقان فالعين.",
+    "answer": "خاصك تمشي عند طبيب العيون باش يوصي بالدواء المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب",
+        "حرقان فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كاينة الحاجب ليمن؟",
+    "answer": "يمكن يكون الإجهاد البصري أو التدخين. خاصك تراجع طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "الإجهاد البصري"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحل مشكل العروق تحت العينين والمسامات المفتوحة؟",
+    "answer": "خاصك تشاور طبيب الجلد باش يعطيك الحلول المناسبة.",
+    "entities": {
+      "symptoms": [
+        "العروق تحت العينين",
+        "المسامات المفتوحة"
+      ],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش النعاس ف الضوء ضعيف يعاون فتقوية النظر؟",
+    "answer": "للأسف، ماشي صحيح. خاصك تركز على العناية بالنظر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الحريق فالعينين والقيادة والسخانة.",
+    "answer": "خاصك تشاور مع طبيب العيون باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "حريق فالعينين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو الحل للقرعة؟",
+    "answer": "كاينين بزاف د الطرق باش نقصو من الضغط، حسب نوع ودرجة الضغط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كان عندي ضغط فالعيون والحاجب من بعد الغناء. شنو كايعني هاد الشي؟",
+    "answer": "خاصك تمشي تشوف شي طبيب العيون. يمكن يكون عندك مشكل خاص.",
+    "entities": {
+      "symptoms": [
+        "ضغط فالعيون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش خاصني ناخد ألفاجان للعين ديالي لسنين الجاية؟",
+    "answer": "إلا كان العلاج ديال ضغط العين كيعطي نتائج مزيانة، يمكن تاخدها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو الجديد في علاج متلازمة بهجت؟ واش خاصني نستعمل الكورتيزون؟",
+    "answer": "ما كاينش جديد. خاصك تتبع مع طبيبك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "تجمع دموي ف عيني بسبب شي دري صغر جبد صبعانو ل عيني.",
+    "answer": "أحسن حاجة هي أنك دير فحص طبي للعينين باش تتأكد.",
+    "entities": {
+      "symptoms": [
+        "تجمع دموي ف العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي خطر باش زيت الخروع يضر العينين إلا استعملناه باش نكثفو رموشي؟",
+    "answer": "إلا دخلتي الزيت فالعين راه مضر. خاصك تحذري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي احمرار خفيف، واش هاد الشي خطير؟",
+    "answer": "خاصك تشوف طبيب العيون باش يحدد الحالة بدقة.",
+    "entities": {
+      "symptoms": [
+        "احمرار"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو الاستجماتيزم؟",
+    "answer": "الاستجماتيزم هو ضعف فالنظر. العلاج كيتطلب نظارات أو عملية ليزر.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش يمكن نعطي قطرات العين المرطبة للدراري؟",
+    "answer": "إلا كان جفاف فالعينين، يمكننا نستعملوها.",
+    "entities": {
+      "symptoms": [
+        "جفاف"
+      ],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو العلاج المناسب لعمر 28 عام؟",
+    "answer": "يمكن تحتاج نظارات طبية أو عدسات، أو حتى عملية ليزر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش النظارات ديال نيف الما كتحمي العين من الأشعة ديال التيليفون؟",
+    "answer": "نعم، كتحمي العين من الأشعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني تضررو من مبيد حشري. شنو خاصني ندير؟",
+    "answer": "غسل عينيك بالماء وضروري تزور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ضرر العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي دوا ديال العيون؟",
+    "answer": "كاين أدوية للعيون ولكن خاصك تكون حذر من المضاعفات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الغثيان، التعب البصري، الحساسية للضو، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب العيون باش يدير ليك فحص شامل.",
+    "entities": {
+      "symptoms": [
+        "الغثيان",
+        "التعب البصري",
+        "الحساسية للضو"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو السبب ديال السواد تحت العينين؟",
+    "answer": "السهر والإجهاد هما الأسباب الرئيسية للسواد تحت العينين.",
+    "entities": {
+      "symptoms": [
+        "سواد تحت العينين"
+      ],
+      "medical_field": "العين",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضباب فالعيون اليسرى وبدى النظر كايتقل.",
+    "answer": "خاصك تشاور طبيب العيون فاقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "ضباب فالعيون",
+        "تقلص النظر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي احمرار فعيني مع إفرازات خضرا، واش خاصني نستعمل ستيردكس؟",
+    "answer": "خاصك تمشي للطبيب بسرعة.",
+    "entities": {
+      "symptoms": [
+        "احمرار",
+        "إفرازات خضرا"
+      ],
+      "medical_field": "العيون",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعيون ليمن وكيبانين شعيرات دموية، شنو ممكن يكون السبب؟",
+    "answer": "خاصك دير تقييم عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعيون",
+        "شعيرات دموية"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي صعوبة فالدخول ديال عينيا مع صداع مستمر فالعيون اليسرى.",
+    "answer": "خاصك تشوف الأخصائي.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالدخول",
+        "صداع مستمر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين، واش يمكن لي نسول علاش؟",
+    "answer": "خاصك تشوفي العين باش تعرفي السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حريق فعيني ملي كنشوف فالشاشة.",
+    "answer": "خاصك قطرات التقطير للعين.",
+    "entities": {
+      "symptoms": [
+        "حريق فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "بغيت شي كريم ولا دوا للانتفاخ تحت العين.",
+    "answer": "خاصك تشوف طبيب مختص باش يعطك النصيحة والعلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ تحت العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني حمرا ورجلي كتوجعني.",
+    "answer": "ممكن يكون التهاب العين هو السبب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين",
+        "وجع في الرجل"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فعيني وصعيب نشوف.",
+    "answer": "خاصك تلبس نضارات د الراي وتزور طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "وجع في العين",
+        "صعوبة في الرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ضربتني واحد فالعين اليسرى وراه كاين احمرار كبير.",
+    "answer": "خاصك دير فحص عند الطبيب باش تشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني اليسرى كتحسسني بالتيييييلة وانا كانبكي بزاف.",
+    "answer": "خاصك دير فحص العين باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "تحسس في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي عملية باش نصلحو هاد الحول لي ما مزيانش؟",
+    "answer": "طبعاً، كاين عمليات سهلة بعد ما تدرس الحالة.",
+    "entities": {
+      "symptoms": [
+        "حول العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي انفاس كتزيد فالعمر وعندي حريق فعيني.",
+    "answer": "خاصك تشوف طبيب، حيت ممكن يكون عندو آثار جانبية.",
+    "entities": {
+      "symptoms": [
+        "حريق في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين دليمي من الداخل.",
+    "answer": "خاصنا نديرو فحص باش نعرفو شنو هو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع في العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ورم فعيني و تحت عيني كاينة حمى و فيها الاحمرار",
+    "answer": "خاصك تشوف طبيب العيون باش يعرف السبب ديال الالتهاب.",
+    "entities": {
+      "symptoms": [
+        "ورم",
+        "حمى",
+        "احمرار"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الريش اللي طاح من الصاروخ دخل فعيني وجعني بزاف",
+    "answer": "خاصنا نحيّدو الريش فاقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "العين",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حب مثل الدمية في عيني. بغيت علاج و شكرا.",
+    "answer": "يمكن تحتاج لعملية بسيطة فالعين.",
+    "entities": {
+      "symptoms": [
+        "حب في العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي ضعف النظر وباغي نصلح النظر ديالي ويرجع كيف كان قبل",
+    "answer": "معدل النظر كايتعالجو بالنضاضر أو عملية ليزك.",
+    "entities": {
+      "symptoms": [
+        "ضعف النظر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي دودة ف عيني دليمي وخاصني نحيدها",
+    "answer": "خاصك تشوف الطبيب باش يتأكد بلي العينين ديالك صحيحة.",
+    "entities": {
+      "symptoms": [
+        "دودة في العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "أنا عندي 22 عام وكنحس بحريق فعيني وكيحرقو",
+    "answer": "خاصك تدير قطرة ديال البريزولين، يمكن تكون مفيدة ليك.",
+    "entities": {
+      "symptoms": [
+        "حريق في العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي مشكل فالرؤية، كيشوفو فيا الناس.",
+    "answer": "خاصك تشوف طبيب نفسي، يمكن يكون عندك قلق أو توتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي مشكل فالرؤية، خاصني حل.",
+    "answer": "خاصك تشوف طبيب العيون باش يحدد السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي طفح جلدي وورم فالعين.",
+    "answer": "يمكن يكون عندك التهاب فيروسي، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "طفح جلدي",
+        "ورم فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي أعراض ديال الإغماء والغثيان.",
+    "answer": "خاصك دير فحص عند طبيب العيون باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "إغماء",
+        "غثيان"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نعالج احمرار العينين؟",
+    "answer": "خاصنا نعرفو السبب الأول، ومن بعد نقدر نحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو المخاطر ديال علاج قصر النظر بالليزر؟",
+    "answer": "إلا كانت الفحوصات مزيانة، ماكاينش خطر من الليزر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كاين نقطة حمرا فجنب عيني.",
+    "answer": "يمكن يكون التهاب فالجفن، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نقطة حمرا"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي رجفة فالعين، شنو السبب؟",
+    "answer": "يمكن تحتاج فيتامين ب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "رجفة فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نعالج انحراف العين؟",
+    "answer": "خاصك تشوف طبيب عيون باش يحدد السبب ونوع العلاج.",
+    "entities": {
+      "symptoms": [
+        "انحراف العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "معدل البصر ضعيف",
+    "answer": "خاصك تدير فحص عند طبيب العيون. يمكن تحتاج للنظارات.",
+    "entities": {
+      "symptoms": [
+        "ضعف البصر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "وقتاش نقدر نستعمل التيليفون بعد عملية المياه البيضا؟",
+    "answer": "يمكن لك تستعملو من نهار لول بعد العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كنحس بالدفء فالعينين ملي كنشوف الضو؟",
+    "answer": "خاصك دير فحص عند طبيب العيون. هاد الإحساس يمكن يكون عندو سبب.",
+    "entities": {
+      "symptoms": [
+        "دفء فالعينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش رياضة كمال الأجسام كتأثر على مرضى القرنية المخروطية؟",
+    "answer": "ما كاينش تأثير إيجابي ولا سلبي. خاصك تراقب حالتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي نفخة تحت العيون ملي كنسكت.",
+    "answer": "خاصنا نديرو فحوصات باش نعرفو السبب. يمكن يكون عندك شي حساسية.",
+    "entities": {
+      "symptoms": [
+        "نفخة تحت العيون"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي الحمرة فالعين وظهور نقطة سودا.",
+    "answer": "غالبا كيكون الإجهاد. خاصك دير فحص شامل.",
+    "entities": {
+      "symptoms": [
+        "حمرة فالعين",
+        "نقطة سودا"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش ممكن تحسن النظر مع الوقت؟",
+    "answer": "خاصنا نعرفو السبب ديال التراجع باش نقدرو نعالجوه. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نحافظو على نظارات العينين؟",
+    "answer": "خاصك تدير مراجعة عند طبيب العيون بانتظام. هادشي مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي مشكل فالعين اليمنى وانا عندي قصر النظر.",
+    "answer": "خاصك تدير فحص عند طبيب العيون. يمكن تحتاج للنظارات.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالعين اليمنى",
+        "قصر النظر"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فعيني.",
+    "answer": "خاصك دير فحص عند طبيب العيون. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي تمنميل تحت عيني كيولي كبر مع الوقت.",
+    "answer": "استعملي الحبوب ديال الماغنيزيوم لمدة شهر. يمكن يعاونوك.",
+    "entities": {
+      "symptoms": [
+        "تمنميل تحت العين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش استخدام نظارات واقية من الأشعة عندو شي عواقب؟",
+    "answer": "ما فيها حتى ضرر. استعمليها بلا خوف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش عندو احمرار فالعين و هو عندو ربع سنين؟ شنو ندير؟",
+    "answer": "خاصو يتقيم عند طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "احمرار فالعين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي الأسباب لكيس دهني فالجفن السفلي؟",
+    "answer": "ممكن يكون التهاب الجيوب الأنفية أو التهاب القرنية. خاص استشارة طبيب العيون لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "كيس دهني فالجفن السفلي"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو مخاطر العناية بالعينين؟",
+    "answer": "إلا كانت تمددات فقرنية العين، ممكن تسبب ضعف تدريجي فالنظر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو علاج الرمد الربيعي؟",
+    "answer": "قطرات مضادة للهيستامين لمدة أسبوعين أو ثلاثة، تحت إشراف طبيب العيون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش البكتيريا فالعين كترتبط بالسرطان؟",
+    "answer": "التهابات فالعين ممكن تكون مرتبطة بمشاكل أخرى، ولكن ما كاينش دليل مباشر على الربط بالسرطان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كنت كنصبب دموعي بزاف، شنو خاصني ندير؟",
+    "answer": "ممكن تكون التهاب ملتحمة العين، خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "دموع بزاف"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "وقتاش نقدر نغسل عيني بعد عملية ليزك؟",
+    "answer": "يمكن تغسل عينيك بعد عشرة أيام من العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيسبب لحمرة فالعينين فبعض الشهور؟",
+    "answer": "يقدر يكون مرتبط ببعض أنواع الحساسية الموسمية.",
+    "entities": {
+      "symptoms": [
+        "حمرة فالعينين"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو كيسبب النعاس منين كنشوفو الضو؟",
+    "answer": "خاصك تمشي تفحص عينيك عند الطبيب باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "نعاس"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي قصر النظر وغلاض العينين.",
+    "answer": "خاصك تمشي عند الطبيب باش يدير ليك فحص للعين.",
+    "entities": {
+      "symptoms": [
+        "قصر النظر",
+        "غلاض العينين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كتخرج عينيا الدموع من بعد ما ناعس مدة طويلة؟",
+    "answer": "السبب هو جفاف العيون، خاصك ترطبهم باستمرار.",
+    "entities": {
+      "symptoms": [
+        "دموع",
+        "جفاف العيون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني كتضرني بزاف وكنبغي نشوف الضو القوي.",
+    "answer": "خاصك دير فحص للعين باش نعرفو السبب ديال الألم من الضو.",
+    "entities": {
+      "symptoms": [
+        "ألم العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي مشكل فالعيون ديالي ليمن ويسر، وخاصهم يتقلبو فقلث شي ثواني ويختافيو.",
+    "answer": "خاصك دير التحاليل باش نعرفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالعيون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاج التهاب القزحية؟",
+    "answer": "التهاب القزحية كيتطلب تشخيص دقيق باش نعرفو السبب ونعالجو.",
+    "entities": {
+      "symptoms": [
+        "التهاب القزحية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كتعالج جفاف العين بعد عام ونص من عملية الليزر؟",
+    "answer": "استعمل القطرات المرطبة للعين بانتظام.",
+    "entities": {
+      "symptoms": [
+        "جفاف العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي خطر على العين فاش كايتستعمل ليزر باش يتصحح النظر؟",
+    "answer": "بشكل عام، ما كاينش خطر كبير من التصحيح بالليزر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "ف الصباح كان عندي نظرة ضبابية فالعيون و كان كايديني الصداع.",
+    "answer": "خاصك دير فحص للعين وقياس ضغط العين.",
+    "entities": {
+      "symptoms": [
+        "نظرة ضبابية",
+        "صداع"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي علاج لعمى الألوان البسيط؟",
+    "answer": "للأسف، ما كاينش دابا شي علاج لعمى الألوان.",
+    "entities": {
+      "symptoms": [
+        "عمى الألوان"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو تأثير الهواتف الذكية على العيون؟",
+    "answer": "الهواتف الذكية كيمكن تأثر على العيون، خاصك تلبس نضارات إذا حسيت بشي تعب.",
+    "entities": {
+      "symptoms": [
+        "تعب العيون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاين شي فوائد لتقطير العين بالعسل؟",
+    "answer": "التقطير بالعسل ما كيضرش، ولكن الفوايد ديالو ما معروفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "الأسباب والعلاج ديال الماء تحت الشبكية؟",
+    "answer": "خاصك تشوف طبيب بسرعة، حيث التأجيل يمكن يكون خطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حساسية من الغبرة، شنو ندير؟",
+    "answer": "خاصك دير تيست و تستعمل قطرات للحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين، شنو العلاج؟",
+    "answer": "خاصك تشوف طبيب، حيث ممكن يكون عندك شي التهاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين اليمنى وعرق حمر، شنو ندير؟",
+    "answer": "خاصك تفحص عند طبيب باش يشوف واش كاين التهاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين",
+        "عرق حمر"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو العلاج ديال النزيف ديال الجفون عند النسا؟",
+    "answer": "العلاج كيعتمد على السبب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نزيف الجفون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش نقص النظر من العدسات اللاصقة كيعني غادي تولي عمى؟",
+    "answer": "العدسات اللاصقة ما كتسببش عمى، ولكن خاصك تستعملها بحذر.",
+    "entities": {
+      "symptoms": [
+        "نقص النظر"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عيني حمرين بسباب الدوا ديال الولادة، شنو ندير؟",
+    "answer": "استعمل قطرات مضادة للالتهاب لمدة سيمانة.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي احمرار فالعين ملي كنستعمل تيليفوني، شنو ندير؟",
+    "answer": "استعمل قطرات مرطبة و حاول تقلل من استعمال الهاتف.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي مياه بيضاء وكنحس بالبرد، واش هادشي حقيقي؟",
+    "answer": "مياه البيضاء كتعني وجود مشكلة فالعين، والبرد ماشي سبب مباشر. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "مياه بيضاء"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هي أعراض ضعف البصر؟",
+    "answer": "من علامات ضعف البصر هو صعوبة الرؤية بوضوح. هادشي يقدر يضر العينين والدماغ.",
+    "entities": {
+      "symptoms": [
+        "ضعف البصر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو أسباب ألم العين؟",
+    "answer": "كاين بزاف د الأسباب، بحال التهاب العين أو ضعف النظر. خاصك تفاصيل أكثر باش نعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع و ضغط فالعين من الشمس... شنو السبب؟",
+    "answer": "هاد الأعراض ممكن تكون بسبب التعرض للشمس. من الأفضل تمشي لطبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين",
+        "ضغط فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي قصر النظر بنسبة ربع درجة، واش خاصني نلبس نضاضر؟",
+    "answer": "إذا كان عندك صعوبة فالرؤية، من الأفضل تلبس النضاضر خصوصا فالسياقة.",
+    "entities": {
+      "symptoms": [
+        "قصر النظر"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش كايتحمروني عيني ملي كانفيقو؟",
+    "answer": "هادشي ممكن يكون بسبب الحساسية أو جفاف العين. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حرقان فالعين، حك فالجفون، وتورم الجفون.",
+    "answer": "هاد الأعراض ممكن تكون بسبب حساسية أو جفاف. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "حرقان فالعين",
+        "تورم الجفون"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش كايعالجو الإصابات ديال السكر فالعينين؟",
+    "answer": "خاصك تحافظ على مستوى السكر وتقوم بفحص الشبكية بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاج لحمر لعين شنو هو؟",
+    "answer": "خاصك تاخد الماغنيزيوم لعدة سيمانات، وإذا ما تحسنش، خاصك تشوف طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "احمرار العين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي شوية د لخطوط ف عينيا ملي كانشوف.",
+    "answer": "خاصك ترجع للطبيب باش يشوف واش عندك مشكل فالعين.",
+    "entities": {
+      "symptoms": [
+        "خطوط فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "أنا كنعاني من ظهور أكياس دموية فالعين.",
+    "answer": "إذا بقاو هاد الأكياس أكثر من شهر، خاصهم يتكسلو جراحيا.",
+    "entities": {
+      "symptoms": [
+        "أكياس دموية فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي انحراف كبير و نظري معوج.",
+    "answer": "خاصنا نديرو عملية لتصحيح النظر.",
+    "entities": {
+      "symptoms": [
+        "انحراف فالنظر"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "علاش ماقادرش نشوف مزيان فعينيا ليمن؟",
+    "answer": "خاصك تدير فحص عند طبيب العيون باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالرؤية"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي حرقان فالعينين وصدري كيتزاد فيه البكية.",
+    "answer": "خاص تشخيص دقيق باش نعرف نوع الالتهاب ونعطي العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حرقان فالعينين"
+      ],
+      "medical_field": "العين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كيفاش نبدل لون عيني من بني لشعر كحل؟",
+    "answer": "ما كاينش طريقة طبيعية لتغيير لون العين. خاصك تستعمل عدسات ملونة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "وقتاش كايبان النور من بعد عملية ليزر لوستي؟",
+    "answer": "ممكن يدوم غير شي شهر فهاد الحالة. خاصك تكون صبور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش كاينين شي بقايا دهنية فالجفون وشنو السبب؟",
+    "answer": "السبب هو التهابات الغدد فالجفون. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عندي وجع فالعين اليسرى وكنشوف غير مزيان.",
+    "answer": "خاصك دير فحص طبي عند الطبيب. يمكن يكون عندك مشكلة فالعين.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "عافاك، درت نقطة من قطرة الكوراسور فعيوني بالغلط. واش كاين شي مشكل؟",
+    "answer": "ماكاين حتى مشكل، ولكن خاصك تراقب عينيك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "كنشوف خطوط دقيقة كتتحرك مع حركة العين.",
+    "answer": "خاصك تشوف الشبكية ديالك. يمكن يكون عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "خطوط دقيقة"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش اختلاف عينيك يمين ويسار فالصور عادي؟",
+    "answer": "اختلاف بسيط عادي، ولكن خاصك تأكد من طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "شنو هو أحسن علاج للتليف في الجفن العلوي؟",
+    "answer": "يمكن تحتاج لشي دوا أو عملية. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "فين وصل العلم فحقاش كاينة الضمور التامة فالعين؟",
+    "answer": "للأسف، ماكاينش تقدم فالعلاج. خاصك تبقى متابع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "حسيت بشي حاجة مفاجئة فوق الحاجب ليسر ووجع خفيف في الصدر.",
+    "answer": "خاصك دير تقييم طبي. يمكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "وجع خفيف في الصدر"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Ophthalmologist",
+    "question_darija": "واش الكحل كيأثر على الناس اللي عندهم حساسية فعينهم؟",
+    "answer": "ممكن، ولكن التأثير يختلف من شخص لآخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  }
+]

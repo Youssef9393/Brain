@@ -1,0 +1,5043 @@
+[
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سعال جاف وحرقة فصدري وحلقي.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ديالك. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "سعال جاف",
+        "حرقة في الصدر",
+        "حرقة في الحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج التهاب الحلق؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حساسية فالحلق.",
+    "answer": "خاصك تمشي عند طبيب الحنجرة. يمكن يحتاج لك علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "حساسية في الحلق"
+      ],
+      "medical_field": "الحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حكة فالنيف من الداخل.",
+    "answer": "يمكن تكون حساسية أو إكزيما. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة في الأنف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سيلان فالنيف.",
+    "answer": "يمكن يكون عندك حساسية أو نقص المناعة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "سيلان الأنف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق والرئة.",
+    "answer": "خاصك تمشي عند الطبيب. العلاج كيتطلب تشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "التهاب الرئة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو اللي كيسبب لحيك فالحلق؟",
+    "answer": "السعال عندو بزاف دالأسباب. خاصك تشوف طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "حكة في الحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج طبيعي للزكام؟",
+    "answer": "عصير البرتقال والليمون كيساعدو فالتخفيف من الزكام.",
+    "entities": {
+      "symptoms": [
+        "الزكام"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شحال من الوقت كياخد باش يتعافى من النيف المسدود؟",
+    "answer": "عادةً كياخد من يومين حتى لأسبوع حسب السبب.",
+    "entities": {
+      "symptoms": [
+        "النيف المسدود"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش الكحبة تسبب ليا فإلتهاب اللوزتين؟",
+    "answer": "ماكاينش علاقة مباشرة بين الكحبة وإلتهاب اللوزتين.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب اللوزتين"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج التهاب الحلق؟",
+    "answer": "العلاج كيعتمد على السبب ومدة الالتهاب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو أحسن علاج طبي للسعال بالنباتات؟",
+    "answer": "البابونج كيعطي نتيجة مزيانة فالتخفيف من السعال.",
+    "entities": {
+      "symptoms": [
+        "السعال"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو الدوا ديال الرواحس؟",
+    "answer": "الرواحس كيتعالج بالمسكنات ومضادات الهيستامين.",
+    "entities": {
+      "symptoms": [
+        "الرواحس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هي أعراض التهاب اللوزتين؟",
+    "answer": "أعراض التهاب اللوزتين كتشمل ألم فالحلق، صعوبة فالبلاع، وارتفاع فدرجة الحرارة. خاص استشارة طبيب لتأكيد التشخيص.",
+    "entities": {
+      "symptoms": [
+        "ألم فالحلق",
+        "صعوبة فالبلاع",
+        "ارتفاع فدرجة الحرارة"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش كاين شي مضاد حيوي لفيروس الرشح؟",
+    "answer": "الفيروسات ما كتحتاجش مضادات حيوية، العلاج كيركز على تخفيف الأعراض. خاص استشارة طبيب إذا كانت الأعراض قوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش العرق كيسبب التهاب اللوزتين؟",
+    "answer": "العرق ما كيسببش التهاب اللوزتين، ولكن يمكن يزيد من الأعراض. خاص تشوف طبيب إذا كانت عندك أعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بغيت شي دوا للكحة.",
+    "answer": "خاص نعرف نوع الكحة، واش جافة ولا رطبة. من بعد نقدر نحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الكحة"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "حريق فالحلق و الكحة واش ممكن يكون كورونا؟",
+    "answer": "نعم، هاد الأعراض ممكن تكون مرتبطة بكورونا. خاص تدير تيست ديال كورونا للتأكد.",
+    "entities": {
+      "symptoms": [
+        "حريق فالحلق",
+        "الكحة"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "العلاج ديال التهاب الحلق.",
+    "answer": "العلاج كيعتمد على السبب، ممكن يكون مضادات حيوية أو مسكنات. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التشنج فالحنجرة ملي كنهضرو.",
+    "answer": "خاصنا نديرو تنظير للحنجرة باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "تشنج الحنجرة"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج الصوت الضعيف؟",
+    "answer": "التمارين ديال النطق مع الأخصائي كيساعدو بزاف.",
+    "entities": {
+      "symptoms": [
+        "صوت ضعيف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالودن.",
+    "answer": "التهاب الأذن كيتعالج عادة بالمضادات الحيوية.",
+    "entities": {
+      "symptoms": [
+        "وجع فالودن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كانحس بالدوخة فاش كانطلع.",
+    "answer": "يمكن يكون عندك انخفاض ضغط الدم ملي كتوقف.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي كحة وضيق فالتنفس وسيلان من الأنف.",
+    "answer": "خاصك تشاور طبيب صدر باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [
+        "كحة",
+        "ضيق فالتنفس",
+        "سيلان الأنف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "من خمس أيام اللوزتين ديالي معمرين. شنو خاصني ندير؟",
+    "answer": "أحسن حاجة هي التواصل مع الطبيب ديالك.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وذن وحدة مقفلة.",
+    "answer": "شوف الطبيب ديالك وغادي يعرف شنو خاصك دير.",
+    "entities": {
+      "symptoms": [
+        "ودن مقفلة"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاج التهاب الأذن.",
+    "answer": "أفضل علاج هو الموكسيسيلين مع كلفونك أسد ولا كلارثروماسين.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيفاش نقصو الإزعاج ديال الأذن عند الدراري؟",
+    "answer": "خاصنا نعرفو السبب الرئيسي للإزعاج باش نقدروا نعالجو. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "إزعاج الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي زكام بزاف، ما عندي حتى سبب.",
+    "answer": "يمكن تحتاج استشارة طبيب. كاينين علاجات مختلفة حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "زكام"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالصوت.",
+    "answer": "يمكن تستعمل لعيبات الحلق بحال ستريبسيل. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالصوت"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بغيت شي دوا ديال التهاب اللوزتين.",
+    "answer": "يمكن تحتاج عملية استئصال اللوزتين. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيفاش كايعالجو الالتهاب اللوزتين؟",
+    "answer": "المضادات الحيوية كتعطي نتيجة مزيانة. كينصحو بالحقن في بعض الحالات.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش كاينة شي دوايات ديال السيبروكسين كتعاون فالتهاب المفاصل؟",
+    "answer": "السيبروكسين مزيان للكبار فقط. خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [
+        "التهاب المفاصل"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش ممكن نصلحو الانحراف ديال الحاجز بالادويه؟",
+    "answer": "الجراحة هي الحل الأنسب. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "انحراف الحاجز"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سيلان و سعال قوي، شنو ندير؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ديالك. العلاج كيتعلق بالسبب.",
+    "entities": {
+      "symptoms": [
+        "سيلان",
+        "سعال قوي"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو أحسن علاج للتهاب الأذن؟",
+    "answer": "خاصنا نعرفو شحال فعمرو وشنو الأعراض. من بعد يمكن نحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع ف راسي، شنو ندير؟",
+    "answer": "خاصك دير فحص للودنين وتخطيط. يمكن يكون عندك مشكل في الأذن.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حساسية من النيف، شنو العلاج؟",
+    "answer": "خود باراسيتامول أو لوريدين. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالأذن بسبب دخول الما ديال البحر، شنو ندير؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالأذن"
+      ],
+      "medical_field": "أذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالحنجرة، شنو ندير؟",
+    "answer": "خاصك توضح لينا شنو المشكل بالضبط. يمكن نساعدوك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "حنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فالودنين بعد الاستحمام، شنو السبب؟",
+    "answer": "يمكن يكون عندك وذن مسدود. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالودنين"
+      ],
+      "medical_field": "أذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هي العلاجات للفطريات من الماكلة والمشروبات؟",
+    "answer": "خاصك تشوف طبيب لتحديد العلاج المناسب. العلاجات كتعتمد على نوع الفطريات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيفاش كتنظف النيف؟",
+    "answer": "يمكن تنظف النيف بالماء والملح. خاصك تحافظ على نظافة الفم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فاللوز.",
+    "answer": "التهاب اللوز كيتطلب استشارة طبيب. يمكن تحتاج مضادات حيوية.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "سمعت دقات قلبي في قلبي اليسرى ملي كنا مكثفين.",
+    "answer": "خاصك تمشي للطبيب باش يتأكد من حالتك. يمكن يكون عندك مشكل قلبي.",
+    "entities": {
+      "symptoms": [
+        "دقات القلب"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع ف راسي و كانحس بدوار خفيف طول النهار.",
+    "answer": "يمكن يكون عندك صداع أو مشكل في الضغط. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع الرأس",
+        "دوار"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حساسية من النيف وخاصني نعرف شنو هو العلاج.",
+    "answer": "يمكن تستعمل لوراتيدين يوميًا. خاصك تتجنب المهيجات.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بنتي عندها عام ونص وعندها كحة قاصحة.",
+    "answer": "خاصك تراقبي صحتها وتخديها للطبيب إذا استمرت الكحة.",
+    "entities": {
+      "symptoms": [
+        "كحة"
+      ],
+      "medical_field": "الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بغيت شي علاج طبيعي لسعال الحساسية.",
+    "answer": "الزريعة ديال الجوافا والزعتر كيعطيو عسل زوين لعلاج السعال.",
+    "entities": {
+      "symptoms": [
+        "سعال الحساسية"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فحلقي وخاصني شي علاج داري.",
+    "answer": "الماء دافي مع تجنب البرد كيساعدو. خاصك تريح راسك وتجنب التكشط.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي دم حي فالنيف كل صباح.",
+    "answer": "خاصك تشوف طبيب، هاد الحالة ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "دم حي فالنيف"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كنتسمع نبضات قلبي في أذني منذ شهرين.",
+    "answer": "خاصك تشوف شي طبيب باش يدير ليك فحص دقيق.",
+    "entities": {
+      "symptoms": [
+        "نبضات في الأذن"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو الأعراض ديال التهاب الأنف؟",
+    "answer": "الأعراض كتشمل السيلان، الانسداد، والصداع. كيمكن يكون سخانة كذلك.",
+    "entities": {
+      "symptoms": [
+        "سيلان الأنف",
+        "انسداد الأنف",
+        "صداع"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين نزيف من النيف وريحا خايبة.",
+    "answer": "خاصك تراجع طبيب الأذن والأنف والحنجرة.",
+    "entities": {
+      "symptoms": [
+        "نزيف من النيف"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "حلقي كيوجعني كل مرة كنهتم بالريحة ديالي، واش كاين شي علاج؟",
+    "answer": "المشروبات الساخنة مع المسكنات كيساعدو. خاصك تهتم بالنظافة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب اللوزتين وال في الحلق.",
+    "answer": "خاصك تاخد دوا مضاد حيوي وتهتم بالراحة.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين",
+        "وجع فالحلق"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سعال حاد كيدوم أكثر من سيمانة.",
+    "answer": "خاصك تشاور طبيب متخصص باش يحدد السبب ويدير ليك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "سعال حاد"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فالمعدة.",
+    "answer": "يمكن يكون عندك مشكل في الهضم أو التهاب. خاصك تشاور طبيب باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي إحساس بلي الحلق ديالي مسدود وما قدرتش نشرب الما.",
+    "answer": "هذا الإحساس يمكن يكون بسبب التهاب أو حساسية. خاصك تشوف طبيب باش يدير ليك الفحص.",
+    "entities": {
+      "symptoms": [
+        "إحساس بالحلق مسدود"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو العلاج لحساسية الجيوب الأنفية؟",
+    "answer": "أحسن حاجة هي نبعدو على المسببات ونستعملو مضادات الهيستامين. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية الجيوب الأنفية"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع فالودن ديالي ليمنى هادي ست شهور.",
+    "answer": "خاصك تشوف طبيب باش يدير ليك الفحوصات اللازمة. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "صداع فالودن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين شي علاج لجروح النيف؟",
+    "answer": "يمكن تحتاج علاج حيوي، خاصك تشاور طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "جروح النيف"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين شي علاقة بين العصب الخامس والانحراف الحاجز الأنفي؟",
+    "answer": "ماكاينش علاقة مباشرة بيناتهم، ولكن يمكن يكون عندك مشكل آخر. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الأطراف المتكرر، شنو ندير؟",
+    "answer": "يمكن تحتاج عملية استئصال اللوزتين بعد التحاليل. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأطراف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حرقا فالفم ووجع فالسنان، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يدير لك فحص. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "حرقا فالفم",
+        "وجع فالسنان"
+      ],
+      "medical_field": "الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ورمة فودني ووجع، شنو ندير؟",
+    "answer": "خاصك تراجع العيادة للتشخيص والتنظيف. يمكن تحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "ورمة فودني",
+        "وجع"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالجفون بسبب نزيف، كيفاش نداوي هاد الوجع؟",
+    "answer": "خاصك تشوف طبيب مختص. يمكن تحتاج عملية تجميل.",
+    "entities": {
+      "symptoms": [
+        "وجع فالجفون",
+        "نزيف"
+      ],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي انحراف فالهضرة. واش كاين علاج بلا جراحة؟",
+    "answer": "العلاج غالبا كيتطلب جراحة. خاصك تشوف طبيب مختص باش يحدد لك الحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش كاينة شي دوايات ديال بانادريكس كتعاون فالحالات ديال الالتهاب اللوزي والتهاب الأذن؟",
+    "answer": "نعم، كاينين دوايات كتساعد فهاد الحالات. خاصك تشوف طبيب باش يكتب لك الدوا المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزي",
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالأذن.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ديالك. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حكة فودني.",
+    "answer": "حكة فالأذن ممكن تكون بسبب الفطور أو الأكزيما. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فودني"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي انسداد فالودن.",
+    "answer": "يمكن يكون عندك مخاط أو بلغم. خاصك تمشي للطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "انسداد فالودن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش التهاب اللوزتين كايسبب تكوين ورم في الغدد اللمفاوية؟",
+    "answer": "أه، التهاب اللوزتين يمكن يسبب تضخم فالغدد اللمفاوية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حساسية فالرجلين واليدين، شنو أحسن علاج؟",
+    "answer": "خاصك تشوف طبيب الجلدية باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو كيسبب الكحة بلا سكران خصوصا فالنعاس؟",
+    "answer": "يمكن تكون حساسية ولا رد فعل على شي حاجة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "كحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو خرج من فمي، صفار قاتم وريحتو خايبة؟",
+    "answer": "يمكن يكون عندك مرض الكبد. خاصك زيارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "صفار",
+        "ريحة خايبة"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو العلاج ديال التهاب اللوز عند الدراري؟",
+    "answer": "العلاج كيتطلب استئصال اللوزتين إذا كانت الحالة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوز"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج التهاب الحلق؟",
+    "answer": "عادة كيتستعملو المضادات الحيوية بحال البنسلين. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش عندك أعراض كورونا؟",
+    "answer": "إذا كنتي كتعاني من أعراض، خاصك تشوف طبيب. فيتامينات ومشروبات سخونة كيساعدو.",
+    "entities": {
+      "symptoms": [
+        "أعراض كورونا"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كورة بالرقبة صعيبة بزاف وصعيب تبلعها؟",
+    "answer": "خاصك تفحص عند طبيب. يمكن تحتاج سونار.",
+    "entities": {
+      "symptoms": [
+        "صعوبة البلع"
+      ],
+      "medical_field": "الرقبة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو أحسن علاج للبلغم لي عندها ربعطاش عام؟",
+    "answer": "مضاد الحساسية ومسكن للبلغم يمكن يكونو مفيدين.",
+    "entities": {
+      "symptoms": [
+        "بلغم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو مرض الزكام؟",
+    "answer": "مرض الزكام هو التهاب فيروسي كيتعافى بوحدو بلا مضاعفات. خاص الواحد يرتاح ويشرب السوائل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي 31 عام وكنعاني من ارتفاع ضغط الدم، شنو هو الحل؟",
+    "answer": "خاصك تمشي عند طبيب القلب باش يحدد لك العلاج المناسب. ماشي ضروري تتبع نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع ضغط الدم"
+      ],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب في الحلق مع ضيق في التنفس ودوخة.",
+    "answer": "يمكن يكون عندك التهاب حاد. خاصك تمشي للطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب في الحلق",
+        "ضيق في التنفس",
+        "دوخة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كنعاني من التهاب اللوزتين كل شهر.",
+    "answer": "خاصك تمشي للطبيب، يمكن تحتاج عملية. الالتهاب المتكرر يحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الأذن الخارجية مع تورم.",
+    "answer": "يمكن تحتاج مسكنات الألم ومضادات للبكتيريا. من الأفضل تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن الخارجية",
+        "تورم"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فاللسان وجع فالحلق.",
+    "answer": "العصير الدافي ديال الليمون مع العسل هو أحسن دوا طبيعي. خاصك تشربو بانتظام.",
+    "entities": {
+      "symptoms": [
+        "التهاب فاللسان",
+        "وجع فالحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب حاد فالبلعوم واللوزتين.",
+    "answer": "استعمل الغرغرة بالماء والملح. خاصك تمشي للطبيب إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "التهاب حاد فالبلعوم",
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالصدر مع الكحة والبلغم.",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة. يمكن تحتاج علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالصدر",
+        "الكحة",
+        "البلغم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش الالتهاب الأذن كيأثر على السمع؟",
+    "answer": "أه، الالتهاب كايدير مشاكل فالسماعة. خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حمى وصداع، واش عادي ناخد أموكسيسلين؟",
+    "answer": "ماشي من الضروري تاخد أموكسيسلين، خاصك تشوف طبيب يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "صداع"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كتسمع ليك بنتك لي عندها 3 سنين؟",
+    "answer": "يمكن تكون عندها مشكلة فالأذن، خاصها زيارة للطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عافاك عيط ليا على دوا.",
+    "answer": "الأفضل هو مراجعة الطبيب، يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو المشروب اللي كينقص من التهاب الحلق؟",
+    "answer": "المشروبات الساخنة بحال الشاي أو الماء الدافئ يقدرو يخففو الالتهاب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي جوج رواح كبار فصاكي وخرج منهم سطل كبير وبيض وصفر.",
+    "answer": "يمكن يكون عندك التهاب فجيوب الأنف، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "رواح"
+      ],
+      "medical_field": "الجيوب الأنفية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالنيف وكيضرني بزاف.",
+    "answer": "خاصك تمشي عند الطبيب باش يدير لك الفحص ويعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالسمع فاليمين.",
+    "answer": "يمكن يكون عندك التهاب فالأذن، خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالسمع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حب صغيرة في ودني اليمنى.",
+    "answer": "خاصك توصف الحبة مزيان باش نفهمو الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو اللي كيسبب ليا الوجع فالحلق؟",
+    "answer": "يمكن يكون فيروس أو التهاب البلعوم، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب حلقي وضيق فالتنفس.",
+    "answer": "خاصك تمشي عند الطبيب باش تلقى العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب حلقي",
+        "ضيق فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش يمكن نستخدم مرهم التريسايكلين للأنف؟",
+    "answer": "يمكن، ولكن التركيز خاصو يكون مناسب. خاصك تسول طبيب قبل ما تستعملو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق وما جاني حتى شي حاجة من بعد التحاليل.",
+    "answer": "خاصك تكمل الحجر الصحي وتراقب الأعراض. إذا بقات الحالة، مشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "فقدان الشم والتذوق واش من الأعراض المهمة لكورونا؟",
+    "answer": "ماشي ضروري، كاين أعراض أخرى. خاصك تراقب الأعراض الأخرى.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشم",
+        "فقدان التذوق"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ريحة خايبة من فمي.",
+    "answer": "يمكن يكون عندك التهاب فالحلق أو التهاب فالبلاعيم. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ريحة خايبة من الفم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو العلاج ديال التهاب الحلق والجيوب الأنفية بعد الدوا؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تمشي عند الطبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "التهاب الجيوب الأنفية"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فاللوزة لمدة شهر.",
+    "answer": "خاصك تمشي عند الطبيب، يمكن تحتاج علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ولدي عندو بلغم وكيتختنق ملي كيحاول ياكل.",
+    "answer": "خاصك تمشي عند طبيب الأطفال، هاد الحالة تحتاج متابعة.",
+    "entities": {
+      "symptoms": [
+        "بلغم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب اللوزتين من الجهة اليمنى.",
+    "answer": "يمكن تحتاج مضادات الحساسية ومسكنات الألم. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سوايل غريبة خارجة من التخمامة.",
+    "answer": "يمكن يكون التهاب فالجهاز التنفسي. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "سوايل غريبة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي بقع حمرا فالجبهة والصدر.",
+    "answer": "خاصك تمشي عند طبيب الجلد، يمكن تحتاج علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "بقع حمرا"
+      ],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كنحس بالصداع والبرد من لور.",
+    "answer": "يمكن يكون التهاب فالجهاز التنفسي. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "برد"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حكة فودني من الداخل.",
+    "answer": "هادشي يمكن يكون علامة على الحساسية. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالسمع، كنسمع غير الرنين.",
+    "answer": "يمكن يكون عندك التهاب داخلي. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالسمع",
+        "رنين"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي آلة فمي قاصحة بزاف بعد التهاب الحلق.",
+    "answer": "هادشي عادي بعد الالتهاب. خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [
+        "آلة فم قاصحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش قطرات الاحتقان كيمكن تأثر على الفتره؟",
+    "answer": "لا، ولكن خاصك متستعملهاش لمدة طويلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو كيسبب سائل خارج من النيف؟",
+    "answer": "الالتهابات أو الأجسام الغريبة. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "سائل خارج من النيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بابا كيعاني من تسوس فودنه فالليل.",
+    "answer": "خاصك دير فحص عند طبيب الأذن باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شحال كياخد الوقت غضروف الأنف باش يتصلح؟",
+    "answer": "العملية كتاخد وقت طويل، ولكن الشفاء كيتطلب صبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فاللوزتين.",
+    "answer": "العلاج كيتضمن الأدوية المناسبة، وضروري تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الحلق",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ممكن تكون اللوزتين مسدودين وكتسبب ريحة فم قوية.",
+    "answer": "إذا كانت اللوزتين مسدودين، خاصك تشوف طبيب باش يدير العملية.",
+    "entities": {
+      "symptoms": [
+        "ريحة فم قوية"
+      ],
+      "medical_field": "الحلق",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو العلاج ديال الجيوب الأنفية اللي كيسبب الصداع والنوم؟",
+    "answer": "العلاج كيتحدد حسب السبب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الجيوب الأنفية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الحلق والسعال.",
+    "answer": "التهاب الحلق والسعال كيتطلب علاج مناسب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "سعال"
+      ],
+      "medical_field": "الحلق",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالودن والنطق.",
+    "answer": "خاصك دير فحص عند طبيب الأذن والنطق باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "الأسباب ديال الدم اللي كيجي من النيف والفم.",
+    "answer": "يمكن يكون التهاب أو حالة طبية خاصة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دم من النيف والفم"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش التهاب الأنف عندو علاقة بالاضطراب في التوازن؟",
+    "answer": "أه، التهاب الجيوب الأنفية يقدر يسبب مشاكل فالتوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو أحسن علاج للتهاب اللوزتين الحاد؟",
+    "answer": "خاصك تاخد مضاد حيوي وخافض الحرارة. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاينين صداع و كايضرني راصي فالحلق.",
+    "answer": "خاصك مضاد حيوي وراحة. إذا استمر الألم، ضروري تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "ألم في الحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش طنين الأذن اللي كيجي من ارتفاع ضغط الدم كيتعتبر مرض؟",
+    "answer": "نعم، يمكن يكون علامة لمشكلة صحية. خاصك تراقب ضغط الدم.",
+    "entities": {
+      "symptoms": [
+        "طنين الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيتكرر ليه لعطس بزاف وكيحس براسو كيحك فمو.",
+    "answer": "يمكن يكون عندو حساسية. خاصو مضاد حساسية ونقط للأنف.",
+    "entities": {
+      "symptoms": [
+        "عطس",
+        "حكة في الفم"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين واحد الجرح فودن ولكن ماكاين حتى شي خرق فالتخديم.",
+    "answer": "الجرحة كاتعافى فسيمانة. خاصك تراقبها.",
+    "entities": {
+      "symptoms": [
+        "جرح في الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالحلق صعيب عليا نتنفس.",
+    "answer": "يمكن يكون التهاب في الجيوب الأنفية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع في الحلق",
+        "صعوبة في التنفس"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "السعال اللي ما كيتوقف مزعج مع التهاب الحلق.",
+    "answer": "خاص يتدار فحص مباشر باش نعرفو السبب. العلاج كيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [
+        "سعال",
+        "التهاب الحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب اللوزتين.",
+    "answer": "خاصك تاخد دوا مضاد حيوي، مسكن للوجع، وغرغره بالما السخون والملح.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيسيل مني وكيضرني بزاف، شنو هو العلاج؟",
+    "answer": "خاص الطبيب يشوف الأنف باش يعرف السبب ديال النزيف و يعالجو.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كنت كانحس بضيق فالصدر و نبض فالجسم كامل.",
+    "answer": "خاصك تدير شي تيست باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ضيق فالصدر"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو العلاج ديال الجيوب الأنفية اللي كيسبب الصداع والنوم؟",
+    "answer": "العلاج كيتحدد حسب السبب ديال الالتهاب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سيلان فالصباح كل نهار واخا ماكانكميش.",
+    "answer": "خاص تقييم الأنف والجيوب الأنفية.",
+    "entities": {
+      "symptoms": [
+        "سيلان الأنف"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين جرح فالأذن بسباب ضربة قوية.",
+    "answer": "خاص العلاج ديال جرح الأذن.",
+    "entities": {
+      "symptoms": [
+        "جرح فالأذن"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صوت ديال الضجيج فالودنين ديالي.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "طنين"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش ليمون كيعاون فالتخفيف من الألم ديال التهاب اللوزتين؟",
+    "answer": "نعم، كيتواجد فيه فيتامين سي اللي كيحسن المناعة.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي كتلة فأسفل الأذن.",
+    "answer": "خاصك تدير سونار للرقبة باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "كتلة فأسفل الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شحال كيسوى حقن الكولاجين ولا البوتوكس؟",
+    "answer": "الثمن كيتغير حسب الطبيب والمكان لي غادي تدير فيه العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "دخل الماء فودني.",
+    "answer": "إلا كنتي كتعاني من صداع أو أعراض أخرى، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "التخلص من البلغم الأبيض من الحساسية.",
+    "answer": "خاصك تدير مزرعة ديال البلغم وتاخد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "بلغم أبيض"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش قرص بروفين مزيان للتهاب المبيض؟",
+    "answer": "راه غير مسكن ولكن كيساعد فالتخفيف من الألم.",
+    "entities": {
+      "symptoms": [
+        "التهاب المبيض"
+      ],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "الحلق الجاف وعلاجه.",
+    "answer": "خاصك تشوف واش كاين التهاب حقيقي ولا غير حمى خفيفة.",
+    "entities": {
+      "symptoms": [
+        "حلق جاف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ريحتو كتشبه الدم من فمي.",
+    "answer": "خاصك تشوف طبيب أمراض الباطن وتأكد من حالة الكلى.",
+    "entities": {
+      "symptoms": [
+        "ريحت الدم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو السبب ديال النيف لي كيتساد؟",
+    "answer": "النزيف من النيف حالة خطيرة خاصها علاج.",
+    "entities": {
+      "symptoms": [
+        "نزيف من النيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب ملتحمي فالنيف.",
+    "answer": "خاصك تعرف السبب باش نقدر نعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحمي"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج التهاب الأذن؟",
+    "answer": "كاين بزاف دالأسباب، خاصك تشوف طبيب لتحديد العلاج.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي النعاس والدوخة ملي كنشوف النجوم والبحر.",
+    "answer": "يمكن استعمال البخاخات الرطبة أو الما المالح.",
+    "entities": {
+      "symptoms": [
+        "النعاس",
+        "الدوخة"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيفاش كايعالجو الطبيب مرضان طنين الأذن؟",
+    "answer": "خاصك تمشي للطبيب ديال السمع باش يدير ليك فحص وتوصيات.",
+    "entities": {
+      "symptoms": [
+        "طنين الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "أدني كتوجعني وكتنزلني.",
+    "answer": "خاصك تشوف شي طبيب، يمكن يكون عندك داء الدم ولا التهاب فالودن.",
+    "entities": {
+      "symptoms": [
+        "وجع الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع خفيف فاللور ديال اليسار.",
+    "answer": "خاصك دير فحص عند الطبيب باش تعرف السبب وتاخد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو الدوا ديال التهاب الأذن؟",
+    "answer": "كيتعالجو التهاب الأذن عادة بمضاد حيوي لمدة سيمانة.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "العلاج ديال التهاب الحلق.",
+    "answer": "مضاد حيوي وسبتازول إلا تكرر فمدة قصيرة، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيفاش كيتعرف الطبيب شنو هو السبب ديال التهاب البرانكا؟",
+    "answer": "يمكن يتعرف غير بالفحص الطبي العادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "العلاج ديال جفاف الأنف.",
+    "answer": "خاصك تشوف طبيب متخصص فالأنف والحنجرة لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "جفاف الأنف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش السفر كيأثر على التهاب الزايدة؟",
+    "answer": "السفر ما عندو علاقة مباشرة بالتهاب الزايدة. ولكن يمكن يسبب دوار أو قيء فبعض الحالات.",
+    "entities": {
+      "symptoms": [
+        "دوار",
+        "قيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب المفاصل. واش كاين شي دوا؟",
+    "answer": "التهاب المفاصل يحتاج استشارة طبيب. كاينين أدوية كتساعد على تخفيف الألم.",
+    "entities": {
+      "symptoms": [
+        "التهاب المفاصل"
+      ],
+      "medical_field": "العظام والمفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق و حبوب. شنو ندير؟",
+    "answer": "خود مسكنات و حاول تشرب سوائل دافئة. إذا زاد الألم، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "حبوب"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين مشكل فالأذن اليسرى؟",
+    "answer": "خاصك تمشي عند الطبيب ديال السمع. هو اللي غادي يحدد السبب والعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي جرح فودني. شنو ندير؟",
+    "answer": "الجرح غادي يتعافى مع الوقت. خاصك تحافظ على نظافته.",
+    "entities": {
+      "symptoms": [
+        "جرح"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صعوبة فسمع الصوت.",
+    "answer": "خاصك تدير تخطيط سمعي باش تعرف السبب. يمكن يكون عندك مشكل فالأذن.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فسمع الصوت"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالتنفس. كيفاش نقدر نحلو؟",
+    "answer": "غالبا السبب هو الحساسية. خاصك تشوف الطبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كايتسما السعال الديكي؟",
+    "answer": "السعال الديكي كيتسمى بهاد الاسم حيت كيمكن يستمر لعدة أسابيع. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "سعال"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ملي كنشرب لما حار ولا بارد كاين ألم فودني.",
+    "answer": "غالبا المشكل يكون فأسنانك. خاصك تمشي عند طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "ألم فودني"
+      ],
+      "medical_field": "الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هي أعراض الحساسية؟",
+    "answer": "أعراض الحساسية كتشمل العطس، الحكة، وسيلان الأنف. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "العطس",
+        "الحكة",
+        "سيلان الأنف"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حساسية من الما وكتسبب لي الحكة.",
+    "answer": "الحكة كتعني أن الجسم كيتفاعل مع الما. خاصك تستاشر طبيب باش يحدد لك العلاج.",
+    "entities": {
+      "symptoms": [
+        "الحكة"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع فالصدر من بعد ما كيعيا من النعاس.",
+    "answer": "خاصك تمشي عند طبيب الصدر، حيث يمكن يكون عندك مشكل في التنفس.",
+    "entities": {
+      "symptoms": [
+        "صداع فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالودن والحلق.",
+    "answer": "يمكن يكون عندك التهاب، خاصك تمشي عند الطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالودن",
+        "وجع فالحلق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب ملتحين حاد، واش كاين شي دوا؟",
+    "answer": "المضادات الحيوية كتنفع فهاد الحالة، خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحين"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "راجلي عندو ريق مسدود وضيق فالتنفس.",
+    "answer": "خاصو يمشي عند الطبيب، حيث يمكن يكون عندو مشكل فالجهاز التنفسي.",
+    "entities": {
+      "symptoms": [
+        "ريق مسدود",
+        "ضيق فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كاين نبض فالأذن اليمنى غير فالهدوء وكتسد بزاف؟",
+    "answer": "يمكن يكون السبب هو الصمغ أو صعوبة السمع. خاصك تشوف طبيب الأذن.",
+    "entities": {
+      "symptoms": [
+        "نبض فالأذن",
+        "سد الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو العلاج المناسب للزكام والسخانة وجع الحلق للحامل؟",
+    "answer": "الباراسيتامول مزيان، ولكن خاصها تشرب بزاف ديال السوائل. خاصها تتجنب الأدوية اللي ماشي مناسبة.",
+    "entities": {
+      "symptoms": [
+        "زكام",
+        "سخانة",
+        "وجع الحلق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو أحسن دوا حيوي لالتهاب الأذن؟",
+    "answer": "الأوجمنتين هو أحسن اختيار لعلاج التهاب الأذن. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش الشتا والتلج كيأثرو على اللوزتين؟",
+    "answer": "نعم، ممكن يزيدو من التهاب اللوزتين. خاصك تحافظ على صحتك.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي إحساس بالغثيان، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يدير لك الفحوصات اللازمة. يمكن يكون عندك شي مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "غثيان"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالأذن، شنو العلاج؟",
+    "answer": "خاصك تدير فحص عند طبيب الأذن. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالأذن والراس مع التقيؤ، شنو ندير؟",
+    "answer": "يمكن يكون عندك التهاب أو عدوى. خاصك تشوف الطبيب في أقرب وقت.",
+    "entities": {
+      "symptoms": [
+        "وجع فالأذن",
+        "وجع فالرأس",
+        "تقيؤ"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حرق فالهوا، شنو ندير؟",
+    "answer": "خاصك تبعد على التدخين وتستعمل الأدوية المناسبة للحموضة. إذا استمر الألم، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حرق فالهوا"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سعال قاتل 21 يوم وكنحس براسي مريض.",
+    "answer": "السعال المستمر خاصو يتشاف من طرف طبيب. ممكن يكون عندك حساسية أو التهاب.",
+    "entities": {
+      "symptoms": [
+        "سعال",
+        "مرض"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ماسمعتش مزيان من الجانب الأيمن.",
+    "answer": "خاصك تمشي عند طبيب الأذن. يمكن يكون عندك مشكل في السمع.",
+    "entities": {
+      "symptoms": [
+        "صعوبة السمع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وذن بارزة، شنو خاصني ندير؟",
+    "answer": "يمكن تدير عملية تجميل الأذن إذا كانت مزعجة. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "وذن بارزة"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "السماع صعيب بسباب الشمع فودني.",
+    "answer": "خاصك تغسل الأذن باستعمال نقط مذيب للشمع. هادشي غادي يساعدك.",
+    "entities": {
+      "symptoms": [
+        "صعوبة السمع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشاكل فالتنفس وكنحس بالاختناق.",
+    "answer": "خاصك تشوف طبيب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالتنفس",
+        "اختناق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ولدي تزاد هادي خمس أيام وعندو التهاب فالنّيف والحلق.",
+    "answer": "هادشي عادي بعد الولادة. خاصك تراقبي حالتو.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالنّيف",
+        "التهاب فالحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فحلقي وكنعاني من سيلان فالنّيف.",
+    "answer": "خاصك تشوف طبيب باش يشوف واش عندك التهاب. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالحلق",
+        "سيلان فالنّيف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كنحس بشي حاجة غريبة فبلعومي.",
+    "answer": "يمكن تكون حساسية أو التهاب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "شي حاجة غريبة فبلعوم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ولدي عندو كحة قوية ومستمرة.",
+    "answer": "خاصو يمشي عند طبيب الأطفال. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "كحة قوية"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ضغط دم مرتفع وكنحس بيه فصدري.",
+    "answer": "خاصك تراجع طبيب. الضغط المرتفع خاصو متابعة.",
+    "entities": {
+      "symptoms": [
+        "ضغط دم مرتفع"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كان ديما كا نحس براسي مريضا، خاصة قبل من النعاس.",
+    "answer": "غالبا هي حساسية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ريحة فم و نزيف مخاطي.",
+    "answer": "خاصك تمشي عند طبيب الأسنان باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "ريحة فم",
+        "نزيف مخاطي"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالكرش و ألم فالأذن.",
+    "answer": "ما كاينش علاقة بين الغدة الدرقية وألم الأذن. خاصك تمشي عند طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكرش",
+        "ألم فالأذن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صوت فالأذن كيشبه لنبض القلب.",
+    "answer": "هادشي كيتعلق بالتوتر العصبي. خاصك تحاول ترتاح.",
+    "entities": {
+      "symptoms": [
+        "صوت فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الجيوب الأنفية وصداع.",
+    "answer": "خاصك تمشي عند طبيب الأذن والحنجرة. العلاج كيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب الجيوب الأنفية",
+        "صداع"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حساسية فالحلق. واش يمكن ناخد دوا؟",
+    "answer": "نعم، تقدر تاخد دوا للحساسية. ولكن راه كايسدّ النعاس.",
+    "entities": {
+      "symptoms": [
+        "حساسية فالحلق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالأذن.",
+    "answer": "خاصك تمشي عند طبيب الأذن. العلاج كيتطلب تشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "فين كاينين الغدد حدا اللوز؟",
+    "answer": "الغدد اللي حدا اللوز كيتسمو الغدد اللعابية. خاصك تشوف طبيب إذا كان عندك مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "أذن أنف حنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب ملتحم الأنف والتهاب الحلق. شنو ندير؟",
+    "answer": "خاصك تشرب سوائل كثيرة وتستعمل بخاخات الأنف. إذا ما تحسنتش، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحم الأنف",
+        "التهاب الحلق"
+      ],
+      "medical_field": "أذن أنف حنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حمى كبيرة وكنحس براسي مقلوب.",
+    "answer": "يمكن تكون عندك إنفلونزا أو التهاب الأذن. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "دوخة"
+      ],
+      "medical_field": "أذن أنف حنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كنعاني من التهاب اللوزتين كل شهر.",
+    "answer": "يمكن تحتاج عملية استئصال اللوزتين. خاصك تشوف طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "أذن أنف حنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي برد قاتل. شنو نصائح باش نتعافى؟",
+    "answer": "شرب السوائل مهم، وخصك ترتاح. إذا ما تحسنتش، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "برد"
+      ],
+      "medical_field": "أذن أنف حنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صفار في وداني ودوخة.",
+    "answer": "خاصك تشوف طبيب، حيت كاينين بزاف د الأسباب للدوخة. يمكن تحتاج قياس السمع.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "صفار في الأذن"
+      ],
+      "medical_field": "أذن أنف حنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش طبيعي ما يكونش تورم فالتفاحة بعد العملية ديال التجميل؟",
+    "answer": "نعم، ممكن يكون عندك اختلاف فالتورم بعد العملية. خاصك تراقب الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الجراحة التجميلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حساسية من الغبرة و شوية د الصفار ف النيف.",
+    "answer": "خاصك تستعمل مضاد للحساسية. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "صفار ف النيف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هي الأضرار من خروج الدم من النيف؟",
+    "answer": "كاين بزاف د الأسباب للرعاف، خاص نعرفو السبب باش نعرفو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "خروج الدم من النيف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كانحس بلي سمعتي صعيب و كاين طنين ف ودني.",
+    "answer": "من الأفضل دير تخطيط سمعي و تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "صعوبة السمع",
+        "طنين ف ودني"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فاللسان و وجع فالحلق.",
+    "answer": "العصير دالليمون سخون مع العسل هو أحسن علاج. الله يشافيك.",
+    "entities": {
+      "symptoms": [
+        "التهاب فاللسان",
+        "وجع فالحلق"
+      ],
+      "medical_field": "الفم والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كا يخرج الدم من النيف و الفم؟",
+    "answer": "يمكن يكون عندك التهاب أو كدمات. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "خروج الدم من النيف",
+        "خروج الدم من الفم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كانحس براسي ثقيل وعيني كيضروني.",
+    "answer": "من الأفضل تشوف الطبيب، يمكن يكون عندك حساسية.",
+    "entities": {
+      "symptoms": [
+        "ثقل فالرأس",
+        "وجع فالعين"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالحلق وصداع.",
+    "answer": "استعمل مسكنات للألم ومضادات الحساسية، وشرب السوائل الساخنة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحلق",
+        "صداع"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق، شنو العلاج الفعال؟",
+    "answer": "إذا دامت الأعراض أكثر من خمس أيام، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالحلق وكنحس بالصعوبة فالبلع.",
+    "answer": "هاد الالتهاب خاصو علاج بالمضادات الحيوية.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالبلع"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حرقة فالمعدة، شنو خاصني ندير؟",
+    "answer": "خاصك تشوف طبيب لتحديد السبب وتلقي العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حرقة فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي انسداد فالأذن، واش خاصني نمشي للطبيب؟",
+    "answer": "نعم، خاصك تشوف الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "انسداد فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي فاذني شي كتل، شنو ندير؟",
+    "answer": "خاص الطبيب يحيدهم ويشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "كتل فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كاينة الهالات فالأذن؟",
+    "answer": "يمكن يكون التهاب الأذن الخارجي، خاص العلاج بالمراهم أو مضاد حيوي.",
+    "entities": {
+      "symptoms": [
+        "الهالات فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صعوبة فالتنفس وبلع صعيب، وفبعض المرات كينسداد فالنيف.",
+    "answer": "خاصك تشوف طبيب، حيث هاد الأعراض كيمكن تكون خطيرة. العلاج كيعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس",
+        "بلع صعيب",
+        "انسداد فالنيف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كيدوزو ليا لعاب النيف ديالي؟",
+    "answer": "هادشي كيجيني من النيف ماشي من الفم. خاصك تشوف طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "لعاب النيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع متكرر ونزيف الأنف، وكنحس بالدوخة.",
+    "answer": "خاصك تدير التحاليل عند الطبيب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "صداع متكرر",
+        "نزيف الأنف",
+        "دوخة"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالحنجرة والريق من لور.",
+    "answer": "إذا كانت معدتك صحية، استعمل هيجروكورتزون. إلا ما تحسنش خاصك فحص.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحنجرة"
+      ],
+      "medical_field": "الحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صفير فالأذن كيفاش نداويها؟",
+    "answer": "خاصك تدير تقييم للسمع باش تعرف السبب. من بعد يمكن يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صفير فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بغيت شي دوا ديال النعاس بلا آثار جانبية حيت عندي الربو.",
+    "answer": "خاصك تشاور مع طبيب باش يحدد لك العلاج المناسب. الربو خاصو عناية خاصة.",
+    "entities": {
+      "symptoms": [
+        "الربو"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو السبب ديال الحكة فالحلق والراس والجنب ديال الفم؟",
+    "answer": "هاد الأعراض كيمكن تكون بسبب الحساسية. ممكن تتعالج بمضادات الهيستامين.",
+    "entities": {
+      "symptoms": [
+        "الحكة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو العلاج ديال التهاب اللوزتين مع الألم القوي؟",
+    "answer": "المضادات الحيوية كتعطي نتيجة مزيانة. خاصك تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين",
+        "الألم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هوما الأسباب ديال الرعاف اليومي؟",
+    "answer": "الجفاف هو السبب الأكثر شيوعا. خاصك تحافظ على رطوبة الأنف.",
+    "entities": {
+      "symptoms": [
+        "الرعاف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سعال قاتل هادي 21 يوم، وكنحس براسي مقهور.",
+    "answer": "السعال المستمر خاصو تشخيص من طبيب. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "السعال"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي خز فاللور ديال الرقبة ورا السد.",
+    "answer": "خاصك دير فحص عند الطبيب باش تعرف السبب. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "الخز"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين ف النيف بحال لون وحجم وصعوبة التنفس.",
+    "answer": "هاد الأعراض كتشير لقرينات الأنف. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "صعوبة التنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عافاك شنو رأيك في جفاف وصداع وجع فالراس؟",
+    "answer": "خاصك تشوف طبيب مختص باش يتشخص حالتك. الجفاف والصداع كيتطلبو العناية.",
+    "entities": {
+      "symptoms": [
+        "جفاف",
+        "صداع"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كنحس بالضغط فالراس ديالي من ليمين بزاف.",
+    "answer": "يمكن يكون عندك مشكل في الضغط. خاصك تشوف طبيب للكشف.",
+    "entities": {
+      "symptoms": [
+        "الضغط"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "مرحبا، عندي جفاف فوجهي وخاصني نعاود نغسل النيف ديالي.",
+    "answer": "خاصك تشوف طبيب جلدية. الجفاف يمكن يكون بسبب عوامل خارجية.",
+    "entities": {
+      "symptoms": [
+        "جفاف"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سيلان و فيروس كورونا.",
+    "answer": "خاصك ترتاح وتشرب سوائل دافئة، وتاخد باراسيتامول ومصادات الهيستامين باش يخفو الأعراض.",
+    "entities": {
+      "symptoms": [
+        "سيلان"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق وضيق.",
+    "answer": "خاصك دير فحص شامل باش نحددو المشكل ونعرفو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "ضيق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي انسداد فالودن وبلغم فالصدر، شنو العلاج؟",
+    "answer": "يمكن تحتاج تصوير طبقي للجيوب الأنفية باش نعرفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "انسداد فالودن",
+        "بلغم فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو السبب ديال الكحة ملي كتفيق من النعاس؟",
+    "answer": "الكحة فالصباح ممكن تكون بسبب حساسية أو مرض آخر. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الكحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فجيوبي اليسرى، شنو ندير؟",
+    "answer": "يمكن يكون علاج نهائي أو عمليات جراحية، خاصك تستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش كاين شي علاج للشخير؟",
+    "answer": "كاين علاج للشخير، ولكن خاصنا نعرفو السبب أولا نديرو فحوصات.",
+    "entities": {
+      "symptoms": [
+        "الشخير"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ضغط فالأذن، شنو العلاج؟",
+    "answer": "الضغط فالودن كيتطلب تخطيط طبلة وتخطيط سمع باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "ضغط فالأذن"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فالحنجرة وكحلة بزاف، عافاك قدم لي وصفة طبية.",
+    "answer": "استعمل مقشق مع حليب، قرفة، زنجبيل وزيت الزيتون.",
+    "entities": {
+      "symptoms": [
+        "ألم فالحنجرة",
+        "كحلة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كينزف ليا النيف من جهة وحدة؟",
+    "answer": "خاصك تأكد من الضغط الشرياني، وشي طبيب يقدر يساعدك.",
+    "entities": {
+      "symptoms": [
+        "نزيف من النيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالجدار ديال النيف وكيعطيني صداع، شنو العلاج؟",
+    "answer": "خاصك تمشي عند الطبيب، يمكن يحتاج تصوير أو علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "التهاب جدار النيف",
+        "صداع"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صوت ضعيف ومبحوح، شنو ندير؟",
+    "answer": "خاصك تشوف معالج لغوي، يمكن يساعدك فهاد المشكل.",
+    "entities": {
+      "symptoms": [
+        "صوت ضعيف",
+        "صوت مبحوح"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو المخاطر ديال عملية جيب الأنف بلا منظار؟",
+    "answer": "كاين خطر كبير حيت المنطقة ضيقة والأعضاء المحيطة حساسة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صفير فالأذن، كيفاش نداويها؟",
+    "answer": "خاصك دير تقييم للسمع باش تعرف السبب، ومن بعد كاين العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صفير فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالعظام وصداع قوي.",
+    "answer": "يمكن يكون عندك التهاب فالجهاز التنفسي، خاصك تشوف طبيب الأنف والأذن والحنجرة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعظام",
+        "صداع"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كينصحو بشرب الما ملي كاين التهاب فاللوزتين؟",
+    "answer": "شرب الما كيعون فترطيب الحلق وكيعاون المناعة.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الحلق",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي نزول مستمر من النيف.",
+    "answer": "خاصك تمشي عند الطبيب باش يدير لك تصوير للجيوب الأنفية ويعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "نزول من النيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو سبب الكريات البيضاء فوسط الزنقة؟",
+    "answer": "هاد الشي كيتعلق بالتهاب اللوزات، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحلق",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حكة ففمي وذني، شنو السبب؟",
+    "answer": "يمكن تكون حساسية أو تهيج بسبب الدخان. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صعوبة فالتنفس، شنو الحل؟",
+    "answer": "خاصك تشوف الطبيب باش يعرف واش ضيق التنفس جديد ولا مزمن.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع ف راسي و ف الاذن، واش التهاب؟",
+    "answer": "ممكن يكون التهاب الأذن السفلية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف راس",
+        "وجع ف الاذن"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق بعد عملية تكميم الصوت، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب ويدير لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالحلق"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو أحسن مضاد حيوي لنزول اللوز؟",
+    "answer": "ما كاينش مضاد حيوي محدد، خاصنا نعرفو الحالة ديالك والأعراض الأخرى.",
+    "entities": {
+      "symptoms": [
+        "نزول اللوز"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش المضادات الحيوية كتعالج الإنفلونزا؟",
+    "answer": "المضادات الحيوية كتستعمل للالتهابات البكتيرية، ما كتداويش الإنفلونزا.",
+    "entities": {
+      "symptoms": [
+        "الإنفلونزا"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كنحس براسي ضعيف وعيان، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب، يمكن يكون عندك حساسية أو شي حاجة أخرى.",
+    "entities": {
+      "symptoms": [
+        "ضعف",
+        "عيان"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ملي كانبكي، كاين شي حاجة مسدودة فداخلي، شنو السبب؟",
+    "answer": "هادشي عادي، حيت لعروق كايدوزو من النيف. خاصك تشرب الما.",
+    "entities": {
+      "symptoms": [
+        "انسداد"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي خز فجنب وذني، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يعرف السبب ويدير لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "خز"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حكة فالودن و التهاب الأنف، شنو ندير؟",
+    "answer": "خاصك تاخد دوا ديال الحساسية ومعاه خلطة ديال الما سخون.",
+    "entities": {
+      "symptoms": [
+        "حكة فالودن",
+        "التهاب الأنف"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق و القيء و النيف مسدود، شنو الحل؟",
+    "answer": "هادشي كيعني التهاب الحنجرة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالحلق",
+        "القيء",
+        "النيف مسدود"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "سمعت شي حاجة فودني.",
+    "answer": "خاصنا نديرو فحص للسمع ونتبعو الدوا ديال البيريتين والباخستين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو أحسن علاج للسعال والبلغم؟",
+    "answer": "خاص الابتعاد على الروائح القوية، الأطعمة الحارة والحامضة، والدخان.",
+    "entities": {
+      "symptoms": [
+        "السعال",
+        "البلغم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "وقتاش نعتابرو التهاب اللوزتين مرض شائع؟",
+    "answer": "إلا كان عندك التهاب الملتف كتر من ثلاث مرات فالسنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين شي دوا مضاد حيوي مزيان للبرد؟",
+    "answer": "خاص يتقيمو اللوزتين والأنف والفم والأسنان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج الالتهاب الزور؟",
+    "answer": "العلاج كيتضمن مضادات الحساسية بحال الكلاريثروماسين، وكيتستعملو كمساعدات للبرد ومسكنات الألم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي تورم فاللوزان من الجهة اليسرى.",
+    "answer": "يمكن يكون عندك مشكل فخروج الأسنان أو التهاب اللثة.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فمنطقة الحاجب والجبهة.",
+    "answer": "كينصح باش يدير راديو الأشعة السينية للجيوب الأنفية.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فالصدر وكنحس بشي صوت صفير ملي كنعطس.",
+    "answer": "خاصك تمشي عند طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "صوت صفير"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم حاد فسناني وذني، بالخصوص فالجهة اليمنى.",
+    "answer": "المشاكل ديال السنان، العضم، ولا العنق خاصها تقييم.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو كيسبب الدم من الأذن بعد ما تلبس الحلق؟",
+    "answer": "يمكن يكون التهاب أو حساسية. خاصك تشوف الطبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "خروج الدم من الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي كحة مع دم، شنو يعني؟",
+    "answer": "السعال الدموي ممكن يكون بسبب التهاب الحلق أو الرئة. خاصك تمشي للطبيب باش تعرف السبب الحقيقي.",
+    "entities": {
+      "symptoms": [
+        "كح دم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي نفخة فالصبع، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب، يمكن يكون كيس أو كتلة تحتاج للمراجعة.",
+    "entities": {
+      "symptoms": [
+        "نفخة فالصبع"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي زيادة فالكريات البيضاء وكنحس بنزيف، شنو ندير؟",
+    "answer": "ارتفاع الكريات البيضاء كيعني غالبا وجود التهاب. خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "زيادة فالكريات البيضاء",
+        "نزيف"
+      ],
+      "medical_field": "الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيفاش نعالج السعال الحاد اللي كايوصل للتقيؤ؟",
+    "answer": "خاصك تشوف الطبيب، يمكن يكون عندك حساسية أو التهاب. العلاج يعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "السعال الحاد",
+        "التقيؤ"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالحلق، شنو العلاج؟",
+    "answer": "ممكن تحتاج مضاد حيوي ومسكنات. شرب السوائل مهم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحلق"
+      ],
+      "medical_field": "الحلق",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي برد فالعين اليمنى، والطبيب قال عندي التهاب.",
+    "answer": "خاصك تتبع تعليمات الطبيب. العلاج كيعتمد على نوع الالتهاب.",
+    "entities": {
+      "symptoms": [
+        "برد فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالأذن، شنو ندير؟",
+    "answer": "ممنوع تنظيف الأذن بلا استشارة طبيب. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع فالحلق وكيضرني بزاف.",
+    "answer": "خاصك تمشي عند الطبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع فالحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش عملية استئصال الورزة خطيرة على لي عندهم 18 عام؟",
+    "answer": "ماشي خطير إلا كان ضروري، ولكن خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي نزيف فالجرح وخرج دم مع صداع.",
+    "answer": "خاصك تمشي للطبيب، لأنه يمكن يكون عندك التهاب أو مشكلة أكبر.",
+    "entities": {
+      "symptoms": [
+        "نزيف",
+        "صداع"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو سبب الجيوب دوخة؟",
+    "answer": "الالتهاب فالجهاز التنفسي كيسبب الصداع والدوخة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "صداع"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع وألم فالراس.",
+    "answer": "عافاك سير عند طبيب الأعصاب، يمكن يكون عندك مشكل خاص.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "ألم فالراس"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيفاش نتخلصو من البلغم بعد ما حبستي التدخين؟",
+    "answer": "كينصح بشرب السوائل الدافئة والمضمضة. خاصك تشوف الطبيب إذا استمر البلغم.",
+    "entities": {
+      "symptoms": [
+        "بلغم"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي كحة مصحوبة بمصرع، شنو العلاج؟",
+    "answer": "مضادات الهيستامين وشرب أتاي يمكن يساعدوك. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "كحة",
+        "مصرع"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ماكانسمعش من يميني بزاف.",
+    "answer": "خاصك تمشي عند الطبيب باش يتأكد من السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "ضعف السمع"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش قطرات الأذن كمضاد حيوي للتهاب الأذن سبب الصداع؟",
+    "answer": "لا، ولكن يمكن يكون المرض الأساسي هو اللي كيسبب الصداع.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "خرج ليا الدم من فمي وكيعطي طعم ديال الحديد.",
+    "answer": "يقدر يكون نزيف من الفم أو الأنف. خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو الدوا لعلاج التهاب البلعوم؟",
+    "answer": "هاد المرض فيروسي وما كاينش دوا خاص. كيمكن تاخد مسكنات و فيتامين سي.",
+    "entities": {
+      "symptoms": [
+        "التهاب البلعوم"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فحلقي ونزيف دموي.",
+    "answer": "خاصك تشوف طبيب، واش كاين حرارة ولا انسداد؟",
+    "entities": {
+      "symptoms": [
+        "ألم فالحلق",
+        "نزيف دموي"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالعين اليمنى وصداع.",
+    "answer": "خاصك تمشي عند طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعين اليمنى",
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع قوي وخوف.",
+    "answer": "خاصك تشوف طبيب نفسي.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "خوف"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج التهاب الحلق؟",
+    "answer": "العلاج كيعتمد على السبب. واش بسباب التهاب ولا حساسية؟",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فالمعدة وصداع.",
+    "answer": "ممكن تكون أعراض ديال القلق. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة",
+        "صداع"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالودن اليمني مع صوت طقطقة.",
+    "answer": "ممكن يكون التهاب القناة الأوستاكي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالودن اليمني",
+        "صوت طقطقة"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق ودرجة الحرارة مرتفعة، شنو ندير؟",
+    "answer": "غالبا كيرجع ليه الهرمونات. خاص استشارة طبيب باش نعرفو السبب ونديرو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي برد والتهاب فالحلق، وداكشي أثر على ريحة الماكلة. شنو هو الحل؟",
+    "answer": "خاصك تشرب الما والملح. إذا استمر الوضع، خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "برد",
+        "التهاب الحلق",
+        "فقدان حاسة الشم"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق وكنحس بلي كيتسابقني وكنحس بلي عندي الكحة.",
+    "answer": "ممكن تحتاج مضادات حيوية ومسكنات للألم. شرب السوائل مهم بزاف.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "الكحة"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج التهاب الجيوب الأنفية؟",
+    "answer": "العلاج كيعتمد على الحالة، ولكن خاصنا نعالجو السبب اللي كيسبب الحساسية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الأذن، واش يمكن لي نستعمل أوموكسيس؟",
+    "answer": "نعم، يمكن استخدام أوموكسيس فالتهاب الأذن. ولكن خاصك تستاشر طبيب قبل.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيفاش نصلح الصوت ديالي؟",
+    "answer": "خاصنا نتحققو من الأنف والفم والحنجرة باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو علاج التهاب الأنف؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأنف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع فالأذن اليسرى و الريق تقلص الأنف.",
+    "answer": "عندك التهاب الجيوب الأنفية لي سبب مضاعفات فالأذن الوسطى.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "تقلص الأنف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حاساسية فالنّيف وصعيب نشم.",
+    "answer": "خاصك تمشي عند طبيب باش تعرف السبب الرئيسي.",
+    "entities": {
+      "symptoms": [
+        "حاساسية",
+        "صعوبة الشم"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم مستمر فالأذن.",
+    "answer": "الألم فالأذن ممكن يكون بسبب مشاكل فالأذن أو الأنف. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حمى فالنّيف وبغيت نخرج منها.",
+    "answer": "خاصك تتبع اختصاصي الأنف للكشف عن السبب وتقديم العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ولدي كيتصاب بالتهاب اللوزتين كل شهر، وعندو ثلاث سنين.",
+    "answer": "كنصحك تدير عملية استئصال اللوزتين.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو المرض اللي كيعاني منو الشخص اللي كيقول بلي شديد وكيمنعو التنفس؟",
+    "answer": "يمكن يكون عندو حساسية فطريقهوم التنفسية.",
+    "entities": {
+      "symptoms": [
+        "صعوبة التنفس"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش كاين شي حالة ديال التهاب الحلق فهاد الشتا؟",
+    "answer": "الاستمرار فالحرارة المنخفضة والمشروبات الدافئة كيساعد على الشفاء.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي بنتي كتسمع غير من اليسار. واش كاين علاج غير السماعات؟",
+    "answer": "خاصها تشوف طبيب مختص باش يعرف السبب ويعطيها العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "فقدان السمع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ملي كانعس كايخرج لي الما.",
+    "answer": "ممكن يكون شمع الأذن أو مياه عالقة. خاصك تشوف الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "خروج الماء"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كانسمع صوت فودني وكيمنعني من نعاس.",
+    "answer": "خاصك دير قياس السمع مع الطبيب باش تعرف منين جاي المشكل.",
+    "entities": {
+      "symptoms": [
+        "صوت فودني"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش حساسية الأنف كتسبب تورم بعد عملية التجميل؟",
+    "answer": "الحساسية ديال الأنف ماشي مرتبطة بالعملية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تورم الأنف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع فالجبهة وحساسية من النمل. واش كاين علاقة بينهم؟",
+    "answer": "ممكن يكون عندك التهاب فجيوب الأنف. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "حساسية"
+      ],
+      "medical_field": "الجيوب الأنفية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش ممكن يخرج دم من النيف بسبب نوبة برد؟",
+    "answer": "الاحتقان ديال الأغشية المخاطية ممكن يسبب نزيف. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نزيف من الأنف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالرأس وعيني وجنب راسي.",
+    "answer": "خاصك تمشي عند الطبيب باش يتأكد من السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرأس"
+      ],
+      "medical_field": "الدماغ",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو الحل باش نحيد البلغم من الحلق؟",
+    "answer": "استعمل السوائل الساخنة مع مقشع. خاصك تحاول تبعد على التدخين.",
+    "entities": {
+      "symptoms": [
+        "بلغم"
+      ],
+      "medical_field": "الحلق",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سيلان، كيفاش نقدر نحلو؟",
+    "answer": "خاصك تشوف طبيب مختص باش يعاونك ويعالج المشكلة.",
+    "entities": {
+      "symptoms": [
+        "سيلان"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش حساسيات الجلد كتأثر على العينين والأنف؟",
+    "answer": "الحساسية ممكن تأثر على بزاف د الأعضاء فالجسم، بما فيهم العينين والنيف.",
+    "entities": {
+      "symptoms": [
+        "حساسيات الجلد"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندو ثقب فودنه ليسرى، واش خاصو يتعالج جراحي؟",
+    "answer": "خاصو يتشاور مع الطبيب باش يعرف واش العلاج الجراحي ضروري ولا غادي يتسد بوحدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب في الحلق والأنف مع صداع.",
+    "answer": "هادي أعراض الإنفلونزا أو التهاب الحلق، خاصك ترتاح وتشرب السوائل.",
+    "entities": {
+      "symptoms": [
+        "التهاب في الحلق",
+        "صداع"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالنيف ولحلق.",
+    "answer": "خاصك دير راديو الأشعة السينية باش نشوفو الجيوب الأنفية ومن بعد نحددو العلاج.",
+    "entities": {
+      "symptoms": [
+        "وجع فالنيف",
+        "وجع فالحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب شديد فالودن ليسرى، واش هو التهاب الأذن الوسطى؟",
+    "answer": "نعم، هادا التهاب الأذن الوسطى، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب شديد فالودن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي انسداد في الأنف وتحت العين مع صداع.",
+    "answer": "يمكن تكون حساسية، خاصك تشوف الطبيب باش يتأكد.",
+    "entities": {
+      "symptoms": [
+        "انسداد في الأنف",
+        "صداع"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع وما عرفتش علاش.",
+    "answer": "خاصك تشوف الطبيب باش يفحصك ويحددو السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين بزاف د لحم ف لحلق ديالي، لونو صفر مع كحله بيض.",
+    "answer": "استعمل مقشع البلغم، وإذا ما تحسنش، دير راديو الأشعة السينية.",
+    "entities": {
+      "symptoms": [
+        "لحم فالحلق"
+      ],
+      "medical_field": "الحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كيعاني من ألم في البلع عند شرب الما بارد.",
+    "answer": "هادي نتيجة التهاب حاد فالحلق، خاصك تشرب المشروبات السخونة.",
+    "entities": {
+      "symptoms": [
+        "ألم في البلع"
+      ],
+      "medical_field": "الحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بنتي عندها 4 سنين دخلات شي حاجة حادة فودنها، شنو نديرو؟",
+    "answer": "خاصك تشوف الطبيب باش يدير ليها فحص للأذن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بنتي عمرها سنتين وكتجيها لحمى بلا سبب.",
+    "answer": "خاصك تشوفي الطبيب باش يعرف السبب ويعطيها العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب في الحلق.",
+    "answer": "من الأفضل تشوف الطبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب في الحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب في الرية.",
+    "answer": "خاصك تمشي للطبيب باش يدير الفحص اللازم ويحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "التهاب في الرية"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالأذن وخرق منها الماء.",
+    "answer": "هاد الأعراض كتشير لالتهاب، خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "وجع فالأذن",
+        "خرق الماء"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي السخانة هادي تلتيام وكحة.",
+    "answer": "ممكن يكون التهاب في القصبات الهوائية، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "السخانة",
+        "كحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع أسنان.",
+    "answer": "خاصك تشوف طبيب الأسنان باش يعرف السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "وجع أسنان"
+      ],
+      "medical_field": "أسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو الدوا لالتهاب الحلق وصعوبة البلع؟",
+    "answer": "خاصنا نعرفو السبب، وغالباً هو إنفلونزا، ومن بعد نحددو العلاج.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "صعوبة البلع"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "سمعت طقطقة ملي ضغطت على المربع.",
+    "answer": "يمكن يكون بسبب خشونة فالمفصل، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "طقطقة"
+      ],
+      "medical_field": "المفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين شي علاج غير العملي لتكلس العظم الركابي؟",
+    "answer": "نعم، كاين بعض العلاجات غير الجراحية بحال العلاج الطبيعي. خاصك تشوف الطبيب باش يحدد ليك الأنسب.",
+    "entities": {
+      "symptoms": [
+        "ضعف السمع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو كيسبب الحلق فالحمل؟",
+    "answer": "الحمل يمكن يسبب التهاب فالحلق بسبب الفيروسات أو شرب الما البارد. خاصك تشوفي الطبيب إذا استمر الألم.",
+    "entities": {
+      "symptoms": [
+        "ألم الحلق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالرأس و الأذن.",
+    "answer": "خاصك تشوف الطبيب قبل ما تاخد أي دوا، حيت ممكن يكون عندك مشاكل صحية أخرى.",
+    "entities": {
+      "symptoms": [
+        "وجع الرأس",
+        "وجع الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب اللوز، شنو السبب؟",
+    "answer": "التهاب اللوزات عندو بزاف دالأسباب، منها تحسسية أو فيروسية. خاصك تشوف الطبيب باش تعرف السبب الحقيقي.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوز"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كا نحس بشي حاجة فحلقي بحال الشوك.",
+    "answer": "يمكن يكون عندك التهاب فالحلق. خاصك تشوف الطبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم الحلق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين الما فودني و شعري.",
+    "answer": "يمكن يكون التهاب الأذن الخارجية أو الوسطى. خاصك تشوف الطبيب لتشخيص الحالة.",
+    "entities": {
+      "symptoms": [
+        "الماء في الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "خرج ليا الدم من فمي، شنو السبب؟",
+    "answer": "يمكن يكون نزيف من اللثة أو التهاب فالفم. خاصك تزور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "نزيف من الفم"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ضيق فالتنفس ووجع فالجبهة، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يدير ليك فحص طبي. هاد الأعراض يمكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس",
+        "وجع الجبهة"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو كيضرّك فودنيك؟",
+    "answer": "كاينين بزاف د الأسباب، بحال التهاب الأذن أو مشاكل فالصوت. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين خروج دم مع البصاق، شنو ندير؟",
+    "answer": "من الأفضل تزور طبيب الأسرة. هاد الشي ممكن يكون علامة على مشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "خروج دم مع البصاق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي الفاكسان ديال الإنفلونزا، واش نقدر ناخد جرعة أخرى؟",
+    "answer": "نعم، يمكن ليك تاخد جرعة أخرى إذا كان الطبيب موافق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حكة وجفاف فالحلق عامين.",
+    "answer": "خاصك تاخد دوا ديال الحساسية وابتعدي عن الروائح القوية. شرب السوائل السخونة غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "حكة فالحلق",
+        "جفاف فالحلق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب حلقي و حمى، واش بيتاكورت مزيان؟",
+    "answer": "بيتاكورت مزيان فهاد الحالة، ولكن خاصك استشارة الطبيب قبل ما تاخدو.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "حمى"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صعوبة فالنطق ديال حرف الراء، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب نفساني باش يشوف حالتك. يمكن يكون عندك مشكل فالنطق.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالنطق"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "بغيت علاج لالتهاب الأذن المزمن.",
+    "answer": "إذا ما تحسنش، يمكن تحتاج عملية. خاص يتشخص السبب الأول.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن المزمن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي إحساس بالبرد ففمي ملي نشرب الما البارد.",
+    "answer": "هاد الإحساس ممكن يكون بسبب التهاب فالحلق. شرب السوائل السخونة غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "إحساس بالبرد فالفم"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش كاين شي دوا ديال أوجمنتين لمرض الزهايمر؟",
+    "answer": "لا، أوجمنتين ماكيعالجش الزهايمر. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين عندي دوخة وصداع، خاصة ملي ننعس.",
+    "answer": "خاصك دير فحص للسمع واختبار التوازن باش تعرف السبب. يمكن يكون عندك مشكل فالأذن.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "صداع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش كاين فرق بين ورم النيف وسرطان الأذن؟",
+    "answer": "نعم، الفرق كبير. خاصك تشوف طبيب لتشخيص الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق ووجع، ما نقدرش نبلع.",
+    "answer": "خاصك تمشي للطبيب، يمكن تحتاج مضاد حيوي أو مسكن. هاد الأعراض خطيرة.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "وجع"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ملي كان ناعس، حسيت بالماء كيدوز من ودني.",
+    "answer": "يمكن يكون شمع الأذن ولا شي مشكل آخر. خاصك تشاور مع الطبيب باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "الماء من ودني"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي انسداد فالأنف وبلغم فالحلق.",
+    "answer": "خاصك تشوف الطبيب باش يدير لك التحاليل ويعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "انسداد الأنف",
+        "بلغم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع فسناني اليمين. عافاك ساعدني.",
+    "answer": "يمكن يكون عندك مشكل فأسنانك أو فالفم. خاصك زيارة طبيب الأسنان.",
+    "entities": {
+      "symptoms": [
+        "صداع فسناني"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق وضيق فالتنفس. شنو هو العلاج؟",
+    "answer": "خاصنا نعرفو درجة الالتهاب، ومن بعد كيعطيو مضاد حيوي. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق",
+        "ضيق التنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالعطلة الشهرية وألم فاللوزتين. شنو هو الحل؟",
+    "answer": "يمكن تاخد مضادات الحساسية ومشروبات سخونة. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فاللوزتين"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم شديد فالأذن عند البلع.",
+    "answer": "غالبا هادي علامة على التهاب. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالأذن عند البلع"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي نزيف فاللوزان.",
+    "answer": "خاصك دير فحص طبي باش نعرفو السبب. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "نزيف فاللوزان"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي قحة جاف، شنو هو العلاج المناسب؟",
+    "answer": "يمكن تاخد أدوية مهدئة للسعال. خاصك تشوف الطبيب إذا استمر الألم.",
+    "entities": {
+      "symptoms": [
+        "قحة جاف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي انسداد فالودن اليسرى وجربت كلشي. واش كاين شي خطر؟",
+    "answer": "خاصك تشوف الطبيب، لأن الانسداد يمكن يكون عندو أسباب خطيرة.",
+    "entities": {
+      "symptoms": [
+        "انسداد فالودن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو كينقص من الم اللوز و كيفاش نعالجهم؟",
+    "answer": "العلاج كيتطلب دوا مناسب وممكن استعمال مسكنات. خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الم اللوز"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سعال بزاف و لعاب ف اللسان، شنو ندير؟",
+    "answer": "ممكن يكون السبب حساسية أو التهاب. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "سعال",
+        "لعاب ف اللسان"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالودن، واش نقدر نستعمل أموكسيس؟",
+    "answer": "نعم، يمكن استعمال أموكسيس فالتهاب الأذن. ولكن خاصك استشارة طبيب قبل.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالودن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم حاد فالحنجرة، شنو ندير؟",
+    "answer": "يمكنك تستعمل باراسيتامول مع شوية عسل. إذا ما تحسنش، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم حاد فالحنجرة"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالودن.",
+    "answer": "كاين بزاف د الأسباب، خاصك تشوف طبيب باش يدير لك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالودن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سخانة ووجع فالنفس عند ولدي، شنو ندير؟",
+    "answer": "عطيه شي مضاد للبكتيريا وشي مسكن للآلام. خاصك تراقبي حالته.",
+    "entities": {
+      "symptoms": [
+        "سخانة",
+        "وجع فالنفس"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي كحة شديدة مع ألم فالحلق.",
+    "answer": "ممكن تكون نتيجة التهاب. خاصك تشوف طبيب باش يدير لك فحص شامل.",
+    "entities": {
+      "symptoms": [
+        "كحة شديدة",
+        "ألم فالحلق"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو هو العلاج ديال سعل اللي كيجي غير فالنعاس؟",
+    "answer": "غالبا السعال الليلي هو حساسية. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "سعل"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حمى عالية مع نزيف فالنيف.",
+    "answer": "خاصك تمشي للطبيب، هاد الأعراض خطيرة وكتحتاج علاج سريع.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "نزيف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش البرد يقدر يسبب التهاب اللوزتين؟",
+    "answer": "البرد ماشي هو السبب الرئيسي، ولكن كاين عوامل أخرى تقدر تسبب التهاب اللوزتين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ولدي عندو سعال حاد وصفير فالرية، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب، هاد الأعراض كتشير لمشكل صحي خاص بالعلاج.",
+    "entities": {
+      "symptoms": [
+        "سعال حاد",
+        "صفير"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالحلق وحرارة وسيلان فالنيف، واش بيتاكورت مزيان ليا؟",
+    "answer": "بيتالكورت ماشي هو العلاج المناسب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالحلق",
+        "حرارة",
+        "سيلان فالنيف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالعينين وودني ودم نازل من النيف.",
+    "answer": "خاصك تمشي للمستشفى، هاد الأعراض كتحتاج علاج فوري.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعينين",
+        "وجع فالودن",
+        "دم نازل من النيف"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فاللوز وظهور حبوب حمراء فاللسان، شنو السبب؟",
+    "answer": "خاصك دير تحليل للڤيروس، وضروري تعرف النتائج بسرعة.",
+    "entities": {
+      "symptoms": [
+        "التهاب فاللوز",
+        "حبوب حمراء فاللسان"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "ولدي عندو ورم تحت الأذن، شنو ممكن يكون السبب؟",
+    "answer": "هاد الورم يقدر يكون نتيجة التهاب فالغدد الليمفاوية.",
+    "entities": {
+      "symptoms": [
+        "ورم تحت الأذن"
+      ],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالنّيف من بعد ما ناكل ولا نشرب، شنو ندير؟",
+    "answer": "يمكن تكون عندك حساسية. خاصك تمشي للطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالنّيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش مشاكل الحنجرة كتأثر على التنفس؟",
+    "answer": "أيوة، الحنجرة كتقدر تسبب مشاكل فالتنفس حيت هي جزء من الجهاز التنفسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش التهاب الأذن الودية يقدر يسبب مشاكل أخرى؟",
+    "answer": "أيوة، يمكن يحس الواحد بالزز فودنيه ويقدر يسبب التهاب الأذن الوسطى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "كاين شي دوا للكحة الرطبة؟",
+    "answer": "إلا كان عندك سبب معروف للسعال، خاصك تقولي. وإلا ما كانش، السعال يقدر يكون بسباب عوامل أخرى.",
+    "entities": {
+      "symptoms": [
+        "الكحة الرطبة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي النفخة فالنّيف، ما كتحل والو.",
+    "answer": "خاصك تمشي للطبيب المختص فالأذن والحنجرة باش يتأكد من حالتك.",
+    "entities": {
+      "symptoms": [
+        "النفخة فالنّيف"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي دم فالبَلغم.",
+    "answer": "خاصك تمشي للطبيب، هادشي ممكن يكون خطير.",
+    "entities": {
+      "symptoms": [
+        "دم فالبَلغم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي مشكل فالهضرة، واش كاين شي علاج؟",
+    "answer": "خاصك تمشي عند طبيب مختص. العلاج كيعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالهضرة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فالنّيف، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة. العلاج كيتطلب معرفة السبب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالنّيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فحلقتي ملي كاتبلع.",
+    "answer": "خاصك تمشي للطبيب، هادشي ممكن يكون علامة على شي مشكل.",
+    "entities": {
+      "symptoms": [
+        "ألم فحلقتي"
+      ],
+      "medical_field": "الحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الزور، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يتأكد من الحالة. يمكن تحتاج للبنسلين إلا ما كانش عندك حساسية.",
+    "entities": {
+      "symptoms": [
+        "التهاب الزور"
+      ],
+      "medical_field": "الحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الأذن مزمن، شنو الحل؟",
+    "answer": "إزالة اللوزات ممكن تكون الحل. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن مزمن"
+      ],
+      "medical_field": "أذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي ألم فالعضلة، شنو ندير؟",
+    "answer": "خاصك تشرب سوائل دافئة وتاخد مسكن. إذا استمر الألم، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعضلة"
+      ],
+      "medical_field": "ألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي أعراض التهاب الأنف والحلق، شنو ندير؟",
+    "answer": "يمكن يكون التهاب جيوب الأنف. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأنف",
+        "التهاب الحلق"
+      ],
+      "medical_field": "أذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالودن، شنو ندير؟",
+    "answer": "ماتجربش الما فالنّيف، وخاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالودن"
+      ],
+      "medical_field": "أذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الجيوب الأنفية، شنو ندير؟",
+    "answer": "استعمل بخاخ الما والملح. خاصك تشوف طبيب إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "التهاب الجيوب الأنفية"
+      ],
+      "medical_field": "أذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي حكة فالسقف ديال الحلق، شنو السبب؟",
+    "answer": "غالبا كين رد فعل تحسسي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حكة فالسقف ديال الحلق"
+      ],
+      "medical_field": "أذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب الحلق، واش أموكسيسال يضر الحيوانات المنوية؟",
+    "answer": "ماشي مهم، ما كاينش علاقة. استعمل الدوا كما وصف لك الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "أذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي غثيان وقيء، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يدير ليك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "غثيان",
+        "قيء"
+      ],
+      "medical_field": "أذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صفار حدا عيني، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب، يمكن يكون كسر.",
+    "entities": {
+      "symptoms": [
+        "صفار حدا العين"
+      ],
+      "medical_field": "أذن",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو أحسن دوا لطفل عندو سنتين عندو حساسية، جارمينيسين ولا أوفامكس؟",
+    "answer": "الأفضل هو أموكساسيللين لعلاج التهاب اللوزتين. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي سعال ومخاط صفر وعرق بزاف، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب باش يدير ليك فحص. هاد الأعراض ممكن تكون علامة على مرض.",
+    "entities": {
+      "symptoms": [
+        "سعال",
+        "مخاط صفر",
+        "عرق بزاف"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "واش التهاب الأذن الوسطى كيأثر على التوازن؟",
+    "answer": "آه، التهاب القنوات شبه الهلالية فالأذن كيسبب دوخة وعدم توازن. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "عدم توازن"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو الأسباب ديال النزيف من الأنف؟",
+    "answer": "النزيف من الأنف كيتسبب غالبا من التهاب الأنف، التعرض للتيارات، أو التدخين. خاص استشارة طبيب إذا تكررات الحالة.",
+    "entities": {
+      "symptoms": [
+        "نزيف من الأنف"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صداع عام كامل ومازال ما تعالجش، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب باش يدير تقييم للسمع ويشوف السبب. العلاج كيتطلب تشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب ملتحيم مزمن، شنو ندير؟",
+    "answer": "خاصك تاخد دوا الحساسية بحبوب الحساسية ودوا ديال الكورتيزون. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحيم مزمن"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فالمفاصل، واش هو التهاب المفاصل ولا هشاشة العظام؟",
+    "answer": "خاصك تشوف طبيب باش يشخص الحالة. يمكن يكون التهاب أو حاجة أخرى.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمفاصل"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي انسداد فالودنين، شنو السبب؟",
+    "answer": "خاص يتدار فحص ميكروسكوبي للأذن باش نعرفو السبب. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "انسداد فالودنين"
+      ],
+      "medical_field": "الأذن والأنف والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "علاش كتنزل الدموع؟",
+    "answer": "الأسباب كيمكن تكون التهاب الجيوب الأنفية أو ارتفاع ضغط الدم. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "دموع"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب المفاصل وصداع وصعوبة فالتنفس.",
+    "answer": "خاصك تشوف طبيب مباشرة. هاد الأعراض كيمكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "التهاب المفاصل",
+        "صداع",
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "حساسية الأنف كتزيد فالصيف؟",
+    "answer": "صحيح، الحساسية كتزيد فالأجواء الحارة. خاصك تستعمل بخاخات الأنف.",
+    "entities": {
+      "symptoms": [
+        "حساسية الأنف"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي وجع فأنفي، واش التهاب ولا حساسية؟",
+    "answer": "يمكن تكون حساسية أو التهاب. خاصك تشوف طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "وجع فأنف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "شنو الدوا الآمن للمرأة الحامل اللي عندها التهاب الأذن؟",
+    "answer": "مضادات الحساسية كتعطي نتائج مزيانة وآمنة. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي صوتي مشى بعد ما رجعت النظر ديالي.",
+    "answer": "خاصك تشوف طبيب الحنجرة. يمكن يكون عندك مشكلة تحتاج للفحص.",
+    "entities": {
+      "symptoms": [
+        "فقدان الصوت"
+      ],
+      "medical_field": "الحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب اللوزتين بزاف، شنو ندير؟",
+    "answer": "يمكن تحتاج عملية استئصال اللوزتين. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب اللوزتين"
+      ],
+      "medical_field": "الحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب ملتحمة وبلغم.",
+    "answer": "خاصك تاخد دوا ديال الحساسية. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "التهاب ملتحمة",
+        "بلغم"
+      ],
+      "medical_field": "العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Otorhinolaryngology",
+    "question_darija": "عندي التهاب فنيف، شنو الدوا؟",
+    "answer": "يمكن تستعمل دوا الحساسية بحال لوراتادين. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فنيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  }
+]

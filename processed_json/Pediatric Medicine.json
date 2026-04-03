@@ -1,0 +1,5931 @@
+[
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي أعراض الإسهال عند الدراري؟",
+    "answer": "الإسهال كيتسبب في فقدان السوائل، وكيكون عندهم ألم فالبطن. خاص تشوف طبيب إذا استمر.",
+    "entities": {
+      "symptoms": [
+        "الإسهال",
+        "ألم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي التربية الصحية للدراري لي عندهم 16 شهر؟",
+    "answer": "خاصهم ياكلو ماكلة صحية ومتوازنة. ضروري من الفواكه والخضار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج الحساسية عند الدراري الصغار؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية والمناعة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو كيعني الطبيب ملي كيقول 'هيبراتروفي' للجنين؟",
+    "answer": "يعني كبر من القياس الطبيعي. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الدراري ديالي كيرجفو من بعد التلقيح وكيطيحو فيهم السخانة.",
+    "answer": "هاد الأعراض عادية بعد التلقيح. خاص تراقبهم وتستاشر طبيب إذا استمرت.",
+    "entities": {
+      "symptoms": [
+        "رجفة",
+        "سخانة"
+      ],
+      "medical_field": "التطعيم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال الدراري اللي عندهم التوحد؟",
+    "answer": "العلاج كيتضمن العلاج السلوكي وإعادة التأهيل. خاص متابعة مع مختص.",
+    "entities": {
+      "symptoms": [
+        "التوحد"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كايتعطى اللقاح الأول للمولود؟",
+    "answer": "اللقاح الأول كيتعطى فالشهر الأول. ضروري من الالتزام بالمواعيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التطعيم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال الورم الوعائي الدموي عند الدراري؟",
+    "answer": "العلاج كيتطلب زيارة طبيب مختص. خاص تقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "ورم وعائي دموي"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج المغص عند دري عندو شهرين؟",
+    "answer": "يمكن استعمال باراسيتامول أو ديسبلاتيل حسب وصفة الطبيب. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "المغص"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "معاش كيبدا الدراري يمشيو؟",
+    "answer": "الدراري كيبداو يمشيو تقريبا من 10 شهور حتى 15 شهر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الحليب ديال الأم الحامل خطير على الرضيع؟",
+    "answer": "لا، الحليب ديال الأم الحامل ما كاينش مشكل. هو مفيد للرضيع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال كايسوى هاد الطفل فشهرين؟",
+    "answer": "وزن الطفل فشهرين كيتحدد حسب وزن الولادة. خاص طبيب يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الدوا ديال السخانة ديال الدراري الصغار؟",
+    "answer": "الدوا كيتحدد حسب وزن الطفل وعمره. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "السخانة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أسباب بكاء الطفل فالنعاس؟",
+    "answer": "كاينين بزاف د الأسباب، بحال الجوع أو الألم. خاص تشوفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "بكاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو إسهال.",
+    "answer": "خاص تشوفو الطبيب، الإسهال يمكن يكون خطر على الوليدات.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن علاج طبيعي للتهاب الحلق؟",
+    "answer": "المضادات الحيوية كيمكن تكون فعالة، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي نسبة الهيموغلوبين لولد عندو شهر؟",
+    "answer": "نسبة الهيموغلوبين كيتراوح من 12 حتى 18 غرام ف اللتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ما سبب ارتفاع درجة الحرارة عند الطفل؟",
+    "answer": "كاينين بزاف د الأسباب، خاص الطبيب يقيم الحالة. صحتو.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن دوا ديال تسوس للدراري الصغار؟",
+    "answer": "باراسيتامول مناسب للأطفال، ولكن خاص استشارة طبيب الأسنان. العلاج كيتعتمد على الحالة.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الأسباب ديال التاتاه عند الدراري؟",
+    "answer": "يمكن يكون عندو مشكل فالنطق. خاصو يراجع طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "التاتاه"
+      ],
+      "medical_field": "طب النطق",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو اللي كيسبب ليه الألم والوجع فالرضيع؟",
+    "answer": "الألم عند الرضع يمكن يكون بسبب الغازات أو التسنين. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الألم",
+        "الوجع"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو مرض الحصبة الألمانية؟",
+    "answer": "مرض فيروسي كيسبب طفح جلدي وأعراض أخرى. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "طفح جلدي"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 3 شهور وعندو إسهال؟",
+    "answer": "الإسهال عند الرضع خاصو متابعة. خاصك تشوفي طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش الدراري الصغار كيبكيو بزاف؟",
+    "answer": "كيبكيو بسباب الغازات أو الجوع. هادشي طبيعي.",
+    "entities": {
+      "symptoms": [
+        "البكاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "القيء المستمر عند الطفل رضيع عمره 5 شهور؟",
+    "answer": "خاصك تشوفي طبيب الأطفال، حيث القيء المستمر يمكن يكون علامة على مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "القيء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أحسن حليب للأطفال لي عندهم قل من عامين؟",
+    "answer": "حليب الأم هو الأفضل، ولكن يمكن استخدام حليب خاص بالأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "التهاب السحايا عندو علاج؟",
+    "answer": "بالطبع، التهاب السحايا قابل للعلاج حسب الجرثومة المسببة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب السحايا"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش يمكن لي نقدم لولدي شي وجبة؟",
+    "answer": "من الأفضل تقديم الوجبات بعد ست شهور. خاص تكون الوجبات مناسبة لعمره.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أحسن علاج للحرارة عند الدراري؟",
+    "answer": "من الأفضل استخدام الباراسيتامول لتخفيف الحرارة. ولكن خاص استشارة طبيب إذا استمرت.",
+    "entities": {
+      "symptoms": [
+        "الحرارة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الارتفاع ديال درجة الحرارة طول العام؟",
+    "answer": "خاص يتحلل السبب وراء الارتفاع. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البراز ديال الطفل كيتأخر.",
+    "answer": "خاصك تشوف طبيب الأطفال باش يعرف السبب. التأخر في البراز ممكن يكون عندو أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "تأخر البراز"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو دوا فعال للحصبة عند الدراري؟",
+    "answer": "خاصك تشوف طبيب باش يكتب لك الدوا المناسب. ماشي غير مسكنات.",
+    "entities": {
+      "symptoms": [
+        "الحصبة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شرب الزعتر للرضع مزيان ولا لا؟",
+    "answer": "ماغاديش يكون مزيان للرضع. خاصك تحترم سنهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الوردة مضرّة للطفل؟",
+    "answer": "أه, الوردة ضارّة كتر من لكارّو. خاصك تحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن ماكلة لولد عندو عام؟",
+    "answer": "خاصه يأكل الخضار والفواكه. هادشي كيعطيه الطاقة والنمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي الفوايد ديال الينسون للدراري الصغار؟",
+    "answer": "ما كاينش فايدة للدراري. خاصك ما تستعملوش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الطفل عندو سعال شديد.",
+    "answer": "خاصك تشوف طبيب الأطفال في أقرب وقت. الله يشافي.",
+    "entities": {
+      "symptoms": [
+        "سعال شديد"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كيبدا الرضيع يوقف راسو مستقيم؟",
+    "answer": "كيبدا يوقف راسو مستقيم بعد الشهر الثالث. هادشي طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الوزن المثالي لطفل عندو 8 شهور؟",
+    "answer": "الوزن المثالي هو تقريبا 8 كيلو. خاصك تراقب الوزن ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي علاج لمرض الانحلال الدموي الوليدي؟",
+    "answer": "العلاج كيعتمد على الحالة. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "الانحلال الدموي"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الشهر المناسب لرضيع؟",
+    "answer": "الشهر الخامس أو الشهر السادس هو الوقت المناسب. خاصك تراقب تطور الرضيع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شهرين وعندو متقطع.",
+    "answer": "خاصك تمشي عند طبيب الأطفال. الله يشافيه.",
+    "entities": {
+      "symptoms": [
+        "متقطع"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي خطر من المغص عند الرضع؟",
+    "answer": "المغص عند الرضع عادي، ولكن خاصك تراقب الأعراض. إذا كان الوجع قوي، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "المغص"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "فأي شهر كيبدا الطفل الرضيع يمشي على رجليه؟",
+    "answer": "الطفل كيبدا يمشي ما بين ستة وسبعة شهور. كل طفل عندو وتيرتو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الوزن المناسب لرضيع عمر شهرين؟",
+    "answer": "الوزن المناسب تقريبا 3 كيلوغرام. خاصك تراقب النمو ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال خلع الورك عند الدراري الصغار؟",
+    "answer": "خاصك تمشي عند طبيب العظام. العلاج غالبا كيتطلب جهاز خاص.",
+    "entities": {
+      "symptoms": [
+        "خلع الورك"
+      ],
+      "medical_field": "طب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش كايعالجو المغص عند الدراري الصغار؟",
+    "answer": "ممكن تدليك بطن الطفل أو استعمال حمام دافئ. إذا استمر المغص، خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "المغص"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ميكونكس ما خصوش يتاكل مع الرضاعة؟",
+    "answer": "ما كاين حتى مشكل، ولكن خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي ديما عندها سخانة.",
+    "answer": "شحال كاتكون الحرارة ديالها؟ خاصك تراقبيها مزيان.",
+    "entities": {
+      "symptoms": [
+        "سخانة"
+      ],
+      "medical_field": "الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كان كياكل الأظافر.",
+    "answer": "خاصك تتابعي مع طبيب الأطفال باش يشوفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "أكل الأظافر"
+      ],
+      "medical_field": "الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو سبعة شهور ويرشح وصدره كيخري.",
+    "answer": "خاصك تراجعي الطبيب للفحص.",
+    "entities": {
+      "symptoms": [
+        "رشح",
+        "صوت في الصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي الفائدة ديال شراب باراسيتامول؟",
+    "answer": "كيتعطى كمسكن للألم وخافض للحرارة تحت إشراف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاج الحساسية ديال الحليب عند الدراري.",
+    "answer": "خاصك تعطيه حليب نباتي.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أحسن فيتامينات لطفل عندو 3 شهور ونص.",
+    "answer": "فيتامين د هو الأفضل في هاد العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ضروري نعطيو الدراري فيتامينات؟",
+    "answer": "محتاجين غير ليهم حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من عمر مناسب للدراري باش يبداو يتعلمو كيفاش يفحصو النظر؟",
+    "answer": "من الشهر الأول يقدروا يبداو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش غادي يبدا الولد يگلس مع الماساعد؟",
+    "answer": "تقريباً من ست شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نستعمل كريم ميبو باش نحيد التاتو؟",
+    "answer": "ممكن تستعملو، ولكن خاصك تشوف طبيب قبل. هو كيعالج الجروح، ماشي التاتو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كايولي الرضيع كايشرب و كاياكل؟",
+    "answer": "الرضيع كيبدا يشرب الحليب من الشهر الأول و كايبدأ يأكل من الشهر السادس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج الكحة؟",
+    "answer": "العلاج كيتحدد حسب السبب. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الكحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج التهاب قرنية العين عند الدراري؟",
+    "answer": "العلاج كيعتمد على نوع الجرثومة المسببة. خاص استشارة طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "التهاب قرنية العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش تعطيني تحميلة أدول بعد المرة الأولى؟",
+    "answer": "يمكن تعطيها بعد ستة سوايع. خاص تحترم الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن علاج لتنظيف سرة المولود؟",
+    "answer": "استعمل الكحول لمسح السرة بلطف. خاص تكون العناية يومية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج الإسهال عند الدراري؟",
+    "answer": "العلاج كيتحدد حسب السبب. خاص تشوف طبيب إذا استمر الإسهال.",
+    "entities": {
+      "symptoms": [
+        "الإسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج شفة الأرنب؟",
+    "answer": "الجراحة هي الحل. خاصك تشوف طبيب التجميل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب التجميل",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش اليانسون مزيان للرضع؟",
+    "answer": "ماشي مزيان للرضع. خاص الرضاعة الطبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج القيء عند الدراري؟",
+    "answer": "العلاج كيتحدد حسب السبب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "القيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاج التهاب الحلق عند الرضع",
+    "answer": "يمكن استعمال باندول بالجرعة المناسبة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الاستعمال ديال كفيكسين فالدوا ديال الدراري؟",
+    "answer": "كفيكسين هو مضاد حيوي لعلاج الالتهابات البكتيرية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "فأي شهر يمكن لينا نشاربو الما ديال الرضيع؟",
+    "answer": "يمكن تشربو الما من 4 حتى 6 شهور. خاص تكون الرضاعة كافية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو السبب ديال مرض استسقاء الرأس؟",
+    "answer": "استسقاء الرأس كيتسبب عادة من تجمع السوائل فالمخ. خاص استشارة طبيب لتحديد السبب بالضبط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واحد الدراري عندو تيشنجات فصبعاتو بجوج.",
+    "answer": "خاص تقييم طبي دقيق. من الأفضل تشوف طبيب أطفال.",
+    "entities": {
+      "symptoms": [
+        "تيشنجات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الصغير يقدر يشرب الحليب من الشهر العاشر؟",
+    "answer": "نعم، يمكن ليه يشرب الحليب من الشهر العاشر. خاص يكون بالتدريج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كيبانو سنين الأطفال؟",
+    "answer": "سنين الأطفال كيبانو عادة بين 5 و7 شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أحسن وقت للختان؟",
+    "answer": "أحسن وقت هو فالأيام الأولى من الشهر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو خمس شهور وبيترفع السكرة ديالو.",
+    "answer": "خاصك تتابع مع طبيب أطفال. يمكن يكون عندو مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "رفع السكر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش العسل مزيان للدراري عندهم ربع سنين؟",
+    "answer": "نعم، العسل مفيد للدراري فهذ العمر. ولكن خاص يكون بكميات معقولة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كيعطي الفيتامين د للدراري؟",
+    "answer": "الفيتامين د كيتعطى عادة من 3 شهور. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الولد ديالي عندو خمس سنين كيعيا فالليل.",
+    "answer": "هذا طبيعي، ما كيدلش على مرض. ولكن إذا استمر، خاص تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "عياء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واحد الدري كينزف من لحمّام.",
+    "answer": "خاصك تشوف طبيب أطفال فهذ الحالة. يمكن يكون عندو مشكل.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش يمكن نعطيو لطفل عندو سنتين فيتامين د؟",
+    "answer": "نعم، يمكن تعطيه فيتامين د، ولكن خاصك تستاشر مع الطبيب قبل. هو مهم لصحة العظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش حليب الأم كيسبب الإسهال عند الرضيع اللي عندو 4 شهور؟",
+    "answer": "حليب الأم عادة ما كيسببش الإسهال. إذا كان كاين مشكل، خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج صفار المواليد؟",
+    "answer": "علاج صفار المواليد كيتطلب الرضاعة الطبيعية والتعرض للضوء. خاصك تراجع الطبيب إذا كانت الحالة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "صفار"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي كتعاني من الصداع ديما.",
+    "answer": "خاصنا نعرفو السبب الحقيقي للصداع. من الأفضل تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "التهاب الصدر عند الدراري الصغار.",
+    "answer": "خاصك تراجع الطبيب فالسبيطار. العلاج كيتطلب تشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "التهاب الصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كيبدا الدراري ياكلو؟",
+    "answer": "الدراري كيبداو ياكلو بعد الشهرين اللولين. خاصهم حليب الأم كأول غذاء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاج الإسهال القوي لطفل عمرو عام واحد.",
+    "answer": "العلاج كيتحدد حسب السبب. خاصك تراجع الطبيب إذا استمر الإسهال.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي ضرر من البابونج والشوش للدراري الصغار؟",
+    "answer": "ممنوع استعمالهم بزاف. خاص استشارة طبيب قبل ما تعطيهم للدراري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ممكن ترضع باش توقف؟",
+    "answer": "خاصك تستشيري طبيب الأطفال. هو اللي يقدر يساعدك فهاد الموضوع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي أحسن ماكلة للدراري الصغار؟",
+    "answer": "ماكلة ديال الدار هي الأفضل. خاص تكون متوازنة وصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الثوم كيسبب مشكل للدراري الصغار؟",
+    "answer": "ما كيسببش مشكل. الله يحفظهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ابنتي عمرها سبع سنين ونص، كلات براز فالأر.",
+    "answer": "خاص المراقبة تكون صارمة. استشيري طبيب إذا استمر الوضع.",
+    "entities": {
+      "symptoms": [
+        "كلات براز"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش نقدر نعطي حقنة ديال إيميسيت لابنتي عندها عشر سنين؟",
+    "answer": "ما كاين مشكل، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن حليب للبناء؟",
+    "answer": "حليب الأم هو الأفضل. كيعطي جميع العناصر الغذائية الضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "التبول اللاراضي عند الأطفال من 8 حتى 10 سنين.",
+    "answer": "خاص يكون مرة وحدة فاليوم. إذا تكرر، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "التبول اللاراضي"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش العسل مع الما مزيان للدراري الصغار؟",
+    "answer": "من بعد عام، ما كاين مشكل. ولكن خاص الحذر قبل هاد العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الوزن المثالي لطفل عندو عامين؟",
+    "answer": "الوزن المثالي هو بين ١٢ و ١٤ كيلوغرام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ارتفاع درجة حرارة الطفل، شنو ندير؟",
+    "answer": "خاص تعرف السبب. استشيري طبيب إذا كانت مرتفعة بزاف.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو السبب ديال الإمساك عند الدراري فعمر 6 سنين؟",
+    "answer": "الأسباب كثيرة. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو وزن طفل عندو 10 شهور؟",
+    "answer": "الوزن كيتحدد حسب وزن الولادة وعوامل أخرى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "العلاجات المهدئة كتأثر على الأطفال؟",
+    "answer": "المهدئات خاص تكون تحت إشراف طبي. استعمالها بزاف ميمكنش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عمرو شهر، وراه أخضر وكيشم ريحتو زوينا.",
+    "answer": "المعلومات ناقصة. خاص تفاصيل أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نستعملو البابونج لكحة الدراري لي عندهم 5 شهور؟",
+    "answer": "طبعاً، راه مزيان. ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "كحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طريقة تنويع الأكل للطفل؟",
+    "answer": "خاص يكون الجو هادئ مع تنغيم الأم. تنويع الأكل مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش لبنت الصغيرة كتاكل غير الما اللي كاين فالحليب ديالها؟",
+    "answer": "أه، هادشي كافي. خاص تكون تغذية متوازنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أقدر نعرف من عمر شحال تقريبا ولدي غادي يبدا يرضع؟",
+    "answer": "من السيمانة الستة، كيبدا يرضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش توقف النمو فالعشرينيات؟",
+    "answer": "سد مراكز النمو بالعظام هو السبب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من مرة خاصك ترضع الدراري لي عندو شهرين؟",
+    "answer": "خاصك ترضعو كل تلاتة لربع سوايع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من عمر خاصك تعاون الدراري فاش كيتعلمو يجربو؟",
+    "answer": "حتى يقدر يجلس بوحدو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الضغط ديال الدم عند الولاد فشهر من العمر؟",
+    "answer": "الضغط كيتراوح من 55/35 حتى ل 75/45.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الدوري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال ديال الوقت كياخد الرضاعة الطبيعية؟",
+    "answer": "تقريباً عشرة لربع دقايق لكل رضاعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي ما كيرضعش من صدره، شنو خاصني ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ما كيرضعش"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "فاش من عمر كيعطيوه الرضيع ما؟",
+    "answer": "كيعطيوه من بعد 4 ل 6 شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج التقيؤ عند الدراري؟",
+    "answer": "خاصنا نعرفو السبب. مؤقتاً، يمكن استعمال دومبيريدون.",
+    "entities": {
+      "symptoms": [
+        "التقيؤ"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش الدراري كيتسناو بزاف فالنطق؟",
+    "answer": "خاصك تعرضو على طبيب أطفال. كاين بزاف د الأسباب.",
+    "entities": {
+      "symptoms": [
+        "تأخر فالنطق"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي ولد عندو 11 شهر، واش الحليب النيض يقدر يكون ضار؟",
+    "answer": "لا، راه مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش التهاب الأذن من أعراض التسنين؟",
+    "answer": "ما كاين حتى علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأذن"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هوما الأسباب ديال التراجع عند الدراري؟",
+    "answer": "كاين بزاف د الأسباب. حسب العمر والأعراض الأخرى.",
+    "entities": {
+      "symptoms": [
+        "تراجع"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش طبيعي أن شي مرا تنتج حليبها جوج مرات فالنهار؟",
+    "answer": "نعم، هاد الشي عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش عادي لبنت تكون عندها 11 كيلو فالعمر ديالها؟",
+    "answer": "لا، خاصها وزن أكثر. من الأفضل استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان لدراري لي عندهم نقص فالحمور من الجنين؟",
+    "answer": "لا، خاص استشارة طبيب. نقص الحمور يمكن يكون خطير.",
+    "entities": {
+      "symptoms": [
+        "نقص الحمور"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش نرضع الرضيع غير بالحليب لمدة تلات شهور؟",
+    "answer": "نعم، الرضاعة الطبيعية كافية. لكن من الأفضل إدخال أطعمة أخرى بعد 6 شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال الكحة اللي ما كاتوقفش عند الدراري الصغار؟",
+    "answer": "خاص تعرف سبب الكحة. العلاج كيتحدد حسب السبب.",
+    "entities": {
+      "symptoms": [
+        "الكحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو اللي كيسرع التسنين؟",
+    "answer": "يمكن استعمال الديوكاين. خاص يكون تحت إشراف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "العلاج ديال كسر الفخد عند الدراري لي عندهم جوج سنين؟",
+    "answer": "خاص الطبيب المتخصص فالعظام يشوف الحالة. العلاج يختلف حسب الكسر.",
+    "entities": {
+      "symptoms": [
+        "كسر الفخد"
+      ],
+      "medical_field": "طب العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الوزن المثالي لطفل عمره عام و شهر؟",
+    "answer": "الوزن المثالي هو بين 9 و 12 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن نوع ديال الحليب للأطفال؟",
+    "answer": "حليب الأم هو الأفضل. الحليب الصناعي كيبقى خيار ثاني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو خاصني نعطي لولد عندو ستة شهور؟",
+    "answer": "يمكن تعطيه فاكهة وخضرة مخلطة. سيريلاك وحبوب الأرز زوينين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي دوا ديال الميسينكس للأطفال؟",
+    "answer": "كاين دوا خاص بالأطفال. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي أعراض مرض غدد المعدة عند الدراري؟",
+    "answer": "الأعراض كتشمل ألم فالمعدة وفقدان الشهية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة",
+        "فقدان الشهية"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال هو الوزن المثالي للولد لي تزاد مؤخرا؟",
+    "answer": "الوزن المثالي هو بين 2 و 4 كيلو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "السخانة العالية بلا تبريد شنو السبب؟",
+    "answer": "السخانة عندها بزاف دالأسباب، بحال الالتهابات. خاصك تشوف طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "السخانة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وزن 45 كيلو وطول 152 سنتيمتر عادي لعمر 14 عام؟",
+    "answer": "وزن 45 كيلو عادي، ولكن خاصك تراقب الصحة العامة ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج شمع الازن للرضع؟",
+    "answer": "شمع الازن ماشي مرض، ولكن إذا كان كيسبب مشاكل خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها تلات سنين كاتكح بزاف ف نعاسها.",
+    "answer": "خاصك تشوفها عند طبيب الأطفال باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "الكحة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيعاني من الإسهال لمدة سيمانة وكيحس بالحريق فكرشو.",
+    "answer": "خاصك تشوف طبيب، الإسهال لمدة طويلة خاصو اهتمام.",
+    "entities": {
+      "symptoms": [
+        "الإسهال",
+        "الحريق فكرش"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو اللبن الصناعي للرضع؟",
+    "answer": "الأنواع متشابهة، ولكن سيميلاك معروف. خاصك تختار الأنسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واحد الدراري عندو نقص فالحديد.",
+    "answer": "خاصك تعطيه مكملات الحديد وتراقب حالته.",
+    "entities": {
+      "symptoms": [
+        "نقص الحديد"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي ولد عندو أربعة شهور و تسوس.",
+    "answer": "خاصك تشوف طبيب الأسنان باش يعالج التسوس.",
+    "entities": {
+      "symptoms": [
+        "تسوس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نتعامل مع السخونة وقت استعمال الموطور؟",
+    "answer": "استعمل مسكنات الحرارة وراقب درجة الحرارة.",
+    "entities": {
+      "symptoms": [
+        "سخونة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو التهاب الأنف وحرارته 40 درجة.",
+    "answer": "خاصو يتقيم عند الطبيب باش نعطيوه العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأنف",
+        "حرارة مرتفعة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عمرها سنتين ما كتخرجش الغازات وكتكون عندها كرش مضغوطة.",
+    "answer": "خاصها تشوف طبيب الأطفال باش يشوف الحالة ديالها.",
+    "entities": {
+      "symptoms": [
+        "كرش مضغوطة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيتورط فالتبول مرة بجوج سيمانات.",
+    "answer": "خاصك تشوف الطبيب ديال الأطفال.",
+    "entities": {
+      "symptoms": [
+        "التبول المتكرر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو كيعطي للدراري باش يزيدو فالوزن؟",
+    "answer": "خاصهم ياكلو سعرات حرارية كافية. الماكلة الغنية بالبروتينات والدهون الصحية كتساعد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن حليب لولد عندو شهرين؟",
+    "answer": "حليب الأم هو الأفضل. كيوفر جميع العناصر الغذائية اللي محتاجها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيبان كيتوجع وكيجيب لي الصداع.",
+    "answer": "خاصك تعرف شحال فعمرو. إذا كان كيتوجع بزاف، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "صداع"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "فاش كيبدا الرضيع يذوق الماكلة؟",
+    "answer": "كيبدا من 4 حتى 6 شهور. خاص يكون عندو استعداد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين خطر من استعمال الكولاجين عند الدراري؟",
+    "answer": "خاص تعرف الهدف من استعماله. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي أحسن ماكلة للدراري من 6 شهور؟",
+    "answer": "الحبوب الكاملة والخضرة والفواكه الطبيعية مزيانين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو عامين وكيخرج بزاف.",
+    "answer": "خاصك تدير ليه فحص طبي. يمكن يكون عندو شي مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي صعيب عليه يعض الماكلة وعندو عشر سنين.",
+    "answer": "خاصك تراجع طبيب فوراً. يمكن يكون عندو مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "صعوبة في الأكل"
+      ],
+      "medical_field": "الصحة العامة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "مرض الكحة لمدة ست شهور.",
+    "answer": "يمكن يكون مرض فيروسي. خاص علاج الأعراض.",
+    "entities": {
+      "symptoms": [
+        "كحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نعطي لرضيع عندو 7 شهور كاس ديال لاكريم كل نهار؟",
+    "answer": "ما كاين مشكل، ولكن خاص تكون الكمية معقولة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي الفائدة من غسل الرضيع بالما المغلي ديال البصل؟",
+    "answer": "ما كينصحش بهاد الطريقة. يمكن تضر الرضيع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو كايعطي الطفل لأول مرة عندو ست شهور؟",
+    "answer": "يمكن تعطيه الزبدة مع الحليب. سيريلاك مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كا يقدر يبدا الطفل يبكي بزاف قبل النعاس؟",
+    "answer": "شحال فعمرو؟ خاص تعرف علاش كيبكي.",
+    "entities": {
+      "symptoms": [
+        "بكاء"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان تسقي الدراري بالما فالست شهور الأولى؟",
+    "answer": "لا، الحليب كافي في هاد الفترة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نقدر نحيد الغازات من لبنيتة ديالي اللي عندها شهبة بسرعة؟",
+    "answer": "خاصك تشوفي طبيب. يمكن يكون عندها مشكل في الهضم.",
+    "entities": {
+      "symptoms": [
+        "غازات"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طفلي طلع ليه السخانة ل38 درجة وهو كايعيا.",
+    "answer": "خاصك تشوف طبيب مختص. السخانة علامة على شي مشكل.",
+    "entities": {
+      "symptoms": [
+        "سخانة"
+      ],
+      "medical_field": "الصحة العامة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هوما الماكلة اللي مزيانة للدراري الصغار اللي عندهم عامين؟",
+    "answer": "الخضرة، الفاكهة، والبيض. خاصهم يتخلطو مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش المشروبات الغازية ضارة بالدراري الصغار؟",
+    "answer": "المشروبات الغازية عندها آثار سلبية على الصحة، وخصوصا للدراري الصغار. من الأفضل تجنبها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن حليب للدراري الصغار لي عندهم شهر واحد؟",
+    "answer": "أفضل حليب هو حليب الأم، إلا ماكانش، يمكن نستعملو حليب صناعي خاص بالأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نخلطو أتاي مع الحليب للدراري الصغار؟",
+    "answer": "يمكن نخلطو شوية أتاي مع الحليب، ولكن ماشي بكثرة. خاص نكونو حذرين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نعطيو لولد عندو عامين و ربع شهور كافوسيد؟",
+    "answer": "إيوا، كافوسيد مزيان لهد العمر، ولكن خاصنا نراقبو الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نعرفو واش الرضيع عندو تقوس الساقين؟",
+    "answer": "خاصك تشوف طبيب الأطفال، هو اللي يقدر يشخص الحالة. راهم عندهم طرق خاصة.",
+    "entities": {
+      "symptoms": [
+        "تقوس الساقين"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "هادي هي التصوير ديال الأشعة السينية لي درت.",
+    "answer": "إذا كانت حالة طوارئ، خاصها تتعالج فالسبيطار دابا. ما تتسناش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأشعة",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "العلاج ديال الحساسية ففصل الخريف؟",
+    "answer": "يمكن استعمال البخاخات الموسعة للقصبات أو البخاخات الكورتيزون. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش يمكن لي نعطي لولدي شوكولاتة عمرها 9 شهور؟",
+    "answer": "يمكن تعطيه، ولكن من الأفضل تجنبها في هاد العمر. خاص نكونو حذرين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندو 23 يوم وعندو ألم فالمعدة قوي.",
+    "answer": "خاصو يمشي عند طبيب الأطفال. الألم فالمعدة عند الرضع خاصو يتشاف.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش تعالج الخصيتين القفازة عند دري عندو ربع سنين؟",
+    "answer": "خاصو يمشي عند طبيب الأطفال. هو اللي يقدر يعالج الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو مستوى البوتاسيوم فالدم ديال الرضيع لي عندو 19 يوم؟",
+    "answer": "المستوى الطبيعي للبوتاسيوم فالدم كيتراوح بين 3.5 و 5.8 ميلي مول لكل لتر. خاص استشارة طبيب إذا كان عندك شي قلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن حليب للأطفال حديثي الولادة؟",
+    "answer": "حليب الأم هو الأفضل للرضع، حيث كيوفر جميع العناصر الغذائية لي محتاجينها. إذا ماكانش ممكن، كاين حليب صناعي مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من واحد الجرعة ديال فيتامين د لولد عندو عام؟",
+    "answer": "الجرعة المناسبة هي 400 وحدة دولية فالنهار. خاص تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش يمكن لي نعطي العسل لولادي؟",
+    "answer": "العسل ممكن يكون سام للأطفال تحت عامين. من الأفضل تجنبه حتى يكبروا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "مزيان تستعمل لاكتيلوز للدراري لي عندهم شهر؟",
+    "answer": "لا، من الأفضل تعرف على السبب ديال الإمساك وتعالجو بطريقة صحيحة. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "الطب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واحد الدراري عندو سبعة شهور مصاب بسعال بلا سيلان.",
+    "answer": "خاصك تشوف طبيب الأطفال، حيث السعال بلا سيلان ممكن يكون عندو أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "سعال"
+      ],
+      "medical_field": "الطب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش آمن باستعمال أدول سينوس للرضع؟",
+    "answer": "خاصك تسول طبيب قبل ما تعطيه. كاين أدوية خاصة بالرضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نخلطو جوج أنواع ديال الحليب لرضيع عندو شهرين؟",
+    "answer": "ماشي مزيان نخلطو الحليب، حيث كل نوع عندو تركيبته الخاصة. من الأفضل تستعمل نوع واحد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من مرة كيرضع الرضيع في الشهر الثاني؟",
+    "answer": "الرضيع كيرضع من 60 ل 90 ميليليتر كل 3 ل 4 ساعات. خاصك تراقب شهيته.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش البنت ديالي عمرها شهرين، وكتعطس بزاف كل نهار؟",
+    "answer": "العطس بزاف ممكن يكون عادي، ولكن خاصك تشوف طبيب إذا كان كاين شي قلق.",
+    "entities": {
+      "symptoms": [
+        "العطس"
+      ],
+      "medical_field": "الطب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش صعيب على الدراري يبرزو؟ شنو هو العلاج؟",
+    "answer": "صعوبة البروز عند الأطفال ممكن تكون طبيعية. خاصك تشوف طبيب الأطفال لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مرض التوحد كيخلي الطفل يتكلم معطل حتى لخمس سنين؟",
+    "answer": "نعم، مرض التوحد ممكن يأثر على التواصل. خاص متابعة طبية ودعم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نعطيو الحلبة لطفلة عندها ست شهور؟",
+    "answer": "خاصك تشوف الكمية. من الأفضل استشارة طبيب الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش منتجات جونسون للدراري خطيرة؟",
+    "answer": "ماشي مشكل إذا استعملتيها بشوية. خاصك تراقبي رد فعل الدراري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو كيسبب صوت القرقرة فكرش الدراري اللي عندو 3 شهور؟",
+    "answer": "غالباً غازات معوية. ما تخافيش، هادشي عادي.",
+    "entities": {
+      "symptoms": [
+        "صوت القرقرة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو ١١ شهر وما زال ما كملش الرضاعة.",
+    "answer": "خاصك تشوفي نموه مع طبيب الأطفال. الرضاعة مهمة فهاد العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو خمس شهور وكيخرج شعر.",
+    "answer": "هادشي عادي. لكن من الأفضل دير فحص عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "خروج الشعر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي دري عندو حبة فالعين و لونها حمر.",
+    "answer": "خاصك تدييه عند طبيب الأطفال. الله يشافيه.",
+    "entities": {
+      "symptoms": [
+        "حبة فالعين",
+        "لون حمر"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش يمكن لي نقدم لبنتي البيض مسلوق، راه عندها ست سنين دابا؟",
+    "answer": "يمكن تعطيها البيض المسلوق دابا. لكن خاصك تبداي بشوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البنت ديالي ما خرجاتش من نهارين هادي، واش هادشي عادي؟",
+    "answer": "أياه، هادشي عادي. لكن إذا بقات أكثر من هاد الوقت، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "ما خرجاتش"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "درّي صغير عندو سخانة و ضيق فالنفس.",
+    "answer": "خاصنا نديرو تقييم طبيب أطفال باش نعرفو الحالة. السخانة وضيق النفس خاصهم العناية.",
+    "entities": {
+      "symptoms": [
+        "سخانة",
+        "ضيق فالنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بني سبع شهور، شنو العلاج المناسب ليه؟",
+    "answer": "خاصك تشوف الطبيب ديال الأطفال باش يشخص الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش طبيعي بنتي ناعسة وكتنهد؟",
+    "answer": "نعم، طبيعي أن الطفل ينهد من وقت لآخر.",
+    "entities": {
+      "symptoms": [
+        "نعاس",
+        "تنهد"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عمر بنتي 6 شهور، شنو العصير المناسب ليها؟",
+    "answer": "من الأفضل تعطيها العصير الطبيعي بحذر، بحال عصير البرتقال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "على لقاح فايزر الجرعة الثانية، شنو خاص؟",
+    "answer": "خاص يكون كتر من 21 يوم بين الجرعات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "اللقاحات",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش نعطي لرضيع لما؟",
+    "answer": "يمكن تعطيه بعد 4 إلى 6 شهور، ولكن بكميات صغيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شهرين، عندو بقع بيضاء فالصدر.",
+    "answer": "خاصو يتشوف شي طبيب.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو تسع شهور وكيعاني من الإسهال.",
+    "answer": "خاصك تشوف الطبيب ديال الدراري.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عمرها 3 سنين وماكتقول غير 'بابا' و'ماما'.",
+    "answer": "خاصها تدخل للصبيطار باش يتشخص حالتها. الله يشافاها.",
+    "entities": {
+      "symptoms": [
+        "قلة الكلام"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الرضيع ديالي ما خرجش من المصران لمدة 9 أيام.",
+    "answer": "خاصك تمشي للطبيب. الله يشافيه.",
+    "entities": {
+      "symptoms": [
+        "عدم خروج البراز"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البنت ديالي عندها خروج أسود ورجلين حمرين.",
+    "answer": "خاصك تمشي تشوف شي طبيب أطفال. الله يهنيك.",
+    "entities": {
+      "symptoms": [
+        "خروج أسود",
+        "رجلين حمرين"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طيحت بنتي على ضهرها وعينيا مغمضيين.",
+    "answer": "من الأفضل مراجعة الطواري.",
+    "entities": {
+      "symptoms": [
+        "إغماء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش نعطي لولدي الما ديال البيض باش ياخد الكالسيوم؟",
+    "answer": "يمكن تعطيه من بعد الشهر الثامن. خاص يكون عندو تغذية متوازنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش سيتوكال مناسب لولد عندو 16 عام؟",
+    "answer": "خاصك تسول طبيب، هو لي يقدر يحدد واش مناسب ولا لا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نفرق بين حليب البقر وحليب الأم؟",
+    "answer": "حليب البقر كيتسم بغلظتو، وحليب الأم كيتكون من عناصر غذائية مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الربو عند الدراري كايتلاشى مع الوقت؟",
+    "answer": "يمكن الربو يتحسن مع الوقت، ولكن خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [
+        "الربو"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كايبدا الرضاعة عند الدراري؟",
+    "answer": "الرضاعة كاتبدأ من بعد الولادة مباشرة، وكتستمر حتى 6 شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الدرجة الحرارية ديال دري عندو 10 سنين طالعة بزاف.",
+    "answer": "خاصك تعطيه باراسيتامول كل 6 ساعات، وراقب درجة الحرارة.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش العسل مزيان للدراري لي عندهم شهراين؟",
+    "answer": "ماشي مزيان، العسل يمكن يكون خطر على الدراري الصغار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش التهاب الدماغ عند دري عندو خمس شهور كيتعتبر مرض خطير؟",
+    "answer": "نعم، التهاب الدماغ مرض خطير خاصو علاج فوري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الأسباب ديال وجود الحصى في المرارة عند الأطفال.",
+    "answer": "الحصى فالمعدة كيمكن تكون بسبب التهاب أو مشاكل فالكبد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البنت ديالي عندها مشكل فالتقاشر.",
+    "answer": "خاصك تديها لطبيب الأطفال باش يدير فحص سريري.",
+    "entities": {
+      "symptoms": [
+        "تقشر الجلد"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ممكن تعطيني اسم دوا ديال التهاب السحايا لي عندو غير 3 سنين؟",
+    "answer": "خاصك تسول طبيب الأطفال، هو لي يقدر يحدد الدواء المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ممكن تعطيني معلومات على كيفاش نزرع الحصبة جوج مرات؟",
+    "answer": "خاصك تسول طبيب، هو لي يقدر يعطيك المعلومات الصحيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش يمكن ليا نبدل ليه الرضاعة؟",
+    "answer": "يمكن تبدل الرضاعة من بعد عام، ولكن خاص تكون عندك استشارة مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو سؤالك على الإمساك عند الرضيع؟",
+    "answer": "الإمساك عند حديثي الولادة كيتطلب استشارة طبيب. خاص الطبيب يشوف الحالة ويعطي العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 5 أسابيع وكيعاني من بزاف ديال الأمراض.",
+    "answer": "خاصك تراجع طبيب الأطفال دابا. الله يرحمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش نقدر نغلسو الرضيع اللي عندو شهرين؟",
+    "answer": "نعم، يمكن. ولكن خاصك تكوني حذرة وتراقبي الرضيع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي ولد عندو 13 شهر كياكل التراب، شنو السبب؟",
+    "answer": "يمكن يكون عندو نقص في عنصر الحديد. خاصك تشوفي طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "أكل التراب"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "اليانسون مزيان للدراري الصغار؟",
+    "answer": "حتى الست شهور، ما خاصكش تعطيه لهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاج حبوب الوجه ديال ولدي اللي عندو 6 سنين؟",
+    "answer": "العلاج كيتحدد بعد الفحص السريري. خاصك تراجعي طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حبوب الوجه"
+      ],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 8 شهور ومازال ما كيعرفش يمشي، واش هادشي عادي؟",
+    "answer": "نعم، كل طفل عندو وقته. ولكن إذا كان عندك قلق، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "عدم المشي"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 8 شهور وكيسعل وكيتقيا وعندو سخانة.",
+    "answer": "خاصك تراجعي طبيب الأطفال. هاد الأعراض خاصها اهتمام.",
+    "entities": {
+      "symptoms": [
+        "السعال",
+        "التقيؤ",
+        "السخانة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش هادا تسنين؟ عندو 10 شهور.",
+    "answer": "أعراض التسنين كتبدا من الشهر الرابع. إذا كان عندو ألم، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "أعراض التسنين"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج الهرموني للخصية المهاجرة عند الدراري؟",
+    "answer": "ما كاينش علاج هرموني خاص بهاد الحالة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "الخصية المهاجرة"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من يانسون نعطي لرضيع حديث الولادة؟",
+    "answer": "ماشي مزيان نعطيه يانسون لرضيع. خاص ننتظرو حتى يكبر شوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عادي نعطي لولدي 11 شهر هستوب للنوم؟",
+    "answer": "ماشي مزيان نعطيه هستوب. هاد الدواء ممنوع للأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش حليب نيدو مزيان لولد عندو 11 شهر؟",
+    "answer": "حليب نيدو مزيان بعد العامين. خاصو حليب خاص للأطفال الصغار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش ولدي ما قدرش يمشي وهو عندو 8 سنين؟",
+    "answer": "خاصو يمشي عند طبيب الأطفال. يمكن يكون عندو مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "عدم القدرة على المشي"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نعرف واش ولدي مصاب بالتوحد؟",
+    "answer": "خاصك تراقبي سلوكياتو. من الأفضل تستشيري طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "التوحد"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الوزن المناسب لولد عندو سبع شهور؟",
+    "answer": "الوزن العادي هو بين 6 و 9 كيلو. خاص استشارة طبيب إذا كان الوزن بعيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كاين دابا علاج لمرض زلال الكلى عند الدراري الصغار؟",
+    "answer": "خاصك تتابعي مع طبيب الأطفال. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "زلال الكلى"
+      ],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من كاس ديال الخلعة نقدر نعطي لولدي عندو عام ونص؟",
+    "answer": "خاصك تشوف الطبيب باش يحدد الجرعة المناسبة حسب وزن الطفل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي دراري عندو 6 شهور وكيبكي بلّيل.",
+    "answer": "خاصك تشوف الطبيب ديال الدراري باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "البكاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي الأطعمة والرياضات اللي كتحسن النطق؟",
+    "answer": "مركز النطق والسمع كيساعد فالتدريب على تحسين النطق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش هاد الشوربة مزيانة لابنتي فعمرو ست شهور؟",
+    "answer": "خاصك تشاور طبيب الأطفال قبل ما تعطيها أي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن علاج للسهل عند الدراري؟",
+    "answer": "العلاج هو تعويض السوائل وفحص البراز عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "السهل"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كايتزاد الوزن ديال المولود اللي مصاب بمرض الكساح؟",
+    "answer": "ماشي بالضرورة غادي يزيد الوزن بشكل طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيعاني من ارتفاع السخانة مع البرودة في الرجلين.",
+    "answer": "خاصك تشوف الطبيب ديال الدراري باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع السخانة",
+        "البرودة في الرجلين"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي ماكلة كتخلي الواحد يكون ذكي؟",
+    "answer": "الماكلة اللي فيها فصوص كيمكن تساعد على التركيز.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش صحيح أن البكاء ديال الدراري يقدر يضرهم؟",
+    "answer": "ما كاينش مشكل فالبكاء، هو جزء من نموهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ارتفاع السكر عند الدراري كيجيب الرجفة؟",
+    "answer": "نعم، ارتفاع السكر يمكن يسبب الرجفة، خاصك تراقب النسبة.",
+    "entities": {
+      "symptoms": [
+        "الرجفة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش بودرة الأطفال جونسون خطيرة؟",
+    "answer": "ماشي ضرر من استعمالها، ولكن خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش قلة شرب الماء عند الرضيع ممكن تسبب الحول؟",
+    "answer": "ما كاينش بحال هادشي، ولكن خاص الرضيع يشرب الماء الكافي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وصفير لطفل عندو سبع سنين.",
+    "answer": "خاصك تشوف طبيب الأطفال باش يعرف السبب ديال الصفار. الله يشافي.",
+    "entities": {
+      "symptoms": [
+        "الصفار"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نستعمل الاندوكتان للرضع؟",
+    "answer": "خاصك تستاشر مع طبيب الأطفال قبل ما تعطيه. كل حالة عندها خصوصياتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين فرق بين الخلع الطبيعي والخلع الجراحي؟",
+    "answer": "الخلع الطبيعي كيتعالج بطرق بسيطة، أما الجراحي كيتطلب تدخل طبي. خاصك تشوف الطبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش كيحمر ليا وجهي هاد لبنت ديالي عندها تسعة شهور؟",
+    "answer": "يمكن يكون عندها حساسية أو التهاب. خاصك تشوفها عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "احمرار الوجه"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بغيت شي دوا ديال البريون ل بنت عندها 2 سنين.",
+    "answer": "خاصها الفيتامينات مع السيلينيوم والزنك. استاشر مع طبيب الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو ربع شهور و كيتقيأ بزاف، شنو خاصني ندير؟",
+    "answer": "خاصك تتابع مع طبيب الأطفال. القيء بزاف يمكن يكون علامة على مشكلة.",
+    "entities": {
+      "symptoms": [
+        "قيء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو اللي كيسبب لبشرة ديال الدراري الصغار اللي عندهم 6 شهور لونهم أصفر؟",
+    "answer": "يمكن يكون عندهم يرقان. خاصك تشوف الحالة عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "لون أصفر في البشرة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الحليب المناسب لطفل عندو 6 شهور و عندو ارتجاع؟",
+    "answer": "خاصك تستاشر مع طبيب الأطفال. كاين حليب خاص بالارتجاع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عمرو عام ونص دخل الشامبوان فعيونه.",
+    "answer": "خاصك تغسلو غير بالما. إذا كان الألم مستمر، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش يمكن لي نبدل نوع الحليب لولد عندو تلت شهور؟",
+    "answer": "يمكن تبدل ولكن خاصك تستاشر مع طبيب الأطفال. كل طفل عندو احتياجات خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "مرحبا، واش التسنين عند الدراري كيسبب ارتفاع في درجة الحرارة؟",
+    "answer": "نعم، التسنين يمكن يسبب حرارة خفيفة. إذا كانت الحرارة مرتفعة بزاف، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع في درجة الحرارة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البنت ديالي طاحت و من بعد دقيقة رجعت ليه و لقيتو خطير.",
+    "answer": "خاصك تشوف طبيب الجراحة. يمكن يكون عندها إصابة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو عشرين كيلو فشهر تمنية، واش هادشي معقول؟",
+    "answer": "إذا كان وزنه مناسب لطوله، راه معقول. خاصك تتابع مع طبيب الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيعاني من الربو بسبب الحليب.",
+    "answer": "خاصو يمشي عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "الربو"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولد عندو تسعة شهور وماعندوش البريز.",
+    "answer": "خاصو يمشي عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "ما عندوش البريز"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيعاني من الغازات والقيء هادي سيمانة.",
+    "answer": "خاصو يمشي عند طبيب الأطفال. الله يشافيه.",
+    "entities": {
+      "symptoms": [
+        "الغازات",
+        "القيء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الطفل ديالي عندو ست شهور وكيسرب 120 قرعة حليب ووزنو 6300 غرام.",
+    "answer": "هو ضعيف وخاصو يتغذي مزيان.",
+    "entities": {
+      "symptoms": [
+        "ضعف"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي حبوب على الخدين عند طفل رضيع عمره 3 شهور.",
+    "answer": "خاصو يمشي عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "حبوب على الخدين"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو غادي يوقع إلا شرب الطفل الجلسرين؟",
+    "answer": "خاصك تسول طبيب الأطفال على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو عام وكيشوف ضلام فالعين من لفوق.",
+    "answer": "خاصك تشوف الطبيب ديال الدراري.",
+    "entities": {
+      "symptoms": [
+        "مشاكل في الرؤية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو الماكلة الصحية لرضيع عندو 7 شهور؟",
+    "answer": "سيريلاك، حبوب القمح ولا الأرز، وخضرة مقطعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها ربع شهور وعيونها اليسرى كيتحركو.",
+    "answer": "خاصك تشوف طبيب العيون باش يتأكد من التشخيص.",
+    "entities": {
+      "symptoms": [
+        "تحرك العيون"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش نقص فيتامين د كيأثر على نمو الرضيع؟",
+    "answer": "نعم، نقص فيتامين د كيأثر على النمو والطول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن مضاد حيوي للبشرة ديال الدراري؟",
+    "answer": "الأسيد الفوسيدي مزيان للبشرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي سؤال على علاج بياض القرنية عند دري عندو شهر.",
+    "answer": "خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "بياض القرنية"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البراز ديال ولدي كيبان قبيح وكيشم ريحتو قاسحة.",
+    "answer": "خاص تسول طبيب الأطفال على هاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "براز قبيح",
+        "ريحة قاسحة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هوما الخصائص ديال مرض التوحد؟",
+    "answer": "مرض التوحد عندو بزاف ديال الخصائص، ولكن خاص التشخيص يكون عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نزيد من كثافة شعر بنتي الرضع؟",
+    "answer": "غادي يزيد الشعر مع الوقت، خاص الصبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عطس بزاف و بدا كيهضر بزاف.",
+    "answer": "خاصو يشرب نقطة ماء مالحا ومشروبات دافيا.",
+    "entities": {
+      "symptoms": [
+        "عطس",
+        "كثرة الكلام"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "العلاج ديال الربو عند الدراري.",
+    "answer": "العلاج كيعتمد على الحالة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الربو"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو عام وشهر وكنعاني معاه باش ينعس.",
+    "answer": "خاصك تشوف الطبيب ديال الدراري.",
+    "entities": {
+      "symptoms": [
+        "صعوبة في النوم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش يمكن تقترح شي دوا على الدراري لي عندو 8 أيام و عندو حمى قليلة؟",
+    "answer": "خاصنا نمشيو للسبيطار باش يشوفو الحالة مزيان.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاج السعال عند الدراري الصغار شنو هو؟",
+    "answer": "العلاج كيتحدد حسب التشخيص. خاص طبيب الأطفال يدير الفحص.",
+    "entities": {
+      "symptoms": [
+        "سعال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو السبب لي كيسبب مرض الصفار عند الولادة؟",
+    "answer": "كاين بزاف د الأسباب، خاص طبيب يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "مرض الصفار"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 8.200 غرام فعمرو عشر شهور، واش هادشي عادي؟",
+    "answer": "نعم، الوزن مزيان وكيعتبر عادي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الدوا لي كيتعطى للدراري الصغار باش يحلو ليهم السعال؟",
+    "answer": "يمكن تعطيهم سكر البولمدريين تلاتة ملاعق كبار مرتين فالنهار.",
+    "entities": {
+      "symptoms": [
+        "سعال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الرضيع عندو لون براز أصفر فاتح فعمرو شهر، واش هادشي عادي؟",
+    "answer": "هادي حالة طبيعية حيت كيعتمد على الحليب.",
+    "entities": {
+      "symptoms": [
+        "براز أصفر فاتح"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي ولد عندو خمسين يوم، وكيبكي بزاف. شنو هو العلاج؟",
+    "answer": "خاصنا نشوفو الحالة مزيان باش نعرفو العلاج.",
+    "entities": {
+      "symptoms": [
+        "بكاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نبدا نقدم لولدي ماكلة؟",
+    "answer": "يمكن تبدأي بسيريلاك القمح ولا الروز من الشهر السادس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أحسن طرق العناية بشعر الرضع شنو هي؟",
+    "answer": "غسل الشعر بالما الدافي واستعمال شامبو خاص بالدراري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها خمس شهور ومازال ما بغات تجلس، شنو ندير؟",
+    "answer": "خاصك تصبري شوية، كل طفل عندو وقته. إذا ما جابتش نتيجة، استشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "تولدت بنت صفرة، شحال عمرها؟",
+    "answer": "عمرها كيبان من التحليل. خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "صفرة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندو ولدو فالبداية ديال الشهر الخامس، شنو الغذاء المناسب ليه؟",
+    "answer": "في هاد المرحلة، الرضاعة الطبيعية هي الأفضل. يمكن تزيدي له بعض الأطعمة المهروسة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها 4 سنين وعندها الغدة الدرقية، شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب مختص في الغدد. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [
+        "الغدة الدرقية"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي ولد عندو ثلاث سنين وما كيمشي ولا كيهضر، شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب أطفال، هادشي ماشي طبيعي. يمكن يكون عندو تأخر في النمو.",
+    "entities": {
+      "symptoms": [
+        "ما كيمشي",
+        "ما كيهضر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش المرا اللي عندها السمنة تقدر تاكل باراسيتامول؟",
+    "answer": "خاص يكون تحت إشراف طبيب، والجرعة خاصها تكون مناسبة.",
+    "entities": {
+      "symptoms": [
+        "السمنة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو يمكن نستعمل بدل بودرة التلك؟",
+    "answer": "كريمات الزنك يمكن تكون بديل جيد. خاصك تختاري منتج آمن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال الإسهال عند الدراري؟",
+    "answer": "أهم حاجة هي تحليل البراز. خاصك تشوفي طبيب إذا استمر الإسهال.",
+    "entities": {
+      "symptoms": [
+        "الإسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش آمن نعطيو اللقاح ديال كوفيد-١٩ للدراري لي عندهم سبع شهور؟",
+    "answer": "خاصك تسولي طبيب، اللقاح كيتطلب تقييم الحالة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي الآثار الجانبية ديال تعريض الطفل للما السخون والبارد ملي كيرضع؟",
+    "answer": "ما كاين حتى ضرر، ولكن خاصك تحافظي على درجة حرارة مناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش البروفيران كيسبب الهلع ولا الكوابيس عند الدراري؟",
+    "answer": "خاصو يتعطى غير ملي يكون محتاج ليه. من الأفضل استشارة طبيب قبل ما تعطيه للولد.",
+    "entities": {
+      "symptoms": [
+        "هلع",
+        "كوابيس"
+      ],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من نهار باش كاتعافى من الداء المعدي؟",
+    "answer": "غادي يكون عندك التحاليل ديالك من بعد جوج سيمانات من العلاج. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي طولو 55 سنتيمتر و كيوزن 6 كيلو. واش هادشي عادي؟",
+    "answer": "أه، هادشي عادي. ولكن خاصك تراقب النمو ديالو مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كايتعطى فيتامين د للرضع؟",
+    "answer": "نعم، كاين فيتامين د اللي خاص يتعطى للرضع من الولادة. خاص يكون تحت إشراف طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البشرة ديال بنتي عندها 4 شهور وبدات كتظهر عليها حبوب حمرا. شنو ندير؟",
+    "answer": "خاصك تراجعي طبيب الجلد. ممكن تكون عندها حساسية أو التهاب.",
+    "entities": {
+      "symptoms": [
+        "حبوب حمرا"
+      ],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش فيدروب مناسب لطفل عندو تلات شهور؟",
+    "answer": "نعم، فيتامين د فيدروب مناسب. ولكن خاصك تتبعي الجرعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو أربعة سنين وعندو إسهال، شنو نعطي ليه؟",
+    "answer": "ماتعطيه حتى حاجة بلا ما تشاور مع الطبيب. السلامة أولا.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شهرين وراه متقطع.",
+    "answer": "خاصو يتفحص عند طبيب الأطفال باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو العلاج ديال الإسهال عند الدراري؟",
+    "answer": "العلاج كيعتمد على الحالة. ممكن تحليل البراز لاستبعاد الطفيليات.",
+    "entities": {
+      "symptoms": [
+        "إسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الرضيع يقدر ياكل السيرلاك من بعد شهر؟",
+    "answer": "من الأفضل نبدأو من بعد ست شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "غير حركو و قال لي شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب فأقرب وقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كاين شي تحليل لمتلازمة أوسمان للدراري؟",
+    "answer": "غير تيستي الجينات، والمرض ماكيتكررش بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عطيه حليب البيبي وقلّب واش زاد فيه الدهون؟",
+    "answer": "بداي بتقديم الوجبات ليه فهاد العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وزن طفل عمره سنة وسبع شهور عادي؟",
+    "answer": "إذا كان فوق المستوى العادي، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي وجع فالودن ديالي.",
+    "answer": "يمكن يكون التهاب، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالودن"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الولد كان عندو ربع شهور ملي تلاح شعرو.",
+    "answer": "الله يسهل عليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الززجة لي كتخرج من فم الرضيع لي عندو شهر وعندو السخانة.",
+    "answer": "خاصك تشوف الطبيب ديالو.",
+    "entities": {
+      "symptoms": [
+        "سخانة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البارح بكا بزاف.",
+    "answer": "خاصنا معلومات أكثر باش نعرفو واش هاد الشي صحيح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كاين واحد الجرحة فالصدر عند بنتي شهرين ونص.",
+    "answer": "خاصك تشوف الطبيب باش يتأكد.",
+    "entities": {
+      "symptoms": [
+        "جرحة فالصدر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال البلغم عند دري عندو شهر؟",
+    "answer": "ما كاينش علاج بلا تشخيص. خاص فحص.",
+    "entities": {
+      "symptoms": [
+        "بلغم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الطفل عندو ستة شهور.",
+    "answer": "الماكلة الطبيعية غادي تعاونك بإذن الله.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شهرين وعندو صبعان مقلوبين فاليمين.",
+    "answer": "خاصني ندير استشارة مع طبيب العظام.",
+    "entities": {
+      "symptoms": [
+        "صباع مقلوب"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نعرفو واش الرضيع عندو حساسية من اللاكتوز؟",
+    "answer": "كيتحسس من بعد ما كناكلو الحليب.",
+    "entities": {
+      "symptoms": [
+        "حساسية من اللاكتوز"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بعد ما جاني الحريق والالتهاب فالرجلين، شنو خاصني ندير؟",
+    "answer": "خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "حريق",
+        "التهاب"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو اللي خالع ليا ولدي اللي عندو عامين ونص؟",
+    "answer": "السبب الأكثر شيوعا هو وجود الحماية الانفية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الفقر يقدر يأثر على أي طفل.",
+    "answer": "يأثر على معظم وظائف الجسم، خصوصا العظام والنمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عافاك، كيفاش نقدر نفهم التقرير؟",
+    "answer": "خاصك تشوف طبيب الأطفال باش يشرح ليك كلشي. هو اللي غادي يوجهك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الرضيع عندو شهرين وكيحول عينو، واش هادشي عادي؟",
+    "answer": "كيكون عادي فهاد العمر، ولكن خاصك تراقب الوضعية. إذا تكررات، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تحويل العين"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الغذاء المناسب لطفل عندو 8 شهور؟",
+    "answer": "يمكن تعطيه مخلطات من الخضار والفواكه. العسل مزيان ولكن بعد عام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ممكن يتحيد ليه ضرس لولد عندو 3 سنين؟",
+    "answer": "إذا كان الطبيب كيشوف أن الحالة تستدعي، ماكاين حتى مشكل. خاصك تتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي أفضل وجبات غذائية لطفل عمره سنة؟",
+    "answer": "خاصو يشرب الحليب ويأكل خضار وفواكه. كلشي خاصو يكون متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 4 سنين و كيوزن 18 كيلو، واش هادشي عادي؟",
+    "answer": "الوزن عادي بالنسبة لعمره. خاصك تراقب نموه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من نهار باش يتعافى الطفل من الكحة؟",
+    "answer": "غالبا بين خمسة وسبعة أيام. خاصك تراقب حالته.",
+    "entities": {
+      "symptoms": [
+        "الكحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش التعرق كيأثر على كمية البول عند الدراري الصغار؟",
+    "answer": "نعم، التعرق كيزيد من فقدان السوائل. خاصك تراقب شربهم للماء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو حسن نبدأو مع الدراري الصغار، الجزر المسلوق ولا الروز المسلوق؟",
+    "answer": "الأحسن نبدأو بالروز المسلوق لأنه سهل الهضم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي الأعراض الجانبية ديال دوا (ساب) للدراري الصغار؟",
+    "answer": "الأعراض الجانبية تختلف من طفل لآخر، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو بقع بيضاء ف الجسم.",
+    "answer": "خاصك تدييه للطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضاء"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "سلام، واش كاين شي ضرر من دوا بيبي كال لولدي؟",
+    "answer": "ما كننصحش به، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عمرها ست شهور، كيعطيها الرز الأزرق مع الكاس.",
+    "answer": "خاصك تعطيها الرز بشوية، ما تضغطش عليها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي خطر على دري عندو شهرين باش ياخد الطيارة؟",
+    "answer": "لا، ما كاينش خطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي مصاب بالرمد وعمره أربعة شهور، شنو هو العلاج المناسب؟",
+    "answer": "خاصك تعطيه 30 غرام يومياً، ولكن استاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "الرمد"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش البنسلين خطير على الطفل لي عندها ستة شهور؟",
+    "answer": "إلا كان كاين شي سبب، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي أسباب الإمساك عند الدراري الصغار؟",
+    "answer": "كاين بزاف د الأسباب، خاص الطبيب يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "الإمساك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي دوا للنيف يعالج الحساسية عند الدراري؟",
+    "answer": "نعم، كاين علاج لتهدئة الحساسية.",
+    "entities": {
+      "symptoms": [
+        "حساسية الجلد"
+      ],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها عشر شهور وهي ضعيفة البنية.",
+    "answer": "شنو هو وزنها؟ خاصك تراقب صحتها.",
+    "entities": {
+      "symptoms": [
+        "ضعف البنية"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ظهور البقع الحمرا فخد الطفل والعلاج ديالها.",
+    "answer": "العلاج كيتحدد حسب التشخيص، خاصك تدييه للطبيب.",
+    "entities": {
+      "symptoms": [
+        "بقع حمراء"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال الرضاعة الطبيعية عند الرضع؟",
+    "answer": "العلاج يعتمد على السبب، المهم هو الاستمرارية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيعوم فالما فيه الرملة وعندو عام ونص.",
+    "answer": "خاصك تراقبوه مزيان ملي كيتلعب. يمكن يتبلع شي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الدوا سولو برايد أورو 20 ملغ مزيان للرضاعة؟",
+    "answer": "خاصك تعرفي السميتو العلمي باش نقدروا نجاوبوك مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصيدلة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الوزن الطبيعي ديال الطفل عند الولادة؟",
+    "answer": "الوزن الطبيعي كيتراوح بين 2.5 كيلوغرام و4 كيلوغرام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واحد الدراري عندو 8 سنين كايتقيي ملي كاياكل.",
+    "answer": "خاصك تشوف شي طبيب أطفال باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "قيء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو سبب ارتفاع درجة حرارة الطفل لي عندو شهرين؟",
+    "answer": "كاين بزاف د الأسباب، خاصك تشاور مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ممكن تقيء الطفل كل مرة كياكل الحليب؟",
+    "answer": "يمكن تكون عندو حساسية للحليب. خاصك تشوفي الطبيب.",
+    "entities": {
+      "symptoms": [
+        "قيء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو عامين ومازال كيحصل على البول ديالو وكيخرج منو ريحة قوية.",
+    "answer": "خاصنا نديرو تحليل ديال الخروج باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "رائحة قوية للبول"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاج إمساك الأطفال الرضع.",
+    "answer": "خاص الاستشارة مع الطبيب بعد ما نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "إمساك"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها ديدان، شنو ندير؟",
+    "answer": "خاصك تشوفي طبيب الأطفال. العلاج الأولي هو الفيرموكس.",
+    "entities": {
+      "symptoms": [
+        "ديدان"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي دراري عندهم كحة قوية، شنو ندير؟",
+    "answer": "خاصهم يتعرضو لطبيب الأطفال. يمكن يكون عندهم شي مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "كحة قوية"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي أحسن ماكلة لولد عندو 3 سنين؟",
+    "answer": "خاصو ياكل الخضرة والفواكه واللحم. هادشي كيساعد على النمو ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو خمس شهور، كيشرب الما المالح، واش عادي؟",
+    "answer": "ماشي مزيان، خاصو يشرب الما العادي. الما المالح ماشي مناسب لهاد العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو سبعة شهور، شنو نقدر نعطيه؟",
+    "answer": "يمكن تعطيه القطرات ديال الما والباراسيتامول إذا كان محتاج. خاصك تسولي طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي درجة الحرارة الطبيعية لطفل عندو 4 شهور؟",
+    "answer": "الدرجة الطبيعية هي بين 36.2 و 36.7. خاصك تراقبيها مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن مشروب للأطفال لي عندهم 8 شهور؟",
+    "answer": "يمكن تعطيهم فيتامين سي وشراب الحديد. هادشي مفيد لصحتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو رجلين باردين بزاف، شنو ندير؟",
+    "answer": "خاصك تراقبي الحرارة ديالو. إذا كانت مرتفعة، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "رجلين باردين"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ابنتي عندها شهرين وكتعاني من الكحلة والزكام، شنو ندير؟",
+    "answer": "خاصها تتشافى عند طبيب الأطفال. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [
+        "كحلة",
+        "زكام"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو التطعيم الرابع وكيحس بسخونية، واش عادي؟",
+    "answer": "نعم، هادشي عادي بعد التطعيم. خاصك تراقبي الحرارة ديالو.",
+    "entities": {
+      "symptoms": [
+        "سخونية"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن طريقة باش نحيدو آثار الحروق عند الدراري؟",
+    "answer": "خاصك تستشيري طبيب. العلاج كيتطلب عناية خاصة.",
+    "entities": {
+      "symptoms": [
+        "آثار الحروق"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي ولد عندو ست شهور وعندو فتح في الشريان، شنو ندير؟",
+    "answer": "خاصك تراجعي طبيب قلب الأطفال. هاد الحالة تحتاج متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو اللي كيخلي شي درري صغير يبكى بزاف وعندو حمى؟",
+    "answer": "خاصك تشوفي طبيب الأطفال. الحمى يمكن تكون علامة على مرض.",
+    "entities": {
+      "symptoms": [
+        "يبكى بزاف",
+        "حمى"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو اللي حسن للمولودين، الحليب البري ولا المعلب؟",
+    "answer": "الرضاعة الطبيعية هي الأحسن. كتعطيهم المناعة اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شهرين ومازال كيحرك بزاف، شنو السبب؟",
+    "answer": "عافاك عيط للطبيب ديالو باش يمشي للفحص. خاصو يتبع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدت بنت هادي خمسة أيام وعينيها صفرين.",
+    "answer": "سلامتك. خاصك تتأكد من نسبة الصفار في الدم.",
+    "entities": {
+      "symptoms": [
+        "صفار"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الدراري عندو 4 شهور وهو كايبكي بزاف من نهار تزاد.",
+    "answer": "مغص الرضع كيتكرر بزاف و كيسبب القلق. كيتلاشى بشوية.",
+    "entities": {
+      "symptoms": [
+        "بكاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الدراري كياكلو التراب.",
+    "answer": "خاصنا نديرو ليه فحص الدم باش نشوفو واش عندو قلة الحديد.",
+    "entities": {
+      "symptoms": [
+        "قلة الحديد"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيعاني من ألم في المعدة والصدر والراس.",
+    "answer": "خاصو يمشي عند طبيب الأطفال. الله يشافيه.",
+    "entities": {
+      "symptoms": [
+        "ألم في المعدة",
+        "ألم في الصدر",
+        "ألم في الرأس"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طفلي عندو تسعة شهور، وباين ليه أملاح خارجين مع البول.",
+    "answer": "ما تقلقش، ولكن عافاك تحقق من البول.",
+    "entities": {
+      "symptoms": [
+        "أملاح في البول"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش التبرز بعد كل رضاعة كيأثر على وزن الطفل؟",
+    "answer": "لا، إلا كان عندها رضاعة مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو السبب ديال الألم اللي كيوجع الطفل بزاف؟",
+    "answer": "الألم عند الأطفال ممكن يكون بسبب بزاف ديال الحوايج. خاصك تشوف طبيب الأطفال باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "الألم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو تلت سنين و كيبغي ياكل بزاف ولكن راه ضعيف و عندو جلد صفر.",
+    "answer": "خاصك تشوف طبيب الأطفال باش يحدد الحالة. يمكن يكون عندو نقص في الفيتامينات.",
+    "entities": {
+      "symptoms": [
+        "ضعيف",
+        "جلد صفر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش غادي تبدا تسبيح ولدي بعد الختان ديالو اللي كان هادي شهراين ونص؟",
+    "answer": "يمكن تبدا تسبيح من بعد ما تصلح الجرح. خاصك تتأكدي من الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش الدراري الصغار كيتصابو بالاملاح عندهم 8 شهور؟",
+    "answer": "يمكن يكون بسبب التغدية. خاصنا نديرو تحليل بول.",
+    "entities": {
+      "symptoms": [
+        "الاملاح"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش العسل مزيان ولا خايب للرضيع لي عندو 5 1/2 شهر؟",
+    "answer": "العسل ماشي مزيان للرضع قبل عامين. خاصك تستني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو عام ونص وكيعاني من الصداع والغثيان.",
+    "answer": "خاصك تشوف الطبيب ديال الدراري. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "الصداع",
+        "الغثيان"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ابنتي عندها سبعة شهور دابا. فوقتاش يمكن لي نقدم لابنتي البيض؟",
+    "answer": "يمكن لك تقدمي البيض من الشهرين الجايين. خاصك تبداي بشوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شقوق فالفم، شنو ندير؟",
+    "answer": "خاصك تعطيه مرطب بحال الفازلين. هادشي غادي يعاون على الشقوق.",
+    "entities": {
+      "symptoms": [
+        "شقوق فالفم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عمرها شهرين و7 أيام، واش عادي ما كاتبلعش بريقها؟",
+    "answer": "ماكاين حتى مشكل، هادشي عادي فهاد العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نقدر نزيد من مناعة ولادي؟",
+    "answer": "خصهم ياكلو ماكلة متوازنة ويكونو معرضين للعوامل الطبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيمشي للمرحاض بزاف، كل ساعة، شنو ندير؟",
+    "answer": "خاصك تدير تحليل دورة الدم وتراقب الوزن ديالو.",
+    "entities": {
+      "symptoms": [
+        "كثرة التبول"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين خطر فاش ناكل البلح فواحد الشهر واحد؟",
+    "answer": "أه، كاين خطر، خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو علاج حمى النيل عند دري عندو عام؟",
+    "answer": "خصو يلبس حوايج قطنية، والدوش السخون كل نهار.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش ولدي مابقاش كياكل وكيحس بالجوع؟",
+    "answer": "خاصك تشوف طبيب الأطفال باش يعرف السبب. الحالة الصحية مهمة.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشهية"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال الديدان عند دري عندو خمس سنين؟",
+    "answer": "كاين دوا خاص للديدان بحال ميبندازول. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ديدان"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش كايعالجو التهاب المؤخره عند الرضيع؟",
+    "answer": "خاصك تشوف طبيب أطفال باش يعطيك العلاج المناسب. التنظيف مهم.",
+    "entities": {
+      "symptoms": [
+        "التهاب المؤخرة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أشناهو أحسن زيت للشعر ديال بنت عندها سبعة شهور؟",
+    "answer": "استعمل غير المنتجات المصممة للأطفال. خاص تكون طبيعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش طفل صغير كيبكي بزاف و كيرجع الطعام؟",
+    "answer": "يمكن يكون عندو ضعف فعضلات البطن. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "بكاء",
+        "قيء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نعطيو سولبيريد لولد عندو التوحد فعمرو ست سنين؟",
+    "answer": "ماتعطيش شي دواء بلا ما تشاور مع الطبيب. السلامة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها مشاكل فالتخسير ومازال عندها 8 شهور.",
+    "answer": "استعملي المرطبات و نظفي المنطقة مزيان. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "مشاكل التخسير"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أحسن علاج للتسلخات عند الأطفال حديثي الولادة؟",
+    "answer": "استعمال زيت الأطفال أو مرطب خاص. خاص تنظيف المنطقة.",
+    "entities": {
+      "symptoms": [
+        "تسلخات"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البراز ديال الدراري الصغار أخضر ومخاط.",
+    "answer": "خاص يتراقب الوضع. يمكن يكون عندو التهاب. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "براز أخضر",
+        "مخاط"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نعطي لولدي، اللي عندو خمس شهور، شوية د لفتات د الخبز و لبسكويت مع لحليب؟",
+    "answer": "أحسن حاجة هي نعتمدو غير على الحليب. الغذاء المتوازن مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو الماكلة المزيانة لولد عندو 4 شهور؟",
+    "answer": "الحليب مزيان حتى الشهر الخامس. من بعد، تقدر تزيد له الماكلة الصلبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الحليب البقري كيزيد التوتر عند الطفل؟",
+    "answer": "ما كاينش دليل على أن الحليب البقري كيزيد التوتر. خاصك تراقب رد فعل الطفل.",
+    "entities": {
+      "symptoms": [
+        "التوتر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طفلة عندها تورم فالأطراف، شنو السبب؟",
+    "answer": "خاصها تتفحص عند طبيب الأطفال. التورم ممكن يكون عندو أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولد عندو 9 سنين كايعاني من المغص والسخونية، شنو ندير؟",
+    "answer": "خاصه يزور طبيب الأطفال. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "المغص",
+        "السخونية"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الدوا ديال النعاس كيتعطى للدراري الصغار؟",
+    "answer": "مكيصحش تعطيه للدراري تحت عامين. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو ندير ملي كتبدا سنان الطفل كتكبر؟",
+    "answer": "عطيه مسكن للألم بحال باراسيتامول. وخلي طبيب الأطفال يشوفه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها ثلاث سنين وماكلتش بزاف، شنو ندير؟",
+    "answer": "حاول تعطيها أكلات مفضلة عندها. إذا استمر المشكل، استشيري طبيب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فشهية الماكلة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو ندير إذا كان عندي حبوب فوجه الرضيع؟",
+    "answer": "استعمل مرطبات مناسبة للأطفال. إذا زادت الحالة، خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش نقدر نزيد فانيليا مع الحليب ديال الدراري الصغار؟",
+    "answer": "إيوا، تقدر تزيد فانيليا مع الحليب. غادي تعجبهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "النتيجة ديال العملية ديال استئصال اللوزتين مازال ما ظهرتش، شنو ندير؟",
+    "answer": "صبر شوية، النتائج كتاخد وقت. إذا كان شي مشكل، تواصل مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو ندير ملي كيطيح ولدي عندو 10 سنين؟",
+    "answer": "خاصك تشوفي طبيب الأطفال. يمكن يكون عندو شي مشكل خاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش المغص عند الرضع كيأثر على التبرز؟",
+    "answer": "أه، المغص يقدر يسبب تأخير في التبرز. خاصك تراقبي الوضع.",
+    "entities": {
+      "symptoms": [
+        "المغص"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نستعملو اللحية للأطفال الصغار؟",
+    "answer": "ما كاين حتى ضرر، إلا ما منعش من الرضاعة. استعمليها بحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الوزن الطبيعي لطفل عندو 6 شهور؟",
+    "answer": "الوزن الطبيعي هو تقريبا ضعف وزن الولادة. خاصك تراقبي نموه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شهرين وسبع أيام وعندو قشرة فشعرو، شنو العلاج؟",
+    "answer": "يمكن تستعملي شامبو خاص للأطفال. إذا ما تحسنش، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "قشرة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي ولد عندو 4 سنين كيعاني من الإسهال بزاف.",
+    "answer": "خاصك تراجعي الطبيب للفحص السريري. يمكن يحتاج تحاليل.",
+    "entities": {
+      "symptoms": [
+        "الإسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ممكن تعالج شي دري عندو 2 سنين بهاد الأعشاب؟",
+    "answer": "لا، ماشي حل. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي بانت ليها شعر طويل بزاف فالفروة ديال راسها.",
+    "answer": "خاصك تتابعي طبيب الجلد. يمكن يكون عندها شي مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طفلة عندها عامين وتصاب بحمى وصداع، مشات عند الطبيب.",
+    "answer": "خاصك تراجعي طبيب الأطفال. يمكن تحتاج تحاليل.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "صداع"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نقدر نقص من الألم ديال ولدي ملي كيبان ليه سنانو؟",
+    "answer": "يمكن تستعمل باراسيتامول ولا دينتينوكس على المنطقة المصابة. خاصك تراقب الحالة ديالو.",
+    "entities": {
+      "symptoms": [
+        "الألم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش ممكن يصاب الطفل بالتهاب الحلق عند التسنين؟",
+    "answer": "نعم، ممكن يصاب الطفل بالتهاب الحلق أثناء التسنين. خاصك تراقب الأعراض.",
+    "entities": {
+      "symptoms": [
+        "التهاب الحلق"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نعطي لولدتي اللي عندها 11 شهر حليب الدياشور؟",
+    "answer": "من الأحسن تعطيه هاد الحليب بعد شهرين. خاصك تستشيري مع طبيب الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الرضع اللي عندو 3 شهور كيعاني من ألم ورائحة فم قاسحة.",
+    "answer": "خاصه يتفحص عند طبيب الأطفال. يمكن يكون عندو مشكلة فالفم.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "رائحة فم قاسحة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها جوج سيمانات وهي عندها حبوب فوجهها وصدرها.",
+    "answer": "خاصك دير فحص طبي باش تاخد تشخيص صحيح. الله يشافيه.",
+    "entities": {
+      "symptoms": [
+        "حبوب"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش طبيعي يكون البراز ديال الطفل أصفر؟ عندو شهرين.",
+    "answer": "نعم، طبيعي يكون البراز أصفر عند الأطفال. خاصك تراقب أي تغيير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نعرف بلي شي درري صغر مصاب بمرض التوحد؟",
+    "answer": "من الصعب تشخيص مرض التوحد عند الرضع. خاصك تراقب السلوك ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "النفخة فالرجلين عند الرضع فشهرين، بلا حمور بلا ما.",
+    "answer": "خاصنا نشوفوه عند طبيب الأطفال. يمكن يكون عندو مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "نفخة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو أسرع علاج لارتفاع درجة حرارة الطفل؟",
+    "answer": "يمكن استعمال باراسيتامول والماء. خاصك تراقب درجة الحرارة.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "جوج دراري صغار فيهم السخانة والسهال",
+    "answer": "خاصنا نفحصو الدراري باش نتأكدو من صحتهم.",
+    "entities": {
+      "symptoms": [
+        "السخانة",
+        "السهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو ستة أيام وهو مصاب بالصفار، ما عرفناش علاش",
+    "answer": "العلاج كيعتمد على السبب. خاصك تشوف شي طبيب أطفال.",
+    "entities": {
+      "symptoms": [
+        "الصفار"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واحد البنت صغيرة طاحت على راسها وبدات كتحرك يدها بشوية",
+    "answer": "خاصك ترجعي للطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 8 شهور ونص وباين عليه 9 كيلو. واش هادشي عادي؟",
+    "answer": "هاد الوزن مناسب للطفل تماماً.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو ست شهور وكيعاني من سعال وحرارتو مرتفعة، شنو خاصني نعطيه؟",
+    "answer": "أحسن حاجة هي مراجعة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "سعال",
+        "حرارة مرتفعة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واحد الطفل رضيع عندو شهرين وكيتقيأ بعد الرضاعة",
+    "answer": "يمكن يكون عندو مشكل. خاصك تشوف شي طبيب أطفال.",
+    "entities": {
+      "symptoms": [
+        "التقيؤ"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الجبن ديال الكرافت مزيان للقطوط؟",
+    "answer": "ما عنديش معلومات كافية على هاد الموضوع. خاصك تسول طبيب بيطري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب البيطري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شهرين ونص، كيفاش نعرف بلي كايسامع؟",
+    "answer": "إلا سمعت صوت غادي يكون كيسمع. خاصك تراقبي ردود فعله.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش عادي ولدي يبدل سنه اللبني السفلي فعمرو خمس سنين ونص؟",
+    "answer": "نعم، هادشي عادي وطبيعي. كل طفل عندو وقته.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو سبع شهور وكيحرك راسو من شهرين هادي.",
+    "answer": "من الأحسن تشوف طبيب أطفال. خاص تقييم دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها عشر شهور وراسها منتفخ من نهار تولدات.",
+    "answer": "خاصها تقييم من طبيب. يمكن يكون عندها مشكل.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ الرأس"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاش لون لحم ولدي بني غامق؟",
+    "answer": "هادشي عادي وما كاينش مشكل. كل طفل عندو لون جلد خاص به.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو خمس سنين وكيحك وكيخنق وكيحمر حدا عيني.",
+    "answer": "خاصك تشوف طبيب. التحاليل الطبية مهمة.",
+    "entities": {
+      "symptoms": [
+        "حك",
+        "خنق",
+        "احمرار"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش الوزن ديال بنتي لي عندها 7 أشهر مزيان؟",
+    "answer": "نعم، الوزن مزيان. خاصك تراقبي نموها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واحد الدراري عندو 52 يوم دالما فالراس وما تعالجش.",
+    "answer": "خاصك تتابع مع طبيب الأعصاب. الله يشافيه.",
+    "entities": {
+      "symptoms": [
+        "دلام"
+      ],
+      "medical_field": "طب الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيبان لون حمر فجسم الطفل و كايمشي.",
+    "answer": "خاصك تشوف طبيب. الاستشارة ضرورية.",
+    "entities": {
+      "symptoms": [
+        "لون حمر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بدلتي الحليب بزاف، واش هادشي ما كيضرش الدراري؟",
+    "answer": "من الأحسن متبدلش الحليب بشكل متكرر. خاص استقرار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي كتعطس عامين ونص، شنو ندير؟",
+    "answer": "خاصك تديها عند طبيب باش يدير ليها الفحص.",
+    "entities": {
+      "symptoms": [
+        "العطس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها خمس سنين ومازال كاتعوم بصباعها، واش عادي؟",
+    "answer": "غادي تنسى مع الوقت، ما كاينش داعي تخاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها شهر وما كتنعسش، شنو الحل؟",
+    "answer": "النوم فشهر واحد ماشي مزيان، خاصها تتبدل.",
+    "entities": {
+      "symptoms": [
+        "قلة النوم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "يمكن نزيد قطرات ليمون فعيون دري صغير؟",
+    "answer": "لا، هادشي كيتعتبر العنف ضد الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العيون",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 5 شهور ومازال ما خرجش البورنو، شنو ندير؟",
+    "answer": "خاصو يتفحص عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "عدم خروج البورنو"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو سبع شهور وكيتحرك، شنو ندير؟",
+    "answer": "دير فحص للبراز الأول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو شهرين وكتظهر ليه بقع بيضاء، شنو ندير؟",
+    "answer": "خاصو يمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "بقع بيضاء"
+      ],
+      "medical_field": "طب الجلد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو خمس شهور وما كناكلش مزيان، شنو ندير؟",
+    "answer": "خاصك تشوفي علاش كيرضع لبن صناعي.",
+    "entities": {
+      "symptoms": [
+        "قلة الأكل"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كاين شي خطر من الضحك بزاف عند الدراري الصغار؟",
+    "answer": "لا، ما دامت بطريقة هادئة وما ضغطتيش بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "يمكن لي ندهن شعر دري عندو ست شهور بزيت الجوز؟",
+    "answer": "ما كاينش شي ضرر معروف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولد عندو سبعة شهور ووزنو 8 كيلو ونص، واش هادشي عادي؟",
+    "answer": "هاد الوزن عادي للعمر ديالو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طفل عندو 9 شهور ونسبة الفسفور ديالو 6.9%، شنو ندير؟",
+    "answer": "الدرجة عالية بزاف، خاصها شي خدمة ديال الحوايج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي الآثار ديال الأدوية على الأطفال لي عندهم تلت شهور؟",
+    "answer": "على حساب نوع الدوا والمرض لي وصف ليه الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش عمر ولدك تقريبا خمس شهور؟ وشنو خاصك تعطيه؟",
+    "answer": "نعم، يمكن ليكم تعطيه فواكه معلقة وسيريلاك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندو حالة ديال السكر بالبول و الحكة، شنو ندير؟",
+    "answer": "خاصك تدير تحليل الدم.",
+    "entities": {
+      "symptoms": [
+        "السكر بالبول",
+        "الحكة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 8 شهور وكيعاني من أسهال، شنو ندير؟",
+    "answer": "العلاج كيعتمد على التشخيص ومعرفة السبب. خاصك تشوف طبيب أطفال.",
+    "entities": {
+      "symptoms": [
+        "الأسهال"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كاين شي آثار جانبية من التلقيح ديال داء الشلل؟",
+    "answer": "جميع الأدوية عندها آثار جانبية ولكن خاصنا ناخدوها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو أسباب النوبات الصعيبة عند الأطفال حديثي الولادة؟",
+    "answer": "على حسب السبب اللي تحدد من بعد الفحص والتشخيص. صحتو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي كتنتفض طول الليل ملي كتنعس، شنو ندير؟",
+    "answer": "هادشي عادي، ولكن إلا كان كيتكرر خاصك تشوف طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "التنفض"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شحال من عام خاص الطفل باش يدخل للحمام؟",
+    "answer": "عادةً، الأطفال كيبداو يدخلوا للحمام بين 2 و 3 سنين. ولكن كل طفل عنده وقته.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الطفلة عندها 10 سنين، واش خاصها عملية جراحية ولا غير جهاز تنفس؟",
+    "answer": "خصك تستشيري طبيب مختص باش يحدد الحالة. العملية أو الجهاز كيتعلق بالحالة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نرفع درجة حرارة الطفل لي عندو ست سنين؟",
+    "answer": "خاصك تعرفي السبب قبل ما تحاولي ترفعيها. استشيري طبيب إذا كانت مرتفعة بزاف.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع درجة الحرارة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الدراري عندو 9 شهور، والمسلك ديال البول مسدود شوية.",
+    "answer": "خاصك تدي الطفل لطبيب الأطفال باش يدير الفحص اللازم. هاد الحالة خاصها متابعة.",
+    "entities": {
+      "symptoms": [
+        "انسداد المسلك البولي"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كتقترح عليا فيتامين د فيدروب ولا هوفيدال للبنت ديالي لي عندها 3 شهور؟",
+    "answer": "فيدروب هو الخيار الأفضل. كيساعد على تقوية العظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي علاج للبطن المسدود بعد عملية البالونات المعدية؟",
+    "answer": "خاصك ترجعي للطبيب لي شافك باش يحدد العلاج المناسب. ما تاخديش أي دواء بلا استشارة.",
+    "entities": {
+      "symptoms": [
+        "انسداد البطن"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الحل ديال البطن بعد عملية البالون المريضي؟",
+    "answer": "خاصك تراجعي الطبيب لي شافك. هو لي يقدر يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشاكل في البطن"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البنت ديالي عندها 6 شهور وهي برازها خضر بلا أعراض أخرى.",
+    "answer": "البراز الأخضر ممكن يكون عادي، ولكن خاصك تراقبي أي أعراض أخرى. استشيري طبيب إذا كنتي قلقة.",
+    "entities": {
+      "symptoms": [
+        "براز أخضر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كتقصد الحليب ديال التخفيف من الحرارة لي كيتستعمل للرضع لي عندهم شهرات؟",
+    "answer": "نعم، يمكن استعماله إذا كان ضروري. ولكن استشيري طبيب قبل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كاين موعد لقاح السحايا؟",
+    "answer": "موعد اللقاح كيتحدد حسب العمر. استشيري طبيب الأطفال باش تعرفي التفاصيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "رضعت ولدي لمدة 18 شهر رضاعة طبيعية ولكن هو نحيف بزاف و قصير؟",
+    "answer": "خاصك تراجعي طبيب الأطفال باش يشوف الحالة. يمكن يحتاج نصائح غذائية.",
+    "entities": {
+      "symptoms": [
+        "نقص الوزن"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هي التطعيمات الاختيارية للأطفال؟",
+    "answer": "التطعيمات الاختيارية مهمة لحماية الأطفال من الأمراض. خاصك تسول طبيب الأطفال باش يعطيك التفاصيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عافاك، عندي طفح جلدي جاف كيبان و كيمشي من شهرا هادي.",
+    "answer": "خاصك تشوف طبيب باش يشوف الحالة ديالك. يمكن يكون عندك شي حساسية أو مرض جلدي.",
+    "entities": {
+      "symptoms": [
+        "طفح جلدي"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش خاصني نزيد لولدي الحليب فالعمر 10 شهور؟",
+    "answer": "من الأحسن تعرضو على طبيب الأطفال. هو اللي يقدر يحدد واش خاصو زيادة ولا لا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال البلغم عند الدراري لي عندهم عام؟",
+    "answer": "يمكن تعطيه مشروبات دافئة. ولكن خاصك تشوف طبيب إذا استمر البلغم.",
+    "entities": {
+      "symptoms": [
+        "بلغم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال تورم القضيب عند دري عندو ربعة شهور؟",
+    "answer": "خاصك تراجع الطبيب باش يشوف السبب. يمكن يكون عندو التهاب أو حاجة أخرى.",
+    "entities": {
+      "symptoms": [
+        "تورم القضيب"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طفلي عمرو ربعين يوم وكنرضعو وكنجشيه وكنخرج ليه الحليب من فمو.",
+    "answer": "يمكن يكون عندو مشكل في الرضاعة. خاصك تشوفي طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "خروج الحليب من الفم"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش خطير على لبنت باش توجد ليها الحليب الصناعي بالما بارد؟",
+    "answer": "إلا كان معقم ومنظف، ماكاين باس. ولكن من الأفضل تسخن الما قبل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طفلي عمرتو شهر ونص ملي بدا يبكي بزاف.",
+    "answer": "يمكن يكون محتاج شي حاجة أو عندو مشكل. خاصك تراجعي الطبيب.",
+    "entities": {
+      "symptoms": [
+        "بكاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي ما كيبردش غير بالزربة؟",
+    "answer": "خاص نديرو فحص سريري وصور الأشعة للكرش باش نعرفو واش كاين شي مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو اسم دوا ديال الحفاضات لي كيتحط للدراري الصغار؟",
+    "answer": "أي مرهم فيه أكسيد الزنك مزيان للحفاضات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها 3 سنين وكتعاني من الم وتورم العضلات فاليد اليسرى.",
+    "answer": "خاصك تمشي لفحص عند طبيب الأطفال باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "الم",
+        "تورم العضلات"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أنا طفل عمره 9 شهور وبيحزق.",
+    "answer": "خاصك تتابع مع طبيب الأطفال للكشف على الحالة.",
+    "entities": {
+      "symptoms": [
+        "بيحزق"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي سخون بزاف و كيعاني من الوعي الزايد و عندو 7 شهور.",
+    "answer": "خاص يتقيم من طرف طبيب أطفال باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "سخونة",
+        "وعي زايد"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو ضغط الدم الطبيعي ديال الدراري لي عندهم قل من عام؟",
+    "answer": "ضغط الدم الطبيعي هو 70/38 تقريبا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش خاصني نعيط لطبيب حيت بنتي عندها 5 سنين و سخانة هادي مدة طويلة؟",
+    "answer": "إيوا خاصك تعيط لطبيب، السخانة مدة طويلة ماشي مزيانة.",
+    "entities": {
+      "symptoms": [
+        "سخانة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي فشهر الخامس ديال الحمل ديما كاتبكي بزاف وكاتبكي بلا سبب.",
+    "answer": "خاصنا نديرو فحص طبي باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "بكاء"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نستعمل دوا ديومبيريدون للدراري الصغار؟",
+    "answer": "الجرعة كتعتمد على الوزن ديال الطفل. خاصك تسول الطبيب باش يعطيك الجرعة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاج الدوارة عند دري عندو 3 شهور؟",
+    "answer": "خاصك تشوف طبيب الأطفال باش يشوف واش كاين إسهال أو جفاف. العلاج كيتطلب تشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "دوار"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال التوحد؟",
+    "answer": "ما كاينش علاج نهائي، ولكن كاينين أدوية وعلاجات سلوكية لي كيساعدو الأطفال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عمرها شهر وتشهقات بزاف، شنو السبب؟",
+    "answer": "خاصها تتشاف من عند طبيب الأطفال. ممكن يكون عندها مشكل فالتنفس.",
+    "entities": {
+      "symptoms": [
+        "تشهيق"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي عندها 9 سنين وعندها حمى خفيفة، واش نعطيها دوا؟",
+    "answer": "من الأفضل تديها للطبيب باش يشوف الحالة. الحمى ممكن تكون علامة على شي حاجة أخرى.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "بنتي كتحس بألم في ودنها وهاد لألم كايقطع، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأذن. الألم ممكن يكون بسبب التهاب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الأذن"
+      ],
+      "medical_field": "طب الأذن",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو ربع شهور وكيعاني من ألم فالمعدة، واش هادشي عادي؟",
+    "answer": "الألم فالمعدة عند الرضع عادي، ولكن خاصك تراقب الأعراض الأخرى. إذا استمر، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في المعدة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "لقحت طفلي تلاتة ديال النقط من شلل الأطفال، واش هادشي ضار؟",
+    "answer": "لا، اللقاح آمن وكيحمي الطفل من المرض. خاصك تكملي اللقاحات في الوقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نحمي طفل عندو 9 شهور من مرض الحصبة بعد ما تدار ليه الفاكسان؟",
+    "answer": "اللقاح كايحمي الطفل من الحصبة. خاصك تراقبي أي أعراض غير عادية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أحسن حليب للرضع؟ رونالاك ولا بليميل بلس؟",
+    "answer": "حليب الأم هو الأفضل. باقي الأنواع كيتقاسمو في الجودة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو عام و شهر و هو 16 كيلو، واش هادشي عادي؟",
+    "answer": "وزن 16 كيلو يعتبر فوق المعدل. خاصك تشوفي الطبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش المشاية تقدر تضر رجلين الطفل فالعمر ديال ست شهور؟",
+    "answer": "المشاية ما كتشكلش خطر كبير، ولكن خاصك تراقب نموه. من الأفضل استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "علاج لولد عندو مرض النيف العظمي وعندو خمس سنين؟",
+    "answer": "خاصك تشوف طبيب الأطفال باش يحدد العلاج المناسب. الحالة كتختلف حسب التشخيص.",
+    "entities": {
+      "symptoms": [
+        "مرض النيف العظمي"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "وقتاش كيبدا الدري يوقف؟",
+    "answer": "الدري كيبدا يوقف من الشهر السادس. كل واحد عندو توقيت خاص به.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو العلاج ديال الكحة عند الرضيع فعمرو ست شهور؟",
+    "answer": "العلاج كيعتمد على السبب. خاصو يتقيم من عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "الكحة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو 10 سنين و كيتبول بلا ما يحس، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأطفال باش يدير الفحوصات اللازمة. هاد الحالة كتطلب اهتمام.",
+    "entities": {
+      "symptoms": [
+        "التبول اللاإرادي"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "أنا ولد عمري سنتين و شهر، ولكن ما كيمشيش، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الأطفال باش يقيم الحالة. يمكن يكون عندو مشكل في النمو.",
+    "entities": {
+      "symptoms": [
+        "عدم المشي"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو المخاطر ديال تصوير راس الدراري الصغار بالرنين المغناطيسي؟",
+    "answer": "ما كاين حتى خطر كبير. التصوير آمن وكيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان نبدلو الحليب ديال دري عندو ربع شهور؟",
+    "answer": "يمكن تبديل الحليب حسب الحاجة. ولكن خاصك تشوف طبيب إذا كان عندو مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش نحيد التخمة من الرضيع لي عندو شهرين؟",
+    "answer": "خاصك تعطيه كمية مناسبة من الحليب. وما تعاقبوش من بعد كل مرة كياكل.",
+    "entities": {
+      "symptoms": [
+        "التخمة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "فاش شهر كيبدا الدراري يقدرو يگلسو؟",
+    "answer": "كيقدرو يگلسو من الشهر السادس مع المساعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو سعال فاش كيسرغ، شنو خاصني ندير؟",
+    "answer": "خاصك تشوف طبيب الأطفال باش يقيم الحالة. السعال يمكن يكون علامة على شي حاجة.",
+    "entities": {
+      "symptoms": [
+        "السعال"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش كاين شي خطر على دري عندو 40 يوم وكيحرك راسو بزاف؟",
+    "answer": "ما كاين حتى خطر. هاد الحركة طبيعية في هاد العمر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان أن بنتي عندها 7 كيلو ف 9 شهور؟",
+    "answer": "هاد الوزن عادي، ولكن خاصك تراقب نموها. كل طفل عندو وزنه الخاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كياكل التراب وشهيتو قليلة، شنو ندير؟",
+    "answer": "خاصك توقف هاد العادة، لأنها ماشي مزيانة. يمكن يكون عندو نقص في الحديد.",
+    "entities": {
+      "symptoms": [
+        "الأكل التراب"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "البنت ديالي عندها ارتخاء فالبلع والقيء من بعد الولادة، شنو ندير؟",
+    "answer": "خاصها تفحص عند طبيب الأطفال. هاد الحالة كتطلب اهتمام خاص.",
+    "entities": {
+      "symptoms": [
+        "ارتخاء فالبلع",
+        "القيء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "التهاب المعدة عند الدراري الصغار، شنو ندير؟",
+    "answer": "خاصو يتدار ليه فحص باش يعرفو شنو هو العلاج المناسب. الالتهاب يحتاج لعناية.",
+    "entities": {
+      "symptoms": [
+        "التهاب المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيبكي بزاف بلا سبب، شنو ندير؟",
+    "answer": "خاصنا نشوفوه عند طبيب الأطفال. يمكن يكون عندو مشكل خاص.",
+    "entities": {
+      "symptoms": [
+        "البكاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش مزيان تأجل الفاكسان ديال كورونا ب ست سيمانات؟",
+    "answer": "يمكن تأجيله، ولكن ما كثرش من سيمانة. خاصك تراقب الوضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو ريحة خايبة من نهار مات ولد عمو.",
+    "answer": "خاصو يمشي عند طبيب الأطفال باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "ريحة خايبة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش نقدر نخلطو الديفل مع الحليب ديال الطفل لي عندو شهر؟",
+    "answer": "إلا كنتي كتقصد الدواء للغازات، يمكن ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو العلاج ديال السكري عند الدراري لي عندهم 8 شهور؟",
+    "answer": "خاص استشارة طبيب، حيث العلاج كيتعلق بالحالة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش يمكن نعطي لولدي حبوب باراسيتامول ديال 325 ملغ؟",
+    "answer": "لا، هاد الجرعة كبيرة عليه بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي كيعاني من صعوبة فالتنفس ملي كيكون عندو حمى.",
+    "answer": "خاصو يمشي عند طبيب الأطفال باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس",
+        "حمى"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي درري عندو 8 شهور وكيبكي بزاف.",
+    "answer": "خاص الكشف الطبي باش نعرفو السبب ونقدمو الحلول.",
+    "entities": {
+      "symptoms": [
+        "بكاء"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "لو سمحتي ابنتي عندها السخانة 38.8 درجة.",
+    "answer": "خاصها تشوف طبيب أطفال باش يعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "سخانة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندها خرقة ودم خارج من ودنها.",
+    "answer": "خاصها تشوف طبيب ديال النيف والأذن والحلق.",
+    "entities": {
+      "symptoms": [
+        "خرقة",
+        "دم خارج من ودن"
+      ],
+      "medical_field": "طب الأنف والأذن والحنجرة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "الرّضيع ديالي عمره 11 يوم، وكيخرج غير جوج مرات فالنهار. واش هادشي عادي؟",
+    "answer": "هادشي عادي بزاف، خاصك غير تراقبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كحة وحرارة ديال دري صغر من شهرين.",
+    "answer": "خاص العلاج عند طبيب الأطفال.",
+    "entities": {
+      "symptoms": [
+        "كحة",
+        "حرارة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "طبيب ديالي قال ليا بلي بنتي عمرها 10 شهور وكتوزن 9 كيلو. واش هادشي عادي؟",
+    "answer": "هاد الوزن طبيعي، الحمد لله.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو نعطي لولدي عندو سبعة شهور؟",
+    "answer": "يمكن تعطيه فواكه وخضار مخلطة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الدوا للدراري الصغار اللي عندهم البرد؟",
+    "answer": "ما كاينش مرض كيتسمى برد قاتل. خاص تفاصيل أكثر.",
+    "entities": {
+      "symptoms": [
+        "برد"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "العلاج الكيميائي أحسن للأطفال؟",
+    "answer": "نعم، العلاج الكيميائي تحت الجلد كيتعتبر أكثر أمانًا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو ألم في المعدة، شنو ندير؟",
+    "answer": "من الأفضل ما تعطيه حتى دوا. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في المعدة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "مسموح نعطي اكتيفيد للأطفال الرضع؟",
+    "answer": "ما خاصكش تعطيه قبل عامين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو الدوا للرضع اللي عندهم ارتفاع فالصفائح الدموية؟",
+    "answer": "خاصك تمشي للطبيب باش يقيم الحالة.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الصفائح الدموية"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو العلاج للإمساك عند الدراري؟",
+    "answer": "خاص يتدار فحص طبي باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "إمساك"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "شنو هو الطعام المسموح للأرضع فشهر السابع؟",
+    "answer": "يمكن تعطيه عصير البرتقال وخضار مخلطة مع البيض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "كيفاش كايعالجو الإمساك عند الدراري لي عندهم شهرين؟",
+    "answer": "خاص نستعملو الدوا ديال الهضم غير فاش يكون ضروري.",
+    "entities": {
+      "symptoms": [
+        "إمساك"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "واش يمكن لي نستعمل البابونج على طفلي الرضيع؟",
+    "answer": "نعم، ولكن ماشي بديل للحليب، خاص يكون بمية قليلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "ولدي عندو ست شهور، واش القطرات اللي نعطيه ممكن تسبب مشاكل؟",
+    "answer": "ما كاينش مشكل، غير تابع مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Pediatric Medicine",
+    "question_darija": "عندي نزيف اللثة، واش ممكن نرضع طبيعي؟",
+    "answer": "ما كاينش مشكل، يمكن ترضعي طبيعي.",
+    "entities": {
+      "symptoms": [
+        "نزيف اللثة"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  }
+]

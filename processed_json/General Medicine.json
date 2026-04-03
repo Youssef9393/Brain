@@ -1,0 +1,5626 @@
+[
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش ندير ريجيم متوازن؟",
+    "answer": "الريجيم المتوازن خاصو يكون فيه فواكه، خضار، حبوب كاملة، بروتينات، ودهون صحية. خاصك تبعد على الأطعمة المصنعة والمشروبات السكرية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو الطرق الصحية للتغلب على التوتر؟",
+    "answer": "يمكنك تدير التمارين، التأمل، أو اليوغا. قضاء الوقت في الطبيعة والتواصل مع الأصدقاء كيساعدو بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو مخاطر الدخان وكيفاش نقدر نوقفو؟",
+    "answer": "الدخان كيزيد من خطر أمراض القلب وسرطان الرئة. الإقلاع عن التدخين هو أحسن حل للحفاظ على صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو علامات الجفاف وكيفاش نحافض عليها؟",
+    "answer": "من علامات الجفاف العطش وجفاف الفم. خاصك تشرب سوائل بزاف خاصة في الأيام الحارة.",
+    "entities": {
+      "symptoms": [
+        "العطش",
+        "جفاف الفم"
+      ],
+      "medical_field": "الصحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحسن الوضعية ديالي ونتجنب ألام الظهر؟",
+    "answer": "خاصك تحافظ على وضعية صحيحة، وتمرن مركز الجسم. التمارين بحال القناطر كتساعد في تقوية الظهر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب العظام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقوي جهاز المناعة ديالي؟",
+    "answer": "خاصك تتبع نظام غذائي صحي، تمارين منتظمة، ونعاس كافي. البروبيوتيك وفيتامين د مفيدين كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المناعة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو فوائد الفحوصات الصحية المنتظمة؟",
+    "answer": "الفحوصات كتعرفك على المشاكل الصحية في وقت مبكر. كتوفر لك فرصة تسول الطبيب على أي مشكل صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الرعاية الصحية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نعرف أعراض الأمراض الشائعة؟",
+    "answer": "خاصك تعرف الأعراض بحال السخانة والكحوب. إذا كانت الأعراض قوية، من الأفضل تشاور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "السخانة",
+        "الكحوب"
+      ],
+      "medical_field": "الرعاية الصحية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو العادات الصحية لتحسين الصحة ديال الفم؟",
+    "answer": "خاصك تغسل أسنانك بالخيط جوج مرات في اليوم. التقليل من المشروبات السكرية مهم كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نبقا متحفز على أسلوب حياة صحي؟",
+    "answer": "حدد أهداف واقعية وتبع تقدمك. حاول تكون مع ناس كيحفزوك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو طرق التعامل مع الحالات الصحية المزمنة؟",
+    "answer": "خدم مع الطبيب ديالك وكون ملتزم بالعلاج. التواصل مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الرعاية الصحية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو أنواع الصداع الشائعة؟",
+    "answer": "كاين صداع التوتر، والصداع النصفي، والصداع الجماعي. هادو من الأنواع الشائعة.",
+    "entities": {
+      "symptoms": [
+        "صداع التوتر",
+        "الصداع النصفي",
+        "الصداع الجماعي"
+      ],
+      "medical_field": "طب الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو أعراض صداع التوتر؟",
+    "answer": "كيكون صداع في الرأس مع شعور ضيق في الرقبة. هاد الأعراض كتكون شائعة.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "ضيق في الرقبة"
+      ],
+      "medical_field": "طب الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو المحفزات ديال الصداع النصفي؟",
+    "answer": "الضغط، التغيرات الهرمونية، وبعض الماكلة. هاد العوامل كتأثر على الناس اللي عندهم صداع نصفي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نفرق بين الصداع النصفي وصداع التوتر؟",
+    "answer": "الصداع النصفي غالبا كيكون في جانب واحد من الرأس. كيترافق مع غثيان وحساسية للضوء.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "غثيان"
+      ],
+      "medical_field": "طب الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو علامات الصداع الجماعي؟",
+    "answer": "كيكون ألم حارق حول العين والمعبد. كيترافق مع احتقان في الأنف.",
+    "entities": {
+      "symptoms": [
+        "ألم حارق",
+        "احتقان في الأنف"
+      ],
+      "medical_field": "طب الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو كيسبب الصداع الجيبي؟",
+    "answer": "التهاب الجيوب الأنفية بسبب الحساسية أو العدوى. كيسبب ألم وضغط في الوجه.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "ضغط"
+      ],
+      "medical_field": "طب الأنف والأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو علاجات بسيطة للصداع؟",
+    "answer": "مسكنات الألم بحال إيبوبروفين، والماء، والراحة في غرفة مظلمة. الضغط البارد على الجبين كيساعد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحافض على صداع التوتر؟",
+    "answer": "مارس التأمل والتنفس العميق، وحافظ على وضعية صحيحة. شرب الماء والنوم الكافي مهم كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نتجنب محفزات الصداع النصفي؟",
+    "answer": "خاصك تدير مذكرات للصداع باش تعرف المحفزات ديالك، وتلتزم بجدول نوم منتظم، وتاكل مزيان، وتمارس الرياضة.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي العلاجات الطبيعية للصداع النصفي؟",
+    "answer": "مكملات المغنيز وأتاي الزنجبيل يمكن يكونو مفيدين. لكن خاصك تشاور مع الطبيب قبل ما تبدأ أي علاج.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كافيين كيعون ف الصداع؟",
+    "answer": "شوية من القهوة يمكن يخفف الصداع مؤقتا، ولكن الإفراط فيها يمكن يزيد الوضع سوء.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إمتا خاصني نشوف الطبيب بخصوص الصداع؟",
+    "answer": "إذا كان الصداع شديد أو مفاجئ، أو مصحوب بأعراض أخرى بحال سخونة أو تشويش، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع شديد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الاختبارات لي يمكن تديرها للصداع؟",
+    "answer": "يمكن الطبيب يطلب فحوصات الدم أو تصوير بالرنين المغناطيسي أو تخطيط الدماغ حسب السبب المشتبه به.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو يمكن ندير للصداع المزمن؟",
+    "answer": "الأدوية الوقائية وتغييرات نمط الحياة يمكن تساعد. حقن البوتوكس كتعطي نتائج مزيانة للصداع النصفي.",
+    "entities": {
+      "symptoms": [
+        "صداع مزمن"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاينة شي دوايات بديلة للصداع؟",
+    "answer": "الوخز بالإبر والعلاج بالتدليك يمكن يكونو مفيدين. خاصك تشاور مع الطبيب قبل ما تجرب أي علاج.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نخفف الضغط لي كيسبب لي الصداع؟",
+    "answer": "تقنيات بحال التأمل واليوغا يمكن تساعدك. حاول تمارس الرياضة بانتظام وتخلي وقت لنفسك.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحسن من صحة نعاس ديالي باش نمنع الصداع؟",
+    "answer": "خاصك تدير روتين مريح قبل النوم وتجنب الشاشات. تأكد أن غرفة النوم هادئة ومظلمة.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي التغييرات الغذائية لي نقدر نديرها للصداع؟",
+    "answer": "شرب الماء بكمية كافية وتجنب الأطعمة المصنعة. حاول تحدد المحفزات الغذائية لي كتأثر عليك.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر ندير مع الصداع؟",
+    "answer": "حدد المحفزات، بقا رطب، ونم مزيان. استخدم مسكنات الألم اللي موصا بيها.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الطرق الفعالة لي كتخفف من آلام الكتف؟",
+    "answer": "الراحة والجليد يمكن يساعدو. تمارين خفيفة وتجنب الأنشطة لي كتفاقم الألم.",
+    "entities": {
+      "symptoms": [
+        "ألم الكتف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نخفف آلام الورك؟",
+    "answer": "خاص الراحة وتمارين التمدد، وضروري تشاور مع طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آلام الورك"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو كيسبب ألم القدم وكيفاش نخففوه؟",
+    "answer": "ألم القدم يقدر يكون بسبب التهاب أو أحذية غير مناسبة. الراحة والأحذية المناسبة يمكن يساعدو في تخفيف الألم.",
+    "entities": {
+      "symptoms": [
+        "ألم القدم"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نداوي ألم اليد والرسغ؟",
+    "answer": "الراحة وتعديلات مريحة يمكن يساعدو. من الأفضل تشاور مع طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم اليد",
+        "ألم الرسغ"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نخفف الصداع النصفي؟",
+    "answer": "خاص تحديد المحفزات واتباع أساليب الراحة. الأدوية الموصوفة من الطبيب يمكن تساعد.",
+    "entities": {
+      "symptoms": [
+        "الصداع النصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نداوي الألم المزمن؟",
+    "answer": "علاج الألم المزمن كيتطلب أدوية وعلاج طبيعي وتغييرات في نمط الحياة. الدعم النفسي مهم كذلك.",
+    "entities": {
+      "symptoms": [
+        "الألم المزمن"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو الأسباب الشائعة لألم الظهر؟",
+    "answer": "ألم الظهر يقدر يكون بسبب سلالة العضلات أو الموقف الخاطئ. العلاج كيتضمن تمارين وتعديلات في نمط الحياة.",
+    "entities": {
+      "symptoms": [
+        "ألم الظهر"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نتعامل مع ألم الرقبة المزمن؟",
+    "answer": "ألم الرقبة المزمن يحتاج علاج طبيعي وتغييرات مريحة. من الأفضل تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم الرقبة"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاينين تمارين تخفف ألم الركبة؟",
+    "answer": "نعم، تمارين بحال رفع الساق والجلوس يمكن تقوي العضلات حول الركبة. من الأفضل تشاور مع طبيب قبل البدء.",
+    "entities": {
+      "symptoms": [
+        "ألم الركبة"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نتجنب الصداع المتكرر؟",
+    "answer": "خاص البقاء رطب والحفاظ على جدول نوم ثابت. إدارة الإجهاد وتجنب المحفزات يمكن يساهم.",
+    "entities": {
+      "symptoms": [
+        "الصداع المتكرر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاينين معالجات لألم الكتف؟",
+    "answer": "العلاج كيتوقف على السبب، يمكن يشمل العلاج الطبيعي أو الحقن. في بعض الحالات، يمكن يحتاج تدخل جراحي.",
+    "entities": {
+      "symptoms": [
+        "ألم الكتف"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش التغيرات في النظام الغذائي تأتر على آلام الورك؟",
+    "answer": "نعم، الحفاظ على وزن صحي والأطعمة المضادة للالتهابات يمكن يساعدو. خاص تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "آلام الورك"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نفرق بين أنواع آلام القدم؟",
+    "answer": "تحديد نوع الألم ضروري للعلاج المناسب. الأطباء يمكن يقدمو تشخيصات دقيقة.",
+    "entities": {
+      "symptoms": [
+        "آلام القدم"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو التعديلات المريحة لآلام اليد والمعصم؟",
+    "answer": "استخدام أدوات مريحة وأخذ فترات راحة يمكن يساعدو في تخفيف الألم. خاص الحفاظ على وضع اليد السليم.",
+    "entities": {
+      "symptoms": [
+        "آلام اليد",
+        "آلام المعصم"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاينين دوايات بديلة للصداع النصفي؟",
+    "answer": "بعض الناس يستفدو من الوخز بالإبر أو المكملات العشبية. خاص مناقشة هاد الخيارات مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "الصداع النصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش الدعم السيكولوجي يعاون في علاج الألم المزمن؟",
+    "answer": "الدعم النفسي كيساعد الناس يتعاملو مع الألم ويحسن الصحة العامة. الاستشارة والعلاج السلوكي مهمين.",
+    "entities": {
+      "symptoms": [
+        "الألم المزمن"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو أعراض الكحب وضيق التنفس؟",
+    "answer": "يمكن تكون أعراض مرض الرئة الانسداد المزمن أو الربو. خاص تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "الكحب",
+        "ضيق التنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إذا كان واحد كيعاني من ألم في الصدر، شنو السبب المحتمل؟",
+    "answer": "يمكن يكون السبب مرض الشريان التاجي أو الذبحة الصدرية. خاص تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو سبب الصداع المفاجئ مع الغثيان؟",
+    "answer": "يمكن يكون صداع نصفي أو صداع توتر. خاص تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع مفاجئ",
+        "غثيان"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "فاش كيشكي الواحد من ألم المفاصل، شنو الشروط لي خاص توضع في الاعتبار؟",
+    "answer": "يمكن يكون التهاب المفاصل الروماتويدي أو الذئبة. خاص تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم المفاصل"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو الأمراض المرتبطة بالعياس المستمر؟",
+    "answer": "يمكن تكون متلازمة التعب المزمن أو فقر الدم. خاص تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "العياس المستمر"
+      ],
+      "medical_field": "الصحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إذا كان شي واحد كيعاني من التبول المتكرر والعطش المفرط، شنو هي المشكلة؟",
+    "answer": "المشكلة ممكن تكون مرض السكري. خاص استشارة طبيب لتأكيد التشخيص.",
+    "entities": {
+      "symptoms": [
+        "التبول المتكرر",
+        "العطش المفرط"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الحالات التنفسية لي كتسبب الصفير وصعوبة في التنفس؟",
+    "answer": "الربو والتهاب الشعب الهوائية المزمن هما من بين الأسباب. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "الصفير",
+        "صعوبة في التنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الحالات لي كتسبب طفح جلدي وحكة؟",
+    "answer": "يمكن يكون عندك الإكزيما أو الصدفية. خاص استشارة طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "طفح جلدي",
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إذا كان شي واحد كيواجه صعوبة في التركيز وتقلبات في المزاج، شنو هي الاضطرابات النفسية لي خاصها توضع في الاعتبار؟",
+    "answer": "يمكن يكون عنده اضطراب الانتباه أو الاكتئاب. خاص استشارة طبيب نفسي.",
+    "entities": {
+      "symptoms": [
+        "صعوبة في التركيز",
+        "تقلبات في المزاج"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو لي كيسبب لألم ودوخة في البطن؟",
+    "answer": "يمكن يكون التهاب الزائدة الدودية أو حصى في المرارة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في البطن",
+        "دوخة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الحالات لي كتسبب ضعف مستمر للعضلات والألم؟",
+    "answer": "يمكن يكون عندك فيبروميالغيا أو مرض الانسداد العصبي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ضعف العضلات",
+        "ألم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إذا كان شي واحد مصاب باضطرابات فالرؤية وألم فالعين، شنو هي الظروف لي خاصنا ناخدوها في الاعتبار؟",
+    "answer": "يمكن يكون عنده الجلوكوما أو التهاب الملتحمة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "اضطرابات فالرؤية",
+        "ألم فالعين"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الحالات المعوية لي تقدر تسبب إسهال مزمن وتقلصات في البطن؟",
+    "answer": "يمكن يكون عندك مرض الأمعاء الالتهابي أو متلازمة القولون العصبي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال مزمن",
+        "تقلصات في البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إذا كان شي واحد كيشكي من تواتر التبول والعطش، شنو هي الاضطرابات ديال الغدد الصماء لي خاص توضع في الاعتبار؟",
+    "answer": "يمكن يكون عنده مرض السكري. خاص استشارة طبيب لتأكيد التشخيص.",
+    "entities": {
+      "symptoms": [
+        "تواتر التبول",
+        "العطش"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الحالات ديال الجلد لي كترتبط بتطور القشور واللصقات؟",
+    "answer": "يمكن يكون عندك الصدفية أو الإكزيما. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "القشور",
+        "اللصقات"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "فاش كيعاني واحد من ألم شديد فالصدر وكيخرج لليد، شنو خاصني ندير؟",
+    "answer": "يمكن يكون احتشاء عضلة القلب أو الذبحة الصدرية. خاصك تمشي للطبيب فحالاً.",
+    "entities": {
+      "symptoms": [
+        "ألم شديد فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي المشاكل المعوية لي تقدر تسبب حركات غير منتظمة فالأمعاء؟",
+    "answer": "يمكن يكون التهاب فالجهاز الهضمي أو زيادة فالنمو البكتيري. خاصك تشاور مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إذا كان شي واحد كيواجه صعوبة فالتوازن، شنو خاصني نعرف؟",
+    "answer": "يمكن يكون مرض باركنسون أو مشاكل فالعصاب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتوازن"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي اضطرابات الصحة العقلية المرتبطة بالحزن المستمر؟",
+    "answer": "يمكن يكون اضطراب الاكتئاب الرئيسي أو اضطراب ثنائي القطب. خاص استشارة مختص.",
+    "entities": {
+      "symptoms": [
+        "مشاعر الحزن"
+      ],
+      "medical_field": "الصحة العقلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إذا كان شي واحد كيعاني من ألم مفاجئ فالبطن، شنو خاصني ندير؟",
+    "answer": "يمكن يكون التهاب الزائدة أو التهاب البريتون. خاصك تمشي للطبيب فحالاً.",
+    "entities": {
+      "symptoms": [
+        "ألم مفاجئ فالبطن"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج لفقر الدم؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو علاج حصوات المرارة؟",
+    "answer": "خاصنا نديرو فحوصات لتحديد الحالة. العلاج كيتعلق بالحالة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كندير لعلاج الإدمان؟",
+    "answer": "خاصك تمشي عند طبيب نفسي. العلاج كيتطلب دعم ومتابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو علاج الصداع النصفي؟",
+    "answer": "خاصك تشاور مع الطبيب ديالك. كاينين أدوية خاصة لهذا النوع من الصداع.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نعالج حمى القش؟",
+    "answer": "خاصك تمشي عند طبيب الحساسية. كاينين أدوية كتعالج الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مرض السحايا معدي؟",
+    "answer": "نعم، مرض السحايا يمكن يكون معدي. خاصك تكون حذر وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كرشي كيوجعني واخا كانحاول نتنفس.",
+    "answer": "خاصك تمشي عند طبيب باش يدير لك تخطيط القلب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع الكرش",
+        "صعوبة التنفس"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العلاج ديال البواسير؟",
+    "answer": "يمكن تستعمل المسكنات والمغاطس. ولكن خاصك تشوف طبيب باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العلاج ديال فقر الدم؟",
+    "answer": "العلاج كيعتمد على السبب. خاصك تستاشر طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الأسباب ديال النعاس بزاف؟",
+    "answer": "يمكن يكون بسبب الاكتئاب أو اضطراب الهرمونات. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "نعاس بزاف"
+      ],
+      "medical_field": "الأمراض النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ورم فالبطن.",
+    "answer": "خاصك تمشي عند طبيب الجراحة للفحص. هاد الحالة خاصها اهتمام.",
+    "entities": {
+      "symptoms": [
+        "ورم فالبطن"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العلاج ديال الدوالي؟",
+    "answer": "خاصك تحدد شنو بغيتي بالضبط. من الأحسن تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "علاج لحساسية ديال لحوت؟",
+    "answer": "خاصك تجنب السمك وتستعمل مضادات الهيستامين. استاشر طبيب إذا كانت الأعراض قوية.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أنواع فقر الدم؟",
+    "answer": "كاين أنواع مختلفة لفقر الدم، بحال فقر الدم الناتج عن نقص الحديد وفقر الدم المنجلي. خاص استشارة طبيب لتحديد النوع المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نداوي انيميا الفول؟",
+    "answer": "يمكن علاج انيميا الفول بتجنب الأطعمة اللي كتسبب فيها. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي رئيس مالي، شنو ندير؟",
+    "answer": "خاص تقيم ضغط الدم عند الطبيب. يمكن يكون عندك مشكل صحي خاص يتعالج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي العلاجات لزيادة الطول؟",
+    "answer": "السباحة كتمكن من تحسين الطول، ولكن خاص تكون عندك تغذية متوازنة. ما كاينش علاج سحري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو علاج السور؟",
+    "answer": "العمليات الجراحية هي الحل الوحيد لعلاج السور. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي البواسير وكيفاش نعالجها؟",
+    "answer": "البواسير كتعني انتفاخ الأوعية الدموية في المستقيم. العلاج كيتضمن تغييرات في النظام الغذائي وزيارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ الأوعية الدموية"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كايتعالجو هاد الأمراض؟",
+    "answer": "خاص تمشي عند الطبيب ديالك باش يحدد العلاج المناسب. كل حالة كتعالج بطريقة مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي مسكنات الألم للبواسير؟",
+    "answer": "كاين عدة مسكنات، بحال باراسيتامول. خاص استشارة الطبيب قبل استعمال أي دواء.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نمنعو التوالدية؟",
+    "answer": "بعض الطرق كيمكن تمنع الحمل، ولكن خاص استشارة طبيب مختص. الفتق يمكن يكون سبب في مشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو علاج الصداع من التوتر؟",
+    "answer": "الابتعاد عن التوتر مهم، ويمكن استعمال مسكنات الألم. إذا استمر الصداع، خاص زيارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو علاج فقر الدم؟",
+    "answer": "العلاج كيعتمد على نوع فقر الدم والسبب. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الضغط ديالي عادي؟",
+    "answer": "إذا كان الضغط في المعدل الطبيعي، فهادشي عادي. خاص متابعة دورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو الخطر ديال الحصى المراري فالقنوات؟",
+    "answer": "الحصى المراري يمكن تسبب مشاكل فالصحة. خاص استشارة طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش التكيسة كتأثر على العملية الزايدة؟",
+    "answer": "ما كيتأثرش التكيسة بالعملية الزايدة. العملية كتكون مستقلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو أعراض الاستئصال المراري؟",
+    "answer": "من الأعراض الشائعة الألم فالبطن والغثيان. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن",
+        "غثيان"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو الأضرار اللي كيدير الكحول فالتنظيف؟",
+    "answer": "الكحول يمكن يسبب جفاف وتقشير للبشرة. خاص الحذر من الاستعمال المفرط.",
+    "entities": {
+      "symptoms": [
+        "جفاف",
+        "تقشير"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كينتقل فيروس سي؟",
+    "answer": "فيروس سي كيتنقل عبر الدم. خاص الحذر من المشاركة فالأدوات الشخصية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ارتفاع فالسكر، شنو ندير؟",
+    "answer": "خاصك تشوف طبيبك وتراقب مستوى السكر. يمكن تحتاج علاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش البواسير كيأثرو على تأخر الحمل؟",
+    "answer": "البواسير ما عندها حتى علاقة بتأخر الحمل. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نزيد فالوزن ديالي بسرعة؟",
+    "answer": "خاصك تسول طبيب مختص فالتغذية. يمكن يعطيك نصائح مناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو السبب الحقيقي ديال كوفيد-19؟",
+    "answer": "كوفيد-19 كيجي من فيروس خاص بالجهاز التنفسي. خاص الوقاية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أعراض إصابة القطة بالفيروس؟",
+    "answer": "من الأعراض السخانة والتهاب الحلق. خاص استشارة طبيب بيطري.",
+    "entities": {
+      "symptoms": [
+        "سخانة",
+        "التهاب الحلق"
+      ],
+      "medical_field": "الطب البيطري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش السونار كايتستعمل باش نشوفو الكبدة؟",
+    "answer": "نعم، السونار كيعطي مؤشر على حالة الكبد. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش هاد الدوا تيزيد فالوزن؟",
+    "answer": "بزاف ديال الأدوية ممكن تزيد فالوزن، ولكن الماكلة هي السبب الرئيسي. خاصك تراقب الأكل ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو الدوا ديال الخمول والكسل؟",
+    "answer": "خاصك تمارس الرياضة، تأكل مزيان، وتنام مزيان. هادشي كيساعدك تحسن النشاط ديالك.",
+    "entities": {
+      "symptoms": [
+        "الخمول",
+        "الكسل"
+      ],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كايضرني راصي و عينيا بزاف.",
+    "answer": "خاصك تشوف طبيب العيون. يمكن يكون عندك مشكل خاص يحتاج لتشخيص.",
+    "entities": {
+      "symptoms": [
+        "ألم الرأس",
+        "ألم العين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا حاس بالدوخة بزاف.",
+    "answer": "خاصك دير فحص دم باش نعرفو السبب. الدوخة ممكن تكون عندها أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العلاج ديال الإدمان على الحشيش؟",
+    "answer": "خاصك تشوف طبيب نفسي مختص. العلاج كيتطلب دعم ومتابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي حكة فالسرة والرية كحلة.",
+    "answer": "خاصك تمشي عند طبيب الجلد باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندو قصر قامة ماشي وراثي.",
+    "answer": "خاصك تحقق من هرمون النمو عند طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "قصر القامة"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو علاج الصداع؟",
+    "answer": "أول حاجة هي تعرف السبب. من بعد يمكن تاخد الدوا المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كاتعافا من السهر والتوتر؟",
+    "answer": "خاصك تستاشر مع طبيب نفسي. يمكن يساعدك فالتعامل مع التوتر.",
+    "entities": {
+      "symptoms": [
+        "التوتر"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نمنع الدوخة من الوقوع منين كنتسافر؟",
+    "answer": "يمكن تاخد دوا للدوخة قبل السفر. حاول تشرب مزيان وتاكل خفيف.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو السكر التراكمي؟",
+    "answer": "السكر التراكمي كيعطي فكرة على مستوى السكر فالجسم خلال 2-3 شهور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج الفعال للبواسير؟",
+    "answer": "الجراحة هي الحل الفعال فبعض الحالات. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العلاج ديال الإدمان على الحشيش.",
+    "answer": "خاصك تمشي لمصحة لعلاج الإدمان. كيتوفروا على برامج مساعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإدمان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ورم فالبطن",
+    "answer": "خاصك تراجع طبيب الجراحة باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي علامات الجلطات فالكاحل؟",
+    "answer": "كاين ألم شديد، احمرار، وانتفاخ فالكاحل.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "احمرار",
+        "انتفاخ"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو العلاج لتخزين الماء فالجسم؟",
+    "answer": "خاصك تنقص الملح فالمأكولات ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الأسباب لقلة النعاس؟",
+    "answer": "كاين بزاف ديال الأسباب، بحال القلق والاكتئاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نعرف عندي البواسير؟",
+    "answer": "عندك حكة فخدّيك، وكيكون ألم فالمستقيم.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "ألم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش يمكن نحيدو البواسير؟",
+    "answer": "نعم، يمكن إزالتها بالجراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي بواسير، كيفاش نعالجها؟",
+    "answer": "خاصك تمشي عند طبيب باش يعالجها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي حرقة فالمعدة.",
+    "answer": "حاول تاكل أشياء خفيفة وتجنب الأطعمة الحارة.",
+    "entities": {
+      "symptoms": [
+        "حرقة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نوقف التدخين؟",
+    "answer": "خاصك تكون عندك عزيمة قوية وتطلب المساعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي الصداع النصفي مزمن.",
+    "answer": "خاصك تشوف طبيب مختص باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو الفرق بين الحساسية والربو؟",
+    "answer": "الحساسية والربو كيتعلقو بالجهاز التنفسي، ولكن الربو هو مرض مزمن. خاص استشارة طبيب لتحديد الفرق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع ف راسي وحرقة ف الجهد.",
+    "answer": "خاصك دير فحص للسكر والدهون. هاد الأعراض ممكن تكون علامة على مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "وجع ف راسي",
+        "حرقة ف الجهد"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش القطوط هوما سبب كورونا؟",
+    "answer": "ما كاينش دليل علمي على هاد الشي. العلماء ما تأكدو من هاد الفرضية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج للإدمان على البنكو؟",
+    "answer": "الاستقالة هي أسرع طريقة، ولكن خاصك تشوف طبيب نفسي. الدعم مهم فهاد المرحلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نوقف من خداع الريكور؟",
+    "answer": "خاصك تمشي لمركز علاج. العلاج كيساعدك على التعافي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي الألم هادي ستة أيام.",
+    "answer": "خاص تحديد مكان الألم. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "الألم"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الناسور العصعص خطير؟",
+    "answer": "ماشي خطير، ولكن ممكن يسبب مشاكل فالمستقبل. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي طريقة باش نداويو السنان بلا عمليات؟",
+    "answer": "كاين طرق علاجية، ولكن بعض الحالات كتحتاج جراحة. استشارة طبيب الأسنان ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش يمكن لي نزيد فالوزن ديالي؟",
+    "answer": "خاصك تاكل ماكلة صحية وتدير الرياضة. النوم الكافي مهم كذلك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "السكات بزاف والتركيز ماكاينش.",
+    "answer": "خاصك دير فحص للضرور ديال العصب والتخطيط. هادشي مهم لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "السكات",
+        "فقدان التركيز"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "وجهو مسدود بصباطو اليسري.",
+    "answer": "هاد الحالة خاصها فحص طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "عام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي مرض معدي فالهواء؟",
+    "answer": "لا، خاصك تشوف واش كاين التهاب أو فيروس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر ننقص من وقت إزالة السماد بسرعة؟",
+    "answer": "عسل كرمة العسل والصبار صعيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "عام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كاتعالج النقص ف الضغط؟",
+    "answer": "خاصنا نديرو حاليل للكوليج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كاتنقص من كمية الأملاح الزايدة فالجسم؟",
+    "answer": "شرب بزاف ديال الماء والمشروبات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيعاني من مشكل فالتوازن.",
+    "answer": "خاصك تشوف طبيب الأذن والحنجرة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالتوازن"
+      ],
+      "medical_field": "الأذن والحنجرة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا ديما عيان.",
+    "answer": "كانقتارح عليك دير الرياضة باش تحسن صحتك.",
+    "entities": {
+      "symptoms": [
+        "عيان"
+      ],
+      "medical_field": "عام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العراق كيتسرب من الجسم بين الرجلين.",
+    "answer": "خاصك دير تمارين رياضية.",
+    "entities": {
+      "symptoms": [
+        "العراق"
+      ],
+      "medical_field": "عام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "رصا بسيط ف النيف ولكن مستمر.",
+    "answer": "كنصحك تاخد دوا.",
+    "entities": {
+      "symptoms": [
+        "رصا ف النيف"
+      ],
+      "medical_field": "الأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "حط السكر 109 بعد الفطور بساعتين.",
+    "answer": "هاد المعدل طبيعي، ما كاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش تقدر تزيد من الفصيح ديال الدم؟",
+    "answer": "خاصك تعرف علاش نقصات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الأسباب ديال الوجه اللي كيتحمر.",
+    "answer": "عافاك دير فحص شامل للوظائف الكبدية.",
+    "entities": {
+      "symptoms": [
+        "تحمر الوجه"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو الماكلة المسموحة والممنوعة للأسرع سرير؟",
+    "answer": "الأطعمة الصحية كتشمل الخضار والفواكه، والممنوعات هي المأكولات الدهنية والمقلية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كاينة عملية الاستئصال ديال السنان؟",
+    "answer": "عملية الاستئصال كتشمل تخدير محلي، ومن بعد كيتسحب السن. كيتطلب شوية ديال الوقت للشفاء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو علاج تضخم الطحال؟",
+    "answer": "علاج تضخم الطحال كيعتمد على السبب. خاصك تشوف طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش استعمال المارار كيتأثر بالكبدة؟",
+    "answer": "بشكل عام، المارار ما كيأثرش على الكبدة. ولكن خاصك تكون حذر وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي تدهور فحاسة الذوق، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص فالأعصاب. يقدر يكون عندك مشكلة تحتاج للعلاج.",
+    "entities": {
+      "symptoms": [
+        "تدهور حاسة الذوق"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين ضروري نحللو فقر الدم قبل ما ناخدوه؟",
+    "answer": "من الأفضل تدير التحليل قبل ما تاخد العلاج. هادشي كيساعد فالتشخيص الصحيح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "فقر الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أعراض الزيادة عند الأطفال؟",
+    "answer": "من أعراض الزيادة عند الأطفال كاين ضعف الشهية وزيادة الوزن. خاصك تراقب صحتهم.",
+    "entities": {
+      "symptoms": [
+        "ضعف الشهية"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ما كاينش علاج للسرطان الشرجي بلا جراحة؟",
+    "answer": "للأسف، ما كاينش علاج فعال بلا جراحة. خاصك تستاشر طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السرطان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو علاج الثلثام؟",
+    "answer": "علاج الثلثام هو تدريب اللسان على النطق بالحركات. خاصك تكون عندك صبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم النطق",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش عند الدراري نفس الفصيلة الدموية ديالهم من والديهم؟",
+    "answer": "لا، ماشي ضروري يكون عندهم نفس الفصيلة. كاين اختلافات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي درري صغير كيعاني من الصداع.",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة ديالو.",
+    "entities": {
+      "symptoms": [
+        "الصداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أعراض الكوليرا؟",
+    "answer": "أعراض الكوليرا كتشمل الإسهال الشديد والجفاف. خاصك تشوف طبيب فورا.",
+    "entities": {
+      "symptoms": [
+        "الإسهال",
+        "الجفاف"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كنحس بالوجع والسخانة رغم أنني كناخد الدوا ديال الضغط.",
+    "answer": "خاصك تراجع الطبيب لأنه ممكن يكون عندك مشكل آخر.",
+    "entities": {
+      "symptoms": [
+        "الوجع",
+        "السخانة"
+      ],
+      "medical_field": "طب الضغط",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحارب الالتهاب الغدد الليمفاوية؟",
+    "answer": "خاصك تمشي للطبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المناعية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ظهور دمل واحمرار فمنطقة الفخد.",
+    "answer": "خاصك تعالج الدمل وتنظف المنطقة. إذا ما تحسنش، مشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "دمل",
+        "احمرار"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "نعاس بزاف مع فقدان السمع.",
+    "answer": "خاصك تشوف شي طبيب باش يدير ليك فحص كامل.",
+    "entities": {
+      "symptoms": [
+        "فقدان السمع"
+      ],
+      "medical_field": "السمع",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي النسبة الطبيعية ديال الهرمونات ديال الغدة الدرقية؟",
+    "answer": "النسبة الطبيعية كتعتمد على التحاليل، خاصك تشوف طبيب لتفسير النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نداوي البواسير؟",
+    "answer": "العلاج كيتطلب تغيير العادات الغذائية، وفي بعض الحالات خاص العملية.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الصقيع كيضرب الدراري؟",
+    "answer": "نعم، الصقيع ممكن يضر الدراري، خاص الحذر منهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحيدو آثار الجروح القديمة من الوجه؟",
+    "answer": "يمكن استعمال كريمات خاصة أو تقنيات تجميلية، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "آثار الجروح"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو التحليل اللي كيبين واش عندو مرض أديسون؟",
+    "answer": "تحليل الكورتيزول هو اللي كيبين الحالة، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الصماء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش ارتفاع ضغط الدم الحمضي عندو شي عواقب سلبية؟",
+    "answer": "نعم، ارتفاع ضغط الدم ممكن يسبب مشاكل صحية خطيرة، خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب والشرايين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع مزمن ملي كندخل للمكتب.",
+    "answer": "خاصك تفحص عينيك، يمكن يكون عندك مشكل فالنظر.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "حسيت بشي حريرة مفاجئة.",
+    "answer": "الحريرة المفاجئة ممكن تكون نتيجة توتر أو قلق، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حريرة"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج لمريض الكلى وضعف المناعة؟",
+    "answer": "العلاج كيتطلب استشارة طبيب مختص. خاص يحدد السبب ويعطي العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى والمناعة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الفيا كتعاون فالنعاس ولا كتمنع؟",
+    "answer": "الفيا كيمكن تأثر على النوم. خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كتأثر المخدرات على العمليات الجراحية؟",
+    "answer": "المخدرات كتأثر على التخدير وكتزيد من المخاطر. خاص تجنبها قبل العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي مشكل فالصدر من بعد ما غسلتو.",
+    "answer": "خاص توضح لينا نوع الألم ومدة ظهوره. ممكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيعاني من الصداع.",
+    "answer": "خاص تحدد فين كاين الصداع. يمكن يكون بسبب توتر أو قلة النوم.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش انخفاض درجة حرارة الجسم خطير؟",
+    "answer": "إذا كانت الحرارة نازلة بزاف، يمكن تكون علامة على مرض. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "انخفاض درجة حرارة الجسم"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع دايم مع غثيان خفيف.",
+    "answer": "خاص دير فحوصات طبية. هاد الأعراض ممكن تشير لمشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "غثيان"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش البنسلين كايسبب التهاب المعدة عند الدراري؟",
+    "answer": "البنسلين ممكن يسبب حساسية عند بعض الأطفال. خاص متابعة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي حرقان فعيني، وجع فالعضلات، وحتى الصداع شي مرات.",
+    "answer": "خاص تمشي عند الطبيب. هاد الأعراض ممكن تشير لمشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "حرقان في العين",
+        "وجع في العضلات",
+        "صداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كبر الأعضاء التناسلية.",
+    "answer": "إذا كان كاين تغيير مفاجئ، خاصك تشوف الطبيب. يمكن يكون عندك حالة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعضاء التناسلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي خطر على المشاركين فإعطاء الدم؟",
+    "answer": "ما كاين حتى خطر على المشاركين. العملية آمنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نعرف بلي جسمي ناقصني من الفيتامينات؟",
+    "answer": "يمكن تعرف من خلال الأعراض والفحوصات الطبية. خاص متابعة مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كايضرني ضهري من جهة اليسار.",
+    "answer": "يمكن يكون بسبب الوزن أو وضعية الجسم. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في الظهر"
+      ],
+      "medical_field": "العمود الفقري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الزيادة في العمر كتأثر على الإنجاب عند الرجال؟",
+    "answer": "الزيادة في العمر كتأثر على القدرة على الإنجاب، ولكن التأثير كيبقى مختلف من واحد لآخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الذكورة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نبعد من الجدري؟",
+    "answer": "الوقاية من الجدري كتعتمد على التلقيح. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الوقائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي طفح جلدي زرق فالجسم، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب. واش كاتشرب لميمعات؟",
+    "entities": {
+      "symptoms": [
+        "طفح جلدي زرق"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الضغط ديالي 10268 مليمتر مربع، واش هادشي عادي؟",
+    "answer": "الضغط العادي هو 120/80. خاصك تراقب الضغط ديالك بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الماكلة لي ماخصهاش لي عندو مرض الكلي؟",
+    "answer": "خاصك تستاشر مع اختصاصي التغذية. كاين أطعمة خاصها تتجنب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع قوي و التوتر ملي كنقرا.",
+    "answer": "من الأفضل تراجع طبيب العيون. ممكن يكون عندك مشكل في النظر.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "توتر"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو خاصني ناكل بعد عملية إخراج المريضة؟",
+    "answer": "خاصك تركز على الاعتدال في استهلاك الدهون و مشتقاتها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي دوا باش نحيدو الدم كامل؟",
+    "answer": "لا، ما كاينش شي دوا ينحي الدم كامل. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي بزاف د البواصر، واش استعملتي البيسكوي كمسكن؟",
+    "answer": "لا، ماشي من دوقي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "بواصر"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي دوخة قوية و ما قدرتش نركز على الهاتف هاد الشهر كامل.",
+    "answer": "خاصك تشوف شي طبيب. ممكن تكون عندك مشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "معدل السكر 63 قبل الأكل واش هادشي عادي؟",
+    "answer": "لا، هادشي أقل من العادي. خاصك تراقب مستوى السكر ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو السبب ديال التهاب المفاصل؟",
+    "answer": "كاين بزاف ديال الأسباب. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب المفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "لقيت فيتامين د ولقيت 7. واش هادشي عادي؟",
+    "answer": "لا، ماشي عادي. خاصك تراجع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "مرحبا، كيفاش كتعالج الصداع النصفي بلا ما دير العملية؟",
+    "answer": "كاين بعض العلاجات غير الجراحية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو معنى 'كيس' فالتحليل ديال البراز؟",
+    "answer": "الكيس هو شكل من أشكال الطفيليات اللي كيمكن تكون موجودة فالبراز. خاص استشارة طبيب لتفسير النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحليل الطبي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع ف الجبهة",
+    "answer": "خاصك تشوف الضغط ديالك وتدير فحص العينين. هادشي غادي يعاونك تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أعراض الكوليرا؟",
+    "answer": "الأعراض ديال الكوليرا كتشمل الإسهال، التقيؤ، والسخانة. خاص العلاج الفوري لتفادي المضاعفات.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "تقيؤ",
+        "سخانة"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "صداع قاتل ف مؤخرة راسّي من بعد ما درت الجماع",
+    "answer": "خاصك تشوف الضغط ديالك، وشي طبيب غادي يقدر يساعدك. ما تتسناش بزاف.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كيتعافى المريض اللي عندو سكر الدم بعد ما كياخد الدوا؟",
+    "answer": "نعم، المريض كيتعافى إذا تابع العلاج بانتظام. خاصو يحافظ على نظام غذائي صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو فقدان الذاكرة المفاجئ؟",
+    "answer": "فقدان الذاكرة المفاجئ كيمكن يكون نتيجة لعدة أسباب، خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الذاكرة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحل مشكل انغراز الأظافر؟",
+    "answer": "خاصك تمشي عند طبيب الجلدية، حيث كاينين طرق علاج مختلفة.",
+    "entities": {
+      "symptoms": [
+        "انغراز الأظافر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ألم فأسفل البطن ومنطقة القضيب.",
+    "answer": "خاصك تمشي لطبيب مختص، حيث يمكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "ألم فأسفل البطن",
+        "ألم في منطقة القضيب"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع فالبطن و الريق.",
+    "answer": "خاصك تشوف طبيب الجراحة للفحص، حيث يمكن يكون عندك مشكل داخلي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبطن"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "السكر ديالي هو 182، واش هادشي عالي؟",
+    "answer": "نعم، هاد المستوى عالي، خاصك دير فحص للتراكمي.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع السكر"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أسباب حك اليدين؟",
+    "answer": "كاين بزاف د الأسباب، بحال الجفاف والحساسية، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حك اليدين"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيتعب الجسم وكيولي النصف الايسر متوه.",
+    "answer": "خاصك تدير فحص للقلب والأعصاب، حيث هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "تعب الجسم",
+        "توهان في النصف الأيسر"
+      ],
+      "medical_field": "القلب والأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هوما الحلول باش نحاربو التلعثم؟",
+    "answer": "خاصك تستاشر مع طبيب مختص في التواصل، حيث كاين طرق علاج فعالة.",
+    "entities": {
+      "symptoms": [
+        "التلعثم"
+      ],
+      "medical_field": "التواصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الباسور الخارجي يقدر يسبب نزيف فالمهبل؟",
+    "answer": "نعم، الباسور الخارجي يقدر يسبب نزيف. خاصك تشوفي طبيب باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ألم فالبطن، شنو ندير؟",
+    "answer": "من الأفضل تمشي عند الطبيب. هو اللي يقدر يشخص الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي حمى مرتفعة بزاف.",
+    "answer": "خاصك دير تحاليل للسكر فالدم، فيروس التيفوئيد، و الملاريا.",
+    "entities": {
+      "symptoms": [
+        "حمى مرتفعة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع فالمخ وراسي سخون.",
+    "answer": "خاصك تمشي عند طبيب الأعصاب. هاد الأعراض تحتاج تقييم دقيق.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمخ",
+        "سخونة الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كايتعامل الطبيب مع الباسور الخارجي؟",
+    "answer": "العلاج كيتطلب استشارة طبيب. كاينين طرق متعددة حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي علاج بالليزر للناسور الشرجي؟",
+    "answer": "الاستئصال الجراحي هو العلاج الأكثر فعالية. خاصك تشوفي طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيتحسّ براسي بدوار ومرعود.",
+    "answer": "خاصنا نديرو فحوصات للدم والغدد الدرقية. هاد الأعراض تحتاج تقييم.",
+    "entities": {
+      "symptoms": [
+        "دوار",
+        "مرعود"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش تخلص من الرعشة؟",
+    "answer": "باش نعرف السبب، خاصني نشوف الطبيب. هو اللي يقدر يساعدك.",
+    "entities": {
+      "symptoms": [
+        "الرعشة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شحال من عام الطول كيتوقف عند الرجال؟",
+    "answer": "غالبا كيتوقفو فالعشرينات. ولكن كاين اختلاف بين الناس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الصمطا فيها شي ميكروب؟",
+    "answer": "آه، كاين ميكروب الجدري اللي كيسبب المرض عند الدراري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "وقتاش يقدر الراجل يوقف من بعد عملية الكتف؟",
+    "answer": "عادةً كياخد وقت للشفاء، خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الآثار السلبية ديال الكيس الدهني؟",
+    "answer": "الكيس الدهني يقدر يسبب الألم أو الالتهاب. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "الألم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "فين كاين العظم الصغير فالجسم؟",
+    "answer": "العظم الصغير كاين فالنخاع العظمي. هو مهم لصحة العظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": ""
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الأعراض الرئيسية ديال السكر؟",
+    "answer": "الأعراض كتشمل العطش، الجوع، التعب، ونقص الوزن. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "العطش",
+        "الجوع",
+        "التعب",
+        "نقص الوزن"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عروقي كيتحرقو و زرقا و كايتوجعوني بزاف.",
+    "answer": "خاصك تمشي عند طبيب فاقرب وقت. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "تحرق",
+        "وجع"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش العملية ديال نزع المصران خطيرة؟",
+    "answer": "ماشي خطيرة، ولكن خاص متابعة مع الطبيب بعد العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو سبب ارتفاع درجة حرارة رجلي و شنو هو العلاج؟",
+    "answer": "ارتفاع الحرارة ممكن يكون بسبب التهاب. خاصك تمشي عند طبيب الباطن.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الحرارة"
+      ],
+      "medical_field": "الباطنية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العلاج ديال الفتق بالأعشاب؟",
+    "answer": "ما كاينش علاج بالأعشاب، الحل هو العملية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج للنمش؟",
+    "answer": "خاصك تشوف طبيب مختص فالأمراض الجلدية. هو اللي غادي يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نمش"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نعالج الصداع من الدوا والريجيم؟",
+    "answer": "يمكن لك تاخد باراسيتامول أو أي مسكن آخر. ولكن خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نعالج الصداع اللي كيوجع بزاف؟",
+    "answer": "خاصنا نديرو تحاليل باش نعرفو السبب. من بعد غادي نحددو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نزيد فالطول ديالي؟",
+    "answer": "النمو كيتحكم فيه الهرمونات. خاصك تستاشر طبيب مختص فالنمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النمو",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الفيروس ديال بيتا هو فقر الدم المنجلي؟",
+    "answer": "لا، فقر الدم المنجلي هو مرض مختلف. خاصك تستاشر طبيب باش يفهمك أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع فالصدر وفيدي اليسرى.",
+    "answer": "خاصك تشوف طبيب فورا، هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي مشكل ديال النسيان والتقلب. شنو هو الحل؟",
+    "answer": "خاصك تشوف طبيب باش يشوف لك الحالة. يمكن يكون نقص فالفيتامينات.",
+    "entities": {
+      "symptoms": [
+        "نسيان",
+        "تقلب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كايتعامل الطبيب مع الباسور؟",
+    "answer": "الجراحة هي الحل الأكثر فعالية. خاصك تستاشر طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع فالصدر تحت الرقبة.",
+    "answer": "خاصك تشوف طبيب باش يدير لك الفحص. هاد الأعراض مهمة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش التدخين كيسبب سرطان الرئة؟",
+    "answer": "نعم، التدخين عندو علاقة كبيرة بسرطان الرئة. خاصك تحاول تبعد عليه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "لقيت فيتامين د ولقيت 7. واش هادشي عادي؟",
+    "answer": "كاين نقص فالفيتامين د. خاصك تتعالج باش تحسن الوضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو السبب ديال نقص الحديد؟",
+    "answer": "النزيف المزمن أو نقص التغذية هما الأسباب الرئيسية. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش البواسير بحال الشق الشرجي؟",
+    "answer": "لا، الأعراض مختلفة. خاصك تشوف طبيب باش يوضح لك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي جفاف وعطش قويين.",
+    "answer": "خاصك تدير تحليل السكر. يمكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "جفاف",
+        "عطش"
+      ],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي فتق حجباني كبار، خاصني جراحة؟",
+    "answer": "خاصك تشوف طبيب مختص باش يحدد واش خاصك جراحة ولا لا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش عملية استئصال السرة كتأثر على الزواج عند الرجال؟",
+    "answer": "ما كاين حتى تأثير على الزواج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "فين كاين فيتامين د الطبيعي؟",
+    "answer": "كاين فيتامين د في الشمس وبعض الأطعمة بحال السمك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج للإدمان على الكحول والمخدرات؟",
+    "answer": "خاص المريض يتبع برنامج علاج في مراكز متخصصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإدمان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الطبيب يقدر يشارك أسرار المريض؟",
+    "answer": "لا، الطبيب خاصو يحافظ على سر المريض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأخلاقيات الطبية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو أسباب الكسل والخمول المفاجئ؟",
+    "answer": "يمكن يكون عندك مشكل في الغدة الدرقية أو نقص في الحديد.",
+    "entities": {
+      "symptoms": [
+        "كسل",
+        "خمول"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين مشكل إلا خديتي الفاكسان ديال كورونا كل عام؟",
+    "answer": "لا، من الأفضل تاخد الفاكسان كل عام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "اللقاحات",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع فالعظم، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعظم"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الوجبات السريعة كتسبب سرطان؟",
+    "answer": "ما كاينش دليل قاطع على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو سبب الصداع وشنو العلاج؟",
+    "answer": "الضغط العالي هو واحد من الأسباب، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي راسي كيتحك، شنو السبب؟",
+    "answer": "يمكن يكون عندك حساسية أو مشكل في الضغط.",
+    "entities": {
+      "symptoms": [
+        "حكة فالرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج ديال البواسير؟",
+    "answer": "يمكن تحتاج علاج طبي أو جراحة حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي حرقة فالصدر، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب وتدير تحاليل.",
+    "entities": {
+      "symptoms": [
+        "حرقة فالصدر"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي التهاب جلدي فوق السرة، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب الجلد باش يعالج لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب جلدي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي نزيف فالجسم، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب بسرعة، هادشي خطير.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عيوني تسدو وكيضرني راسي، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب، كاين بزاف د الأسباب.",
+    "entities": {
+      "symptoms": [
+        "انسداد العيون",
+        "وجع فالرأس"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نزيدو من مستويات هرمون الدوبامين فالجسم ديال الراجل؟",
+    "answer": "يمكن نزيدو من مستويات الدوبامين من خلال التغذية المتوازنة والنشاط البدني. خاص التركيز على الأطعمة الغنية بالأوميغا 3.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الهرمونات",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع ملي كنهضر، بغيت شي علاج.",
+    "answer": "خاصك ترتاح وتجنب الضغط. إذا استمر الصداع، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي طرق الوقاية من الأمراض المعدية؟",
+    "answer": "المأكولات الصحية، النشاط البدني، والنظافة الشخصية هي عوامل مهمة للوقاية. خاصنا نتجنب التجمعات في الأماكن المغلقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي واحد الخلعة كبيرة وكنتخنق بزاف.",
+    "answer": "خاصك تحاول تهدأ وتتنفس بعمق. إذا ما تحسنتش، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "خلعة",
+        "اختناق"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كاين شي علاج لضيق التنفس؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش البواسير كتسبب حبوب حمرا فالمؤخرة؟",
+    "answer": "ما كاين حتى علاقة بين البواسير وظهور الحبوب. خاص استشارة طبيب إذا كانت عندك مشاكل.",
+    "entities": {
+      "symptoms": [
+        "حبوب حمرا"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي مشاكل فالمؤخرة والظهر.",
+    "answer": "ممكن تكون بسبب قلة الحركة أو الماكلة الغير صحية. خاصك تمشي عند طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فالمؤخرة",
+        "مشاكل فالظهر"
+      ],
+      "medical_field": "الجهاز الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شرب الحليب بعد الدونات مزيان؟",
+    "answer": "ما كاين باس من شرب الحليب بعد الأكل. غير خاصك تحاول ما تكثرش من الحلويات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ما كاينش علاج للتاهية فالعمر ديال 17 عام؟",
+    "answer": "خاصك تمشي عند طبيب مختص فالنطق. هو اللي يقدر يساعدك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب النطق",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش من الضروري نلبس الصمطا بعد عملية التقطيع؟",
+    "answer": "نعم، كيتوصى بلبس الصمطا بعد العملية. هاد الشي كيساعد فالتعافي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كايتقادو من التدخين؟",
+    "answer": "خاصك تكون عندك إرادة قوية. ممكن تستعمل بعض العلاجات أو تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الإدمان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "إحساس بالدوخة، شنو ندير؟",
+    "answer": "ممكن يكون عندك مشاكل صحية. خاصك تمشي عند طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "طب الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الآثار السلبية ديال تناول الدوا بلا رخصة؟",
+    "answer": "ممكن تسبب مشاكل صحية خطيرة. خاصك تستاشر مع طبيب قبل ما تاخد أي دوا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العلاج ديال البواسير واش غير الجراحة؟",
+    "answer": "كاين طرق أخرى بحال الأدوية والتغييرات فالعادات الغذائية. خاصك تشوف طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش البواسير عندو علاقة بالظهر؟",
+    "answer": "نعم، كاين علاقة بين البواسير والمشاكل فظهر. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو كيسبب لعطش كبير فالحلق؟",
+    "answer": "العطش فالحلق ممكن يكون بسبب الزكام أو التهاب الحنجرة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "عطش فالحلق"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ولدي عندو ربع سنين وكيقول عندو ألم فصدرو.",
+    "answer": "خاصك تشوف طبيب أطفال باش يحدد السبب. ممكن تكون أسباب بسيطة أو خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي تراب فالمعدة، واش كاين شي علاج؟",
+    "answer": "خاصك تشوف طبيب لتحديد العلاج المناسب. ممكن تحتاج تحاليل إضافية.",
+    "entities": {
+      "symptoms": [
+        "تراب فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو علاج مرض المصرانة؟",
+    "answer": "كاين علاجات مختلفة حسب الحالة. خاص استشارة طبيب لتحديد الأنسب.",
+    "entities": {
+      "symptoms": [
+        "مرض المصرانة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي أعراض جانبية من دوا ديال السيفالكس.",
+    "answer": "خاصك توقف العلاج وتستاشر مع الطبيب. ممكن تحتاج علاج بديل.",
+    "entities": {
+      "symptoms": [
+        "أعراض جانبية"
+      ],
+      "medical_field": "الصيدلة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نحصل على علاج الجابابتين؟",
+    "answer": "ماشي مزيان تاخد دوا بلا استشارة طبيب. خاص الطبيب يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ألم في البطن وسفل الظهر.",
+    "answer": "خاصك دير فحص طبي وتاخد التاريخ الطبي. هادشي غادي يساعد الطبيب في تحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم في البطن",
+        "ألم في الظهر"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كاين حب فالفتحة ديال الشرج.",
+    "answer": "غالبا كيكونو بلاصتهم خواتم. خاصك تشوف طبيب لتحديد العلاج.",
+    "entities": {
+      "symptoms": [
+        "حب في الشرج"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي دمل تحت الرجلين.",
+    "answer": "خاصك تشوف شي طبيب، يمكن تحتاج لشي عملية. العلاج كيتطلب تقييم دقيق.",
+    "entities": {
+      "symptoms": [
+        "دمل"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "المكلة الحلوة كتخلي الضغط ديال الدم يطلع؟",
+    "answer": "السكر كيرفع الضغط عند بعض الناس. خاصك تراقب النسب ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الشحنات والبوليبات الزائدة عامل وراثي؟",
+    "answer": "كاينين دراسات كيدعمو وجود عامل الوراثة. خاصك تسول طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الوراثة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا طولي 168 سنتيم ووزني 51 كيلو، واش هادشي مزيان؟",
+    "answer": "وزنك طبيعي بالنسبة لطولك. خاصك غير تحافظ على نمط حياة صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كاتعافا من الكحول؟",
+    "answer": "خاصك تعيط على طبيب نفساني باش يعطيك الدعم والعلاج المناسب. العزيمة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو السبب ديال مرض فقر الدم المنجلي؟",
+    "answer": "مرض فقر الدم المنجلي كيكون بسبب مشكل جيني. خاصك تستاشر مع طبيب لفهم الحالة مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي فيتامين د 99، واش هادشي خطير؟",
+    "answer": "نقص فيتامين د ممكن يكون عندو تأثيرات سلبية على الصحة. خاصك تشوف طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كاتعالج السكري؟",
+    "answer": "العلاج كيتطلب نظام غذائي صحي وممارسة الرياضة. خاصك تبقى بعيد على التوتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الموجات فوق الصوتية تقدر تكتاشف شي كتلة تحت الابط؟",
+    "answer": "إي، الموجات فوق الصوتية قادرة تكشف الكتل. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع بعد ما كنشربو، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب ديال الإدمان. يمكن يكون عندك مشكل خاص بالعلاج.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ورم بحجم بيضة فالجانب الايسر، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب جراح دابا. هاد الحالة تحتاج لفحص دقيق.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كلما قريت كايزيد صداع الراس، شنو ندير؟",
+    "answer": "خاصك تفحص العيون ديالك. يمكن يكون عندك مشكل في النظر.",
+    "entities": {
+      "symptoms": [
+        "صداع الراس"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع حاد فالعينين، شنو السبب وشنو العلاج؟",
+    "answer": "خاصك دير فحص عند طبيب العيون. يمكن يكون عندك التهاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعينين"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أسباب البواسير وشنو هي الأعراض ديالها؟",
+    "answer": "الأسباب كتشمل الإمساك والإسهال. الأعراض كيمكن تكون ألم أو نزيف.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "نزيف"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش استعمال المارار كيتأثر بالكبدة؟",
+    "answer": "ما كاين حتى تأثير سلبي على وظائف الكبد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش عرفتي بلي عندي مشكل فالبول؟",
+    "answer": "خصك تمشي عند طبيب مختص باش يدير ليك الفحص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش ممكن نركب الطوموبيل بعد ما شربت الكحول قبل 18 ساعة؟",
+    "answer": "ماشي مزيان، خاصك تنتظر أكثر من 18 ساعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السموم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيعاني من مشكل فالتقلب ملي كيكون واقف بزاف.",
+    "answer": "خصك دير تصوير طبي وطلب من الطبيب يشوفها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الحوايج اللي كيرفعو نسبته الدم؟",
+    "answer": "خاصك تاكل الحوت الأحمر، خصوصا الحوت الأزرق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كايعالجو الزايدات الجلدية فالدرا؟",
+    "answer": "خصك تمشي عند طبيب الجلدية باش يحدد لك العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش القرد كينقل فيروس الإيدز؟",
+    "answer": "إلا كان مصاب، يقدر ينقل المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيعاني من حكة قوية فالفخدين والمؤخرة وحبوب حمرا.",
+    "answer": "كنصحك تشوف طبيب جلدية.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "حبوب حمراء"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيشعر بالسخانة والغثيان و النعاس بزاف.",
+    "answer": "خصك دير تحليل دم باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "سخانة",
+        "غثيان",
+        "نعاس"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أحسن طريقة باش تعامل مع شي واحد مدمن على الحشيش؟",
+    "answer": "خاص العلاج النفسي عند طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نعالج التهاب الكبدة الفيروسية ب؟",
+    "answer": "خاصك تمشي لطبيب داخلي باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "هل تمرين انقباض وارتخاء عضلة الشرج مفيد للقذف السريع؟",
+    "answer": "ما عندو حتى علاقة بالقذف السريع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي مشكل فالنوم، خاصني شي دوا ديال النعاس.",
+    "answer": "من الأفضل تراجع طبيب نفسي باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالنوم"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كاين شي ألم فالصدر و النيف.",
+    "answer": "خاصك تشوف طبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نعاود نتفكّر هادشي؟",
+    "answer": "حسن ذكرياتي بالقراية وكتابة الأفكار ديالي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كتعالج الصداع؟",
+    "answer": "دوا ديال القلق مزيان، و خاصك تتجنب التوتر.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شحال من الما خاصني نشربو فالنهار؟",
+    "answer": "خاصك تشرب من تلاتة لخمسة لتر فاليوم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ورم بحجم البيضة فالثدي الأيسر، عندي 57 عام.",
+    "answer": "خاصك تشوف الجراح دابا، هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "ورم فالثدي"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش ممكن تعالج الكيس الدهني بلا عملية؟",
+    "answer": "ما كاين غير العملية، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش يمكن علاج الفتق الاربي غير بالدوا؟",
+    "answer": "ماعندو علاج غير العملية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج ديال الهذيان والذاكرة الضعيفة؟",
+    "answer": "خاصك تاكل ماكلة صحية، وتهتم بالفواكه والخضرة.",
+    "entities": {
+      "symptoms": [
+        "الهذيان",
+        "ذاكرة ضعيفة"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كانخرج ليه شي نقط حمرا من بعد البارز.",
+    "answer": "عافاك سير عند الطبيب ديال الجهاز الهضمي.",
+    "entities": {
+      "symptoms": [
+        "نقط حمرا"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كاين شي ألم فالصدر و رجليها و نيفو.",
+    "answer": "خاص يتحقق من وجود مرض الشقيقة والصداع النصفي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر",
+        "ألم فالرجل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الإجراءات اللي خاصني ندير باش نمنع الشفرة؟",
+    "answer": "عافاك شوف طبيب النساء، الرحم يمكن يتضرر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو النسب الطبيعي ديال الدم عند الإنسان؟",
+    "answer": "كل واحد تقريبا 5 ل 6 ليتر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش يمكن علاج الفتق الاربي غير بالدوا؟",
+    "answer": "العلاج كيتطلب العملية فالغالب، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الما دافي كيعاون فالتخفيف من التهابات الشرج؟",
+    "answer": "ما كاينش علاقة مباشرة بين الما دافي والتهابات الشرج.",
+    "entities": {
+      "symptoms": [
+        "التهابات الشرج"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مرض البازدوف خطير؟",
+    "answer": "نعم، خاص العلاج السريع باش ما يتفاقمش الوضع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش واحد يحمي راسو من الإصابة بشي حاجة أخرى من بعد ما تضرب فشي حاجة؟",
+    "answer": "خاص يدير العلاج الوقائي ويقضي فترة الحجر الصحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الوقائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مرض التهاب السحايا كيتعدى بالبالغين؟",
+    "answer": "نعم، كيتعدى خصوصا إلا كان السبب بكتيري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عضيت الفار و ما عرفتش كيفاش نتعامل معاها.",
+    "answer": "خاص تاخد لقاح تيتانوس وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الوقائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مزيان نستعملو العسل والنعناع كمرهم للبواسير؟",
+    "answer": "العسل والنعناع ما كاين حتى ضرر فاستعمالهم.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحيد شي كيس من الثدي؟",
+    "answer": "خاص يتفحص من طرف طبيب جراح.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "بعد الأكل كنحس بدوار.",
+    "answer": "يمكن يكون عندك هبوط مفاجئ. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "دوار"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع ف وحدة من راسي.",
+    "answer": "خاصك تحدد وقتاش بدا الصداع والمكان. هادشي غادي يساعد الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع الرأس"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو السبب ديال انخفاض ضغط الدم اللي كيتكرر؟",
+    "answer": "يمكن يكون بسبب الماكلة بحال الملح والدهون. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "انخفاض ضغط الدم"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كان عندي صداع قاتل.",
+    "answer": "خاصك تحلل الكالسيوم فالدم. هاد التحليل غادي يعاونك تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج العشبي للدوخة؟",
+    "answer": "خاصك تمشي لطبيبك باش يعرف السبب. العلاج العشبي ماشي دائما كافي.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش يمكن علاج الفتق الاربي غير بالدوا؟",
+    "answer": "لا، ما يمكنش يتعالج غير بالدوا. العملية هي الحل الأفضل.",
+    "entities": {
+      "symptoms": [
+        "فتق ارابي"
+      ],
+      "medical_field": "الجراحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أسباب البواسير وشنو هي أعراضها؟",
+    "answer": "السبب هو الإمساك أو الإسهال. خاصك تشوف طبيب إذا كانت الأعراض مزعجة.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كا يقدر يتحدد من خلال فحص الدم واش شي واحد كيستعمل المخدرات؟",
+    "answer": "أه، كايتشاف من خلال التحليل. هادشي مهم للوقاية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شحال هو المعدل الطبيعي ديال ضربات القلب؟",
+    "answer": "المعدل الطبيعي هو 60 نبضة فالدقيقة. خاصك تراقب إذا كان كيتغير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الارتفاع ديال الحرارة فالراس مع النوبات الصدمية.",
+    "answer": "خاصك تشوف الطبيب إلا كنتي ناعس. هاد الحالة يمكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع الحرارة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي دليل على أن شي واحد كان كيستعمل السجائر فالتحليل ديال البراز والبول؟",
+    "answer": "أه، كايتشاف ف التحليل ديال الدم والبول. هادشي مهم للصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كا يسبب التهاب السحايا من بعد الاصابة الجماعية دماغيا؟",
+    "answer": "أه، من المرجح. خاصك تشوف طبيب فهاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب السحايا"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "على حسب، كاين صداع ف راسي كامل.",
+    "answer": "التوتر العصبي كيتسبب بزاف فصداع الرأس. خاصك ترتاح وتخفف الضغط.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش رفع الأثقال مزيان للدراري الصغار؟",
+    "answer": "مكيشجعوش رفع الأثقال قبل البلوغ. خاصهم يمارسو رياضات خفيفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الرياضي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "بغيت شي دوا باش نحيد الحشيش من جسمي.",
+    "answer": "خاصك تمشي للمستشفى باش يديرو ليك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كنعاني من الدوار والقي و النعاس بزاف.",
+    "answer": "خاصك تشوف طبيب باش يدير ليك الفحوصات. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "الدوار",
+        "القي",
+        "النعاس"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ورم بحجم بيضة فالجانب الايسر ديال الجسم.",
+    "answer": "خاصك تمشي لطبيب باش يدير ليك الفحوصات. هاد الشي ممكن يكون خطير.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي تضخم فالبول. شنو هو العلاج؟",
+    "answer": "العلاج غالبا كيتطلب عملية جراحية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "تضخم"
+      ],
+      "medical_field": "الجهاز البولي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو اللي كيسبب ليك الحريق فالصدر ملي كاتوقف بزربة؟",
+    "answer": "يمكن يكون عندك مشكل فالقلب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حريق فالصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الضغط المنخافض عند النسا كيعطي نفس الأعراض بحال عند الرجال؟",
+    "answer": "نعم، الأعراض كاتكون مشابهة. خاصك تراقب الضغط ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كايتعالج و كايتحكم فيهم الفيروسات؟",
+    "answer": "خاصك تكوني فالسبيطار باش يتعطاو ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي فائدة من استعمال مرهم فيرسدين فالتشقق الشرجي؟",
+    "answer": "على الأرجح مكاينش فائدة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "تشقق شرجي"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أسباب تأخر الحمل؟",
+    "answer": "كاين بزاف الأسباب، من بينها مشاكل صحية أو نفسية. خاصك تستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحيد التهليل بعد الولادة؟",
+    "answer": "خاصك دير تمارين ديال البطن وتمرن الرياضة. غادي تعاونك بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النسائي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع هادي جوج سيمانات وما عرفتش منين جاي.",
+    "answer": "خاصك تشوف طبيب باش يتأكد من السبب. يمكن يكون عندك شي مشكل صحي خاصو الفحوصات.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كا نحس بشي انتفاخ فمناطق الريق مع تعب فالتنفس.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب. يمكن يكون عندك التهاب أو حساسية.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ",
+        "تعب فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش ممكن يكون البواسير هو السبب؟",
+    "answer": "ممكن ولكن راه سبب ضعيف. خاصك تشوف طبيب لتحديد السبب الحقيقي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كيبين تحليل الزواج بلي أنا مدمن؟",
+    "answer": "أكيدا، التحليل كيبين الاستهلاك ديال المواد. خاصك تفكر فالصحة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإدمان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الحصى لي فالمرا كايسبب ليك مشاكل فالتنفس؟",
+    "answer": "الحصى ما كيسببوش مشاكل فالتنفس. خاصك تشوف طبيب إذا كان عندك مشكل آخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز البولي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كان عندي صعوبة فالتنفس ملي كانو كايضغطو عليا صدري.",
+    "answer": "من الأحسن تمشي لطبيب باش يستبعد أمراض القلب أو التهاب الرئة.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "السلام عليكم، كنعاني من الدوار والقي و النعاس بزاف.",
+    "answer": "خاصك دير فحص طبي وفحص معملي. هاد الأعراض ممكن تكون عندها أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "دوار",
+        "قيء",
+        "نعاس بزاف"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "العلاج ديال الصداع النصفي.",
+    "answer": "يمكن تحتاج دوايات خاصة للصداع النصفي. استشر طبيبك للحصول على العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "التهاب فالمطقة مع نزيف.",
+    "answer": "خاص الطبيب يحدد ويقيم النتائج ديال التصوير. هاد الحالة تحتاج اهتمام خاص.",
+    "entities": {
+      "symptoms": [
+        "التهاب",
+        "نزيف"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كنحس بالوجع فكرشي ملي كنحني راسي.",
+    "answer": "خاصك تمشي لطبيب باش يدير ليك فحص طبي كامل. هاد الأعراض ممكن تشير لمشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي فراغات صفرا ففتحة الرجلين و كاين الم.",
+    "answer": "خاصك تشوف الطبيب باش يعرف السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "فراغات صفرا",
+        "الم"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "تحليل جوج أيام هو طبيعي؟",
+    "answer": "النتيجة قليلة، خاصنا نديرو تحليل كامل للكبد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الأسباب اللي كتخلي الشعر يتباطأ؟",
+    "answer": "يمكن يكون عندك نقص في الفيتامينات أو مشاكل هرمونية. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ارتفاع في الحرارة فالليل و نقص الشهية.",
+    "answer": "خاصك تقيس الحرارة ديالك و تشوف الطبيب إذا استمر الوضع.",
+    "entities": {
+      "symptoms": [
+        "ارتفاع في الحرارة",
+        "نقص الشهية"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مزيان نتنفس بعد عملية الدوالي بعد 10 أيام؟",
+    "answer": "التنفس عادي، ولكن خاصك ترتاح و ما تبذلش مجهود كبير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مزيان نمشي بزاف من بعد عملية إزالة الزائدة الدودية؟",
+    "answer": "المشي مزيان، ولكن خاصك تتجنب المجهود الكبير في البداية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو السبب ديال الصداع لي ما كيوقفش؟",
+    "answer": "الصداع المستمر يمكن يكون بسبب التوتر أو مشاكل صحية أخرى. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ماما كاتعاني من الدوخة، شنو هو العلاج؟",
+    "answer": "خاصك تقيس لها ضغط الدم و تشوف الطبيب إذا استمرت الدوخة.",
+    "entities": {
+      "symptoms": [
+        "دوخة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مرض السحايا كيعطي النعاس؟",
+    "answer": "نعم، مرض السحايا يمكن يسبب النعاس و أعراض أخرى. خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [
+        "نعاس"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شحال ديال الوقت كياخد الحشيش باش يخرج من الجسم؟",
+    "answer": "يمكن ياخد من شهر لتلت شهور حسب الوزن والكمية المستهلكة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "صداع نصفي دائم.",
+    "answer": "خاصك تمشي عند طبيب باش يشوف لك السبب و يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كيتعافا المريض اللي عندو سكر الدم بعد ما ياخد الدوا؟",
+    "answer": "نعم، العلاج كيساعد على التحكم في مستوى السكر. خاص المريض يتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو السبب ديال الحرارة العالية فالصدر؟",
+    "answer": "خاصك تقيس ضغط الدم وتدير تحليل هرمونات الغدة الدرقية.",
+    "entities": {
+      "symptoms": [
+        "حرارة عالية"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي الدهون فالصدر وزيادة فالوزن.",
+    "answer": "خاصك تحافظ على نظام غذائي صحي وتقوم بالنشاط البدني.",
+    "entities": {
+      "symptoms": [
+        "دهون فالصدر",
+        "زيادة فالوزن"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع فكرشي ملي كنهضر.",
+    "answer": "يمكن يكون عندك مشكل في الهضم، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كايضرني الصدر ملي كانلهت.",
+    "answer": "خاصك تشوف الطبيب، يمكن تحتاج للتصوير بالأشعة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كانحسّ ديما بالقلق والتوتر.",
+    "answer": "يمكن تحتاج لفحص القلب وتصوير الرئة.",
+    "entities": {
+      "symptoms": [
+        "قلق",
+        "توتر"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج ديال الملاريا؟",
+    "answer": "العلاج هو حقن الارتميثر، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ملاريا"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نحيد شي كيس من الصدر؟",
+    "answer": "خاصك تتفحص عند طبيب جراح.",
+    "entities": {
+      "symptoms": [
+        "كيس فالصدر"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي حريق فالرجلين ملي كينعس.",
+    "answer": "خاصك تشوف طبيب باش يقيم الحالة.",
+    "entities": {
+      "symptoms": [
+        "حريق فالرجلين"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كاين شي علاج لمرض إيبلّا؟",
+    "answer": "بالطبع، خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "مرض إيبلّا"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش ننقيو البول والدم من آثار المخدرات؟",
+    "answer": "خاصك تبعد على المخدرات نهائيا. استشارة طبيب ضرورية لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي أسباب الحبوب الصغيرة؟",
+    "answer": "من بين الأسباب كاين الأكزيما والجفاف ديال الجلد. خاصك تشوف طبيب الجلد.",
+    "entities": {
+      "symptoms": [
+        "حبوب صغيرة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش يمكن لشي واحد عادي يعطي الدم للي عندهم متلازمة تيرنر؟",
+    "answer": "أه، ماكاين حتى شي سبب يمنع هاد الشي. لكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الطبيب العام غادي يعطيني فحص فيتامين د؟",
+    "answer": "خاص الطبيب يطلب التحاليل. إذا كان عندك نقص، غادي يعطيك العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كسل الكبد هو نفس الشي بحال كسل الكبد الدهني؟",
+    "answer": "كاين فرق بيناتهم. خاصك تشوف طبيب باطني لتوضيح الأمور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الباطنية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش أثرت الرياضة على الصحة؟",
+    "answer": "الرياضة كتحسن الصحة العامة وكتساعد فالتقليل من الأمراض. خاصها تكون جزء من الروتين اليومي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كاينين شي حبوب حمرا ف الزرق و كايعطيونا الصداع؟",
+    "answer": "خاصك تشوف طبيب جراح. التحاليل ضرورية لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "حبوب حمرا",
+        "صداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي مشكل كبير، شنو خاصني ندير؟",
+    "answer": "دير تحاليل الدم والبول وقدمها للطبيب. هو اللي غادي يحدد العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيعاني من حكة قوية فكوعيه ورجليه وقرصات حمرا؟",
+    "answer": "خاصه يزور طبيب الجلد. التحاليل غادي تساعد فالتشخيص.",
+    "entities": {
+      "symptoms": [
+        "حكة",
+        "قرصات حمرا"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي دموع حمرا تحت عيني.",
+    "answer": "الالتهاب كيتعالج بالمضادات الحيوية. خاصك تزور طبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "دموع حمرا"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي كيس دهني فالصدر.",
+    "answer": "إلا كان الكيس داخل الصدر، خاصو خطوات كثيرة للتشخيص والعلاج. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "كيس دهني"
+      ],
+      "medical_field": "الصدر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي التهاب شديد فالبطن وكنحس بشي حاجة فالمقعد.",
+    "answer": "خاصك تمشي لطبيب باش يشوف الحالة. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كانحس براسي عيّان ومرخيّس.",
+    "answer": "كاين بزاف د العوامل النفسية. خاصك ترجع للطبيب باش يشوف السبب.",
+    "entities": {
+      "symptoms": [
+        "عيّان"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع فالعينين بسباب الصداع.",
+    "answer": "الوجع فالعينين ممكن يكون بسبب الصداع. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعينين",
+        "صداع"
+      ],
+      "medical_field": "العين",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نعرف واش عندي البواسير؟",
+    "answer": "البواسير كيتعرفو من خلال الأعراض بحال النزيف. خاصك تشوف طبيب للتأكد.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي مشكل فوجهي اليسار، ماكانحسش بيه.",
+    "answer": "خاصك تشوف طبيب نفسي. هادشي ممكن يكون عندو أسباب نفسية.",
+    "entities": {
+      "symptoms": [
+        "عدم الإحساس"
+      ],
+      "medical_field": "الصحة النفسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو اللي كيخلي الواحد ما يركزش مزيان؟",
+    "answer": "ممكن يكون بسبب قلة النوم أو التغذية غير المتوازنة. خاصك تهتم براسك وتاخد قسط كافي من الراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة العامة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شحال خاصني من الوقت بعد ما تقطع لي الزايدة باش نلعب الكورة؟",
+    "answer": "خاصك جوج شهور تقريبا باش ترجع تلعب بشكل طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مرض السور يقدر يسبب ضعف فالرجولة؟",
+    "answer": "لا، مرض السور ما كيسببش ضعف فالجنس. خاصك استشارة طبيب إذا عندك شي مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصحة الجنسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كيتعافا المريض اللي عندو سكر الدم بعد ما ياخد الدوا؟",
+    "answer": "التعافي كيعتمد على الالتزام بالعلاج والتغذية السليمة. خاص استشارة طبيب لتحديد الخطة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "داء السكري",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو الحل ديال الحساسية؟",
+    "answer": "الحل كيتطلب استشارة طبيب مختص. ممكن تحتاج أدوية أو تغييرات فالعادات اليومية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الحساسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي أعراض جانبية من دوا السيفالكس.",
+    "answer": "إذا حسيت بأعراض جانبية، خاصك تشوف طبيب. ممكن يحتاج يبدل لك الدوا.",
+    "entities": {
+      "symptoms": [
+        "أعراض جانبية"
+      ],
+      "medical_field": "الصيدلة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع فالصدر فالبداية ديال العمود الفقري.",
+    "answer": "خاصك تشوف طبيب وتدير الفحوصات اللازمة. ممكن يكون عندك مشكل صحي خاص.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي علامات ديال الضغط فالدم؟",
+    "answer": "كاين علامات بحال الصداع والدوخة. إذا حسيت بشي حاجة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الصداع",
+        "الدوخة"
+      ],
+      "medical_field": "ضغط الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الوجع ف الراس بحال شي نبضة ف الجهة اليمنى.",
+    "answer": "ممكن يكون صداع نصفي. إذا تكررات الأعراض، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كاينة الأمراض ديال الكلى؟",
+    "answer": "الأمراض ديال الكلى كتطلب تشخيص دقيق. خاصك تشوف طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين علاقة بين الصداع النصفي وقلق العصب؟",
+    "answer": "ما كاينش علاقة قوية بيناتهم، وماشي مبرر علميا.",
+    "entities": {
+      "symptoms": [
+        "الصداع النصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ولدي عندو 8 سنين وعندو مشكل ديال النسيان، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص باش يحدد السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نسيان"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش تأكدت بلي شريكتي مصابة بمرض معدٍ؟",
+    "answer": "التحاليل السريرية والمختبرية ضرورية باش نتأكد من الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي الصداع النصفي، واش هاد الدوا مزيان ليا وكيفاش نستعملو؟",
+    "answer": "خاصك تسول الطبيب على الدوا المناسب وكيفاش تستعملو.",
+    "entities": {
+      "symptoms": [
+        "الصداع النصفي"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين شي عملية باش نصلحو الأوعية الدموية المسدودة فالرجلين؟",
+    "answer": "كاين عمليات جراحية، ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ملي كانموت على الجهتين، كنحس بالوجع.",
+    "answer": "خاصك دير فحص الأشعة دالرأس باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش البواسير كتأثر على الحمل؟",
+    "answer": "لا، البواسير ما كتأثرش على الحمل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "النساء",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الغنغرينا مرض معد؟",
+    "answer": "الغنغرينا ماشي معدية، ولكن كاين خطر العدوى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي الآثار الجانبية للفيروسات؟",
+    "answer": "الآثار الجانبية للفيروسات كيمكن تكون متنوعة، بحال الحمى، التعب، والسعال. خاص استشارة طبيب لتحديد الأعراض بدقة.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "تعب",
+        "سعال"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاينة علاقة بين شرب البيض وزيادة فالحجم ديال الغدد الليمفاوية؟",
+    "answer": "ما كاين حتى علاقة بين شرب البيض وزيادة حجم الغدد الليمفاوية. إذا كان عندك أي أعراض، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الغدد الليمفاوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع فاللور ديالي كل نهار لسنين، شنو السبب؟",
+    "answer": "الصداع المستمر خاصو يتشخص من طرف طبيب. يمكن يكون عندك ضغط دم مرتفع أو مشاكل أخرى.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين عوارض جانبية فاش كايتاخد الدوا ديال الوريد؟",
+    "answer": "نعم، كاينين عوارض جانبية بحال الحساسية أو الألم فالمكان لي تدار فيه الحقنة. خاصك تراقب أي أعراض جديدة.",
+    "entities": {
+      "symptoms": [
+        "حساسية",
+        "ألم"
+      ],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي بواسير، واش يمكن ليا نستعمل الباسكوبان كمسكن؟",
+    "answer": "يمكن لك تستعمل الباسكوبان، ولكن من الأفضل تشاور مع طبيب قبل ما تاخد أي دواء.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "الجراحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كاين شي عوارض من كاين كايتضرني راصي؟",
+    "answer": "إذا كان كاين ألم مستمر، خاصك تشوف طبيب العيون. يمكن يكون عندك مشكل خاص بالعينيين.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شحال كياخد جرح الصبعان باش يبرى بعد العملية؟",
+    "answer": "على حسب المنطقة اللي فيها الجرح، ولكن عادة كياخد وقت. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج ديال البواسير؟",
+    "answer": "إذا كانت كبيرة، خاصك تدير عملية إزالة. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي الم ففتحة الشرج.",
+    "answer": "يمكن يكون عندك التهاب، خاصك تشوف طبيب يدير لك التحاليل اللازمة.",
+    "entities": {
+      "symptoms": [
+        "الم ففتحة الشرج"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش استئصال المرارة بالليزر حسن من العادي؟",
+    "answer": "الجراحة بالليزر كتكون أقل ألم وكتعطي نتائج مزيانة. خاصك تستاشر مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع نصفي.",
+    "answer": "خاصك تشوف الأعراض الأخرى اللي عندك. ممكن تحتاج علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ظهرات ليا حمرا فالجبهة.",
+    "answer": "خاصك تشوف طبيب جلدية باش يشوف الحالة. يمكن تحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "حمرا فالجبهة"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عافاك عطيني شي حبوب صغار مع الدواء.",
+    "answer": "خاصنا نفحصو الحالة ديالك قبل ما نعطيوك أي دواء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الصيدلة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كاين شي علاج للصداع؟",
+    "answer": "يمكن تستعمل الما البارد أو بعض الأدوية المسكنة. خاصك تشوف الطبيب إذا ما تحسنش.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج لمتلازمة ستيفن جونسون؟",
+    "answer": "ما كاينش علاج محدد، ولكن خاصك تعالج الأعراض تحت إشراف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "بعد الفطور بساعة، نسبة السكر كانت 75. واش هادي طبيعية؟",
+    "answer": "نعم، هادي نسبة طبيعية للسكر بعد الأكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السكري",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش ممكن نعالج الإدمان؟",
+    "answer": "نعم، كاينين مراكز متخصصة فالعلاج من الإدمان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الإدمان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو كاين فالصدر من الجنب اليمين؟",
+    "answer": "خاصك تشاور الطبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي الصداع والغثيان.",
+    "answer": "خاصك تمشي للطبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "غثيان"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ألم فالظهر والبطن وكنحس بالدوخة.",
+    "answer": "خاصك تمشي للطبيب باش يدير لك الفحوصات الضرورية.",
+    "entities": {
+      "symptoms": [
+        "ألم في الظهر",
+        "ألم في البطن",
+        "دوخة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي راس كايضرني و فيا السخانة.",
+    "answer": "خاصك تدير فحص دم وتشوف السكر والضغط.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "سخانة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا كنبقى دايما في حالة دوار.",
+    "answer": "خاصك تدير فحص للودنين وصور للدماغ.",
+    "entities": {
+      "symptoms": [
+        "دوار"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا كملت العملية الزايدة، ولكن مازال ما عرفت شحال خاصني باش نتعلم نلعب الكرة.",
+    "answer": "خاصك على الأقل 3 سيمانات للراحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش حب علي شكل كيس في رقبتي؟",
+    "answer": "خاص التحاليل باش نحددو التشخيص وطريقة العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو السبب ديال الهزال؟",
+    "answer": "الهزال يمكن يكون بسبب ضعف الدم أو نقص الحديد أو الاكتئاب. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "الهزال"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع قاتل و التوتر ملي كنقرا.",
+    "answer": "خاصك دير فحص العينين و تشوف واش خاصك نضاضر. يمكن يكون السبب هو التعب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "توتر"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج اللي كيناسب الصداع النعاسي؟",
+    "answer": "الطبيب غادي يوصف ليك دوا مناسب. خاصك تتبع التعليمات ديالو.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا فواحد الكيس ديال الما فالصدر وكنتألم منو.",
+    "answer": "خاصك تمشي للطبيب باش يدير لك الفحوصات اللازمة. يمكن تحتاج لعملية.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ما قدرتش ننعس بسباب لحك ديالي.",
+    "answer": "خاصك تعرف السبب ديال الحكة و تمشي للطبيب. يمكن يكون عندك حساسية.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "وقتاش غادي يرجع لعبو الكرة من بعد العملية ديال الفتق الاربي؟",
+    "answer": "غادي يرجع بعد ستة سيمانات. خاصو يتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي ألم فالبطن وما عرفتش شنو هو الحل وأنا عندي 14 عام.",
+    "answer": "خاصك تمشي للطبيب باش يدير لك الفحوصات. يمكن يكون عندك مشكل صحي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي راس كايضرني، ودنيا كاينة، و النيف مسدود، و كايعييني المعدة ديالي.",
+    "answer": "يمكن تكون عندك مشاكل فالصحة النفسية أو فالجهاز التنفسي. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرأس",
+        "انسداد الأنف"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "تلاتة د الكتل صغار في راسي و في رجلي كايعطيو ليا صداع.",
+    "answer": "خاصك تمشي عند طبيب ترويض. يمكن تحتاج لعلاج خاص.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش ضعف البصر كيخلي الواحد يحس بالدوخة؟",
+    "answer": "آه، ضعف البصر يمكن يسبب دوخة وصداع. خاصك تشوف طبيب العيون.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "صداع"
+      ],
+      "medical_field": "طب العيون",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا في ألم شديد من المعدة والرجلين والعظام، شنو خاصني ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف شنو السبب. يمكن تحتاج دوا.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة",
+        "ألم فالرجلين",
+        "ألم فالعظام"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هي التحاليل السريرية؟",
+    "answer": "التحاليل السريرية كتحلل أعضاء الجسم باش يكتاشفوا الأمراض والاضطرابات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب العام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي الصفائح 147، واش هادشي كافي؟",
+    "answer": "الصفائح الدموية عندك مقبولة، ولكن خاصك تراقب صحتك. إذا كان عندك أعراض أخرى، خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش عرفتي ولدك عندو التهاب السحايا؟",
+    "answer": "الأعراض كتشمل التقلصات، ارتفاع الحرارة، والقيء. خاصك تشوف الطبيب فالحالة هادي.",
+    "entities": {
+      "symptoms": [
+        "التقلصات",
+        "ارتفاع الحرارة",
+        "القيء"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا مدمن على ترامادول وباركينول، كيفاش نحبس؟",
+    "answer": "كانصحك تشوف طبيب نفسي يساعدك فهاد المشكل. الدعم مهم فهاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "التعب، وجع فالرية، وجع فالصدر، السخانة، شنو ندير؟",
+    "answer": "خاصك تشوف الطبيب باش يتشخص حالتك. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "وجع فالرية",
+        "وجع فالصدر",
+        "السخانة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "وقتاش غادي يتسد القطع ديال الجلد اللي تقطعات بسباب المنظار؟",
+    "answer": "الجرح غادي يتعافى بعد أسبوع من الجراحة. خاصك تراقب الجرح مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش مزيان للناس اللي عندهم التهاب الكبد يشربو الحليب؟",
+    "answer": "نعم، إلا كان البريز صحيح. خاص استشارة طبيب قبل ما تاخد أي قرار.",
+    "entities": {
+      "symptoms": [
+        "التهاب الكبد"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شحال من جلسة ديال التبريد خاصها باش يتعافى الشخص؟",
+    "answer": "عدد الجلسات كيعتمد على الحالة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العلاج الطبيعي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش خطير إلا جرحت وبركت فيه؟",
+    "answer": "إذا كانت الجرح عميق، خاصك تشوف طبيب. يمكن يكون فيه خطر.",
+    "entities": {
+      "symptoms": [
+        "جرح"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "جرحت ليه في ظهرو. واش كاين شي خطر؟",
+    "answer": "إذا كانت الجرح عميق أو نازف، خاصك تشوف طبيب. يمكن يكون خطر.",
+    "entities": {
+      "symptoms": [
+        "جرح"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش الدوا ديال السمبلتا كيزيد السعادة؟",
+    "answer": "ما كاينش هرمون سميتو هرمون السعادة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو الدواء اللي كيتعطى قبل وبعد العملية؟",
+    "answer": "عادة كيتعطاو مسكنات وأدوية مضادة للبكتيريا. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش البواسير كيأثرو على الحمل؟",
+    "answer": "البواسير ما عندها حتى تأثير على الحمل. خاص استشارة طبيب إذا كان عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "بغيت شي ماكلة خاصة للجرحة ديال المعدة.",
+    "answer": "من الأفضل تاكل الخضار مثل اللوبية والجزر. خاص تتجنب الأطعمة الحارة.",
+    "entities": {
+      "symptoms": [
+        "جرح المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو العلاج ديال كيس الما اللي فالكبد؟",
+    "answer": "العلاج غالباً جراحي، ولكن خاص فحوصات قبل. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "أنا ولدت غير خمسة أيام والغرزة ديالي كتوجعني بزاف. واش خاصني بواسير؟",
+    "answer": "الألم بعد الولادة عادي، ولكن إذا كان الألم شديد، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم بعد الولادة"
+      ],
+      "medical_field": "النساء والتوليد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "مرحبا، عندي تقبة كبيرة فالبطن. شنو خاصني ندير؟",
+    "answer": "خاصك تشوف طبيب فورا. الحالة يمكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "تقبة فالبطن"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش كايعاونني البالون ديال المعدة باش نقص من الوزن؟",
+    "answer": "البالون كيساعد على تقليل الشهية. خاص استشارة طبيب قبل ما تديرها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "السمنة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش نزع الفتيل بعد العملية ديال خروج الأمعاء بجوار الشرج خطير؟",
+    "answer": "عادة ما كاينش خطر. ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "درجة حرارة جسمي هي 34 درجة، واش هادشي عادي؟",
+    "answer": "الحرارة خاصها تكون فوق 36. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "انخفاض درجة الحرارة"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الأسباب ديال البواسير وكيفاش كيتعالجو؟",
+    "answer": "كاينين بزاف من الأسباب، بحال الإمساك. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "البواسير"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو اللي واقع ليك فالجانب اليمين ديال الصدر؟",
+    "answer": "إذا كان الألم قوي، خاصك تشوف طبيب. يمكن تكون حالة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "ألم في الصدر"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش نقص فيتامين ديلّاه شي حاجا فالفم؟",
+    "answer": "ما كيجيبش المرض ولكن كيزيد الأمور سوء. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "الوجع تحت الابط فين جات الدمل ولا الحبة؟",
+    "answer": "إذا كان عندك خراج، خاصك تشوف طبيب للتنظيف الجراحي.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الابط"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي كرش صغيرة فكرشي، شنو ندير؟",
+    "answer": "خاصك ترجعي للطبيب باش يدير ليك فحص ويحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "كرش صغيرة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش كاين علاقة بين البواسير والناسور والتهاب البروستات؟",
+    "answer": "ما كاين حتى علاقة بيناتهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو سبب خروج سائل من الثدي؟",
+    "answer": "خاصك تراجعي الطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "خروج سائل من الثدي"
+      ],
+      "medical_field": "الجهاز التناسلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كتضرني ملي كانتركبو، شنو ندير؟",
+    "answer": "خاصك تزوري الطبيب باش تعرفي السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع فالجبهة، شنو ندير؟",
+    "answer": "خاصك تديري فحوصات باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي وجع خفيف وحرارة فالصدر والظهر والرجلين، شنو ندير؟",
+    "answer": "خاصك دير فحوصات باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع خفيف",
+        "حرارة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "واش فتق الحجاب الحاجز يحتاج جراحة؟",
+    "answer": "خاصنا نديرو فحوصات باش نعرفو شحال من علاج خاصك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "ولدي عندو حمى مرتفعة وكيتعصر فكرشو، شنو ندير؟",
+    "answer": "خاصو يتعالج فمستشفى طارئ.",
+    "entities": {
+      "symptoms": [
+        "حمى مرتفعة",
+        "ألم فكرش"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صداع نصفي وأنا حامل، شنو ندير؟",
+    "answer": "خاصك تراجعي الطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "صداع نصفي"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو أحسن علاج للفقر ديال الدم؟",
+    "answer": "العلاج كيتضمن تناول دوا ديال الحديد وزيارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "فقر الدم"
+      ],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي حساسية من البيض والحليب، شنو ندير؟",
+    "answer": "من الأفضل تجنبهم.",
+    "entities": {
+      "symptoms": [
+        "حساسية"
+      ],
+      "medical_field": "الحساسية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نزيد الذاكرة والتركيز؟",
+    "answer": "خاصك تعرف السبب ديال ضعف الذاكرة باش تاخد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ضعف الذاكرة"
+      ],
+      "medical_field": "علم النفس",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شنو هو الطبيب لي كيتكلف بالشرخ الشرجي؟",
+    "answer": "خاصك تشوف طبيب مختص فالجراحة العامة أو طبيب التجميل. هو لي يقدر يقيم الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "شرخ شرجي"
+      ],
+      "medical_field": "الجراحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "البواسير عندها علاج؟",
+    "answer": "كاينين طرق علاجية مختلفة حسب المرحلة. فالأولى كاينة طرق طبيعية، وفالثانية كاينين أدوية يقدر يصفهم الطبيب.",
+    "entities": {
+      "symptoms": [
+        "بواسير"
+      ],
+      "medical_field": "الجراحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "شحال من الوقت كياخد العلاج للذهان باش يتحسن المريض؟",
+    "answer": "التحسن كيعتمد على الحالة ديال المريض والأدوية المستعملة. خاص استشارة الطبيب لتحديد المدة.",
+    "entities": {
+      "symptoms": [
+        "ذهان"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي مشكل فالهضرة فالنعاس، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب نفسي. هو لي يقدر يساعدك فهاد المشكل.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالهضرة"
+      ],
+      "medical_field": "الطب النفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي صعوبة فالتنفس، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب القلب باش يدير لك الفحوصات اللازمة. هاد الحالة خاصها اهتمام.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالتنفس"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "عندي نزيف فالجسم، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب فالأقرب وقت. ضروري يتأكد من السبب ويدير العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الطب العام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "General Medicine",
+    "question_darija": "كيفاش نقدر نخرج الكبتاجون من الجسم بسرعة؟",
+    "answer": "خاصك تراجع مراكز العلاج المتخصصة. هما لي يقدروا يساعدوك فهاد الموضوع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب النفسي",
+      "urgency": "عالي"
+    }
+  }
+]

@@ -1,0 +1,5199 @@
+[
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "والدتي وقعت على رجلها وتورمات.",
+    "answer": "خاصها تزور طبيب العظام باش يشوف الحالة ديالها.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالعصعوص وتورم.",
+    "answer": "خاصك تزور طبيب جراح عام باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "تورم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو السبب ديال الوجع المبرح والحرارة فالعظام ديال الأطراف؟",
+    "answer": "هاد العلامات ممكن تكون بسبب التهاب فالأعصاب. خاصك تزور طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "وجع مبرح",
+        "حرارة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من تنميل فالأطراف، شنو السبب؟",
+    "answer": "خاصك تزور طبيب العصبة باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالعانة.",
+    "answer": "خاصك تزور طبيب البول ليدير لك الفحص.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "البول",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالعضلات ديال الرجلين.",
+    "answer": "خاصك تزور طبيب الرماتيزم باش يدير لك الفحص والتحاليل اللازمة.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عملت عملية فالكعب وبغيت نتأكد.",
+    "answer": "إذا كلشي مشى مزيان، إن شاء الله راك بخير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من تورم فالأطراف فالشتاء.",
+    "answer": "خاصك تشوف طبيب الأوعية الدموية.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نخلص من ألم العظام؟",
+    "answer": "خاصك تعرف السبب وتزور المختص باش يدير لك الفحوصات.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كاين إمكانية للإصبع يرجع شكلو الطبيعي إذا قطع معاه العظم؟",
+    "answer": "على العموم، ماشي ساهل يرجع الشكل الطبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عملت راديو على ظهري وبغيت نعرف النتيجة.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف لك النتيجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأشعة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من خدر فيدي اليمنى.",
+    "answer": "خاصك تدير تصميم عصبي باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "خدر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تورم والم فالرجل.",
+    "answer": "خاصك تزور طبيب الأوعية الدموية.",
+    "entities": {
+      "symptoms": [
+        "تورم",
+        "ألم"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالضروس وما نقدرش نضغط.",
+    "answer": "خاصك تزور طبيب الأسنان باش يدير لك الفحص.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الأسنان",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو علامات داء النقرس؟",
+    "answer": "داء النقرس كيتسم بالآلام فالمفاصل، خصوصا فالإبهام. خاصك تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "آلام فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مشكل فركبتي وصوت ليها وقت المشي.",
+    "answer": "خاصك تزور طبيب الروماتيزم. ممكن يكون عندك التهاب أو مشكلة فالمفصل.",
+    "entities": {
+      "symptoms": [
+        "صوت فالمفصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالجنب الأيمن وتنميل فالرجل.",
+    "answer": "خاصك تزور طبيب الأعصاب. هاد الأعراض ممكن تكون بسبب ضغط على الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالجنب الأيمن",
+        "تنميل فالرجل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "أمي عندها التهاب فالعضلة وعرق النساء.",
+    "answer": "الحقنة بيتولفيكس كتساعد فالعلاج. خاصها متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالعضلة",
+        "عرق النساء"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج كسر الضلوع؟",
+    "answer": "العلاج كيتطلب راحة لمدة شهر. ممكن تحتاج بلاستر وكمادات.",
+    "entities": {
+      "symptoms": [
+        "كسر الضلوع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنشكو من وجع فالرجلين وتنميل، واش هادشي بسبب؟",
+    "answer": "هاد الأعراض كتشير لالتهاب فالأعصاب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجلين",
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي انتفاخ فالكوع بلا ألم.",
+    "answer": "ممكن يكون عندك زلالي. خاصك زيارة طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ فالكوع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فمفصل الركبة.",
+    "answer": "سلامتك. خاصك صورة راديوغرافية وتزور طبيب جراح العظام.",
+    "entities": {
+      "symptoms": [
+        "وجع فمفصل الركبة"
+      ],
+      "medical_field": "جراحة العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي حرارة فظهر بزاف.",
+    "answer": "تقوية العضلات والسباحة ممكن يساعدوك. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حرارة فظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي حرقة فالكَتف الأيسر.",
+    "answer": "خاصك تمشي تفحص عند طبيب الأعصاب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "حرقة فالكَتف الأيسر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نداوي الم فالعنق والكتف الشمال؟",
+    "answer": "الحجامة الطبية عند الخبير ممكن تكون حل زوين. خاصك تراقب الحالة ديالك مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "الم فالعنق",
+        "الم فالكَتف الشمال"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تورم فعصب الكتف الأيسر.",
+    "answer": "خاصك تتبع مع طبيب لجراحة الأعصاب. العلاج كيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "علاج التهاب أوتار الحوض شنو هو؟",
+    "answer": "التهاب الأوتار كايتعالج بالعلاج الطبيعي. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأوتار"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فمشط الرجل.",
+    "answer": "الممكن يكون بسبب لبس حذاء ضيق أو رض. خاصك تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "الم فمشط الرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كدمات فالكف والجسم كامل.",
+    "answer": "خاصك تمشي لدكتور باش يشوف الوضعية. ممكن تكون عندك حالة خاصة.",
+    "entities": {
+      "symptoms": [
+        "كدمات",
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وخزات قوية فلقدم.",
+    "answer": "خاصك تمشي لدكتور باش يشوف الوضعية. العلاج كيعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "وخزات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش التأخر فعملية ربط وتر الأصبع كايخلق مشكل؟",
+    "answer": "التأخر فربط الوتر ممكن يسبب مشاكل فالحركة. خاصك تزور طبيب العظام ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو هو أحسن علاج للركبة؟",
+    "answer": "الراحة والتدليك بلطف مهمين. خاصك تستاشر طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كسر العظم لي كايدير الزاوية بالرسغ يحتاج علاج خاص؟",
+    "answer": "إذا كان الكسر مفصول، خاصنا نثبتو. إذا ماشي مفصول، كيكفي الجبس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش الوقوف بزاف كيسبب تصلب الظهر؟",
+    "answer": "نعم، التعب والحركة الزايدة ممكن يسببو تصلب. خاصك ترتاحي وتاخدي فترات راحة.",
+    "entities": {
+      "symptoms": [
+        "تصلب الظهر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فظهري، شنو ندير؟",
+    "answer": "خاصك تعرفي نوع الوجع وشكون كيشعلو. من الأحسن تزوري طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فظهري"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي احتباس تلمياء وانتفاخ فالرجلين، شنو ندير؟",
+    "answer": "خاصك تزوري طبيب العائلة باش يوجهك للدكتور المختص.",
+    "entities": {
+      "symptoms": [
+        "احتباس تلمياء",
+        "انتفاخ فالرجلين"
+      ],
+      "medical_field": "العائلة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تنميل فالكفا والرجلين، شنو ندير؟",
+    "answer": "خاصك تزوري طبيب الأعصاب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "تنميل فالكفا",
+        "تنميل فالرجلين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فركبتي، كيفاش نعالجوه؟",
+    "answer": "خاصنا نعرفو شنو السبب ديال الألم. من الأحسن تزوري طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فركبتي"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "مفاصلي كيتوجعوني، خصوصا ركبتي، شنو الحل؟",
+    "answer": "خاصك تزور طبيب باش يشوف الحالة ديالك. العلاج كيعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع المفاصل"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي انزلاق فقري، شنو ندير؟",
+    "answer": "خاصك تخفف من الوزن وتبعد على الأوزان الثقيلة. وما تقفش بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "علاش كاتنمل لي الركبة واليد وقت النوم؟",
+    "answer": "ممكن يكون عندك مشكل في الأعصاب. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فآخر العمود الفقري.",
+    "answer": "كاين أسباب كثيرة، ممكن تكون بسبب تشد العضلات أو مشكل في الفقرات. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع العمود الفقري"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فسمانة رجلي مع شد عضلي.",
+    "answer": "يمكن تحتاج علاج طبيعي أو رياضة خفيفة. خاصك تستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم السمانة",
+        "شد عضلي"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب فظهري عند مؤخرة الظهر.",
+    "answer": "خاصك تزور طبيب جراح العمود الفقري. العلاج كيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب الظهر"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع ف نهاية الساعد ديال يدي.",
+    "answer": "خاصك توضح أكثر على الألم. ممكن تحتاج فحوصات.",
+    "entities": {
+      "symptoms": [
+        "وجع الساعد"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعرف واش عندي هشاشة العظام عندي ٥٥ سنة؟",
+    "answer": "خاصك تدير فحوصات بالأشعة لتحديد هشاشة العظام. الكشف الباكر مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي حرقان فالكتف الشمال.",
+    "answer": "خاصك تزور طبيب أو مركز علاج طبيعي. ممكن يكون عندك مشكل في العضلات.",
+    "entities": {
+      "symptoms": [
+        "حرقان"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالجانب الأيمن ديال العنق.",
+    "answer": "خاصك تدير فحص بالرنين للعنق. ضروري تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم العنق"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كاين إمكانية نزيد قطر وحجم العظام؟",
+    "answer": "ماشي ممكن تبدل حجم العظام بعد سن معين. العظام كتكون ثابتة فالحجم ديالها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي سخونة وتنميل فالرجلين، خاصة الرجل الشمالية.",
+    "answer": "خاصك تزور طبيب الأعصاب. هاد الأعراض يمكن تكون علامة على مشكلة صحية.",
+    "entities": {
+      "symptoms": [
+        "سخونة",
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي هزّ فعضلات راسي.",
+    "answer": "خاصك تشوف طبيب الأعصاب. يمكن يكون عندك مشكل يحتاج للفحص.",
+    "entities": {
+      "symptoms": [
+        "هزّ عضلات"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كسر فالفقرات.",
+    "answer": "خاصك تمشي لدكتور باش يشوف الوضعية ديالك. العلاج كيتطلب متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش جهاز زيادة الطول كيوصل لانزلاق غضروفي؟",
+    "answer": "خاصك تزور طبيب باش يشوف الحالة ديالك. هاد الأمور تحتاج تقييم طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كتفي اليمين كاينبض؟",
+    "answer": "خاصك تزور طبيب. هاد الأعراض تحتاج فحص دقيق.",
+    "entities": {
+      "symptoms": [
+        "نبض في الكتف"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو السبب ديال ظهور هاد العلامات فالساق؟",
+    "answer": "خاصك تمشي لدكتور باش يشوف الوضعية. هاد العلامات يمكن تكون علامة على مشكل صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع تحت ركبتي وفي ركبتي.",
+    "answer": "الأسباب كثيرة، خاصك تشوف طبيب روماتيزم. الفحص السريري مهم.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الركبة",
+        "وجع في الركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالفخذ.",
+    "answer": "الأسباب كثيرة، خاصك تشوف طبيب روماتيزم. الفحص السريري مهم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالفخذ"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عملت عملية وقدمي وقعت فراوتار، ماكاينش نتيجة.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "علاج الفرقعة المفصلية شنو هو؟",
+    "answer": "يمكن استعمال باراسيتامول مع تمارين خاصة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "فرقعة المفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "حملت ثقل وظهر كيوجعني.",
+    "answer": "خصك ترتاح وتستعمل الثلج. إذا ما تحسنش، خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع الظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي حرارة فقدميا وما نقدرش ننعس.",
+    "answer": "خاصك تمشي لدكتور الروماتيزم باش يعرف السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "حرارة في القدم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فتحت الظهر وماكيوقفش.",
+    "answer": "خاصك تصوير راديوغرافي وزيارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "وجع الظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فاليد والرجل، كيزيد فالعربية.",
+    "answer": "يمكن يكون عندك ضغط على الأعصاب. خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع في اليد",
+        "وجع في الرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع قوي فالقدم من تحت لفوق.",
+    "answer": "يمكن يكون التهاب فالأعصاب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع في القدم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نخفف من تنميل الأعصاب؟",
+    "answer": "خاصك تزور طبيب مختص. العلاج يعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "تنميل الأعصاب"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي 20 سنة، واش كاين إمكانية نزيد فالطول؟",
+    "answer": "بعد البلوغ، زيادة الطول ماشي ممكنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش جراحة نزع الكيس الزلالي كتعمل بالتخدير العام؟",
+    "answer": "حسب الحالة، يمكن تحتاج تخدير عام أو موضعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "علاج الم الأصابع ديال اليدين والقدم كيفاش؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع الأصابع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فظيع فوق منطقة الحوض.",
+    "answer": "يمكن يكون عندك مشكل في الفقرات. خاصك طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع في الحوض"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فالكف الشمال وتنميل فالعنق وتحت الصدر.",
+    "answer": "خاصك تمشي عند طبيب الأعصاب باش يشوف حالتك ويحدد الإشكالية.",
+    "entities": {
+      "symptoms": [
+        "الم",
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين كسر فالعظمة ديال السكافويد؟",
+    "answer": "خاصك تزوري طبيب جراحة العظام باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "جراحة العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تسنمل فإصبع الرجلين.",
+    "answer": "خاصك تمشي عند طبيب الأعصاب باش يشوف حالتك ويعالجك.",
+    "entities": {
+      "symptoms": [
+        "تسنمل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورم ووجع فالكعب بسبب النقرس، وماعنديش العلاج.",
+    "answer": "خاصك تسول طبيب إذا كتاخد دوا للنقرس.",
+    "entities": {
+      "symptoms": [
+        "ورم",
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نخلص من وجع الرقبة من الوراء؟",
+    "answer": "يمكن تعس بلا وسادة أو تستعمل وسادة طبية. تمارين الرقبة مفيدة.",
+    "entities": {
+      "symptoms": [
+        "وجع الرقبة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فالعنق.",
+    "answer": "خاصك تبعد على الهواء البارد وتراقب نومك ونشاطك.",
+    "entities": {
+      "symptoms": [
+        "الم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فعضل اليدين وكيزيد.",
+    "answer": "خاصك تمشي عند طبيب باش يتشخص لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "الم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرأس وكاين شوية تشنج فالجسم.",
+    "answer": "خاصك تشوف طبيب باش يتحقق من ضغط الدم. يمكن تحتاج تخطيط كهربائي للمخ.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرأس",
+        "تشنج فالجسم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم متنقل فالظهر، كيفاش نعالجو؟",
+    "answer": "ضروري تدير فحص لفيتامين د. يمكن تحتاج علاج طبيعي.",
+    "entities": {
+      "symptoms": [
+        "ألم متنقل فالظهر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي روم فديالي تحت الإبهام.",
+    "answer": "خاصك تزور طبيب العظام باش يشوفك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "روم تحت الإبهام"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو السبب ديال الخدران فاليد؟",
+    "answer": "الخدران ممكن يكون بسبب نقص فيتامين ب12 أو احتباس الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "خدران فاليد"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فكعب الرجل، واش عندي التهاب؟",
+    "answer": "يمكن يكون التهاب فالأنسجة، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فكعب الرجل"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "بغيت نقوي عضلة يدي ورجلي.",
+    "answer": "خاصك تزور مركز علاج طبيعي، غادي يساعدوك فالتوجيه للتمارين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "بغيت نعالج الروماتيزم بالعلاج الطبيعي.",
+    "answer": "خاصك تعرف نوع الروماتيزم، كاين مئات الأنواع. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي إصابة فتق رياضي بسبب زيادة التمرين.",
+    "answer": "خاصك تزور طبيب الرياضة باش يشوفلك الحالة.",
+    "entities": {
+      "symptoms": [
+        "إصابة فتق رياضي"
+      ],
+      "medical_field": "الطب الرياضي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالشدة فالركبة وتعب نفسي.",
+    "answer": "خاصك تتبع مع الأشعة وتدير علاج طبيعي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالشدة فالركبة",
+        "تعب نفسي"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فأسفل الضهر منذ أسبوع.",
+    "answer": "كاين أسباب كثيرة، خاصنا نفصلو الشكاية.",
+    "entities": {
+      "symptoms": [
+        "وجع فأسفل الضهر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرجلين واليدين لما كنت كتنعس.",
+    "answer": "خاصك تزور طبيب روماتيزم للفحص الطبي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجلين",
+        "ألم فاليدين"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج التواء الكاحل؟",
+    "answer": "العلاج كيعتمد على درجة الالتواء، يمكن تحتاج علاج طبيعي.",
+    "entities": {
+      "symptoms": [
+        "التواء الكاحل"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "متى كيقفل العظم على الرباط الصليبي الجديد؟",
+    "answer": "خاصك تزور دكتور العظام، هو اللي كيعرف أكثر على وضعك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي شد فعضلاتي.",
+    "answer": "خاصك تبتعد على التدخين وتدير تمارين رياضية خفيفة. إذا استمر الألم، خاصك تزور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "شد عضلات"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع تحت الرقبة.",
+    "answer": "يمكن يكون شد عضلي. خاصك ترتاح وتزور الطبيب إذا ما تحسنتش.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الرقبة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فساقيا صباحا وكنحس بالكسل.",
+    "answer": "يمكن يكون عندك مشكلة فالدورة الدموية. خاصك تزور الطبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "وجع فساقيا",
+        "كسل"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي نقط حمرا فالكف وكنحس بالوجع.",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة ديالك. ممكن تكون عندك حالة جلدية أو التهاب.",
+    "entities": {
+      "symptoms": [
+        "نقط حمرا",
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي خلع فمفصل الخنصر وكنعاني من وجع.",
+    "answer": "خاصك تزور طبيب العظام. العلاج المبكر كيساعد على الشفاء.",
+    "entities": {
+      "symptoms": [
+        "خلع",
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالعظام ديال اليدين والرجلين.",
+    "answer": "خاصك تمشي لدكتور باش يشوف الوضعية. يمكن يكون عندك التهاب أو مشكلة أخرى.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعظام"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنت كنحس بوجع فالورك الأيمن.",
+    "answer": "خاصك توضح لي كيفاش كتحس بالألم. يمكن يكون عندك التهاب أو شد عضلي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالورك الأيمن"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب فالرّسغ، شنو العلاج؟",
+    "answer": "العلاج كيعتمد على التشخيص. خاصك تزور طبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالرجلين وكنعاني من داء السكر، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب، يمكن يكون عندك مشكل آخر. السكر ممكن يأثر على الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجلين"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من حرارة مرتفعة وألم فالمفاصل منذ 3 أيام.",
+    "answer": "خاصك تزور طبيب الروماتيزم. هاد الأعراض ممكن تكون علامة على مرض.",
+    "entities": {
+      "symptoms": [
+        "حرارة مرتفعة",
+        "ألم فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تصلب فصابع اليدين، شنو العلاج؟",
+    "answer": "يمكن العلاج بالأعشاب أو المساج. خاصك تشوف طبيب لوصف العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تصلب فصابع اليدين"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج قصر الطول فعمري 25؟",
+    "answer": "يمكن استخدام جهاز الإليزاروف لتمديد العظام. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالقلب وعسر فالتحرك، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب القلب والشرايين. هاد الأعراض خطيرة ولازم تتعالج.",
+    "entities": {
+      "symptoms": [
+        "ألم فالقلب",
+        "عسر فالتحرك"
+      ],
+      "medical_field": "القلب والشرايين",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "اصبع رجلي الكبير كيعورني وعندي انتفاخ. شنو ندير؟",
+    "answer": "خاصك تزور طبيب العظام باش يشوف الحالة ديالك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "انتفاخ"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع قوي فالركبة اليمنى. شنو ندير؟",
+    "answer": "خاصك تزور طبيب العظام باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالركبة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالركبة من بعد الوقوع. شنو ندير؟",
+    "answer": "خاصك تزور طبيب العظام باش يشوفك ويدير اللازم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالركبة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي لون زرقة فإبهام اليد الشمال. شنو السبب؟",
+    "answer": "الزرقة غالبا بسبب كدمة أو إصابة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "زرقة فإبهام اليد"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالضلوع لما نضحك ولا نكحش. شنو السبب؟",
+    "answer": "يمكن يكون عندك التهابات بالغشاء البلوري ديال الرئة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالضلوع"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "ظهور لطخ كدمات فالرجلين. شنو ندير؟",
+    "answer": "يمكن يكون عندك دوالي فالرجلين. خاصك تدير موعد مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "كدمات فالرجلين"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "أمي كاتكف شيدة ومستمرة. شنو ندير؟",
+    "answer": "خاصها تزور طبيب روماتيزم باش يعرف السبب ويعطيها العلاج.",
+    "entities": {
+      "symptoms": [
+        "كف شيدة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مشكلة، ماكنقدرش نمشي على رجليا لمدة ربع ساعة. شنو ندير؟",
+    "answer": "خاصك تدير تشيكاجة عند طبيب باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ماكنقدرش نمشي"
+      ],
+      "medical_field": "العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي آلام فعظام الصدر منذ 3 سنين. شنو ندير؟",
+    "answer": "خاصك تدير استشارة مع طبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "آلام فعظام الصدر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مشكل فركبتي، شنو العلاج؟",
+    "answer": "كاين تقنيات فيزيائية وعلاج طبيعي لي ممكن تساعد. خاصك تزور طبيب العظام باش يحدد ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فركبة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج مسمار تحت القدم؟",
+    "answer": "خاص تخفيف الوزن وتفادي الوقوف الطويل. الأحذية الطبية الناعمة كتلعب دور مهم.",
+    "entities": {
+      "symptoms": [
+        "مسمار تحت القدم"
+      ],
+      "medical_field": "القدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تشنج تحت راسي، شنو الحل؟",
+    "answer": "خاصك تزور مركز علاج طبيعي. العلاج كيساعدك على تخفيف التشنجات.",
+    "entities": {
+      "symptoms": [
+        "تشنج تحت الرأس"
+      ],
+      "medical_field": "العلاج الطبيعي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالكتف، شنو ندير؟",
+    "answer": "خاصك تزور طبيب روماتيزم باش يعرف السبب. العلاج كيتطلب استشارة طبية.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكتف"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش البروفين كيساعد فالألم ديال الضهر؟",
+    "answer": "البروفين كيساعد على تخفيف الألم ومضاد للالتهاب. ولكن خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [
+        "ألم فالظهر"
+      ],
+      "medical_field": "الألم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالعصب ديال القدم، شنو ندير؟",
+    "answer": "خاصك تزور طبيب مختص. العلاج الطبيعي كيساعد فهاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعصب"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالعظام، شنو السبب؟",
+    "answer": "يمكن يكون عندك نقص ففيتامين د. خاصك تزور طبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعظام"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالكاحل، شنو ندير؟",
+    "answer": "خاصك تمشي لدكتور باش يشوف لك الوضعية. العلاج كيتطلب تشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكاحل"
+      ],
+      "medical_field": "الكاحل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم تحت الظهر، شنو السبب؟",
+    "answer": "الألم تحت الظهر كيتطلب فحص طبي. يمكن يكون عندك أسباب متعددة.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت الظهر"
+      ],
+      "medical_field": "الظهر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فالظهر، شنو ندير؟",
+    "answer": "خاصك توضح لي مكان الألم. كاين أسباب بزاف لي ممكن تسبب فهاد الألم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالظهر"
+      ],
+      "medical_field": "الظهر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع قوي وكنحس بالغثيان.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ديالك. الغثيان ممكن يكون مرتبط بالوجع.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "الغثيان"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو هو سبب وجع العنق؟",
+    "answer": "الجلوس بطريقة غلط قدام الكومبيوتر هو السبب الأكثر شيوعاً. خاصك تحاول تحسن الوضعية ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع العنق"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "علاج عرق النسا للحوامل شنو هو؟",
+    "answer": "خاص مراجعة طبيب الروماتيزم لأنه العلاج كيتعلق بدرجة الحمل. الماء الورد والبابونج ممكن يساعدو.",
+    "entities": {
+      "symptoms": [
+        "عرق النسا"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "أمي كتعاني بالم من رجلها، وهاد الوجع داز ليها سنة.",
+    "answer": "خاصها تدير أشعة للركبتين. استشارة مع طبيب مختص ضرورية.",
+    "entities": {
+      "symptoms": [
+        "وجع في الرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "تشجن عضلات الأقدام مع الم في الظهر كيتبعو.",
+    "answer": "خاصك تدير رنين مغناطيسي على الفقرات. هادشي غادي يساعد في تحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "تشنج عضلات الأقدام",
+        "وجع في الظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "الإبهام ديال اليد اليمنى كيتنمل بزاف.",
+    "answer": "عليك تزور طبيب الأعصاب. الضغط على الأعصاب هو السبب المحتمل.",
+    "entities": {
+      "symptoms": [
+        "تنميل الإبهام"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فوق الضهر بزاف.",
+    "answer": "الراحة وتبديل الوضعية ديال الجلوس مهمين. ممكن تحتاج دوا.",
+    "entities": {
+      "symptoms": [
+        "وجع في الضهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "وعليكم السلام، كاين عندي وجع فالعنق والكتف.",
+    "answer": "ممكن يكون التهاب. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع في العنق",
+        "وجع في الكتف"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب فالمفاصل، شنو ندير؟",
+    "answer": "خاصك تشربي الماء والأعشاب الطبيعية بحال الزنجبيل. وزيدي تمارسي رياضة خفيفة، ولكن ضروري تستشيري الطبيب.",
+    "entities": {
+      "symptoms": [
+        "التهاب المفاصل"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالفخذ الأيمن، شنو ندير؟",
+    "answer": "الأسباب كثيرة، خاصك تمشي تشوف طبيب روماتيزم. الفحص السريري مهم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالفخذ"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تشنجات بسبب إصابة فالنخاع الشوكي، شنو ندير؟",
+    "answer": "خاصك تزور طبيب مختص فالعصبة. العلاج كيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [
+        "تشنجات"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين وجع فكتف الشمال ونزولو على اليد، شنو السبب؟",
+    "answer": "ممكن يكون التهاب فالوتر أو ألم فالعنق. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فكتف",
+        "نزول الألم على اليد"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين لي كيعاني من صعوبة فالحركة والكلام، شنو ندير؟",
+    "answer": "خاصك تراجع طبيب الأعصاب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالحركة",
+        "صعوبة فالكلام"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي احتكاك فالرّقبة والركبة ونقص فالكالسيوم، شنو ندير؟",
+    "answer": "الأسباب كثيرة، خاصك تشوف طبيب روماتيزم باش يدير لك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "احتكاك",
+        "نقص في الكالسيوم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فركبتي، واش نقدر نصلي؟",
+    "answer": "خاصك دير فحص طبي ورني مغناطيسي للركبة باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تعب فالعظام والمفاصل، شنو السبب؟",
+    "answer": "كاين أسباب كثيرة، خاصك تشوف الطبيب وتعمل تحاليل وأشعة.",
+    "entities": {
+      "symptoms": [
+        "تعب فالعظام",
+        "تعب فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع شديد فالعضلات ديال الرجلين وقت النوم، شنو ندير؟",
+    "answer": "خاصك تحاول تتفادى التعب وتدير مساج للعضلة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعضلات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "بغيت اسم دوا لتواترات الرجل؟",
+    "answer": "خاصك تمشي عند طبيبك، هو لي غادي يشوفك ويكتب ليك الدوا المناسب.",
+    "entities": {
+      "symptoms": [
+        "تواترات فالرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو رأيك فالصّداع والتوتر فوق العنق؟",
+    "answer": "من الأحسن تزور طبيب الأعصاب باش يشوف لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "توتر فوق العنق"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "آلام الضهر فالشهر الثاني ديال الحمل، واش طبيعية؟",
+    "answer": "ماشي ضروري، ولكن من الأحسن تزوري طبيبك.",
+    "entities": {
+      "symptoms": [
+        "آلام الضهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو أعراض الانزلاق الغضروفي وكيفاش نعالجو؟",
+    "answer": "من الأحسن ترجع للمقالة ديالي على الطبي، فيها تفاصيل على العلاج.",
+    "entities": {
+      "symptoms": [
+        "أعراض الانزلاق الغضروفي"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنحس بتنميل فالرجلين وماقدرتش نتحرك.",
+    "answer": "خاصك تزور طبيب الأعصاب باش يدير لك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "تنميل فالرجلين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "تعترت ووقعت على يدي، والليل كامل كيوجعني، شنو ندير؟",
+    "answer": "خاصك تدير أشعة على الرسغ واليد باش نعرفو الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فاليد"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "استمريت فالجبس الزورقي 3 شهور ومازال الكسر مازال.",
+    "answer": "خاصك تشيل الجبس وتمشي تشوف الطبيب بالأشعة.",
+    "entities": {
+      "symptoms": [
+        "كسر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نقدر نعالجو الم الركبة بسبب كثرة الوقوف؟",
+    "answer": "يمكن تلعب الرياضة، تمشي، أو تجري كل نهار. هادشي كيساعد على تخفيف الألم.",
+    "entities": {
+      "symptoms": [
+        "الم الركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنحس بالحرارة فداخلي، غثيان، قشعريرة، والم فالمفاصل.",
+    "answer": "الأسباب كثيرة، خاصك تمشي عند الطبيب باش يشوف حالتك.",
+    "entities": {
+      "symptoms": [
+        "حرارة",
+        "غثيان",
+        "قشعريرة",
+        "الم فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "يدي اليمنى كتدوز فوق الكوع شوية، واش كاين ليا ساعتين؟",
+    "answer": "خاصك تشوف طبيب، ضروري الفحص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مشكلة فالعنق وعملت شعايا، شنو الحل؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الوضعية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع خفيف فالجنب الشمال.",
+    "answer": "الأسباب كثيرة، خاصك الفحص الطبي.",
+    "entities": {
+      "symptoms": [
+        "وجع خفيف فالجنب الشمال"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "حملت شي حاجة ثقيلة وبعدها حسيت بحرقة فظهري، شنو يمكن يكون؟",
+    "answer": "خاصك تزور طبيب الروماتيزم باش يدير الفحص.",
+    "entities": {
+      "symptoms": [
+        "حرقة فظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كسر وجرح فاليد الشمال فالمعصم، شنو ندير؟",
+    "answer": "خاصك تمشي عند دكتور العظام.",
+    "entities": {
+      "symptoms": [
+        "كسر",
+        "جرح"
+      ],
+      "medical_field": "العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عاني من وجع فإصبع السبابة الأيسر، شنو السبب؟",
+    "answer": "الوجع كيتعلق بالشكل وطريقة الألم، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فإصبع السبابة الأيسر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالضلوع كايحصل وقت الضحك أو الكحة، شنو السبب؟",
+    "answer": "يمكن يكون التهاب العضلات ديال الصدر.",
+    "entities": {
+      "symptoms": [
+        "وجع فالضلوع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فالكتفين تحت الرقبة.",
+    "answer": "سلامات، يمكن يكون من العضلات أو من سلسلة الرقبة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكتفين"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من عضلة فالرجل اليسرى بعد عملية غضروف.",
+    "answer": "خاصك توضح سؤالك أكثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "علاج الكيس المائي داخل العظم شنو هو؟",
+    "answer": "خاصك تعرف السبب، ومن بعد يمكن يبان ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "خاصني جراحة ولا نقدر نمشي على رجلي؟",
+    "answer": "خاصك تستاشر مع طبيبك، هو اللي يعرف الحالة ديالك مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي خشونة فالركبة، شنو ندير؟",
+    "answer": "خصك تخفف الوزن وتعمل تمارين للعضلات. غادي تشوف تحسن بعد شهر.",
+    "entities": {
+      "symptoms": [
+        "خشونة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالرکبة، شنو ندير؟",
+    "answer": "خصك تزور طبيب باش يعرف الحالة ديالك مزيان.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرکبة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين علاقة بين الأملاح والم العظام؟",
+    "answer": "خصك توضح شنو تقصد بالأملاح. كاين أنواع مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تورم فالعقب بعد العملية، شنو ندير؟",
+    "answer": "خاصك تزور طبيب العظام باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج القطع الجزئي للرباط الصليبي بلا عملية؟",
+    "answer": "الراحة مع الأدوية وتجنب الإصابات. خاصك متابعة مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالعظام من صغري، شنو ندير؟",
+    "answer": "خاصك توضح لينا أكثر على نوع الوجع. غادي نقدروا نساعدوك.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعظام"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالفقرات وكاين نقلب الوجع للرجل الشمالية.",
+    "answer": "غالبا عندك فتق. خاصك تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالفقرات"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي خدر فاطراف أصابع القدم، شنو ندير؟",
+    "answer": "خاصك تزور طبيب الأعصاب، يمكن يكون عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "خدر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كاين فرق بين التهاب الأوتار والروماتيزم؟",
+    "answer": "هما مشكلتين مختلفتين. كل وحدة عندها الأعراض والعلاج ديالها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالجهة اليمنى فوس الضهر.",
+    "answer": "خاصك تزور طبيب باش يعرف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع فوس الضهر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي أرق وقت النوم وتشنجات فالرجلين.",
+    "answer": "خاصك تزور طبيب الأعصاب. يمكن يكون عندك مشكل.",
+    "entities": {
+      "symptoms": [
+        "أرق",
+        "تشنجات فالرجلين"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش الحلوى بالسميد كتأثر على مريض النقرص؟",
+    "answer": "بزاف من السكريات ما كيتأثروش على مريض النقرص، ولكن خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الحمى المالطية، شنو هو الدوا المناسب؟",
+    "answer": "الدوا اللي كيتستعمل هو دوكسيسيكلين، وهو فعال فهاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "الحمى المالطية"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع بين الرجل والقدم، شنو ندير؟",
+    "answer": "خاصك تزور الطبيب باش يشوف الوجع ويدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "وجع بين الرجل والقدم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كسر فالكوع، شنو ندير؟",
+    "answer": "خاصك تشوف جراح العظام باش يعرف نوع التثبيت اللي خاصك.",
+    "entities": {
+      "symptoms": [
+        "كسر فالكوع"
+      ],
+      "medical_field": "جراحة العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كسر فالعمود الفقري، شنو ندير؟",
+    "answer": "خاصك تزور الطبيب باش يحدد العلاج المناسب حسب نوع الكسر.",
+    "entities": {
+      "symptoms": [
+        "كسر فالعمود الفقري"
+      ],
+      "medical_field": "جراحة العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع تحت الظهر، شنو ندير؟",
+    "answer": "من الأحسن تزور طبيب علاج طبيعي باش يقيم الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الظهر"
+      ],
+      "medical_field": "العلاج الطبيعي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالساق، واش كاين علاج؟",
+    "answer": "العلاج كيركز على الأعراض، ولكن خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالساق"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم تحت الضهر، شنو السبب؟",
+    "answer": "من الأحسن تزور طبيب باش يدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت الضهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فظهري، شنو ندير؟",
+    "answer": "إذا مازال الوجع موجود، خاصك تعاود تزور الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فظهري"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو السبب ديال الوجع فالركبة؟",
+    "answer": "خاصك تدير أشعة على الركبة باش تعرف الأسباب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "خشونة الركبة واش كاين ليها دوا؟",
+    "answer": "خاص تنقص الوزن وتدير تمارين للعضلة الرباعية. النتائج غادي تكون باهرة بعد شهر.",
+    "entities": {
+      "symptoms": [
+        "خشونة الركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فالبطن.",
+    "answer": "خاص دير التراساوند وشي فحوصات أخرى. من الأحسن تزور دكتورة نساء.",
+    "entities": {
+      "symptoms": [
+        "الم فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع وخدر فالقدمين.",
+    "answer": "الأسباب كثيرة، خاصك تزور دكتور العصبية. غادي يديرلك فحص ويعاونك.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "خدر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالرجلين ملي كنوقف.",
+    "answer": "خاص الفحص الطبي، زوري طبيب جراح العظام باش يعاونك.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجلين"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فبطن الركبة اليسرى.",
+    "answer": "يمكن يكون عندك مشكل فالغضروف، خاصك تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فبطن الركبة اليسرى"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فالكتف الأيمن.",
+    "answer": "خاصك تزور طبيب الرياضة، غادي يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "الم فالكتف الأيمن"
+      ],
+      "medical_field": "الرياضة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عافاك، كاين علاج لضمور العضلات؟",
+    "answer": "ما عندناش خبار جديد على العلاج.",
+    "entities": {
+      "symptoms": [
+        "ضمور العضلات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فالأصبع.",
+    "answer": "عليك تزور طبيب الجلدية.",
+    "entities": {
+      "symptoms": [
+        "الم فالأصبع"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو التشخيص لوجع الذراع وعدم القدرة على رفعه؟",
+    "answer": "ممكن يكون التهاب فالعصبات ديال الكتف. خاصك تمشي عند الطبيب باش يدير لك الفحص.",
+    "entities": {
+      "symptoms": [
+        "وجع الذراع",
+        "عدم القدرة على رفع الذراع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين شي دوا لمرض ضمور العضلات؟",
+    "answer": "ما كاينش دوا خاص، ولكن كاين طرق للتعامل مع الأعراض. العلاج الطبيعي كيساعد.",
+    "entities": {
+      "symptoms": [
+        "ضمور العضلات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع قوي فاليد، والوجع كيتقطع.",
+    "answer": "إذا كان الوجع كيتقطع، خاصك تمشي عند طبيب الروماتيزم. يمكن يكون عندك مشكلة فالعصبات.",
+    "entities": {
+      "symptoms": [
+        "وجع فاليد"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرجلين، كيفاش نقدر نعالجهم؟",
+    "answer": "خاصك تمشي عند دكتور العظام. هو اللي غادي يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجلين"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورم تحت الضهر، واش خاصني نمشي للطبيب؟",
+    "answer": "نعم، خاصك تمشي عند الطبيب. لازم يتفحصك باش يعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ورم تحت الضهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تشنجات فعضلة الرقبة، شنو الحل؟",
+    "answer": "يمكن لك تستعمل مرخي عضلي وتدليك بالزيوت. إذا بقا الألم، خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تشنجات فعضلة الرقبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نقدر نعتني بكعب رجلي؟",
+    "answer": "خاصك تختار دبان مريح وتستعمل الثلج إذا كان عندك ألم. إذا استمر الألم، خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالكعب"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين شي علاج لعضمة الترقوة؟",
+    "answer": "العلاج كيعتمد على الحالة. خاصك تشوف طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشاكل فعضمة الترقوة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كسر فالفقرات، شحال غادي ياخد وقت باش يتعافى؟",
+    "answer": "الكسر كياخد وقت طويل، يمكن شهور. خاصك تتابع مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "كسر فالفقرات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو العلاج لعضلة الضامة؟",
+    "answer": "العلاج كيعتمد على مكان الألم. خاص تمارين وتقنيات مريحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من شد فعضلات السمانة، شنو ندير؟",
+    "answer": "خاصك تمارين تقوي السمانة وتدليك مستمر.",
+    "entities": {
+      "symptoms": [
+        "شد فعضلات السمانة"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تمزق فالكعب وما تحسناتش الحالة، شنو ندير؟",
+    "answer": "خاصك تزور مركز علاج طبيعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من انزلاق فالفقرة الرابعة، شنو ندير؟",
+    "answer": "الراحة مهمة، وخصك تتبع النصائح الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فمفاصل الركبة.",
+    "answer": "إذا ما عندكش تاريخ مرضي، السبب غالبا هو حب الرياضة.",
+    "entities": {
+      "symptoms": [
+        "ألم فمفاصل الركبة"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من انزلاق الغضروف.",
+    "answer": "خاصك تخفف الوزن وما تنحنيش أو ترفع أوزان ثقيلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تنميل فقدم اليسرى، شنو ندير؟",
+    "answer": "خاصك تزور طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "تنميل فقدم اليسرى"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالكعب.",
+    "answer": "إذا كان الوجع فباخمص القدم، غالبا التهاب لفافة اخمصية.",
+    "entities": {
+      "symptoms": [
+        "ألم فالكعب"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تنميل ووخز فالفخذ الأيمن، شنو العلاج؟",
+    "answer": "خاصنا نديرو فحص طبي.",
+    "entities": {
+      "symptoms": [
+        "تنميل",
+        "وخز"
+      ],
+      "medical_field": "الروماتيزم وطب العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو الرياضة لي نقدر ندير بعد عملية تصحيح تقوس الركبتين؟",
+    "answer": "يمكن تدير تمارين لتقوية العضلات، بحال السباحة أو المشي. خاصك تستاشر مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كسر فالرقبة ديال اليد اليمنى ووجع فلوح الكتف. شنو ندير؟",
+    "answer": "خاصك تزور طبيب العظام باش يشوف حالتك. العلاج كيتطلب فحص دقيق.",
+    "entities": {
+      "symptoms": [
+        "كسر",
+        "وجع فلوح الكتف"
+      ],
+      "medical_field": "العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فالرجل وكنعجز نمشي. شنو الحل؟",
+    "answer": "خاصك تزور طبيب الروماتيزم. الفحص الطبي ضروري باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجل",
+        "عجز عن المشي"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ديسك ضغط على الفقرة الخامسة ووجع فظهر. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص في العلاج الطبيعي. العلاج المبكر كيساعد.",
+    "entities": {
+      "symptoms": [
+        "وجع فظهر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مشكل ف عظام الكتف، سمعتي صوت 'طرشقة' وقت الرياضة. شنو ندير؟",
+    "answer": "خاصك تدير فحص طبي عند طبيب العظام. يمكن يكون عندك إصابة.",
+    "entities": {
+      "symptoms": [
+        "صوت 'طرشقة'"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالرجل والتورم خفيف. شنو ندير؟",
+    "answer": "خاصك تزور طبيب الروماتيزم. الفحص ضروري باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجل",
+        "تورم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم شديد وقت لعب الكرة. شنو ندير؟",
+    "answer": "خاصك تزور طبيب الروماتيزم أو جراح العظام. العلاج ضروري.",
+    "entities": {
+      "symptoms": [
+        "ألم شديد"
+      ],
+      "medical_field": "العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالركبة الشمالية.",
+    "answer": "خاصك تزور الطبيب باش يشوف الحالة ويحدد الفحوصات والعلاجات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالركبة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي صعوبة فالحركة بالرجلين.",
+    "answer": "خاصك تزور طبيب الأعصاب باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "صعوبة فالحركة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نقدر نعالج داء النقرس؟",
+    "answer": "العلاج كيتضمن الأدوية لتخفيف الألم والتورم، وأيضاً تغيير النظام الغذائي.",
+    "entities": {
+      "symptoms": [
+        "الألم",
+        "التورم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالمفاصل، واش كاين علاج بالأعشاب؟",
+    "answer": "كاين بعض الأعشاب لي ممكن تساعد، ولكن ماكاينش علاج نهائي للروماتويد.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي فتق فالرّقبة.",
+    "answer": "خاصك تزور طبيب باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "فتق فالرّقبة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالركبة وماشي قادر نمدها.",
+    "answer": "خاصك تزور طبيب مختص باش يشوف ليك الركبة ويعطيك العلاج اللازم.",
+    "entities": {
+      "symptoms": [
+        "وجع فالركبة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فعضلات ظهري.",
+    "answer": "خاصك تمشي تفحص عند الطبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فعضلات الظهر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالعنق كيوصل لليد.",
+    "answer": "خاصك تدير تصوير بالرنين المغناطيسي باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعنق"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فصبعي.",
+    "answer": "خاصك تزور طبيب العظام باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فصبعي"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فيدي الشمال.",
+    "answer": "يستحسن تزور طبيب العظام باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فيدي الشمال"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع مع تنميل.",
+    "answer": "خاصك تتبع مع طبيبك باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "تنميل"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نقدر ندلل الرجل بعد نزع الجبيرة؟",
+    "answer": "بسبب قلة الحركة، كاين انتفاخ. خاصك تزوري مركز علاج طبيعي.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "ركبتي تحركت ورجعتها، دابا كاين فيها وجع وما نقدرش نحركها.",
+    "answer": "خاصنا نديرو كشف عند طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالركبة لما ندير الرياضة أو نقود العربية.",
+    "answer": "خاصك تراجعي دكتور العظام باش يشوف الحالة ويعاونك بالأشعة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالركبة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورم خفيف فوق راسي، لما نضغط عليه يوجعني.",
+    "answer": "خاصك تمشي لدكتور باش يشوف الوضعية.",
+    "entities": {
+      "symptoms": [
+        "ورم",
+        "وجع"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالأضافر وعظام أصابع قدمي، شنو الحل؟",
+    "answer": "خاصك تدير فحوصات باش تتأكد ما عندكش روماتيزم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالأضافر",
+        "ألم فالعظام"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تنميل في أصابع يدي اليمين واليسار، شنو كاين؟",
+    "answer": "الأسباب كثيرة، خاصك تمشي لدكتور الأعصاب باش يشوفك.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "أخوي عندو وجع فالرجل مع وجع فراسو، شنو حالتو؟",
+    "answer": "المعلومات ما كافياش، خاصنا نديرو كشف.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجل",
+        "وجع فراس"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تمزقات فمشط القدم، واش نقدر ندير شي حاجة؟",
+    "answer": "خاصك الراحة ورفع الرجل. ممكن تزيد الكمادات الباردة.",
+    "entities": {
+      "symptoms": [
+        "تمزقات فمشط القدم"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش للاوميغا 3 كاينة فوائد للعظام والمفاصل؟",
+    "answer": "كاينين دراسات كتقول أن الأوميغا 3 عندها تأثير إيجابي على المفاصل. ولكن خاص مزيد من الأبحاث.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالعنق، شنو ندير؟",
+    "answer": "حاول تنام بلا وسادة. دير تمارين لشد وترخي العضلات.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعنق"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فغضروف الأذن الشمال، واش كاين علاج؟",
+    "answer": "خاصك تشوف طبيب الأذن. هو اللي غادي يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فغضروف الأذن"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نقدر نعالج الأملاح ديال اليوريك؟",
+    "answer": "العلاج كيتحدد حسب الحالة. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالظهر ونزول دم، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب فورا. هاد الحالة كتحتاج فحص طبي عاجل.",
+    "entities": {
+      "symptoms": [
+        "ألم فالظهر",
+        "نزول دم"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "ماشي قادر نحرك رجلي، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب روماتيزم. هو غادي يدير لك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "عدم القدرة على تحريك الرجل"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شعرت بدوخة ورعشة، شنو هادشي؟",
+    "answer": "خاصك تمشي للطبيب. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "رعشة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مسمار فالرجل، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة. العلاج كيتطلب فحص.",
+    "entities": {
+      "symptoms": [
+        "مسمار فالرجل"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فكتفي، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب العظام. هو غادي يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم فكتف"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو أحسن علاج للكدمات فاليد؟",
+    "answer": "من بعد الإصابة، خاصك دير كمادات باردة لحد 6 ساعات. من بعد، يمكن دير كمادات حارة.",
+    "entities": {
+      "symptoms": [
+        "كدمات"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي حرقان وحرارة فظهر.",
+    "answer": "خاصك تدير تصوير للظهر وتحليل دم عند طبيب الروماتيزم.",
+    "entities": {
+      "symptoms": [
+        "حرقان",
+        "حرارة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كم وقت كياخد جبر كسر فالعظم ديال الفخذ لوليدة عندها 4 سنين؟",
+    "answer": "تقريبا كياخد 4 أسابيع.",
+    "entities": {
+      "symptoms": [
+        "كسر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فزر ديال القدم اليمنى وقت كنجري.",
+    "answer": "خاصك تراجع طبيب مختص فالعظام.",
+    "entities": {
+      "symptoms": [
+        "وجع فزر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "تنفرط القدم وكيتوجعني المفصل. واش لازم ندير عملية؟",
+    "answer": "خاصك تتابع مع طبيب جراحة العظام.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمفصل"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع قوي فظهري كيكون كالكهربا وقت كنتحرك.",
+    "answer": "خاصك تشوف دكتور الروماتيزم باش يديرلك فحص.",
+    "entities": {
+      "symptoms": [
+        "وجع فظهر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي واحد تب ف العمود الفقري والرقبة، واش نختار العلاج الطبيعي ولا العظام؟",
+    "answer": "خاصك تزور طبيب مختص فالجراحة ديال العمود الفقري.",
+    "entities": {
+      "symptoms": [
+        "تب ف العمود الفقري"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فالكعب وتحت القدم لما نصحى.",
+    "answer": "الأسباب كثيرة، خاصك تمشي لدكتور روماتيزم.",
+    "entities": {
+      "symptoms": [
+        "الم فالكعب"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فالركبة ديال اليمين كيجي كل حين.",
+    "answer": "خاصك تدير تحليل للأعراض باش تعرف الداء.",
+    "entities": {
+      "symptoms": [
+        "الم فالركبة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "وقعت طابوكة على رجلي واخذت أشعة، واش كتشوف فالأشعة؟",
+    "answer": "كاين كسر، خاصك تمشي لدكتور باش يشوف الوضعية.",
+    "entities": {
+      "symptoms": [
+        "كسر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش العملية ديال متلازمة النفق الرسغي كتعطي تخدير محلي ولا عام؟",
+    "answer": "عادةً كيتستعمل التخدير المحلي فهاد العملية. خاص استشارة الطبيب باش يوضح ليك التفاصيل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم تحت الضهر والمغص والم في الرجل، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب روماتيزم باش يدير ليك الفحص ويشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت الضهر",
+        "مغص",
+        "ألم في الرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم تحت الضهر وتقل في الرجل اليمنى، شنو السبب؟",
+    "answer": "يمكن يكون عندك مشكل فالغضروف. خاصك تزور الطبيب باش يحدد ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت الضهر",
+        "تقل في الرجل اليمنى"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كاين علاج جزري لي ليونة ديال الأربطة فالمفاصل؟",
+    "answer": "العلاج كيتطلب التكيف مع الحالة ومتابعة العلاج الطبيعي. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فعضلات الساق من تحت، شنو السبب؟",
+    "answer": "يمكن يكون عندك مشكل عضلي. خاصك تمشي عند الطبيب باش يدير ليك الفحص.",
+    "entities": {
+      "symptoms": [
+        "وجع فعضلات الساق"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم في الضهر والجسم، شنو ندير؟",
+    "answer": "الفحص الطبي ضروري. خاصك تمشي عند طبيب روماتيزم باش يحدد ليك العلاج.",
+    "entities": {
+      "symptoms": [
+        "ألم في الضهر",
+        "ألم في الجسم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي خلع فالورك بعد الحادث، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيبك باش يحدد ليك العلاج المناسب ويشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو السبب لي دار ألم وسط عامود الفقري؟",
+    "answer": "الألم ممكن يكون بسبب التهاب فالأربطة أو العضلات. خاصك تزور طبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم وسط عامود الفقري"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب في الأربطة ديال الكتف بسبب التمارين، شنو ندير؟",
+    "answer": "خاصك تخفف الضغط على الكتف وتقوم بتمارين خفيفة. استشارة الطبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع تحت الظهر والورك، شنو ندير؟",
+    "answer": "الأسباب كثيرة، خاصك تمشي عند طبيب روماتيزم باش يدير ليك الفحص ويحدد العلاج.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الظهر",
+        "وجع في الورك"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "بغيت نتصل بطبيب روماتيزم، شنو ندير؟",
+    "answer": "خاصك تبحث على طبيب مختص وتحدد موعد. يمكن لك تستعمل المواقع الإلكترونية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش الوجع فالأقدام عندو علاقة بالرحم؟",
+    "answer": "ماكاينش علاقة مباشرة. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "وجع فالأقدام"
+      ],
+      "medical_field": "الروماتيزم والمفاصل",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي 27 عام و عندي تورم فوق الركبة.",
+    "answer": "خاصك تشاور طبيب مختص فالروماتيزم والمفاصل.",
+    "entities": {
+      "symptoms": [
+        "تورم فوق الركبة"
+      ],
+      "medical_field": "الروماتيزم والمفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من تنمل فالأصابع ديال اليد الشمال والرجل الشمال.",
+    "answer": "يمكن يكون عندك التهاب فالأعصاب الطرفية. خاصك تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "تنمل فالأصابع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنت كنحس بخدر ووجع فوق الكوع.",
+    "answer": "خاصك تزور طبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "خدر",
+        "وجع فوق الكوع"
+      ],
+      "medical_field": "الروماتيزم والمفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج الوجع فشي حلقات ديال العمود الفقري؟",
+    "answer": "علاج الوجع كيعتمد على السبب. خاصك تشاور طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فشي حلقات ديال العمود الفقري"
+      ],
+      "medical_field": "الروماتيزم والمفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورم على الجنب الأيمن والأيسر.",
+    "answer": "خاصك تزور طبيب العظام باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "ورم على الجنب الأيمن والأيسر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من تنميل ف اليد اليسرى كاملة.",
+    "answer": "خاصك تمشي لدكتور الأعصاب باش يشوفك.",
+    "entities": {
+      "symptoms": [
+        "تنميل ف اليد اليسرى"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فظهر وكيوصل للركبة.",
+    "answer": "خاصك تمارين لتقوية الظهر. استشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فظهر",
+        "وجع كيوصل للركبة"
+      ],
+      "medical_field": "الروماتيزم والمفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي نقط بيضا ف رجلي وركبتي.",
+    "answer": "خاصك تزور طبيب الجلدية.",
+    "entities": {
+      "symptoms": [
+        "نقط بيضا ف رجلي وركبتي"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فوق الراس مع خدران فاليد اليمنى.",
+    "answer": "خاصك تزور طبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع فوق الراس",
+        "خدران فاليد اليمنى"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو أسباب فرقعة الصدر وكيفاش نعالجوها؟",
+    "answer": "فرقعة الصدر كتكون غالبا بسبب ضعف العضلات. خاصك تمارين خاصة. ماكاينش تأثيرات جانبية معروفة.",
+    "entities": {
+      "symptoms": [
+        "فرقعة الصدر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي إسهال وتعب جسدي ووجع فظهر مع رجلين.",
+    "answer": "هاذ الأعراض ممكن تكون بسبب التهاب أو حرارة. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "تعب جسدي",
+        "وجع فظهر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "علاج خشونة الركبة شنو هو؟",
+    "answer": "كاين عدة طرق، منها الأدوية والعلاج الطبيعي. الجراحة كاينة فالحالات المتقدمة.",
+    "entities": {
+      "symptoms": [
+        "خشونة الركبة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فمنتصف العمود الفقري لتحت.",
+    "answer": "خاصك تزور طبيب مختص باش يدير لك فحص سريري.",
+    "entities": {
+      "symptoms": [
+        "وجع فمنتصف العمود الفقري"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فمشط القدم اليمنى.",
+    "answer": "خاصك تستشير طبيب وممكن تحتاج صورة راديوغرافية.",
+    "entities": {
+      "symptoms": [
+        "وجع فمشط القدم"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم في العظمة ديال طرف القدم.",
+    "answer": "هاذ الألم ممكن يكون بسبب ترسبات الأملاح. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم في العظمة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين علاج لمرض الروماتويد والزئبة الحمرا؟",
+    "answer": "السلام الهرمي كيعالج الروماتيزم. خاصك زيارة الدكتور المختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فساق الرجل اليمنى من 3 سنين.",
+    "answer": "الوجع هاد كيتطلب الكشف عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم في العظام، خاصة في الذراعين.",
+    "answer": "خاصك تتحقق من مستوى الكالسيوم والهرمونات.",
+    "entities": {
+      "symptoms": [
+        "الم في العظام"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فالعضلات ديال الرجلين وظهر.",
+    "answer": "يمكن يكون التهاب بسبب الإجهاد.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعضلات"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش ندير ظهري يكون مستقيم؟",
+    "answer": "تمارين لتقوية الظهر ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو كيدير النقرس؟",
+    "answer": "النقرس كيتسبب في وجع فمفصل القدم الكبير. كيتطلب علاج خاص.",
+    "entities": {
+      "symptoms": [
+        "وجع فمفصل القدم"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج الم مفاصل القدمين؟",
+    "answer": "خاصك استشارة مع طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "الم مفاصل القدمين"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي الم فالعنق.",
+    "answer": "يمكن يكون من سلسلة العنق، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الم فالعنق"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تنميل فاليدين وأنا كاينام.",
+    "answer": "هاد تنميل يمكن يكون بسبب التهاب فالأعصاب.",
+    "entities": {
+      "symptoms": [
+        "تنميل فاليدين"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ضعف فالعضلات ديال الساقين.",
+    "answer": "خاصك تمارين تقوية، وشوف السبب.",
+    "entities": {
+      "symptoms": [
+        "ضعف فالعضلات"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي واحد الكرشة فالرّكبة ديالي.",
+    "answer": "خاصك تشوف طبيب مختص فالعظام.",
+    "entities": {
+      "symptoms": [
+        "كرشة فالرّكبة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "هل نقص في فيتامين بي ١٢ يسبب هششوشة؟",
+    "answer": "خاصك تحليل الڤيتامين د وبي ١٢.",
+    "entities": {
+      "symptoms": [
+        "هششوشة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج التورم فالعقل عند الولاد؟",
+    "answer": "خاصك تحدد فين واقع الجرح. من الأفضل تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نقوي عضلات الفخذ الأمامية؟",
+    "answer": "السباحة وتمارين الركوع كيعطيو نتائج مزيانة. خاص الرياضة تكون منتظمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب فعضلة الفخذ الأمامي والحوض.",
+    "answer": "من الأفضل تزور طبيب روماتيزم باش يشوف الحالة ديالك. العلاج كيتغير حسب السبب.",
+    "entities": {
+      "symptoms": [
+        "التهاب"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو دلائل خشونة الركبة؟",
+    "answer": "من بين الأعراض كاين ألم فالحركة، ورم فالمفصل، وصعوبة فثني المفصل وفرده.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "ورم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع تحت الظهر كيزيد وقت كنقعد.",
+    "answer": "خاصك تزور طبيب باش يدير لك الفحوصات اللازمة. ممكن يكون عندك مشكل فالمناطق القطنية.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي لم والتورم فإبع البنصر.",
+    "answer": "الفحص الطبي ضروري، خاصك تمشي لدكتور روماتيزم. الأسباب ممكن تكون متعددة.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كسر فالعظم ديال الترقوة.",
+    "answer": "خاصك تثبت الكسر، وضروري تمشي لطبيب. العلاج كيتعلق بنوع الكسر.",
+    "entities": {
+      "symptoms": [
+        "كسر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فكتف الصفرة اليسرى.",
+    "answer": "الراحة واستخدام المسكنات ضروريين. من الأفضل تدير صورة راديوغرافية.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "ماما كتعاني من وجع قوي فالمفاصل، شنو ندير؟",
+    "answer": "خاصك تعرف شنو نوع المفاصل اللي كتعاني منها. العلاج كيتعلق بنوع الألم.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج عرق النسا؟",
+    "answer": "العلاج كيعتمد على الحالة. فالحالات البسيطة، يمكن استعمال الزنجبيل والعسل. أما فالحالات الصعبة، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "عرق النسا"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورم فالأصابع مع احمرار، شنو ندير؟",
+    "answer": "خاصك تدير فحص لوظائف الكلي وتمشي لدكتور الروماتيزم.",
+    "entities": {
+      "symptoms": [
+        "ورم",
+        "احمرار"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تقوس فظهر، واش كاين حل؟",
+    "answer": "خاصك تعرف شحال الدرجة. يمكن يكون عندك حل، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تقوس"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شرب الما بعد التمارين، واش مزيان؟",
+    "answer": "شرب الما بعد التمارين كيعطي الفايدة للجسم. خاص تحافظ على الترطيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي أحرار فالعصعوص، شنو ندير؟",
+    "answer": "خاصك تزور دكتور باش يدير لك فحص سريري. هو اللي يقدر يعاونك.",
+    "entities": {
+      "symptoms": [
+        "أحرار"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع تحت الضهر وعندي ٥٨ عام، شنو الحل؟",
+    "answer": "يمكن يكون عندك سوفان فالفقرات القطنية. خاصك تمارين الاسترخاء.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الضهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرجل فالنهاية، شنو ندير؟",
+    "answer": "هاد الألم خاصه معاينة طبية باش يتم التشخيص. ما تخليش الأمور تتأخر.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب فلفة ديال الأصابع، شنو الحل؟",
+    "answer": "يمكن يكون عندك التهاب، خاصك تمشي لدكتور. هو اللي يقدر يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فلفة ديال الأصابع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عرق النسا، شنو سببه؟",
+    "answer": "خاصك تمشي لدكتور باش يشوف الوضعية ديالك. هو اللي يقدر يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "عرق النسا"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "فين كاين الوجع تحت الظهر؟",
+    "answer": "كاين أسباب كثيرة، خاصك توضح شكل ونوع الوجع. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي أسباب الوجع فالظهر، شنو ندير؟",
+    "answer": "خاصك تدير استشارة مع طبيب. هو اللي يقدر يعاونك.",
+    "entities": {
+      "symptoms": [
+        "وجع فالظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي طقطقة ففقرات العنق، شنو ندير؟",
+    "answer": "خاصك تمشي لدكتور باش يشوف الحالة ديالك. يمكن يكون عندك مشكل فالغضروف.",
+    "entities": {
+      "symptoms": [
+        "طقطقة ففقرات العنق"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرجل، شنو السبب؟",
+    "answer": "يمكن يكون عندك التهاب أو مشكل آخر. خاصك زيارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "الماما دارت تحاليل فالرجل، واش نقدر نعرف النتيجة؟",
+    "answer": "إذا كان نقص فالهيموجلوبين، خاصك تمشي عند الدكتور الداخلي للمراجعة.",
+    "entities": {
+      "symptoms": [
+        "نقص الهيموجلوبين"
+      ],
+      "medical_field": "الطب الداخلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تورم فالكعب ديال الرجل اليسرى من 8 أيام.",
+    "answer": "خاصك تمشي عند الدكتور باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرجلين والظهر.",
+    "answer": "يمكن يكون عندك التهاب، خاصك تشوف دكتور.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجلين",
+        "ألم فظهر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تشنجات فالشرايين منذ يومين.",
+    "answer": "خاصك تمشي عند دكتور العصبيات.",
+    "entities": {
+      "symptoms": [
+        "تشنجات"
+      ],
+      "medical_field": "العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نقدر نعرف إذا كان عندي روماتيزم؟",
+    "answer": "الأعراض كتشمل الألم فالمفاصل والتورم. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمفاصل",
+        "تورم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالظهر والرجلين.",
+    "answer": "خاصك تمشي عند دكتور العظام باش يدير ليك الفحص.",
+    "entities": {
+      "symptoms": [
+        "وجع فالظهر",
+        "وجع فالرجلين"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "التهاب السائل ديال النخاع الشوكي.. واش خطير؟",
+    "answer": "هاد المرض خاصو علاج. خاصك تمشي لدكتور الأعصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تنميل فكفي ورجلي، خصوصا وقت الحمام.",
+    "answer": "خاصك تزور طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع قوي تحت الضهر بشكل متقطع.",
+    "answer": "يمكن يكون عندك التهاب فالعضلات أو الأربطة. خاصك تراجع طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع تحت الضهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تكلس فمفصل الكتف، واش كاين علاج؟",
+    "answer": "العلاج كيعتمد على نوع التكلس والمشاكل لي كتحصل. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ضعف فالعضلات ديال الحوض لبنتي.",
+    "answer": "تمارين تقوية العضلات مفيدة. خاصها تركز على الحركة.",
+    "entities": {
+      "symptoms": [
+        "ضعف العضلات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تورم فوق العمود الفقري.",
+    "answer": "خاصك ترتاح وتاخد مسكنات. إذا استمر، زوري طبيب.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي منطقة سوداء جنب الإصبع الصغير ديال اليد اليسرى، واش كاين عندك فكرة؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورم صغير تحت الابط وكاين ليه شوية وجع، واش كاين سبب؟",
+    "answer": "خاصك تشوفي طبيب جراح عام باش يشوف الحالة ديالك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ورم تحت الابط",
+        "وجع"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش طقطقة الركبة مع وجع ممكن تكون من علامات قطع الرباط الصليبي؟",
+    "answer": "ماشي ضروري، ولكن خاصك تشوفي طبيب مختص باش يدير الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "طقطقة الركبة",
+        "وجع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مشكل فالفقرات الرابعة والخامسة.",
+    "answer": "خاصك تزور طبيب مختص باش يشوف الحالة ديالك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالفقرات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين شي سبب للم فالعضلات والضهر وكثرة النوم والكسل؟",
+    "answer": "الأسباب كثيرة، خاصك تمشي لدكتور العائلة باش يشوفك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فعضلات والضهر",
+        "كسل"
+      ],
+      "medical_field": "الرعاية الأولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "في الكف اليمنى ليا إصبع الخنصر كايوجعني وماقادرش نثنيه وكينفخ قليلا.",
+    "answer": "خاصك تشوف لدكتور العظام باش يتأكد من سلامة الشرايط.",
+    "entities": {
+      "symptoms": [
+        "وجع فإصبع الخنصر",
+        "انتفاخ"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "سلام عليك، عندي وجع فظهري من الجهة ليسرى على عضلة وحدة.",
+    "answer": "خاصك تزور طبيب العظام باش يشوفلك الوضعية ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فظهر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "العظمة فوق لفتحة ديال الشرج كتوجعني بزاف، شنو السبب؟",
+    "answer": "عندك التهاب العصعص. خاصك تدير راديوسكوب جانبي للعصعص باش تعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فوق لفتحة ديال الشرج"
+      ],
+      "medical_field": "الرماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فيديا ما نقدرش نحتملو.",
+    "answer": "يمكن يكون عندك التهاب فالأعصاب ديال الأطراف. خاصك تزور طبيب باش يشوفك.",
+    "entities": {
+      "symptoms": [
+        "وجع فيديا"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالجهة اليمنى تحت الضهر، شنو ندير؟",
+    "answer": "يمكن يكون الإجهاد، خاصك ترتاح وتزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالجهة اليمنى تحت الضهر"
+      ],
+      "medical_field": "الظهر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فصدري كيشبه لتشنج، شنو ندير؟",
+    "answer": "خاصك تمشي للدكتور يدير لك فحص طبي كامل.",
+    "entities": {
+      "symptoms": [
+        "وجع فصدري"
+      ],
+      "medical_field": "الصدر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين التهاب فالأوتار فالمفصل الفكي؟",
+    "answer": "يمكن، خاصك تزور طبيب مختص باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالأوتار"
+      ],
+      "medical_field": "المفاصل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالضلوع فالجهة لي فوق فالصدر وقت لي كنقعد، شنو ندير؟",
+    "answer": "خاصك تمشي للدكتور وتعاود الفحص الطبي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالضلوع"
+      ],
+      "medical_field": "الصدر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج الآلام ديال الأوتار فالركبة؟",
+    "answer": "خاصك تلبس حزام واقي للركبة وتاخد راحة. العلاج الطبيعي مع كمادات ميا دافية ومضادات الالتهابات غادي يعاونك.",
+    "entities": {
+      "symptoms": [
+        "آلام الأوتار"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالخلف ديال الأذن والرقبة والمفصل ديال اليد الشمال، شنو ندير؟",
+    "answer": "خاصك تزور دكتور باش يحدد لك السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالأذن",
+        "وجع فالرّقبة",
+        "وجع فالمفصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج ولد عندو تشوه فساقو ورجلو؟",
+    "answer": "يمكن تعالجوه، خاصك تمشي لدكتور العظام ديال الصغار باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "تشوه فالساق"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم تحت الضهر وكسل دايم، شنو ندير؟",
+    "answer": "خاصك تمشي لدكتور مختص فالجراحة ديال الأعصاب باش يشوف وضعك ويقيمو.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت الضهر",
+        "كسل دايم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالعنق، شنو السبب؟",
+    "answer": "ممكن يكون عندك شد عضلي أو مشكلة فالأعصاب. خاصك تمشي لدكتور باش يشوفك.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعنق"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "الفقرات ديال ظهري كتوجعني بزاف، شنو السبب؟",
+    "answer": "ممكن يكون السبب انزلاق غضروفي. خاصك دير فحص بالرنين المغناطيسي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالفقرات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورمات فعظامي، شنو ندير؟",
+    "answer": "خاصك تزور طبيب روماتيزم باش يدير لك الفحص اللازم. الكشف الطبي مهم باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "ورمات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرجل بسبب انزلاق غضروفي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب مختص باش يشوف الحالة ديالك. العلاج الفيزيائي ممكن يساعدك.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالمفاصل، شنو السبب؟",
+    "answer": "خاصك تدير فحصات وتحاليل باش نعرفو السبب. ممكن تكون عندك حالة روماتيزمية.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرجل بسبب انزلاق غضروفي، شنو ندير؟",
+    "answer": "ماشي عادي، خاصك تدير متابعة مع طبيب. العلاج الفيزيائي مهم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالمفاصل، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب روماتيزم. ممكن تحتاج تحاليل باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالمفاصل، شنو العلاج؟",
+    "answer": "العلاج كيعتمد على السبب. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرجل، شنو الحل؟",
+    "answer": "خاصك تزور طبيب روماتيزم. العلاج الفيزيائي ممكن يساعدك.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالمفاصل، شنو العلاج؟",
+    "answer": "خاصك تدير فحصات وتحاليل. العلاج كيعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي شد فالركبة",
+    "answer": "الأسباب كثيرة، خاصك تمشي عند طبيب روماتيزم باش يدير لك الفحص اللازم ويشوف السبب والعلاج.",
+    "entities": {
+      "symptoms": [
+        "شد فالركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فمعصم اليد ديماً",
+    "answer": "خاصك تزور طبيب روماتيزم باش يشوفك ويدير لك الفحوصات اللازمة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فمعصم اليد"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالعنق من جهة اليمين تحت الفك وكيمشي لتحت",
+    "answer": "خاصك دير تصوير رندير للعنق وتتابع مع طبيب العظام.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعنق"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالكف الشمال وكاين لمرات فالكف اليمين",
+    "answer": "كتحتاجي تصوير رندير للعنق وتحليل الأعصاب لليدين.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكف الشمال",
+        "وجع فالكف اليمين"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب فالمفصل ديال الفخذ",
+    "answer": "خاصك تزور طبيب روماتيزم باش يدير لك الفحوصات اللازمة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالمفصل ديال الفخذ"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كتعاني من وجع فأسفل ظهرك لما كنجلس؟",
+    "answer": "خاصك تحافظ على طريقة الجلوس وتستعمل وسادة تحت الضهر. إذا استمر الألم، من الأفضل تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فأسفل الظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كاين مشكل فثني الركبة بعدما نزعت الغشاء السينوفي من شهرين؟",
+    "answer": "من الأفضل تمشي لدكتور الروماتيزم باش يشوف الحالة ديالك. ممكن تحتاج علاج أو فحص إضافي.",
+    "entities": {
+      "symptoms": [
+        "مشكل فثني الركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "دكتور، لي ثلاتة أيام كنحس بالم ودبابيس فإبهامي الأيمن، شنو السبب؟",
+    "answer": "يمكن يكون عندك ضغط على الأعصاب أو شد عضلي. من الأفضل تزور طبيب باش يشخص الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم فإبهام الأيمن",
+        "دبابيس"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "الو، أمي كتشعر بوجع فالرقبة والجنب اليمين والكتاف وعندها وجع بحرقان. واش كترجعو منكم التشخيص الأولى؟",
+    "answer": "يمكن يكون التهاب فالعصب أو مشكلة فالمفاصل. من الأفضل تزور طبيب مختص لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرقبة",
+        "وجع بالجنب اليمين",
+        "وجع فالكَتَف"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شعور كي الصاعق بالكهربا فتلك الجهة وزيادة فالانتفاخ ديال الورم.",
+    "answer": "خاصك تمشي لدكتور الجراحة باش يدير لك الفحص الطبي. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "شعور بالصاعق",
+        "انتفاخ ديال الورم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع مستمر فلكعب وكنتعرض للتواء بزاف.",
+    "answer": "خاصك تمشي لدكتور باش يشوف لك الوضعية. يمكن تحتاج علاج طبيعي أو فحص إضافي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالكعب",
+        "التواء"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالبطن.",
+    "answer": "يمكن يكون عندك التهاب داخلي. خاصك تمشي لدكتور العائلة باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالرجل الشمال وكاين ثقل.",
+    "answer": "الوجع فالأطراف كيمكن يكون عندو علاقة بالتهاب فالأعصاب. خاصك تمشي لدكتور.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجل الشمال",
+        "ثقل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تشنجات فالرجل وكيوصل الوجع لوركو، شنو ندير؟",
+    "answer": "خاصك تدير فحص للعصبونات. هادشي غادي يساعد فالتشخيص.",
+    "entities": {
+      "symptoms": [
+        "تشنجات",
+        "وجع فالرجل"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تخدر فالرجل اليمنى مع وجع دائم.",
+    "answer": "هاد الأعراض كتشير لمشكلة فالعصب الوركي. خاصك تمشي لدكتور.",
+    "entities": {
+      "symptoms": [
+        "تخدر فالرجل اليمنى",
+        "وجع دائم"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "الوجع فالعنق كايخليك تدوخ؟",
+    "answer": "يمكن يكون عندك تقلصات فعضلات العنق. خاصك تمشي لعلاج طبيعي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالعنق",
+        "دوخة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "شنو الرياضات الممنوعة للي عندو قطع فالرباط الصليبي؟",
+    "answer": "الرياضات لي فيها توايس أو لف مفصل الركبة خاصها تتجنب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي عظمة كتحرك فالحوض وكتسمع صوت قرقعة.",
+    "answer": "خاصك تدير صورة راديوغرافية للحوض وتمشي لدكتور العظام.",
+    "entities": {
+      "symptoms": [
+        "صوت قرقعة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب فالغضروف وبغيت علاج.",
+    "answer": "خاصك تمشي لدكتور باش يشوف الوضعية ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالغضروف"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ضمور فالساق بسبب تشوه فالقدم، واش كاين جراحة؟",
+    "answer": "خاصك تزور طبيب تجميل باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورم فراحة يدي، شنو ندير؟",
+    "answer": "إذا ما كانش الألم قوي، خاصك تشوف طبيب الأوعية الدموية والليمفاوية.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأوعية الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مشكل فالكعب، واش خاصني نمشي للطبيب؟",
+    "answer": "إيوا، خاصك تزوري طبيب الروماتيزم باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالكعب"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالطراف ديال اليد والرجلين، شنو ندير؟",
+    "answer": "خاصك تدير صورة راديوغرافية للعمود الفقري باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالطراف"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فساقي الشمال وحرقة فركبتي، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع فساقي الشمال",
+        "حرقة فركبتي"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي إصبع فيه انحراف، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب العظام، لأنه التعوج ممكن يكون بسبب كسر.",
+    "entities": {
+      "symptoms": [
+        "انحراف فالإصبع"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج الرض فمشط القدم؟",
+    "answer": "خاصك تزور طبيب العظام باش يشوفك ويدير ليك اللازم.",
+    "entities": {
+      "symptoms": [
+        "رض فمشط القدم"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كاين شفاء من التهاب المفاصل الروماتزمي؟",
+    "answer": "ما كاينش شفاء كامل، ولكن كاين تحسن كبير.",
+    "entities": {
+      "symptoms": [
+        "التهاب المفاصل الروماتزمي"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ضربة فعضلة الضامة، واش كاين علاج؟",
+    "answer": "خاصك تسخن الجسم قبل التمارين وتستعمل تمارين خاصة.",
+    "entities": {
+      "symptoms": [
+        "ضربة فعضلة الضامة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش الغدة الدرقية النشيطة كتعطي وجع فالمفاصل؟",
+    "answer": "ممكن تكون عندك مشكلة فالغدة الدرقية، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمفاصل"
+      ],
+      "medical_field": "الغدد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فكتفي الشمال والضلوع مع فرقعة وطقطقة، وما كاينش فايدة فالمسكنات.",
+    "answer": "خاصك تدير راديو باش تعرف السبب. من الأفضل تزور طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فكتف",
+        "فرقعة",
+        "طقطقة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تنميل فالأقدام بلا سبب، شنو ندير؟",
+    "answer": "التنميل عندو أسباب كثيرة، خاصك تزور طبيب عصبوني.",
+    "entities": {
+      "symptoms": [
+        "تنميل فالأقدام"
+      ],
+      "medical_field": "العصب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالرأس والرقبة والظهر وكتفاي كيزيدو مع الحركة.",
+    "answer": "من الأفضل تزور طبيب عظام باش يدير ليك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرأس",
+        "ألم فالرّقبة",
+        "ألم فظهر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "قصبة رجلي كتعورني ملي نجري، ولكن ما كتعورنيش ملي نمشي.",
+    "answer": "يمكن يكون عندك نقص فالكالسيوم والڤيتامين د، خاصك تشوفي طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فقصبة الرجل"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي قطع جزئي فالوتر الرباط الصليبي الأمامي، واش الوقفة والمشي كيتأثرو عليها؟",
+    "answer": "خاصك تشوف طبيب العظام باش يعطيك النصيحة المناسبة.",
+    "entities": {
+      "symptoms": [
+        "قطع جزئي فالوتر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فباطن الكف وأطراف الأصابع، واش كاين سبب؟",
+    "answer": "خاصك تزور طبيب باش يعرف السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "ألم فباطن الكف",
+        "تنميل فالأصابع"
+      ],
+      "medical_field": "العصب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي حكة فأطراف إيديا والتهاب فالكف.",
+    "answer": "خاصك تمشي لدكتور العظام باش يدير لك التشخيص الدقيق.",
+    "entities": {
+      "symptoms": [
+        "حكة فالأطراف",
+        "التهاب فالكف"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم قوي فالرجل بسبب مسمار عظمي.",
+    "answer": "الألم والورم كيخفو تدريجيا، ولكن خاصك تتابع مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالرجل",
+        "ورم"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تنميل فوق الركبة مع لمعان.",
+    "answer": "خاصك تزور طبيب العصبيات باش يشوفك ويدير اللازم.",
+    "entities": {
+      "symptoms": [
+        "تنميل فوق الركبة"
+      ],
+      "medical_field": "العصب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالساق اليمنى حتى الفخذ وما قادرش نقوم عليها.",
+    "answer": "يمكن يكون عندك التهاب فالأعصاب. خاصك تشوف طبيب باش يحدد لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالساق"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين حل للانتفاخ تحت العين بسبب الملح؟",
+    "answer": "الانتفاخ تحت العين كيتطلب استشارة طبيب. كاين أدوية ممكن تساعد.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ تحت العين"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نخلص من وجع العضلة الضامة؟ واش نقدر نمارس الرياضة؟",
+    "answer": "خاصك تمشي لدكتور الرياضة أو دكتور العظام. غادي يشوف لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع العضلة الضامة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي عظام فالضهر كيتخرجو شوية، واش هادشي خطير؟",
+    "answer": "خاصك تزور طبيب العظام أو طبيب الأعصاب. غادي يقدر يشوف لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "عظام فالضهر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم مزعج فوق المؤخرة من الجهة اليسرى تحت الضهر.",
+    "answer": "خاصك تمشي لدكتور الروماتيزم. غادي يشوف لك الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم فوق المؤخرة"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "الأضافر ديال القدم للصبع الكبير كيدخل على اللحم الجانبي وكيخلق دراحة والم.",
+    "answer": "خاصك تزور طبيب العظام. غادي يساعدك فهاد المشكل.",
+    "entities": {
+      "symptoms": [
+        "الم فالأضافر"
+      ],
+      "medical_field": "الروماتيزم والعظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نقدر نزيد طول قامتي وانا عندي 20 سنة؟",
+    "answer": "الطول كيتحدد بالوراثة والعوامل الأخرى. من بعد 20 سنة، غالبا ما كيتوقف النمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالرجل من بعد ما كنمشي بزاف، شنو ممكن يكون السبب؟",
+    "answer": "ممكن يكون عندك التهاب أو إجهاد عضلي. خاصك تشوف طبيب باش يحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرجل"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "خصني نعمل الفحوصات والأشعة باش نعرف السبب ديال تحرك الإبهام والخنصر؟",
+    "answer": "نعم، خاصك تمشي لدكتور مختص باش يشوفك ويدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "تحرك الإبهام والخنصر"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالجنب الأيمن، شنو ممكن يكون هاد الوجع؟",
+    "answer": "الوجع فالجنب الأيمن ممكن يكون بسبب التهاب أو شد عضلي. خاصك تشوف طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالجنب الأيمن"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي رباط صليبي وعملت العملية، واش كاين ضرر من العادة السرية؟",
+    "answer": "من الأفضل تتجنب أي مجهود كبير بعد العملية. خاصك تركز على الراحة والتعافي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي فالضهر كيعاني من جفاف وعندي طبقة فوقها لمعة، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب الجلدية باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "جفاف فالضهر"
+      ],
+      "medical_field": "الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي مشكل فركبتي، كندير الرياضة وكنحس بالم شديد، شنو ندير؟",
+    "answer": "يمكن يكون عندك التهاب أو خشونة في المفصل. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "الم فركبة"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ألم فالعقرب ديال القدم، واش هادشي خطير؟",
+    "answer": "خاصك تمشي للدكتور باش يدير لك الفحوصات اللازمة ويحدد السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالعقرب"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نحل المشكل ديال الركبة؟",
+    "answer": "خاصك تشخيص دقيق وعلاج مع دكتور العظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالجهة اليمنى ديال الركبة، شنو ندير؟",
+    "answer": "التواء الركبة كيقدر يسبب ضرر للغضروف. خاصك تدير رنين مغناطيسي باش تشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين شي دوا للتقوس؟",
+    "answer": "خاصك تشوف طبيب العظام، هو لي يقدر يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي تحمم فبني الجبهة، واش كاين حل؟",
+    "answer": "خاصك تمشي لطبيب مختص فتجميلات الوجه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التجميل",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "ماكاينش لاقدرة نقف، وعندي وجع شديد فالعضلات تحت الظهر.",
+    "answer": "خاصك تمشي لدكتور باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "وجع شديد"
+      ],
+      "medical_field": "العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالكعبين بعدما نمشي.",
+    "answer": "ممكن يكون عندك وجع فالكعب، خاصك تدير تحاليل وفحوصات.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فمفصل الرجل بين الحوض والفخد، شنو العلاج؟",
+    "answer": "خاصك تزور طبيب روماتيزم باش يشوف الحالة ديالك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فمفصل الرجل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش نقدر ندير الايروبكس وأنا عندي نقص ف فيتامين د وكنعاني من تعب ف العضلات؟",
+    "answer": "يمكن لك تدير الايروبكس، ولكن خاصك تكون حذر وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "تعب ف العضلات"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كاين مرض خلف الركبة وكيفاش نعالجو؟",
+    "answer": "كاين مرض سميتو 'كيست خلف الركبة'، وعادة كيتعالج بالتدخل الجراحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش معندكش الم في الرقبة والكتف والذراع؟",
+    "answer": "يمكن يكون عندك ديسك فالعنق، خاصك تزور طبيب باش يشوفك.",
+    "entities": {
+      "symptoms": [
+        "ألم في الرقبة",
+        "ألم في الكتف",
+        "ألم في الذراع"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "الم والتورم فالكعب.",
+    "answer": "خاصك تزور طبيب روماتيزم باش يدير لك الفحص اللازم ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "تورم فالكعب"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "ماما كتعاني من وجع فوق الورك الأيمن.",
+    "answer": "خاصها تزور طبيب باش يشوف الحالة ديالها ويعطيها العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فوق الورك الأيمن"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كيشرب عصير الصبار كيعالج خشونة الرقبة؟",
+    "answer": "عصير الصبار ماعندوش علاقة بالخشونة، خاصك علاج طبي مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "واش كاين علاج للمفاصل للشباب؟",
+    "answer": "الأسباب كثيرة، خاصك تمشي عند طبيب روماتيزم باش يشوفك ويدير لك اللازم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كاين شي طرطاقة فالعظام؟",
+    "answer": "خاصك تمشي لدكتور الروماتيزم باش يعرف السبب ويدير لك الفحص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالركبة فالشتا.",
+    "answer": "يمكن يكون ضعف العضلات، خاصك مراجعة عند طبيب العلاج الطبيعي.",
+    "entities": {
+      "symptoms": [
+        "وجع فالركبة"
+      ],
+      "medical_field": "العلاج الطبيعي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي ورم فالركبة وكيعيق حركتي.",
+    "answer": "خاصك تمشي لدكتور الروماتيزم باش يدير لك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "ورم فالركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي التهاب فالمفصل بعد الكورتيزول، واش كاين علاج؟",
+    "answer": "خاصك تدير تحاليل وتحدد نوع العلاج مع طبيب العظام.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالمفصل"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فاليد الشمال من الكوع للبطن.",
+    "answer": "هاد الوجع يمكن يكون بسبب التهاب الأوتار، خاصك تزور مركز علاج طبيعي.",
+    "entities": {
+      "symptoms": [
+        "وجع فاليد"
+      ],
+      "medical_field": "العلاج الطبيعي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كسر فالعضد ديال اليد اليمنى، واش كاين شي حاجة؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "كسر فالعضد"
+      ],
+      "medical_field": "العظام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع بعد العملية، واش كاين شي حاجة تخفف منو؟",
+    "answer": "خاصك تزوري الطبيب بعد العملية، يمكن يكون عندك حاجة خاصة.",
+    "entities": {
+      "symptoms": [
+        "وجع بعد العملية"
+      ],
+      "medical_field": "العظام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "زوجي كيعاني من تشد عضلي فالرجلين.",
+    "answer": "خاصو يدير تحاليل عند الطبيب ديال العائلة.",
+    "entities": {
+      "symptoms": [
+        "تشد عضلي"
+      ],
+      "medical_field": "الرعاية الأولية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالحوض لي كيزيد مع السعال.",
+    "answer": "خاصك تمشي للدكتور باش يشوف لك الحالة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالحوض"
+      ],
+      "medical_field": "الجراحة العامة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي كتلة خلف الكتف بعد التمارين، ما عنديش وجع.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كتنمل لي الإبهام والسبابة فيدي، دازت خمسة أيام.",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "تنميل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فالفخد، ما كنقدرش نمشي.",
+    "answer": "خاصك تمشي عند الطبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالفخد"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كتجي لي حرارة فالقدم بلا سبب، شنو السبب؟",
+    "answer": "خاصك تمشي عند الطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حرارة فالقدم"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي وجع فمفصل الفخد.",
+    "answer": "خاصك تمشي عند طبيب الروماتيزم باش يشوفك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فمفصل الفخد"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "ما كنديرش على رجليا من بعد ما صحيت.",
+    "answer": "الأسباب كثيرة، خاصك تمشي عند طبيب الروماتيزم باش يدير ليك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "عدم القدرة على القيام"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فالمفاصل بزاف.",
+    "answer": "خاصك تمشي عند طبيب الروماتيزم باش يشوفك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمفاصل"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "عندي خدر فالأقدام، شنو السبب؟",
+    "answer": "خاصك تمشي عند طبيب الأعصاب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "خدر فالأقدام"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كيفاش نعالج الخشونة فالركبة؟",
+    "answer": "الخشونة كتعالج بالعلاج الطبيعي والحقن، وفي الحالات المتقدمة يمكن تبديل المفصل.",
+    "entities": {
+      "symptoms": [
+        "خشونة فالركبة"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Rheumatology and Orthopedics",
+    "question_darija": "كنعاني من وجع فالصدر والكتف والظهر.",
+    "answer": "خاصك تمشي عند الطبيب باش يدير لك الفحص ويعرف السبب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر",
+        "وجع فالكَتف",
+        "وجع فظهر"
+      ],
+      "medical_field": "الروماتيزم",
+      "urgency": "عالي"
+    }
+  }
+]

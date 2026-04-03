@@ -1,0 +1,4182 @@
+[
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو السرطان الوراثي؟",
+    "answer": "السرطان الوراثي هو اللي كيتورث من العائلة. كيشمل سرطان الثدي، البروستاتا، والقولون.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "سرطان العظام ماكاينش علاجو؟",
+    "answer": "سرطان العظام كيتعالج بالكيماوي، الأشعة، والجراحة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو أعراض سرطان الرئة؟",
+    "answer": "الأعراض كتشمل السعال المستمر، ضيق التنفس، وفقدان الوزن. خاص زيارة الطبيب للتشخيص.",
+    "entities": {
+      "symptoms": [
+        "السعال المستمر",
+        "ضيق التنفس",
+        "فقدان الوزن"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "العلاج ديال سرطان العظام؟",
+    "answer": "العلاج كيشمل الكيماوي، الجراحة، والأشعة. كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما أعراض سرطان الرئة؟",
+    "answer": "الأعراض كتشمل السعال المستمر وصعوبة في التنفس. خاصك تشوف طبيب لتأكيد التشخيص.",
+    "entities": {
+      "symptoms": [
+        "السعال المستمر",
+        "صعوبة في التنفس"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتحول السرطان دالدم؟",
+    "answer": "السرطان ديال الدم كيتحول من خلايا الدم. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما أعراض سرطان القولون؟",
+    "answer": "من الأعراض كاين الدم في البراز وتغيرات في عادات الأمعاء. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "الدم في البراز",
+        "تغيرات في عادات الأمعاء"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "سرطان البنكرياس فالمرحلة لخرة، واش كاين شي علاج ليه؟",
+    "answer": "العلاج الكيمياوي هو الخيار المتاح. خاص استشارة طبيب لتحديد الخطة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتعرف السرطان فالمخ؟",
+    "answer": "كاين بزاف ديال الطرق للتشخيص، بحال التصوير بالرنين المغناطيسي أو الأشعة السينية. خاص الطبيب يشوف الأعراض ويحدد الطريقة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "التشخيص ديال السرطان فالبنكرياس صعيب؟",
+    "answer": "صحيح، التشخيص كيتطلب فحوصات دقيقة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما الأعراض لي كايوقعو من بعد استئصال الورم؟",
+    "answer": "من بعد الاستئصال، ممكن تحس بألم أو تعب. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "تعب"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش نقص الدورة عندو علاقة بسرطان البنكرياس؟",
+    "answer": "نقص الدورة ممكن يكون عندو أسباب متعددة، ولكن ماشي بالضرورة مرتبط بالسرطان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "بغيت نعرف شنو هوما الأعراض ديال سرطان الدماغ.",
+    "answer": "الأعراض كيمكن تكون صداع، ضعف فالتوازن، أو مشاكل فالرؤية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "ضعف فالتوازن",
+        "مشاكل فالرؤية"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي الأعراض لي كايوقعو فاش كايتعطى العلاج الكيميائي؟",
+    "answer": "الأعراض كيمكن تختلف من شخص لآخر، ولكن كاينين بحال التعب، الغثيان، وفقدان الشهية. خاص استشارة طبيب لتحديد الأعراض بدقة.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "الغثيان",
+        "فقدان الشهية"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش المنشطات ديال الحمل كاتسبب السرطان؟",
+    "answer": "ماكاينش شي علاقة مباشرة بين المنشطات والسرطان. ولكن خاص الحذر واستشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين خطر فانتشار السرطان ديال الجلد؟",
+    "answer": "إي، كاين خطر ولكن ماكايوقعش بزاف. خاص متابعة طبية دورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتحول السرطان دالدم؟",
+    "answer": "السرطان فالدّم كيتطلب تشخيص دقيق. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش ندير فحص ذاتي للثدي؟",
+    "answer": "يمكن تدير الفحص فدارك، خاص تحس بالثدي مزيان وتراقب أي تغييرات. إذا لاحظتي شي حاجة غير عادية، خاصك تشوفي الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش عرفت بلي عندي ورم فراسي؟",
+    "answer": "استعملت الرنين المغناطيسي للدماغ، وهو كيعطي صورة واضحة. خاص متابعة مع طبيب الأعصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي المواد اللي ممنوع يتاكلو قبل العلاج النووي؟",
+    "answer": "بعض الأطعمة خاصها تتجنب قبل العلاج، بحال الأطعمة الثقيلة. خاص استشارة طبيب أو مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما أنواع السرطان ديال الكبد؟",
+    "answer": "أنواع السرطان ديال الكبد كيتضمنو سرطان الخلايا الكبدية وسرطان القنوات الصفراوية. هاد الأنواع كيسببو مشاكل صحية خطيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما أعراض السرطان؟",
+    "answer": "أعراض السرطان كيمكن تكون متنوعة، بحال فقدان الوزن، تعب مستمر، وألم غير مفسر. خاص استشارة طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "فقدان الوزن",
+        "تعب مستمر",
+        "ألم غير مفسر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي واحد الكتل صغيرة تحت ركبتي كايدير ليا الصداع، شنو ندير؟",
+    "answer": "ممكن يكون عندك التهاب أو مشكلة أخرى. خاصك تشوف طبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "كتل تحت الركبة",
+        "صداع"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو النوع ديال السرطان اللي حساس بزاف للعلاج الشعيري؟",
+    "answer": "بزاف من الأنواع كيتطلبو علاج شعيري، بحال سرطان الثدي وسرطان الرئة. كل نوع عندو طريقة خاصة للعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينة شي طريقة لعلاج السرطان بالأعشاب حسن من الكيميائي؟",
+    "answer": "مازال ما تبتاتش فعالية الأعشاب فالعلاج. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج ديال الكيميو؟",
+    "answer": "العلاج الكيميائي كيتضمن أدوية خاصة وكيعتمد على نوع الورم. خاص استشارة طبيب لتحديد الخطة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين ضروري يتدار العلاج الكيميائي فالحميد؟",
+    "answer": "لا، ما كاينش ضرورة للعلاج الكيميائي فهاد الحالة. خاص تقييم دقيق من الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي واحد عندو كرشيطة وباقي عايش؟",
+    "answer": "إي، كاينين حالات كتعيش مع هاد المرض. العلاج كيعتمد على الحالة الصحية العامة.",
+    "entities": {
+      "symptoms": [
+        "كرشيطة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن واحد يقدر يتصاب بسرطان الثدي فصغرو؟",
+    "answer": "إي، هادشي ممكن. خاص الفحص المبكر والوعي بالأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا لكسراع دماغ؟",
+    "answer": "كاينين طرق علاج مختلفة، بحال الجراحة أو العلاج الكيمياوي أو الإشعاع. خاصك تشوف طبيب مختص باش يحدد ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش لميكروويف كايسبب السرطان؟",
+    "answer": "باقي ما تبتاتش بلي كايسبب السرطان، ولكن خاصنا نكونو حذرين. من الأفضل نتجنبو استعماله بشكل مفرط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا بديل للكيميائي فلعلاج ديال كيمارار؟",
+    "answer": "كاينين بدائل، ولكن خاص الطبيب يحدد ليك الأنسب لحالتك. العلاج كيعتمد على نوع الورم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما الأعراض ديال ورم الدماغ؟",
+    "answer": "الأعراض كتشمل صداع قوي، مشاكل فالرؤية، وفقدان التوازن. خاصك تشوف طبيب إذا حسيت بهاد الأعراض.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "مشاكل فالرؤية",
+        "فقدان التوازن"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي خرق فهاد التقرير لي فالصورة؟",
+    "answer": "خاص التقرير يتعرض على طبيب مختص باش يقدر يفسر ليك النتائج. ما يمكنش نحدد بدون فحص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش لعلاج ديال لفاليوم مزيان مع الأمراض العظمية؟",
+    "answer": "ماكاينش تعارض كبير، ولكن خاص الطبيب يراقب الحالة. استشيري طبيبك قبل ما تستعمليه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كاينعالجوا لوسخور بلا مايضرو ليه جراح؟",
+    "answer": "كاينين طرق علاجية غير جراحية، بحال العلاج بالأشعة أو الكيمياوي. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج ديال السرطان ف المراحل اللخرين؟",
+    "answer": "العلاج كيتعلق بنوع السرطان ومرحلة المرض. خاص استشارة طبيب مختص لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عند والدتي ورم تحت صدرها، شنو ندير؟",
+    "answer": "خاصك تمشي تراجع مع الطبيب و دير راديو باش تعرف الحالة.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي مرض وراثي يسبب السرطان؟",
+    "answer": "ماشي كل السرطانات وراثية، ولكن كاين احتمال 50% لبعض الأنواع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي خطر فاش تلبس الورم ليفي؟",
+    "answer": "ماكاين حتى خطر من لبس الورم ليفي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندك معلومات على سرطان الرئة؟",
+    "answer": "سرطان الرئة كيتطلب تشخيص مبكر وعلاج مناسب. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش نقص الدورة عندو علاقة بسرطان البنكرياس؟",
+    "answer": "ماكاينش علاقة بين نقص الدورة و سرطان البنكرياس، هادشي مؤكد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينين لمراحل ديال الورم الحميد؟",
+    "answer": "ماكاينش شي مراحل للكولور. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتسخدم سيبرودار 500 فداء السطا؟",
+    "answer": "ممكن يستعمل، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج ديال الكحة لمرض السرطان ديال الرية؟",
+    "answer": "العلاج كيبقى تحفظي. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "كحة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كايضرني اللّه تحت الصدر ليسر ملي كاند عليه الضغط.",
+    "answer": "خاصنا نديرو سونار باش نتأكدو من الحالة.",
+    "entities": {
+      "symptoms": [
+        "ألم تحت الصدر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا لكسروت ديال لحموم؟",
+    "answer": "كاين العلاج الكيميائي والعلاجات الإشعاعية. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي واحد مسرطن؟",
+    "answer": "ماكاين حتى شي دلائل باش نقولو بلي راه مريض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "ممنوع تصبغ شعرك حتا تسالي جلسات الكيما؟",
+    "answer": "أه، خاص تنتظري حتى تسالي الجلسات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شحال كايعيش واحد مع المرض الخبيث؟",
+    "answer": "هادشي كيعتمد على عمر المريض والجرعات ديال العلاج. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرفو الدجاجة الخبيثة؟",
+    "answer": "خاصك تراقبها مزيان. كاين علامات خاصة كتظهر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش جوج رومييات كايتعاودو؟",
+    "answer": "هادا دوا مناعي، وكايتستعمل فبعض أنواع السرطان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم ف راسي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب مختص باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي مشكل ديال حب الشباب، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب الجلدية باش يعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي قرعة ف راسي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب مختص فالأعصاب.",
+    "entities": {
+      "symptoms": [
+        "قرعة ف الرأس"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي فيروس ف لحمر لمديب؟",
+    "answer": "ماكاينش شي فيروس معروف فهاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج ديال لكوما ديال الدم؟",
+    "answer": "العلاج كيعتمد على النوع والمرحلة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو اللي كايسب سرطان الثدي؟",
+    "answer": "كاين بزاف د الأسباب، ولكن خاص تحديد العوامل لي كتأثر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي واحد عندو خروج بيض من الصدر؟",
+    "answer": "هادشي خاصو استشارة طبيب، حيث ممكن يكون عندو أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "خروج بيض من الصدر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج ديال سرطان ريش الأطراف؟",
+    "answer": "العلاج كيتضمن الجراحة والعلاج الإشعاعي، خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش تساقط الشعر من أعراض السرطان؟",
+    "answer": "تساقط الشعر ماشي من الأعراض المعروفة للسرطان، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينة شي دوا ديال سوتنت كاتعالج سرطان الكلاوي؟",
+    "answer": "نعم، سوتنت كيتعطى لعلاج سرطان الكلاوي ولكن تحت مراقبة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي أعراض ورم الدماغ؟",
+    "answer": "أعراض ورم الدماغ كتشمل صداع قوي، غثيان، ومشاكل في الرؤية.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "غثيان",
+        "مشاكل في الرؤية"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي عائلات كيعانيو من سرطان الرئة؟",
+    "answer": "سرطان الرئة ماشي وراثي، ولكن العوامل البيئية كتلعب دور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي كيس فالصدر وخاصني ندير عملية؟",
+    "answer": "نعم، خاصك تشوف طبيب لتحديد نوع العملية المناسبة.",
+    "entities": {
+      "symptoms": [
+        "كيس في الصدر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي فواكه مفيدة ضد السرطان؟",
+    "answer": "للأسف، الفواكه ما قادراش تقتل السرطان. خاصك تتبع علاج طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي الأعراض ديال السرطان عند الدراري؟",
+    "answer": "السرطان مرض معقد وعندو أعراض بزاف. خاص استشارة طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شحال من عام باش تشافا واحد مريض بسرطان العظام؟",
+    "answer": "مدة الشفاء تختلف حسب درجة المرض. ولكن في البداية كتكون صعبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي علاج بالأعشاب حسن من الكيمياء؟",
+    "answer": "العلاج بالأعشاب مازال موضوع نقاش. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينين شي عيادات كيديرو برام ثدي؟",
+    "answer": "أه، كاينين عيادات كيديرو الفحوصات اللازمة. خاصك تسول في منطقتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "بغيت نعرف كولشي على التهاب الكبد بائي",
+    "answer": "التهاب الكبد بائي هو مرض فيروسي. كيتطلب متابعة طبية وعلاج خاص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندك شي معلومات على الدوا لي كايعاون فالحالات ديال الصفير؟",
+    "answer": "كاينين أدوية كتعالج الصفير، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "الصفير"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم فصبعي اليمني. واش يمكن يتحيد؟",
+    "answer": "خاصك تشوف طبيب مختص لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش لانتيرفيرون كايحمّش؟",
+    "answer": "لا، لانتيرفيرون ماشي علاج كيميائي، هو جزء من العلاج المناعي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العلاج المناعي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتعالج الورم الحامض بالدوا؟",
+    "answer": "الورم الحميد ماكيحتاجش علاج بالأدوية، ولكن خاص متابعة.",
+    "entities": {
+      "symptoms": [
+        "ورم حميد"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما الطرق لي كنستعملو باش نحاربو السرطان؟",
+    "answer": "الطرق كتشمل العلاج الكيميائي، العلاج الإشعاعي، والعمليات الجراحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "السلام عليكم. واش كاين شي زيادة فعدد حالات سرطان الثدي؟",
+    "answer": "كاينين دراسات كتقول بلي الحالات كترت، خاص متابعة دورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "سرطان الثدي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش السرطان مريض وراثي؟",
+    "answer": "السرطان عندو أسباب متعددة، ومن بينها الوراثة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شحال من واحد عندو سرطان الثدي؟",
+    "answer": "سرطان الثدي كيتعلق بمستقبلات هرمونية، ومدة العلاج كتعتمد على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتعافا واحد من لعلاج الكيميائي؟",
+    "answer": "العلاج الكيميائي كيتطلب وقت وصبر، وخصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كاينعالج الورم فظهر كايس دهني؟",
+    "answer": "العلاج كيتحدد حسب نوع الورم، وخصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي كيس فالتحت، واش غادي نحتاجو عملية؟",
+    "answer": "خاصك تشوف طبيب لتحديد العلاج المناسب، يمكن تحتاج عملية.",
+    "entities": {
+      "symptoms": [
+        "كيس"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن واحد البنت عندها 17 عام تكون عندها سرطان الرئة؟",
+    "answer": "نعم، ممكن، خاصها تشوف طبيب للتشخيص المبكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "السرطان ديال دماغ يقدر يقتل بنادم؟",
+    "answer": "آه، هادشي ممكن. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شامّة بدات كاتنزف دم و تبدلات لحمّتها.",
+    "answer": "خاصك تشوف طبيب فاش كاين نزيف. التحاليل ضرورية.",
+    "entities": {
+      "symptoms": [
+        "نزيف"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي واحد الكتلة كبيرة تحت ركبتي اليمنى.",
+    "answer": "عافاك، خاصك تشوف طبيب جراح. ماخاصكش تهملي الحالة.",
+    "entities": {
+      "symptoms": [
+        "كتلة تحت الركبة"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الكتل الحمرا عندها شي علامات ديال سرطان الثدي؟",
+    "answer": "الكتل الحمرا ممكن تكون علامات. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "كتل حمراء"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش السرطان كايتربّي من لعائلة لعاقلة؟",
+    "answer": "لا، ولكن كاين عوامل وراثية كتلعب دور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش سرطان عنق الرحم وراثي؟",
+    "answer": "ماكاينش تأكيد، ولكن كاين فيروس مرتبط به.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يتصاب شي واحد فعمرو 18 عام بسرطان الثدي؟",
+    "answer": "هادشي نادر، ولكن ممكن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش داء الدم وراثي؟",
+    "answer": "كاينين حالات وراثية وأخرى ماشي وراثية. خاص استشارة طبيب لتحديد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الورم الحمرا فالقولون يمكن يكون سرطان؟",
+    "answer": "الورم الحمرا ماشي بالضرورة سرطان. خاص تحليل طبي للتأكد.",
+    "entities": {
+      "symptoms": [
+        "ورم حمرا"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتكشف السرطان ديال المعدة؟",
+    "answer": "كاين طرق متعددة للكشف، بحال الفحوصات والتحاليل. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش لوز كايتحوّل لوارام خبيثة؟",
+    "answer": "ممكن يتحول، ولكن خاص تقييم طبي دقيق. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا بديل لفيتراكفي فحالة السرطان دالمستقيم؟",
+    "answer": "ماكاينش دوا بديل، خاص استشارة الطبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "نسبة الورم بالغدة الدرقية هي 20%. واش هادشي كيعني خطر كبير؟",
+    "answer": "نسبة 20% كتعني خاص متابعة. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي فواكه مفيدة فالحالات لي فيها السرطان؟",
+    "answer": "ماكاينش فواكه محددة، ولكن التغذية المتوازنة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الأعراض ديال السرطان الحميد بحال ديال الخبيث؟",
+    "answer": "بعض الأعراض ممكن تكون مشابهة، ولكن التشخيص مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي كتلة صغيرة كتتحرك فجنب الكتف ديالي اليمين.",
+    "answer": "خاصك تشوف طبيب، يمكن تكون عندك حالة خاصة.",
+    "entities": {
+      "symptoms": [
+        "كتلة صغيرة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي ضرر من منتوج هيرجين للناس اللي عندهم السرطان؟",
+    "answer": "خاصك تسول طبيب مختص قبل ما تستعمل أي منتوج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يتصلح الورم الليفي بلا ما يدير العملية؟",
+    "answer": "بعض الحالات ممكن تتعالج بالأدوية، ولكن خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ورم ليفي"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش صحيح بلي لحليب ديال سوس يقدر يسبب ل السرطان؟",
+    "answer": "ماكاينش أدلة علمية تثبت هاد الشي، ولكن خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كاين ورم فالصدر ليمن وشمال الصدر فالتحت؟",
+    "answer": "خاصك تمشي لطبيب باش يدير ليك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "ورم فالصدر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يتحيدو لوزر اللي كاين ف لور ديال لرحم بلا ما يتحيد لرحم كامل؟",
+    "answer": "خاصك تسول طبيب جراح، كاين طرق مختلفة للعلاج.",
+    "entities": {
+      "symptoms": [
+        "وزر فالرحم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش عرفتي بلي عندي السرطان؟ واش متأكد؟",
+    "answer": "التشخيص كيتطلب تحليل دقيق للنسيج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما لي صايبو لينا هاد السرطان؟",
+    "answer": "التلوث، والإهمال، ووجود بزاف دالماكلة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما المضاعفات ديال السرطان؟",
+    "answer": "المضاعفات كتختلف حسب نوع السرطان، ولكن خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش لعلاج كيميائي كايدير شي تأثيرات ف الدماغ؟",
+    "answer": "إيوا، فشي حالات ممكن يوقعو تأثيرات. خاصك تتابع مع الطبيب ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرف إلا كان عندي السرطان حيت كاين حريق ف العضام؟",
+    "answer": "حريق ف العضام ممكن يكون عندو أسباب متعددة. خاصك تشوف طبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "حريق ف العضام"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش سرطان الثدي كاين عند الدراري من 12 ل 18 عام؟",
+    "answer": "هاد الشي ماكايوقعش بزاف، ولكن خاص الحذر. من الأحسن تدير الفحوصات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو الدوا لي كايتستعمل باش يتخاصم السرطان؟",
+    "answer": "كاينين أنواع مختلفة من العلاجات، كيماوية ومناعية. خاصك تسول الطبيب على النوع المناسب ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نحيد ورم الأذن؟",
+    "answer": "خاصك تعرف شنو هو الورم وشنو كيقولو الطبيب عليه. العلاج كيتحدد حسب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي علاج للسرطان؟",
+    "answer": "كل مريض خاصو يتعالج عند طبيب مختص. العلاج كيتحدد حسب نوع السرطان ومرحلة المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش نقص المغنيزيوم كايسبب سرطان البنكرياس؟",
+    "answer": "الماغنيسيوم ماعندوش علاقة مباشرة مع سرطان البنكرياس. خاص استشارة طبيب لتوضيح الأمور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم فالكبد.",
+    "answer": "شنو نوع الورم؟ واش دارو ليك راديو باش يشوفو الكبد؟ خاصك متابعة طبية.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش هاد لحميدة راه ورم مزيان؟",
+    "answer": "الليبوما عادة ما كتكونش خبيثة. ولكن خاص تقييم طبي للتأكد.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي تأثير ديال لعلاجات داربية فاش كاين شي واحد فكما؟",
+    "answer": "ماكاين حتى علاقة بيناتهم. كل علاج عندو تأثيرات خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شحال ديال الوقت كايخسّرو العلاج ديال الكيميو؟",
+    "answer": "كايعتمد على الحالة الصحية للمريض ومرحلة السرطان. خاص متابعة مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايحتاج لإستئصال باش تڭاف؟",
+    "answer": "نعم، في بعض الحالات خاص استئصال الورم. هادشي كيتحدد من طرف الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش عرفتي بلي لحميدة كاينة حدا وذن؟",
+    "answer": "التأكيد كايتحقق من خلال الفحص الطبي. خاص استشارة مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي مرض سميتو كرش لكيميا كايتكاثر؟",
+    "answer": "غير إلا كنتي غادي تنتاقل الدم. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش لڤيروس لخايبا كايكبر بزربا؟",
+    "answer": "حسب نوع الورم، كاين لي كايتزاد بزربا وكاين لي كايتزاد بشويّة. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش صحيح إلا كان راجل كياكل لحوت مراتو كيسبب سرطان الثدي؟",
+    "answer": "هادشي ماشي صحيح. ماكاينش علاقة بين الأكل وسرطان الثدي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتدار العملية لإزالة الورم الخبيث؟",
+    "answer": "نعم، كاين عمليات لإزالة الأورام الخبيثة. خاص استشارة طبيب لتحديد الطريقة المناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي المضاعفات ديال السرطان؟",
+    "answer": "المضاعفات كيمكن تكون متعددة، بحال التعب، الألم، وفقدان الوزن. خاص متابعة طبية مستمرة.",
+    "entities": {
+      "symptoms": [
+        "التعب",
+        "الألم",
+        "فقدان الوزن"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن الالتهاب الثدي المزمن يولي السرطان؟",
+    "answer": "نعم، الالتهاب المزمن كيمكن يساهم في تطور السرطان. خاص الفحص الطبي المنتظم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش سرطان الثدي كايتكا على الدراري من 12 ل 18 عام؟",
+    "answer": "هادشي نادر، ولكن ممكن. خاص الوعي والفحص المبكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينة شي علاقة بين استئصال الغدة الدرقية والورم؟",
+    "answer": "ماكاينش علاقة مباشرة بيناتهم. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتكونو لعقدة ديال لعوضة؟",
+    "answer": "العقدة ما كتدلش بالضرورة على السرطان. خاصك تشوف طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش دهون لحمها ضاريا؟",
+    "answer": "الدهون تحت الجلد ما فيهاش مشكل. لكن خاصك تحافظ على وزن صحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التغذية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش البروجستيرون كايسرط لحمور ديال لحليب؟",
+    "answer": "البروجستيرون ما كاينش دليل على أنه كيسبب السرطان. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو أكبر حجم ديال النيف لي يمكن يتعالجو بالجاما؟",
+    "answer": "يمكن يتعالج أقل من تلاتة ديال السوايع. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي حب الشباب، واش كاين علاج؟",
+    "answer": "خاصك تشوف طبيب جلد لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حب الشباب"
+      ],
+      "medical_field": "الجلد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نكشفو السرطان ديال الثدي بكري؟",
+    "answer": "دير فحص منتظم للثدي. هادشي كيساعد في الكشف المبكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي واحد عندو وجع فالمخ وصداع؟",
+    "answer": "الوجع فالمخ والصداع خاصهم تقييم طبي. ممكن يكون عندو أسباب خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمخ",
+        "صداع"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كيبان سرطان الثدي ف الأشعة؟",
+    "answer": "أه، غالبا كيبان ف الماموغرافي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي خيوط فالعين كايبين بلي شي واحد فيه السرطان؟",
+    "answer": "خاصو يمشي عند طبيب عيون مختص لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العيون",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتعرف نوع السرطان إلا ماقدروش الطبيب يشوفو؟",
+    "answer": "كيتم الاعتماد على التحاليل والفحوصات. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش تقدر تشوف شي ورم ب الأشعة السينية؟",
+    "answer": "أه، الأشعة السينية كيمكن تساعد في الكشف عن الأورام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش عندو شي واحد ف عائلتو السرطان؟",
+    "answer": "كاين احتمال ولكن ماشي بالضرورة غادي يوقع. خاص متابعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايعاون الكشف المبكر على السرطان؟",
+    "answer": "أه، الكشف المبكر كيساعد فالعلاج وتحسين الفرص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "علاش جراحي ضر الجرحة ديالها؟",
+    "answer": "خاص تقييم حجم الورم. هادشي مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كاتقسار شني وراثي ولا لا؟",
+    "answer": "غير 10% من سرطان القولون وراثي. الباقي ماشي وراثي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الكيمياء ف الدرجة الرابعة مزيانة؟",
+    "answer": "حسب نوع السرطان ومدى انتشاره. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش هادشي عادي إلا كان طهور من الثدي؟",
+    "answer": "أياه، هادشي عادي فبعض الحالات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ألم فوق وتحت الثدي اليسار وتحت الإبط، عافاك حل",
+    "answer": "خاصك تشوف طبيب باش يحدد السبب. الألم ممكن يكون نتيجة لعدة أسباب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الكيميو كايعاونو ف علاج السرطان؟",
+    "answer": "الكيمياوي هو واحد من العلاجات المتاحة. كاينين طرق أخرى بحال الجراحة والإشعاع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "بغينا جراح باش نستأصل سكارير من جلد يدي",
+    "answer": "خاصك تشوف جراح مختص. كاينين جراحيين فالموقع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش مزيان للمريض اللي عندو السرطان يدير الحجامة؟",
+    "answer": "الحجامة ماشي علاج أساسي. خاص استشارة طبيب قبل ما تديرها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كاين علاج سرطان المعدة؟",
+    "answer": "الاستئصال هو العلاج الأساسي فالمراحل الأولى. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يتعافا واحد عندو السرطان فالمراحل الأولى؟",
+    "answer": "نعم، العلاج فالمراحل الأولى كيعطي نتائج مزيانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عمتي عندها سرطان الرئة فالمراحل الأخيرة. واش كاين شي علاج باش نخففو من الألم؟",
+    "answer": "المورفين كيعطي تخفيف للألم. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتحتاج العلاج باش يتحيدو الثدي باش يتشاف؟",
+    "answer": "نعم، الجراحة هي الأساس فسرطان الثدي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو دواعي استعمال الكيماوي للوكيماء؟",
+    "answer": "الكيماوي ضروري باش نحيدو الخلايا المريضة. كيساعد فالتقليل من انتشار المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يوقع ليه السرطان دالقولون فالعمر ديال الشريفين؟",
+    "answer": "ممكن، ولكن هادشي نادر. خاص المراقبة الدائمة للصحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو لي سبب لكانسر ديال الدم؟",
+    "answer": "كاينين بزاف ديال الأسباب، ولكن السبب الرئيسي يمكن نحددو فشي واحد. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا ديال لعضم بالعشاب؟",
+    "answer": "ماكاينش شي دوا معروف للعضم بالعشاب. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الما سخون بزاف كيساعد فالحالات لي كتكون فيها الأورام الخبيثة؟",
+    "answer": "ماكاينش دليل علمي على هاد الشي. العلاج خاصو يكون تحت إشراف طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينة شي عشبة طبيعية عندها دور فعلاج السرطان والورم؟",
+    "answer": "ماكاينش دليل قوي على هاد الشي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايعالجو دابا المرض ديال لكيميورا؟",
+    "answer": "كاينين أطباء متخصصين فهاد المجال. خاصنا نطلبو منهم المساعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كاتعني إلا كانو عندك هاد السرطان فكولونك راه وراثي ولا لا؟",
+    "answer": "غير 10% من حالات السرطان فالكولون كاتكون وراثية. الباقي جيني.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي العلامات لي كاينة ف جلد الواحد و لي كاتشير لوجود الأورام السرطانية؟",
+    "answer": "كاينين علامات بحال تغييرات ف اللون أو شكل الجلد. خاصك تشوف طبيب لتقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كاين تسلخ فالصدر و ولّي بيض، واش هادا سرطان؟",
+    "answer": "خاصك تمشي عند الطبيب باش يدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "تسلخ",
+        "بياض الصدر"
+      ],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي المراحل الأخرى ديال سرطان المعدة؟",
+    "answer": "سرطان المعدة كيتطور وكيقدر يوصل للكبد. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينة شي طريقة باش نعالجو الورم لي كاين فالمخ؟",
+    "answer": "كاينين طرق مختلفة للعلاج، خاص استشارة طبيب مختص فالأعصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الترامال كايتعارض مع العلاج الكيميائي؟",
+    "answer": "الترامال ممكن يزيد من الآثار الجانبية للعلاج الكيميائي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش بالتحليل ديال الدم نقدرو نعرفو واش كاين سرطان الثدي؟",
+    "answer": "الكشف على سرطان الثدي كيتدار عادة بالخزعة. التحليل الدموي ما كافيش.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي بلاد فين يقدرو يعالجو سرطان البنكرياس؟",
+    "answer": "كاينين مراكز طبية فالعالم كتعالج سرطان البنكرياس. خاصك تسول طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "أحسن طريقة لعلاج سرطان المعدة فالمراحل الأولى؟",
+    "answer": "استئصال الورم أو العلاج الكيميائي هما الخيارات المتاحة. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي أعراض سرطان القولون؟",
+    "answer": "الأعراض كتشمل تغييرات فالعادات المعوية، ألم فالبطن، وفقدان الوزن. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "تغييرات فالعادات المعوية",
+        "ألم فالبطن",
+        "فقدان الوزن"
+      ],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كاين شي سرطان لكرش فمرحلة موفتا ديال السرطان؟",
+    "answer": "إذا كان السرطان صغير، ممكن يكون العلاج أسهل. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام السرطانية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو الإشعاع لي كايتستعمل ف لعلاج لكوكان؟",
+    "answer": "الإشعاع لي كايتستعمل هو جاما نايف. كيتستعمل ف العلاج ولكن خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش مزيان للناس لي كيتعالجو من الكيمياء يستعملو كريم لوشن؟",
+    "answer": "ماكاين حتى مانع. ولكن خاصهم يتشاوروا مع الطبيب قبل ما يستعملو أي حاجة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الفينوكسال يقدر يسبب سرطان الثدي؟",
+    "answer": "ماكاينش دليل على أن الفينوكسال يسبب سرطان الثدي. خاصك تشوف طبيب إذا كان عندك أي قلق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو الفرق بين القولون العصبي والسرطان ديال القولون؟",
+    "answer": "القولون العصبي كيعني مشاكل فالهضم، بينما السرطان كيتطلب فحوصات دقيقة. خاصك تمشي عند الطبيب للتشخيص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كاينين بزاف د لعيالات لي كيعالجو خروج المخ؟",
+    "answer": "الخروج من المخ خاصو علاج مناسب. أحسن حاجة هي استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم ف ركبتي ليسر.",
+    "answer": "خاصك تمشي عند طبيب العظام باش يشوف الحالة ديالك ويقترح عليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي ورم فالصدر دليمين؟",
+    "answer": "خاصنا نديرو فحص سريري باش نعرفو شنو هو هاد الورم. من الأفضل تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الوالد اللي فيه السرطان يقدر ينقل المرض للولد ديالو؟",
+    "answer": "السرطان ماشي مرض معدي، مايمكنش ينقل للولد. ولكن خاصهم يتبعو نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الاستحمام شهريا كيسبب سرطان الثدي؟",
+    "answer": "ماكاينش دلائل علمية على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عند بنت عندها خمس سنين جوج د الصبعان، وحدة فيها خروج وخرى فيها ورم، شنو ندير؟",
+    "answer": "خاصك تمشي عند الدونتيست.",
+    "entities": {
+      "symptoms": [
+        "خروج",
+        "ورم"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي أعراض السرطان؟",
+    "answer": "الأعراض كتختلف حسب النوع والمكان، ولكن من بين الأعراض الشائعة هي نقصان الوزن.",
+    "entities": {
+      "symptoms": [
+        "نقصان الوزن"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتورث السرطان داللثة؟",
+    "answer": "آه، الوراثة عندها دور فزيادة خطر الإصابة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يضر سرطان الثدي لبنت مازال متزوجاش؟",
+    "answer": "لا، ماشي ضروري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين خطر انتقال السرطان ديال الدم من المرا لراجل إلا كان عندها شي حمل؟",
+    "answer": "ماكاينش خطر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش العلاج الموجه للسرطان ديال الثدي كيعطي نفس النتائج بحال العلاج البيولوجي؟",
+    "answer": "آه، كاينين بزاف د السميات اللي كيتعطاو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش تحليل الدم كافي باش نعرفو واش كاين شي مرض فالجسم؟",
+    "answer": "ماكاينش بزاف د المعلومات من غير التحليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو أحسن بروتوكول ديال الكيميو لعلاج سرطان الدم فالمرحلة المتوسطة؟",
+    "answer": "خاصك تسول الطبيب المختص على البروتوكول المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم تحت ركبتي، كيفاش نعرف واش هو حميد؟",
+    "answer": "مايمكنش نأكدو بلا مايدير الطبيب الفحص.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ميكروب الدم كايعطي السرطان؟",
+    "answer": "ماعندوش علاقة مع السرطان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ارتفاع هرمون الحليب كايسبب السرطان؟",
+    "answer": "قليل بزاف منين كاينة شي علاقة بيناتهم. خاص استشارة طبيب إذا كان عندك شي تساؤلات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم تحت الباط، كيتحرق بزاف وكيضرني.",
+    "answer": "خاصك تشوف طبيب باش يتأكد من الحالة. ماشي كل ورم خطير.",
+    "entities": {
+      "symptoms": [
+        "ورم",
+        "ألم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو سرطان اللثة وعلاجه؟",
+    "answer": "سرطان اللثة كيتطلب علاج جراحي وأحياناً إشعاع وكيماوي. خاصك تستاشر طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كل كتلة ورم فالبطن تكون خبيثة؟",
+    "answer": "لا، ماشي ضروري تكون خبيثة. خاص الفحص الطبي للتأكد.",
+    "entities": {
+      "symptoms": [
+        "كتلة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي واحد عندو السرطان دالبروستات وكيستعمل فلوتاميد، واش كايتسبب ليه النوبات؟",
+    "answer": "أه، هادا هو العلاج. خاص استشارة الطبيب إذا كان كاين شي تأثيرات جانبية.",
+    "entities": {
+      "symptoms": [
+        "نوبات"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو ورم الغدد الدهنية والأنواع ديالو؟",
+    "answer": "ورم الغدد الدهنية هو كيس مملوء بالدهون. كاينين أنواع مختلفة، وبعضها ممكن يكون خفيف أو خطير. خاصك تشوف طبيب لتحديد النوع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج ديال الورم اللي كاين فالتدّين؟",
+    "answer": "العلاج كيعتمد على نوع الورم وحجمه. خاصك استشارة طبيب مختص باش يعطيك خطة علاج مناسبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش هاد الافراز اللي فالجيهة ديال الثدي جاي من الضغط ولا شنو؟",
+    "answer": "هاد الافراز ممكن يكون نتيجة لعدة أسباب. خاصك دير فحص طبي لتحديد السبب الحقيقي.",
+    "entities": {
+      "symptoms": [
+        "افراز"
+      ],
+      "medical_field": "الجهاز الثدي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم حمر فوق صبعي اليسرى.",
+    "answer": "غالبا كاين التهاب فالجرحة. خاصك تشوف الطبيب باش يدير لك الفحص اللازم.",
+    "entities": {
+      "symptoms": [
+        "ورم حمر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الرعاف من أعراض السرطان؟",
+    "answer": "لا، الرعاف ماشي من أعراض السرطان. واش عندك شي أعراض أخرى؟",
+    "entities": {
+      "symptoms": [
+        "الرعاف"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم صغير فالصدر ليسر. بغيت نعرف فين نقدر نتفحص راسي.",
+    "answer": "قلب على طبيب جراح مختص فالأورام. غادي يساعدك فالتشخيص والعلاج.",
+    "entities": {
+      "symptoms": [
+        "ورم صغير"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي فرق بين سرطان القولون والسرطان ديال الغدد الليمفاوية؟",
+    "answer": "كاين فرق فالأعراض والعلاج. التحاليل كتعتمد على الفحص السريري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم تحت أذني ليمنية وما عرفتش شحال خطير.",
+    "answer": "خاصك تشوف طبيب باش يدير لك الفحص اللازم. ممكن يكون عنده أسباب مختلفة.",
+    "entities": {
+      "symptoms": [
+        "ورم تحت الأذن"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي طريقة باش نعرفو السرطان من الدم؟",
+    "answer": "فأغلب الأحيان، مايمكنش نعرفو السرطان من الدم. خاص تحاليل أخرى وفحص طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "من بعد العملية ديال إزالة الثدي، كاين عندي تيبس وشد في منطقة الصدر واليد.",
+    "answer": "هادشي عادي بعد العملية. خاصك العلاج الطبيعي باش تحسن الحركة.",
+    "entities": {
+      "symptoms": [
+        "تيبس",
+        "شد"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "مرض السرطان فالعظام كيبان ف الجلد، واش هادشي يعني المرحلة الأخيرة؟",
+    "answer": "المرحلة كيتحدد من خلال الفحوصات. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "بقع ف جلد"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرفو إذا غادي تزيد الحالة؟",
+    "answer": "إلا بقينا مخدامين، غادي نوصلو ليه ف سيمانة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرفو الدجاجة خبيثة؟",
+    "answer": "تحليل العينات من لعروق و تصاور الدم كيعطيو الجواب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج لسان ليد مورا لموستاش؟",
+    "answer": "إلا كان كاين انتفاخ، كاين دوا طبي خاصو يتعطى.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يتعافى من كرشو؟",
+    "answer": "هادشي صعيب بزاف، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو الفرق بين الفطريات والسرطان الجلدي؟",
+    "answer": "الاختلاف كيتحقق من خلال الفحص السريري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتعامل مع الورم الوعائي فكتف اليد؟",
+    "answer": "حسب الحجم ديال الورم و الحالة الصحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش العلاج الكيميائي كيأثر على الدراري الصغار؟",
+    "answer": "ماكايهمّش، بلا متقلق. كاين طرق آمنة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش صحيح بلي مضادات الأكسدة ضارة بالسرطان؟",
+    "answer": "المضادات الأكسدة كتحارب السرطان، خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كل ورم فالبطن خبيث؟",
+    "answer": "لا، ماشي بالضرورة. خاص فحوصات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الكاربوران مزيان للقولون والمثانة؟",
+    "answer": "ما كاينش دليل واضح على الفائدة ديالو. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم حمر فوق صبعي اليسرى.",
+    "answer": "غالبا كاين التهاب. خاصك تشوف الطبيب باش يشوف الحالة.",
+    "entities": {
+      "symptoms": [
+        "ورم حمر"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "من بعد ما درت التبرع بالنخاع، بدا شعري كايطيح.",
+    "answer": "فقدان الشعر ممكن يكون نتيجة للتوتر أو العلاج. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشعر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينين شي علاجات للسرطان؟",
+    "answer": "كاينين علاجات مناعية وكيعتمدو على نوع السرطان. خاص استشارة الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم حمر ف الظهر كايضرني.",
+    "answer": "خاص يتقيم الورم باش نعرفو واش هو حميد ولا خبيث. الألم ممكن يكون بسبب الضغط.",
+    "entities": {
+      "symptoms": [
+        "ألم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش التهاب الثدي مزمن كايعتبر بداية سرطان الثدي؟",
+    "answer": "التهاب الثدي مختلف عن السرطان. خاص تقييم طبي للتأكد.",
+    "entities": {
+      "symptoms": [
+        "التهاب الثدي"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين سرطان لمامعاء كايتوارث؟",
+    "answer": "فقط 5% إلى 10% من الحالات كاينة وراثية. الباقي غير وراثي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "بغيت نعرف شنو هو الورم الليفي الحميد بالثدي وكيفاش كايتعالج.",
+    "answer": "الورم الليفي الحميد غالبا ما كيكونش خطير. العلاج يعتمد على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم حمر ف الظهر كايضرني.",
+    "answer": "الورم الشحمي عادة ماكيكونش مؤلم، خاصنا نديرو ليه تيست باش نعرفو واش هو طبيعي ولا لا.",
+    "entities": {
+      "symptoms": [
+        "ورم حمر",
+        "ألم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم تحت رجلي ليمن، كيتنفخ.",
+    "answer": "خاصك تراجع طبيب باش يشوف الحالة ديالك ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "ورم",
+        "انتفاخ"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الورم الليفي اللي خارج الرحم يقدر يسبب انتفاخ فكرش؟",
+    "answer": "نعم، الورم الليفي ممكن يسبب انتفاخ فكرش، خاصك تراجعي طبيب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين فرق بين سرطان القولون والسرطان ديال الغدد الليمفاوية؟",
+    "answer": "نعم، كاين فرق بيناتهم، وكل واحد عندو التحاليل الخاصة به.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايوقع ليهوم السرطان دالجامع فلعمر ديال 12 عام؟",
+    "answer": "نعم، السرطان كيتكايب ف الدراري الصغار وكبار، ولكن نادر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش المنشطات ديال الحمل كاتسبب السرطان؟",
+    "answer": "إلا كانت الهرمونات، يمكن تسبب شي مرات سرطان الثدي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "بغيت شي حل ل هاد لموشكيل ديال نفاخ لحالاما.",
+    "answer": "خاصنا نديرو فحص مزيان باش نتأكدو بلي ماكاينش البروتينات ونديرو العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "نفاخ"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش العلاج ديال زيادة هرمون الحليب سبب سرطان الثدي؟",
+    "answer": "هاد لعقاقير ماكاديرش السرطان دالبنطن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "علاج طبيعي لسرطان الرئة ف المرحلة تلاتة.",
+    "answer": "الطبيب الطبيعي ماعندوش شي دوا فعال لسرطان الرئة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كبسولات جرافيولا كاينفعو ف الشفاء من لكوخور؟",
+    "answer": "الكبسولات ماعندهاش تأثير مثبت على الشفاء من لكوخور. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "لكوخور"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "لقيت ورم كبير فجيبي، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب مختص باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كاين ضباب فالرية وعرق ف لحمّ، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب مختص باش يدير لك الفحوصات.",
+    "entities": {
+      "symptoms": [
+        "ضباب فالرية",
+        "عرق ف لحمّ"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرف الأعراض ديال المرض فالبداية؟",
+    "answer": "دير فحص ذاتي للثدي وشي صور للثدي عند طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نقدر نحمي راسي من السرطان؟",
+    "answer": "خاصك تهتم بالصحة ديالك، وتاكل مزيان وتدير الفحوصات الدورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي ورم فالمعدة بسبب السرطان؟",
+    "answer": "الورم فالمعدة ممكن يكون بسبب السرطان، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "ورم فالمعدة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو نسبة الشفاء من السرطان؟",
+    "answer": "النسبة تختلف حسب نوع الورم وحالة المريض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "سرطان القضيب، شنو الأعراض ديالو؟",
+    "answer": "إذا كان كاين تورم أو طهور فجلد القضيب، هادو ممكن يكونو الأعراض.",
+    "entities": {
+      "symptoms": [
+        "تورم",
+        "طهور فجلد القضيب"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يتعافى من كرشو فمرحلة متأخرة؟",
+    "answer": "هادشي صعيب بزاف، خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "كرشو"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي مرض كيتعدى من واحد لواحد؟",
+    "answer": "بزاف من الأمراض ما كيتعدوش بسهولة، ولكن خاصك تكون حذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش السرطان ديال القولون جاي من الوراثة؟",
+    "answer": "كاين دور للعوامل الوراثية، ولكن ماشي هو السبب الوحيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش نقص الدورة عندو علاقة بسرطان البنكرياس؟",
+    "answer": "نقص الدورة ماشي هو السبب الرئيسي لسرطان البنكرياس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي خطر على المخ من الإشعاع؟",
+    "answer": "خاصك تستاشر مع خبير فالمجال. الإشعاع ممكن يكون عندو تأثيرات سلبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو سبب هاد الصداع عند الراجل لي عندو السرطان؟",
+    "answer": "الصداع ممكن يكون بسبب الضغط على الأعصاب نتيجة الورم. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "أنا مريض وعندي حمى عالية. شنو هو العلاج؟",
+    "answer": "خاصك تمشي عند الطبيب لتحديد السبب. الحمى ممكن تكون علامة على شي حاجة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "علاش السرطان كايتكاثر فالصدر دليمين بسرعة كتر من الصدر دليمين؟",
+    "answer": "الانتشار كيعتمد على عدة عوامل، بحال نوع الورم. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش تساقط الشعر من أعراض السرطان؟",
+    "answer": "إي، تساقط الشعر ممكن يكون من أعراض السرطان. خاصك تراقب مستوى الحديد فدمك.",
+    "entities": {
+      "symptoms": [
+        "تساقط الشعر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو اللي كايجيب ليمفازي؟",
+    "answer": "ليمفازي كيتكون من خلايا كتحارب الالتهابات. هاد الخلايا عندها دور مهم فالجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش تيفال مسرطون؟",
+    "answer": "ماكاينش شي دراسة موثوقة كتأكد هادشي، ولكن كاينين دراسات أخرى على السلامة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش القولون ديما كيكون خايب؟",
+    "answer": "القولون فيه أنواع مختلفة من البكتيريا، بعضهم مزيانين وبعضهم خايبين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرفو واش كاين السرطان فالمعدة ولا فالكبد؟",
+    "answer": "خاصك تمشي للطبيب، هو اللي يقدر يشخص الحالة بدقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الاستعمال الطويل ديال أدوية الكلسيميد يقدر يأدي للكبدة؟",
+    "answer": "ماشي مشكل، ولكن خاصك تراقب صحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتنقل السرطان من واحد لواحد أخور؟",
+    "answer": "السرطان ماكايطراش من واحد لواحد، ولكن خاص الحذر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش واحد مصاب بسرطان معدي يقدر يعيش؟",
+    "answer": "إلا كانت المرحلة مبكرة، الشفاء ممكن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "سرطان الرية صعيب باش يتعالجو؟",
+    "answer": "خاصك تمشي لطبيب الأورام باش تاخد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي المرحلة الرابعة من انتشار سرطان الثدي؟",
+    "answer": "المرحلة الرابعة كتعني الانتشار، وماكاينش شي مراحل موراها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو غادي يوقع لو ما درناش هاد الشي لي درنا؟",
+    "answer": "السرطان كايتكاثر إلا ما تلقاش العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "بغيت شي طبيب سنان يداوي ليا هاد لومضاراس.",
+    "answer": "خاصك تمشي عند طبيب سنان باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "لومضاراس"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو غادي يوقع لو ما درناش هاد الشي لي درنا؟",
+    "answer": "إذا ما درناش العلاج، الخلايا الخايبة غادي تنتشر وتقدر تسبب مشاكل أكبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش شوا الفحم كايعطي السرطان؟",
+    "answer": "نعم، شوا الفحم كيتعتبر عامل خطر للإصابة بالسرطان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "ولدي عندو شهرين ونص، والطبيب قال ليا خاصو يتعالج. كيفاش نديرو؟",
+    "answer": "خاصك تتابعي مع الطبيب اللي كيعالج ولدك وتاخدي النصائح منه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما الأعراض ديال السرطان و كيفاش تعرفو؟",
+    "answer": "الأعراض تختلف حسب نوع السرطان، ولكن خاصك تراقب أي تغييرات غريبة فالجسم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن العذراء تسبب فسرطان عنق الرحم؟",
+    "answer": "الفرص ديال الإصابة بالسرطان قليلة عند العذراء، ولكن الجماع هو السبب الرئيسي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش العلاج ديال كرش عادس؟",
+    "answer": "إذا كان الورم كبير، كيتحيد مع جزء من المعدة، ولكن خاص الطبيب يقرر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الإشعاع السبيبي لي كاين فالتصوير ديال الراديو سبب المرض ديال السرطان؟",
+    "answer": "الإشعاع كيمكن يكون عندو تأثير، ولكن ماشي هو السبب الوحيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأشعة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "النسبة ديال اليوريا عند هاد الشخص اللي عندو سرطان الثدي هي 46%. واش هادشي عادي؟",
+    "answer": "خاصك تعرفي المعدل الطبيعي لليوريا فهاد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش يمكن ليك دير ليا ماماغرافي ديال هاد لمرا لي مريضا؟",
+    "answer": "يمكن، ولكن عادة ما كيعاونش. خاصها تصوير بالأشعة السينية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأشعة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي حاجا معروفة كاتحد من انتشار السرطان ديال القولون؟",
+    "answer": "المأكولات الصحية بحال الخضار والفواكه كاتساعد ف تقليل خطر السرطان. خاص الواحد يتجنب المأكولات المقلية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "الحالة ديال السرطان ديال الثدي ف المستوى الثاني صعيب ولا ساهل؟",
+    "answer": "صعوبة الحالة كتعتمد على نوع السرطان. خاص استشارة طبيب مختص لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الورم الحليمي الليفي كايسبب سرطان ل الخصيب؟",
+    "answer": "الورم الحليمي الليفي كاين فالأغلب حميد، ولكن خاص المراقبة لأنه ممكن يتطور لسرطان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن الورم الدماغي يتزاد من بعد ما كيتحيد شي حاجة منو؟",
+    "answer": "نعم، ممكن يرجع الورم من بعد العملية. خاص متابعة طبية مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي خطر ديال العقم منين كايتعالجو الغدد الدهنية بالسيركوي الكهربائي ولا بالليزر؟",
+    "answer": "ما كاينش خطر كبير على العقم. ولكن خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش صحيح بلي الجدورات ديال نبات الهندباء المجففة عندو دور فعلاج السرطان؟",
+    "answer": "ماشي صحيح، ما كاينش دراسات علمية قوية كتأكد هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كايضرّو راصو ب واحد لورم؟",
+    "answer": "خاصك تمشي للمستشفى وتستاشر مع طبيب. ما تخافش، الله يسهل عليك.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش لموس ديال لكوماي يمكن يتسبب ف لموت؟",
+    "answer": "ماشي مزيان تعالج راسك بوحدك. خاصك تتبع مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي أعراض سرطان البنكرياس؟",
+    "answer": "الأعراض كتشمل ألم فالبطن، صداع، غثيان، وسخانة. خاص استشارة طبيب لتأكيد التشخيص.",
+    "entities": {
+      "symptoms": [
+        "ألم",
+        "صداع",
+        "غثيان",
+        "سخانة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا ديال الكالسيوم لسرطان الثدي؟",
+    "answer": "ماكاينش دوا خاص يثبت فعاليته فهاد الحالة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج لورم المخ الخبيث؟",
+    "answer": "خاص تحديد نوع الورم والمكان ديالو. العلاج كيتطلب استشارة طبية دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي كتلة فالمخدة ديالي كتضرني، شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يدير ليك الفحوصات اللازمة. ممكن تكون عندك حالة تتطلب علاج.",
+    "entities": {
+      "symptoms": [
+        "كتلة",
+        "ألم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي مشكل فالصدر وعندي 17 عام، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب، خصوصا إذا كان كاين ورم. الصحة مهمة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالصدر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش القرفة كتساعد ضد السرطان؟",
+    "answer": "كاينين دراسات كتشير لهاد الشي، ولكن خاص استشارة طبيب قبل الاستعمال.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي خطوات العلاج الإشعاعي للسرطان؟",
+    "answer": "العلاج الإشعاعي كيتطلب تخطيط دقيق. خاصك تستاشر مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي مرض خايب من تحليل العظام؟",
+    "answer": "تحليل العظام كيعطي معلومات مهمة، ولكن خاص استشارة طبيب لتفسير النتائج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش سرطان القولون يقدر يضر الدراري الصغار؟",
+    "answer": "أه، خاص العائلة تكون عندها تاريخ مع المرض. خاص مراقبة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا لسرطان الدماغ؟",
+    "answer": "كاين أدوية، ولكن خاص تحديد نوع السرطان والمكان. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين آثار سلبية للرياضة مع السرطان؟",
+    "answer": "الرياضة كتعزز الصحة، ولكن خاص استشارة طبيب قبل البدء. كل حالة خاصة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "خاصني نمشي للطبيب، عندي مشكل. شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يدير ليك الفحص و يعرف السبب. الصحة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي علاج للسرطان ديال الكبد؟",
+    "answer": "كاين بعض العلاجات ولكن خاص استشارة طبيب مختص. الأمل ف الشفاء كيبقى موجود.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي وجع ف الرقبة.",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب. يمكن يكون عندك شي مشكل ف العمود الفقري.",
+    "entities": {
+      "symptoms": [
+        "وجع ف الرقبة"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي علامة على السرطان فالشعر؟",
+    "answer": "ما كاينش علامات واضحة، ولكن خاصك تراقب أي تغيير ف الشعر. استشارة طبيب مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين احتمال يرجع السرطان ديال الثدي بعد العلاج؟",
+    "answer": "احتمال الرجوع كاين، ولكن كاين علاجات كتحسن الوضع. خاص متابعة طبية مستمرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش صحيح بلي الجدور ديال نبتة الهندباء كاتعالج السرطان؟",
+    "answer": "ما كايناش دلائل علمية على هاد الشي. خاص الاعتماد على العلاجات المعترف بها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا باش نحيدو الألياف اللي حدا الضهر؟",
+    "answer": "خاصك تشوف طبيب باش يعرف نوع الألياف. العلاج كيعتمد على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتحتاج الورم الحميد فالتدي يتقاد من بعد ما تقطع ليه العظم؟",
+    "answer": "الورم الحميد ما كيتطلبش علاج كيمياوي. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتعالجو الأورام؟",
+    "answer": "كاينين طرق متعددة، بحال العمليات أو العلاج بالأدوية. كل حالة كتعتمد على التشخيص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن يتحيد هاد الورم اللي عندك فالصدر ف المرحلة اللولة؟",
+    "answer": "نعم، كاينين طرق علاجية متاحة. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ماما ف لحوض معا ورم ف لقرص ديالها، شنو نديرو؟",
+    "answer": "خاصها تشوف طبيب باش يعرف السبب ويدير الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي حاجة خاصني ندير فاش غادي يتحيد ليه ورم حميد من التدي؟",
+    "answer": "خاص متابعة طبية بعد العملية. الورم الحميد ما كيتعالجش بالأدوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي علاقة بين السرطان ديال الثدي و الجينات؟",
+    "answer": "فبعض الحالات كاين علاقة، ولكن فالأغلب ماكاينش. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش صحيح بلي حليب الصوجا يقدر يسبب السرطان؟",
+    "answer": "ماكاينش شي دراسة موثوقة كتأكد هاد الشي. حليب الصوجا آمن فالغالب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش سرطان الثدي الهرموني كايتحول لسرطان سلبي؟",
+    "answer": "إي، هاد الشي يقدر يوقع ولكن ماشي بزاف. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي الأعراض لي كاينين ملي كاين السرطان فالمعدة والقولون؟",
+    "answer": "الأعراض كتشمل ألم فالبطن، فقدان الوزن، و تغييرات فالهضم. خاص زيارة الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن",
+        "فقدان الوزن"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش السرطان ديال الرية لي كاين فالمرحلة الأولى خطير؟",
+    "answer": "واخا خطير، إلا تم اكتشافه فالأولى كاين أمل كبير فالعلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي جوج سوايل بيضين فصدري و عندي كيس فصدري شنو ندير؟",
+    "answer": "خاصك تشوف طبيب جراحة باش يحدد الحالة و يعطيك النصائح.",
+    "entities": {
+      "symptoms": [
+        "سوايل بيضين",
+        "كيس فصدري"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي طريقة باش نعرفو واش كاين شي خلايا سرطانية فالجسم؟",
+    "answer": "خاصك تمشي للطبيب باش يدير لك تحاليل الدم و الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش نقدرو نعرفو واش الورم خبيث ولا لا غير من شحال كبير الكتلة ديالو؟",
+    "answer": "لا، الحجم ماكايعطيش فكرة واضحة. خاص تحاليل إضافية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاينة علاقة بين سرطان الثدي و الهرمونات؟",
+    "answer": "إيوا، كاين علاقة ولكن ماشي دايما. خاص استشارة طبيب باش يفهم الحالة مزيان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش المخ يمكن يتحول لخبيث مع الوقت؟",
+    "answer": "إيوا، هادشي ممكن ولكن خاص متابعة طبية. من الأفضل تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش رجوع داء السرطان يعني سالات حياة المريض؟",
+    "answer": "ما يمكنش نقولو هادشي بشكل عام. كيعتمد على نوع السرطان ومرحلتو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي جدول للعلاج الكمي؟",
+    "answer": "إيوا، كاين جدول خاص بكل مريض. العلاج كيتحدد حسب نوع الورم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين كيس في الكبد ولا غير ورم حميد؟",
+    "answer": "خاصك تراجع طبيب باش يحدد نوع الورم. كاينين أنواع مختلفة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش شرب بعد الشفاء من سرطان الثدي مزيان؟",
+    "answer": "من الأفضل تسول طبيبك. كاين عوامل وراثية كتأثر على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش يمكن ناخد عين من الورم؟",
+    "answer": "إيوا، ممكن ولكن خاص متابعة طبية دقيقة. الاستشارة مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش بعد ما لقينا ورم في المعدة، واش يعني كاين سرطان؟",
+    "answer": "خاصك تدير خزعة باش تتأكد. هادي الطريقة الوحيدة لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "المعدة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين علاج غير الطوارئ؟",
+    "answer": "كاين علاج جراحي ولكن خاص تقييم الحالة. استشارة طبيب ضرورية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين انتفاخ تحت الأذن، أي طبيب يشوفو؟",
+    "answer": "خاصك تشوف طبيب مختص. يمكن يكون عندو علاقة بالأورام.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "الما كيدخل للراس بسبب ورم، شنو يعني؟",
+    "answer": "هادشي ممكن يكون خطير. خاصك تشوف طبيب فوراً.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم فالصدر ليمن.",
+    "answer": "خاصك تدير فحص باش تتأكد من الحالة. هادشي كايكون عادي فبعض الأحيان.",
+    "entities": {
+      "symptoms": [
+        "ورم فالصدر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش يمكن نشوفو السرطان فبلعوم أو اللسان بالتصوير بالرنين المغناطيسي؟",
+    "answer": "الرنين المغناطيسي كيعطينا معلومات دقيقة على الحالة. خاصك تشوف طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ضروري نستعملو العلاج الهرموني فسرطان الثدي؟",
+    "answer": "إلا كان مستقبل الهرمونات إيجابي، العلاج الهرموني غادي يكون مفيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم تحت رجلي ليمن، كيتنفخ.",
+    "answer": "خاصك تمشي للطبيب باش يشوف شنو السبب. هاد الحالة خاصها متابعة.",
+    "entities": {
+      "symptoms": [
+        "ورم تحت الرجل"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي وجع فالتهاب اليمين، وكيضرني بزاف.",
+    "answer": "خاصنا نديرو إم آر إي باش نبينو شنو كاين. هاد الفحص غادي يساعدنا بزاف.",
+    "entities": {
+      "symptoms": [
+        "وجع فالتهاب"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كايضرني واحد الجهة فالصدر ديالي.",
+    "answer": "خاصنا نديرو سونار باش نعرفو شنو هي طبيعة الكتلة. هاد الفحص مهم.",
+    "entities": {
+      "symptoms": [
+        "ألم فالصدر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش يمكن يتطور الورم اللي فالصدر لورم خبيث؟",
+    "answer": "الورم الحليمي ماكيتبدلش، وداكشي علاش خاصك ترجع للطبيب ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "من بعد العملية ديال إزالة الثدي، عندي إلتهاب وصداع فالصدر واليد.",
+    "answer": "خاصك تشوف طبيب باش يحدد العلاج المناسب للإلتهاب.",
+    "entities": {
+      "symptoms": [
+        "إلتهاب",
+        "صداع"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كاين سيلان دم فالصدر وتحت الألم.",
+    "answer": "خاصنا نديرو تحاليل دقيقة باش نعرفو السبب.",
+    "entities": {
+      "symptoms": [
+        "سيلان دم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي وجع فالعضمة ديال الصبع تحت الفك مع نزيف الدم من فمي.",
+    "answer": "خاصك تشوف طبيب باطني باش يحدد السبب ويعطيك العلاج.",
+    "entities": {
+      "symptoms": [
+        "وجع",
+        "نزيف الدم"
+      ],
+      "medical_field": "الباطنية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "راجلي عندو ورم فالغدة النخامية وضاع ليه الحساسية ديال الشم. واش كايتعاود الحساسية من بعد العملية؟",
+    "answer": "ماكاينش علاقة مباشرة بين العملية والحساسية. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "حساسية الشم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "أنا عندي 14 عام وعندي انتفاخ فالبيض، واش غادي يتلاشى و شحال ديال الوقت؟",
+    "answer": "هادشي عادي، راه نتيجة البلوغ. خاصك غير تصبري شوية.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ فالبيض"
+      ],
+      "medical_field": "الأمراض النسائية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتعالج سرطان الرحم فالبداية وشنو هو النسب ديال الشفاء؟",
+    "answer": "الإستئصال هو أحسن حل فالبداية. النسبة ديال الشفاء كتعتمد على الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين خطر على ولدي الرضيع من سرطان الثدي؟",
+    "answer": "ماشي خطر كبير، ولكن خاصك ما ترضعيش من بعد ما تلبسي الكيمو.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو الماكلة اللي مزيانة لواحد متصاب بسرطان الكبد بعد ما دار حقن كيميائي؟",
+    "answer": "المكلة الصحية هي الخضر والفواكه الطازجة. خاصها تكون غنية بالفيتامينات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين خطر باش يرجع السرطان ديال المعدة من بعد ما تعالج المعدة؟",
+    "answer": "ممكن يرجع، ولكن خاصك تراقب صحتك وتدير الفحوصات بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "ختي عندها السرطان دالمعدة، راه فيه 10 سنين. واش كاين شي طريقة باش تداويها؟",
+    "answer": "إذا تدارو الإجراءات الطبية وماكاينش انتشار كبير، ممكن يكون عندها فرصة للشفاء.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش يمكن يتكشفو السرطان ديال المعدة ولا الكولون باستعمال إكزو؟",
+    "answer": "ماشي ممكن، خاصك دير فحص آخر بحال التنظير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو أحسن علاج ديال الورم للسراق؟",
+    "answer": "سرطان الدماغ كيتعالج بالجراحة والإشعاع، والعلاج الكيميائي كيتستعمل قليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش كايتعامل مع سرطان؟",
+    "answer": "كيوقع ملي كيتكاثر الخلايا بطريقة غير طبيعية. خاص استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج لانتشار كسرا ديال ريّض؟",
+    "answer": "خاص الاعتناء بالصحة والتغذية. استشارة طبيب مهمة لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو سرطان السدي؟",
+    "answer": "سرطان السدي كيسبب إفرازات دموية وتغيرات في شكل الثدي. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "إفرازات دموية",
+        "تغيرات في شكل الثدي"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي تورم تحت ركبتي، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب الجراحة باش يشوف الحالة. هاد الشي ممكن يكون التهاب.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش لورم لحميدي كايتحول لورم خايب؟",
+    "answer": "لا، الورم الحميد ما كيتحولش لخبيث. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش السرطان ديال المعدة يقدر يأدي لعقدة تحت الفك؟",
+    "answer": "أه، السرطان يقدر ينتشر لهاد لعاب. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا فعال لكارتاج ديال هوجكين؟",
+    "answer": "العلاج كيتعتمد على الخطورة، ممكن يكون بالدوا أو بالعلاج بالضوء. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرف واش عندي السرطان ديال الثدي وشنو نوعو بعد الفحوصات؟",
+    "answer": "نتائج الفحوصات كتعطيك التفاصيل. خاصك تسول الطبيب باش يفسر ليك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش شقوق وجروح فالشرج ممكن تولي سرطان إلا ما تعالجاتش؟",
+    "answer": "ممكن، ولكن خاصك تشوف طبيب باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [
+        "شقوق",
+        "جروح"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي علاقة بين السرطان والجلطة؟",
+    "answer": "السرطان ممكن يكون سبب من أسباب الجلطات. خاصك تتبع مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "الطقس حار بعد الكيمو، واش هادشي عادي؟",
+    "answer": "من الممكن يكون بسبب العلاج. خاصك تراقب صحتك وتستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الاستصال والرميين قي الرحم كايزيدو من التصاقات؟",
+    "answer": "نعم، هاد الشي ممكن يسبب التصاقات. خاصك تراقبي حالتك مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي خيط تحت ضفر رجليك يعني سرطان الجلد؟",
+    "answer": "ممكن، ولكن خاصك تشوف طبيب باش يحدد الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي مرض كيسبق عن طريق اللعب ولا العلاقة الجنسية؟",
+    "answer": "السرطان ماشي مرض معدي. خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "مدة العلاج بالاشعاع لولد عندو جوج ونص عام؟",
+    "answer": "مدة العلاج كتعتمد على نوع الورم. خاصك تسول الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم تحت الرقبة، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب باش يدير لك الفحوصات اللازمة. المراقبة مهمة فهاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "ورم تحت الرقبة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرف واش عندي سرطان فالعظام؟",
+    "answer": "يمكن نكتشفو السرطان عن طريق الفحوصات الطبية. خاصك تمشي عند طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم فالصدر، شنو هو العلاج؟",
+    "answer": "العلاج كيعتمد على نوع الورم ومرحلته. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ورم فالصدر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش هاد الورم فالثدي خطير؟",
+    "answer": "ممكن يكون خطير، خاصك تمشي عند طبيب باش يدير لك الفحوصات اللازمة.",
+    "entities": {
+      "symptoms": [
+        "ورم فالثدي"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "بابا عندو سرطان الكبد، شنو ندير؟",
+    "answer": "خاصكم تتابعو مع طبيب مختص. العلاج كيتطلب خطة مناسبة لحالة الوالد.",
+    "entities": {
+      "symptoms": [
+        "سرطان الكبد"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش ممكن نعيش مع سرطان الرئة؟",
+    "answer": "نعم، فبعض الحالات ممكن الشفاء، خاصك تتابع مع طبيب.",
+    "entities": {
+      "symptoms": [
+        "سرطان الرئة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي الأعراض ديال ورم الغدة النخامية؟",
+    "answer": "الأعراض كتختلف، ولكن ممكن تشمل صداع وتغيرات فالرؤية. خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج للسرطان؟",
+    "answer": "العلاج كيتحدد حسب نوع السرطان ومرحلته. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتطور ليه السرطان من بعد ما كايتسارى؟",
+    "answer": "إلا ما تعالجش الكيس، السرطان يقدر يتطور. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي تأثير لتأخر العلاج البيولوجي عند مريض سرطان الثدي لمدة جوج سيمانات؟",
+    "answer": "مازال ماكاين حتى تأثير من جوج سيمانات. خاص المريض يتبع العلاج بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش عرفتي بلي لحمير فيها السرطان؟",
+    "answer": "إي، إلا كانت بالقولون، خاصك تدير فحص بالمختبر. هادي هي الطريقة الوحيدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي كتلة فالصدر وواحدة أخرى فكرشها، شنو ندير؟",
+    "answer": "خاصها استشارة مع طبيب مختص. يمكن يحتاجو يديرو ليها تحاليل.",
+    "entities": {
+      "symptoms": [
+        "كتلة فالصدر",
+        "كتلة فكرشها"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "بغيت شي دوا لعلاج الكبد لخويا، راه الكبد ديالو فيه السرطان. واش كاين شي دوا؟",
+    "answer": "خاصنا تقرير مفصل على الحالة باش نقدروا نساعدوك. العلاج كيتطلب متابعة دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "مرض هودكين صعيب باش يتعالج، شنو ندير؟",
+    "answer": "النتيجة كتعتمد على الحالة ديال المريض. خاصك تتبع العلاج وتستاشر مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرف واش عندي السرطان ديال الثدي؟",
+    "answer": "خاصك تدير تحاليل، وضروري تخرجي عينة من الورم. هادي هي الطريقة الصحيحة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هوما أعراض سرطان الراس؟",
+    "answer": "أعراض سرطان الدماغ كتشمل الصداع، الصرع، والدوخة. خاصك تشوف طبيب لتشخيص دقيق.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "صرع",
+        "دوخة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش فيبروم كايتحول لسرطان الثدي؟",
+    "answer": "الفبروم ورم حميد وماكايقدرش يتحول لسرطان. خاصك تتبعي مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي كتلة فالصدر كايتحرك و فيه الم.",
+    "answer": "خاصك دير فحص طبي للثدي باش تعرف طبيعتها. ماشي كل كتلة خطيرة.",
+    "entities": {
+      "symptoms": [
+        "كتلة",
+        "ألم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم ف رقبتي كايديرني صداع بزاف.",
+    "answer": "خاصنا نديرو السونار باش نعرفو طبيعة الورم. يمكن يكون التهاب.",
+    "entities": {
+      "symptoms": [
+        "صداع"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "راه طلع حميد من بعد ما درت خزعة، واش كاين شي احتمال أنه يتحول؟",
+    "answer": "إذا كان حميد، الاحتمال ضعيف أنه يتحول. خاصك تراقب حالتك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي خويا كايواجه مشكل ديال التضخم، خاصو المساعدة.",
+    "answer": "خاصو يمشي عند الطبيب باش يشوف الحالة ديالو. ممكن يحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "تضخم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هو العلاج ديال الورم اللي كاين فالتدّين؟",
+    "answer": "العلاج كيعتمد على نوع الورم. خاصهم يتفحصو بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كايتنقل السرطان بالنشاط البدني ولا بالماكلة؟",
+    "answer": "السرطان ماكيتنقلش من واحد لواحد. ماكاينش دلائل على هاد الشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي غدد تحت الفك السفلي؟",
+    "answer": "كاينين غدد ليمفاوية تحت الفك، وكيكونو مسؤولين على المناعة. خاصك تشوف طبيب إذا كان عندك مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الفيبروما كايسبب سرطان؟",
+    "answer": "الفيبروما ماكيش مشكل حيت ماكيشجعش على سرطان البطن. خاصك تراقب الحالة ديالك مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي كتلة صلبة فجيهي، واش خاصني نشوف طبيب؟",
+    "answer": "إيوا خاصك تشوف طبيب مختص باش يدير ليك التحاليل اللازمة. هادشي مهم.",
+    "entities": {
+      "symptoms": [
+        "كتلة صلبة"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "شنو هي علامات السرطان فالجسم؟",
+    "answer": "ماكاينش طريقة وحدة، ولكن كاينين علامات بحال فقدان الوزن، التعب المستمر، أو تغييرات فالحالة الصحية. خاصك تشوف الطبيب.",
+    "entities": {
+      "symptoms": [
+        "فقدان الوزن",
+        "التعب المستمر"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ألم فالثدي ديال اليمين، واش خاصني نقلق؟",
+    "answer": "الألم فالثدي خاصو يتراقب، خاصك تشوف الطبيب باش يدير ليك الفحوصات. ما تخافيش، ولكن ضروري تتأكدي.",
+    "entities": {
+      "symptoms": [
+        "ألم فالثدي"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش صحيح بلي الموز مزيان ضد الأورام؟",
+    "answer": "ماكاينش دليل علمي قوي على هاد الشي. خاصك تتبع نظام غذائي متوازن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش خاصنا نستاقلّيو حميد إلا كان عندو ورم؟",
+    "answer": "خاصنا نشوفو نوع الورم والمكان ديالو. الطبيب هو لي يقدر يحدد واش خاص الاستئصال ولا لا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "كيفاش نعرف إلا كان عندي ورم فالصدر؟",
+    "answer": "خاصك تدير فحص طبي شامل. الطبيب غادي يقدر يحدد الحالة ديالك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي ورم تحت ركبتي اليسرى كبر لمدة تلات سيمانات، شنو ندير؟",
+    "answer": "خاصك تمشي عند الطبيب باش يدير لك الفحوصات اللازمة. المراقبة مهمة فهاد الحالة.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الكتل الدهنية فالجسم بحال لي كاينين فالأورام؟",
+    "answer": "آه، الكتل الدهنية الحميدة هي ليابوما. خاصك تراقبها مع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "كتل دهنية"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "تورم فالصبع، واش هادشي من أعراض العلاج الكيميائي؟",
+    "answer": "يمكن يكون عندك أعراض من العلاج الكيميائي. خاصك تراجع الطبيب.",
+    "entities": {
+      "symptoms": [
+        "تورم"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي دوا لعلاج سرطان الكبد والرئة؟",
+    "answer": "العلاج كيعتمد على نوع الورم. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش كاين شي علاج لسرطان بلا آثار جانبية؟",
+    "answer": "ماكاين حتى شي علاج بلا آثار جانبية. خاصك تناقش مع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "عندي كتلة تحت حلمة الثدي من تلت سنين، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب جراح باش يدير لك الفحوصات. الصحة مهمة.",
+    "entities": {
+      "symptoms": [
+        "كتلة تحت حلمة الثدي"
+      ],
+      "medical_field": "الأورام",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Oncology",
+    "question_darija": "واش الاستحمام كيسبب سرطان الثدي؟",
+    "answer": "لا، النظافة كتحمي من الأمراض. خاصك تبقى مهتمة بصحتك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "منخفض"
+    }
+  }
+]

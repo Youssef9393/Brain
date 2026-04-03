@@ -1,0 +1,2444 @@
+[
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو مرض هيرشبرنغ؟",
+    "answer": "داء هيرشبرنغ هو مرض كيأثر على الأمعاء. كيتسبب فمشاكل فالهضم وكيحتاج لعلاج طبي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هي حمى الضنك؟",
+    "answer": "حمى الضنك هي مرض كيجي من لدغة البعوض. كيتسبب فحمى وآلام فالمفاصل.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "آلام فالمفاصل"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نعرف بلي عندي ديدان فالجسم؟",
+    "answer": "يمكن تعرف إلا حسيت بأعراض بحال ألم فالبطن أو إسهال. خاصك دير فحص عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن",
+        "إسهال"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي علاج لفيروس الكبد بلا إنترفيرون؟",
+    "answer": "كاين بعض العلاجات الجديدة اللي ما كتحتاجش إنترفيرون. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نقدر نتحاركو من لڤيرما؟",
+    "answer": "خاصك تتبع ممارسات النظافة وتبتعد عن الأماكن المزدحمة. هادشي كيساعد فالتقليل من العدوى.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش متلازمة داون هي طفرة جينية؟",
+    "answer": "لا، متلازمة داون هي نتيجة لزيادة فعدد الصبغيات. كيتسبب فمشاكل فالتطور.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الوراثة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش كايتعالج مرض الگاستروباريس؟",
+    "answer": "يمكن تاخد ميتوكلوپراميد أو إريثروميسين. خاصك استشارة طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش جوج سيمانات كافيين باش توقف العدوى من الجدري المائي؟",
+    "answer": "نعم، جوج سيمانات كافيين. خاصك تبقى فالمراقبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي 23 عام و عندي مشكل الديدان. شنو الحل؟",
+    "answer": "خاصك دير فحص للبراز باش تعرف نوع الديدان و كيفاش تعالجها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن يتصاب شي واحد بالإيدز من الجنس مع واحد فيه الفيروس؟",
+    "answer": "نعم، ممكن يتصاب بالإيدز من خلال الجنس مع شخص مصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو الفيروس سي؟",
+    "answer": "فيروس الكبد سي هو فيروس كيسبب التهاب الكبد و كيأثر على صحة الكبد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو الحل ديال المعدة؟",
+    "answer": "خاصنا نديرو فحص للجرثومة الحلزونية الهيليكوبكتر بيلوري باش نعرفو واش كاين شي حاجة فالمعدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هوما أعراض داء فوكني؟",
+    "answer": "داء فوكني كيأثر على الجهاز العصبي المركزي و الأعراض كتختلف من واحد لواحد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش مريض بالسيدا يقدر يتزوج؟",
+    "answer": "ممكن يتزوج، ولكن خاصو يكون واعي بالمخاطر. خاصو يتشاور مع طبيب قبل ما ياخد أي قرار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين مرض الضمور الوراثي؟",
+    "answer": "كاين، و الجديد هو استعمال الخلايا الجذعية. ولكن نسبة النجاح مازال منخفضة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش لويفيس فيروس معدي؟",
+    "answer": "أه، لويفيس فيروس معدي بزاف وكيأثر على المناعة. خاص الحذر من الاتصال مع المصابين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي بنت عندها مرض الفينيل ألانين، واش كاين شي طبيب نقدر نستاشر معاه؟",
+    "answer": "خاصك تشوف طبيب مختص في الأمراض الوراثية أو طبيب عصباني. غادي يساعدك فهاد الموضوع.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي واحد فالعالم اللي تقاد من فيروس سي؟",
+    "answer": "نسبة الشفاء من فيروس سي كتوصل لـ20%. خاص العلاج يكون مبكر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش شلل ريحاش من الأمراض الوراثية؟",
+    "answer": "أه، مرض الشلل الرعاشي كيتسبب فيه الوراثة. يمكن يتظهر حتى فالعمر الكبير.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي سخانة فالمعدة، شنو السبب؟",
+    "answer": "يمكن يكون عندك قلس معدي مريئي. خاصك تشوف طبيب باش يتأكد من الحالة.",
+    "entities": {
+      "symptoms": [
+        "سخانة فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي دوا لحمى الضنك؟",
+    "answer": "ماكاينش دوا خاص لحمى الضنك. المريض كيتشافى بوحدو، ولكن خاصو يرتاح ويشرب بزاف ديال السوايل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع فالصدر، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يشوف الحالة ديالك. ممكن يكون عندك شي حاجة خاصة تحتاج علاج.",
+    "entities": {
+      "symptoms": [
+        "وجع فالصدر"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع فالمعدة وراسي كيدور.",
+    "answer": "خاصك تمشي عند طبيب باش يتأكد من الحالة. هاد الأعراض ممكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمعدة",
+        "وجع فالرأس"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش العدوى تنتقل من فيروس الكبدة للدرية؟",
+    "answer": "نعم، العدوى ممكن تنتقل، ولكن خاص تكون عندك احتياطات. من الأحسن تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو الدوا لانتفاخ البطن؟",
+    "answer": "خاصك تتبع نصائح غذائية وتستعمل شي دوا خاص بالانتفاخ. من الأحسن تستاشر طبيب.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن نديرو تحليل د الدم لفيروس إيدز فالنفس النهار؟",
+    "answer": "من الأفضل تنتظر شوية بعد التعرض للفيروس قبل ما تدير التحليل. النتائج ما غاديش تكون دقيقة فالنفس النهار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن نمرض من قطة؟",
+    "answer": "نعم، كاين بعض الأمراض اللي ممكن تنتقل من الحيوانات للإنسان. خاصك تكون حذر وتعتني بالنظافة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش الجرح كيتعقم بالليمون والعسل؟",
+    "answer": "الليمون والعسل عندهم خصائص تعقيم، ولكن من الأفضل تستعمل شي منتج طبي معتمد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع فالرأس كيزيد مع الجوع.",
+    "answer": "هاد الشي ممكن يكون بسبب الجوع أو توتر. خاصك تأكل مزيان وتستراح.",
+    "entities": {
+      "symptoms": [
+        "وجع فالرأس"
+      ],
+      "medical_field": "الجهاز العصبي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي أعراض ديال التايفويد، شنو ندير؟",
+    "answer": "خاصك تمشي عند طبيب باش يدير لك الفحوصات اللازمة. الأعراض كيمكن تكون خطيرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو علاج فيروس كورونا؟",
+    "answer": "ماكاينش علاج محدد، ولكن كاين شي دوايات لي تقدر تخفف الأعراض. خاصك تستاشر طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين علاج التهاب الكبد؟",
+    "answer": "العلاج كيتطلب مضادات الفيروسات وراحة. خاصك تستاشر طبيب باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو مرض البارڤي؟",
+    "answer": "هو مرض كيشبه الحمى التيفية، والأعراض ديالو خفيفة. خاصك تستاشر طبيب إذا كان عندك شك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش 100 يوم كافيين باش ندير تيست لفيروس لوسس؟",
+    "answer": "إي، هاد الوقت كافي حيت كاينة فترة بين الإصابة وظهور الأجسام المضادة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي ولد عندو ضمور دماغي وضمور عصب البصر. واش كاين شي علاج؟",
+    "answer": "ماكاينش علاج فعال للضمور الدماغي. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [
+        "ضمور دماغي",
+        "ضمور عصب البصر"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عافاك، واش خاصنا نديرو تيست الموروثات بيني وبين راجلي؟",
+    "answer": "إي، خاص تقييم للأمراض الجينية في العائلة. خاص تشاور مع مستشار.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عافاك، كاين شي علاج لوجع المعدة؟",
+    "answer": "إذا كان الوجع مصاحب بالحرقة، خاصك تشوف طبيب. يمكن تكون عندك جرثومة الحلزونية.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمعدة",
+        "حرقة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو الفحص للتأكد من البلهارسيا المعوية؟",
+    "answer": "تشخيص البلهارسيا كيتضمن فحص البراز وعينات من المستقيم. كيتشاف البيض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش مرض أنيميا الفول من الأمراض الوراثية؟",
+    "answer": "إي، أنيميا الفول مرض وراثي. خاص فحص الدم للثلاسيميا قبل الزواج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كايتصاب بالعدوى من واحد فيه السل؟",
+    "answer": "إي، السل كيتنقل عن طريق الرذاذ. خاص الحذر من الأشخاص المصابين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش كايتعاملوا مع الحصى فالكلي؟",
+    "answer": "الحصى كيتعالجوا حسب النوع. يمكن يحتاجوا دوا أو عملية جراحية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكلى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع فجنابي ليمن. واش جاي من الزايدة؟",
+    "answer": "إذا كنتي كتظن عندك الزايدة، خاصك تمشي للمستشفى دابا. يمكن تحتاج لجراحة.",
+    "entities": {
+      "symptoms": [
+        "وجع فجنابي"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو سبب التهاب الغدد اللمفاوية؟",
+    "answer": "كاين بزاف دالأسباب، منها الفيروسات بحال كوفيد-19. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش خاصني نعاود ناخد الجرعة الثالثة ديال الفاكسان؟",
+    "answer": "خاصك تسول طبيبك. هو اللي يقدر يحدد واش خاصك الجرعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين خطر فقرحات المعدة؟",
+    "answer": "القرحة الهضمية كتعني وجود مشاكل فالمعدة. خاص استشارة طبيب لتحديد السبب.",
+    "entities": {
+      "symptoms": [
+        "قرحة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "درت عملية فتاق فالبطن شي شهر ونص، واش نقدر نمارس الرياضة والوزن الثقيل؟",
+    "answer": "من الأحسن ماتمارسش الرياضة دابا. خاصك تبدا بشوية بشوية، و إلا كان الجرح مفتوح، خاصك تراقب الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شحال من سرعة كايتنقل هاد المرض للخرين، و شحال من خطيرة العدوى، خاصة لدراري الصغار؟",
+    "answer": "العدوى كتوقع من التلامس المباشر أو بالرذاذ. خطورة العدوى كتكون أكبر عند الأطفال، خاصهم يتجنبوا الاحتكاك مع المصابين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي طريقة باش نعرفو واش كاين التهاب القولون وواش خاصنا نديرو شي تحاليل بحال البراز ولا الدم؟",
+    "answer": "التهاب القولون كيتطلب تحاليل خاصة. خاصك تدير تحليل للبراز و الدم باش نعرفو الحالة بالضبط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "غرسات إبرة ملوثة بفيروس سى فصبعها. واش ممكن تكون مصابة بفيروس سى؟ و كيفاش يمكن لي نأكد هاد الشي؟",
+    "answer": "نعم، ممكن تتعرضي لفيروس سى. خاصك تدير تحليل باش تتأكدي واش عندك الفيروس ولا لا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش الالتهابات المهبليه عند المرا لي عندها حكه كتعتبر أمراض معدية وماتوجيهات للراجل وراجلها؟",
+    "answer": "نعم، الالتهابات المهبليه معدية. خاصهم يتجنبوا الجماع حتى الشفاء التام.",
+    "entities": {
+      "symptoms": [
+        "حكة"
+      ],
+      "medical_field": "الأمراض النسائية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "دكتور، تحليل الاجسام المضادة للايدز مامدى دقته؟",
+    "answer": "التحاليل دقيقة بزاف. إذا كان عندك شك، ممكن تعاود التحليل فمختبر آخر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن نتسرب فيروس السيدا باستعمال الواقي الذكري مع مرا مصابة وعارف بلي عندي حساسية فالجهاز التناسلي؟",
+    "answer": "إذا استعملتي الواقي الذكري بشكل صحيح، ماكاينش انتقال للفيروس.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش نقدر نتزوج مع انيميا؟",
+    "answer": "خاصنا نعرفو نوع فقر الدم عندكم، وكننصحو باستشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "انيميا"
+      ],
+      "medical_field": "الأمراض الدموية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش الهربس كيمنع من الجواز؟",
+    "answer": "الهربس ماكيمنعش من العلاقة الزوجية، وكيقدر يتعالج بالأدوية.",
+    "entities": {
+      "symptoms": [
+        "الهربس"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو غادي يوقع إلا كانت الأم مصابة بمرض الجي سكس بي دي والأب بالسكلسل؟",
+    "answer": "كاين خطر على الدراري، خاصنا نعرفو الوضع الوراثي ديالهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع ف راسي وسخانة ونقصت شهيتي.",
+    "answer": "خاصك دير فحص دم وفحص بول، وضروري تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "وجع ف راسي",
+        "سخانة",
+        "نقصت شهيتي"
+      ],
+      "medical_field": "الأمراض العامة",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش يمكن يتنقل مرض الإيدز من جرح مصاب لواحد آخر؟",
+    "answer": "نعم، يمكن يتنقل فيروس الإيدز عن طريق الدم، خاصنا نتأكدو من هادشي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي مضاعفات أخرى ديال السكر؟",
+    "answer": "اه، كاين التهاب الأعصاب كأحد الأعراض. خاصك تنقص السكر فالدم.",
+    "entities": {
+      "symptoms": [
+        "التهاب الأعصاب"
+      ],
+      "medical_field": "الأمراض المزمنة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "هل ممكن يتنقل فيروس من البعوض؟",
+    "answer": "الدراسات ما أثبتتش أن الفيروسات كتنتقل عبر البعوض. من المحتمل أنه لا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كنستعمل شفرة وكنخاف نكون مصاب بالايدز. شنو ندير؟",
+    "answer": "خاصك تدير تيست لفيروس الإيدز. هادشي هو الحل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش نرضع ولدي ولا نبعدها؟",
+    "answer": "العدوى ممكنة قبل مايبان الطفح. خاصك تشوفي الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش خاصني ندير تيست لفيروس د لسان؟",
+    "answer": "من الأحسن تدير تيست، هادشي مهم. خاصك تكون مطمئن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن نتنقل شي عدوى من أدوات مستعملة؟",
+    "answer": "ماشي كلشي لي كاين فيه لعيب غادي ينتقل. خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شحال كيبقا الفيروس د الايدز فالجسم؟",
+    "answer": "فيروس نقص المناعة البشرية ما كيعيش أكثر من ساعات. كينقص خطر العدوى منين كيتعرض للجفاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شحال من وقت كيعطيوه مثبطات مضخة البروتون؟",
+    "answer": "المضاد كيتعطى حسب الحاجة. الطبيب هو لي يحدد المدة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأدوية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو لي كايخلي شي واحد يتجشأ؟",
+    "answer": "التجشؤ كيجي من بلع الهوا. خاصك تتجنبي المشروبات الغازية وتاكلي بشوية.",
+    "entities": {
+      "symptoms": [
+        "التجشؤ"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واحد الراجل خطبني، ولكن صحابو معاقين. أنا خايفة.",
+    "answer": "خاصك تديري تحاليل جينية معاه. هادشي غادي يبين لك واش كاين شي مشاكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "التحليل الجيني",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "أنا متزوجة وواجهت إجهاض مرتين. كيقولو كاين احتمال ديال خلل فالكروموسومات.",
+    "answer": "خاصكم تديرو تحاليل للحمض النووي. هادشي غادي يساعدكم تعرفو إذا كاين احتمال ولادة طفل معاق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "علم الجينات",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "ولدي عندو ورم فكرشو. درنا تحاليل و جاو سلبيين.",
+    "answer": "خاصنا نحيدو شي وحدة من الكولات ونحللوها مزيان.",
+    "entities": {
+      "symptoms": [
+        "ورم"
+      ],
+      "medical_field": "الجراحة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي مشكل فالمعدة. كنحس بالغثيان والقيء.",
+    "answer": "خاصك تبعدي على الماكلة لي كتسبب ليك هاد الأعراض وتنظمي الوجبات.",
+    "entities": {
+      "symptoms": [
+        "الغثيان",
+        "القيء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "السلام عليكم. مراتي عندها تشنجات مهبلية. شنو هو العلاج؟",
+    "answer": "خاصها تمشي لطبيب النساء باش يشوف ليها الحالة.",
+    "entities": {
+      "symptoms": [
+        "تشنجات مهبلية"
+      ],
+      "medical_field": "طب النساء",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي التهاب كبدي فصنف سي. واش كاين شي خطورة على الزوجة؟",
+    "answer": "ماكاينش خطورة كبيرة. خاصكم غير تتجنبوا اختلاط الدم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع فالظهر. كاين احتمال يكون معدي.",
+    "answer": "خاصني نعرفو الأعراض بالتفصيل باش نقدر نعطيك تشخيص صحيح.",
+    "entities": {
+      "symptoms": [
+        "وجع فالظهر"
+      ],
+      "medical_field": "الظهر",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "جرحت يدي بزجاج. مشيت للصبيطار.",
+    "answer": "ماكاينش داعي لأخذ مضاد حيوي، حيت الزجاج نقي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجراحة",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "خطيبي دار تحليل دم ولقاو فيروس (سي) و(ب)، ولكن ما لقاو والو. شنو نديرو دابا؟",
+    "answer": "خاصكم تشوفو طبيب مختص باش يحدد العلاج المناسب. مضادات الفيروسات كيمكن تكون فعالة، ولكن خاص تقييم الحالة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو مرض الهنتنغتون وكيفاش نقدر نعرف أكثر عليه؟",
+    "answer": "مرض الهنتنغتون هو مرض وراثي كيتسبب فمشاكل فالحركة والسلوك. للأسف، مازال ماكاينش علاج نهائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش المختبرات العادية تقدر تحدد فيروس أنفلونزا الخنازير؟",
+    "answer": "المختبرات العادية ما كافيش، خاص مختبرات متخصصة باش يقدرو يحددو الفيروس بدقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو الفحوصات اللي خاصني ندير قبل الزواج؟",
+    "answer": "خاصك تدير فحوصات وراثية باش تعرف الحالة الصحية ديالك وديال الشريكة. هادشي مهم خصوصا فالعائلات اللي فيها أمراض وراثية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شحال من احتمال كاين باش يجيبو ولاد معاقين من أم عندها خوتها معاقين؟",
+    "answer": "الاحتمال كيعتمد على نوع الإعاقة. خاص استشارة طبيب مختص فالأمراض الوراثية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي مرض مزمن فالمعدة، شنو نصيحتك على الماكلة؟",
+    "answer": "خاصك تاكل فواكه وخضار، وتجنب الأطعمة الدهنية. شرب الماء بكثرة مهم كذلك.",
+    "entities": {
+      "symptoms": [
+        "مرض مزمن فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي صداع فكتفي وبارد فالأطراف، واش كاين علاقة بيناتهم؟",
+    "answer": "من الأفضل تشوف طبيب، حيث هاد الأعراض ممكن تكون مرتبطة بمشاكل صحية أخرى.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "برودة الأطراف"
+      ],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "زوجتي عندها التهاب الكبد الفيروسي، واش كينتقل بالجماع؟",
+    "answer": "التهاب الكبد الفيروسي كيتعدى عن طريق الدم والجماع. خاصكم تكونو حذرين.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو علاج السكر؟",
+    "answer": "مازال ماكاينش علاج نهائي للسكر. خاصك تتابع مع طبيب ديالك وتلتزم بالنظام الغذائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المزمنة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش التيفوئيد يقدر يتحول لمرض مزمن؟",
+    "answer": "إلا ما تعالجش بشكل صحيح، يقدر يتحول لمرض مزمن. خاص استشارة طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو سبب مرض البوال التخلفي؟",
+    "answer": "مرض البوال التخلفي هو مرض وراثي نادر. كيتولد من بين 4000 و20000 حالة سنويا.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي ألم فالمعدة، شنو ندير؟",
+    "answer": "خاصك تدير تحليل للبكتيريا الحلزونية. عافاك خبرني بالنتيجة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين نسبة ولاد معاقين من أم عندها إصابة بسيطة؟",
+    "answer": "خاصنا نعرفو الحالة الصحية ديال الأم والأعراض. التحاليل الوراثية مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي دوخة وبول كحل، شنو ندير؟",
+    "answer": "البول الكحل كيعني كاين انسداد فالقنوات الصفراوية. خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "دوخة",
+        "بول كحل"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كل مرة كنضحك بزاف كنقي، شنو السبب؟",
+    "answer": "ممكن يكون مشكل فالحلق. خاصك تشوف طبيب الأنف والأذن.",
+    "entities": {
+      "symptoms": [
+        "نقي"
+      ],
+      "medical_field": "الأذن والأنف",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هي الأمراض الجينية الشائعة فشرق الأوسط؟",
+    "answer": "أمراض الهيموغلوبين بحال التلاسيميا كيتعتبروا من الأمراض الشائعة. كاينين تاني أمراض أخرى خاصة فبعض المناطق.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش التهاب الكبد بيائي يقدر يتطور لشي حاجة خطيرة؟",
+    "answer": "نعم، يقدر يتحول لمرض مزمن أو حتى سرطان فالكبد. خاص متابعة طبية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كيتطابقو زومات الدم ديال الخوت مع زوم ديال الوالد، هادشي كيعني بلي هوما خوت نفس الوالد؟",
+    "answer": "ممكن يكون عندهم نفس فصيلة الدم، ولكن هادشي ما كيعنيش بالضرورة أنهم خوت من نفس الوالد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش هادو أعراض سرطان المعدة؟ كاين الغازات وكيطيح الوزن.",
+    "answer": "خاصنا نديرو تنظير باش نتأكدو من الحالة. هاد الأعراض ممكن تكون مرتبطة بمشاكل أخرى.",
+    "entities": {
+      "symptoms": [
+        "غازات",
+        "طيح الوزن"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي مشكل فالبطن كيسبب ليا الحريق.",
+    "answer": "العلاج كيعتمد على السبب. خاصك تمشي عند الطبيب باش يشوف الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حريق فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو أحدث علاج للسل المعوي؟",
+    "answer": "كتستعمل 3 دوا ديال مضادات المتفطرات لمدة 12 شهر. خاصك تتبع العلاج بانتظام.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "السلام عليكم، عندي سخونة وراسي كايضرني.",
+    "answer": "يمكن تكون عندك أعراض مرضية، خاصك تمشي للطبيب باش يدير ليك الفحص.",
+    "entities": {
+      "symptoms": [
+        "سخونة",
+        "ألم فالرأس"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نعرفو شي واحد مصاب بالإيدز؟",
+    "answer": "المرض ما كيبانش من برا، ولكن كيبان من بعد 45 يوم تقريبا. خاصك دير التحاليل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو غاندير مع راجلي اللي مريض بالأمراض المعدية؟",
+    "answer": "خاصك تشوفي طبيب مختص باش يعطيك النصائح اللازمة. الصحة ديالك مهمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي مشكل فالمعدة، كتنزل ليا لعضم ديالي.",
+    "answer": "يمكن يكون عندك التهاب أو مشكل آخر. خاصك تمشي عند الطبيب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي التهاب فالمعدة واستعملت بزاف دالأدوية وما تحسنتش.",
+    "answer": "العلاج للجرثومة فالمعدة هو كلاسيد 500 مغم مرتين فالنهار مع الفلغال 500 مغم تلات مرات فالنهار. خاصك دير التحليل باش تشوف واش العلاج خدم ولا لا.",
+    "entities": {
+      "symptoms": [
+        "التهاب فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي قرحة فالمعدة مع حرقة، واستعملت أدوية ولكن ماكاينش تحسن.",
+    "answer": "خاصك دير فحص الجرثومة الحلزونية الهيليكوباكتر بيلوري. من بعد، خاصك تشوف طبيب باش يحدد العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "قرحة فالمعدة",
+        "حرقة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي فحص قبل الزواج؟",
+    "answer": "خاصك دير فحص الثالاسيميا، وضروري تشاور مع طبيب مختص فالأمراض الوراثية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين خطر على ولادنا من زواج الأقارب؟",
+    "answer": "كاين خطر، خاصك تشاور مع طبيب مختص قبل ما تقرر الزواج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين انتقال لمرض الإيدز عن طريق الحلاقة؟",
+    "answer": "مرض الإيدز ما كينتقلش بهاد الطريقة إلا كان جرح. ولكن الأمراض الجنسية الأخرى ممكن تنتقل بها.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي طفل عندو مرض الفول، واش البقوليات ممنوعة؟",
+    "answer": "البقوليات ممنوعة، ولكن الذرة واللوز والكاجو ممكن تكون مقبولة. خاصك تسول الطبيب على التفاصيل.",
+    "entities": {
+      "symptoms": [
+        "مرض الفول"
+      ],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي مرض وراثي عند الجنين فالشهر الأول؟",
+    "answer": "كاين اختبارات بعد 12 أسبوع من الحمل، خاصك تسول طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع فالمفصل، ديت راسي للصبيطار ودرت التحاليل، شنو ندير دابا؟",
+    "answer": "راك مصاب بالنقرس، خاصك تشوف طبيب مختص باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمفصل"
+      ],
+      "medical_field": "الأمراض الروماتيزمية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي دوا للحمى ديال البحر؟",
+    "answer": "ماكاينش دوا كايدوي الحمى ديال البحر، ولكن كاينين دوايات كاتخفف الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نمنع نقل الالتهاب للأجنة؟",
+    "answer": "يمكن تتمنع التحاليل الجينية قبل الحمل، وهادشي مهم بزاف.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي مشكل فالبطن، ماكانقدرش نحلل الماكلة.",
+    "answer": "هادشي هوما علامات ديال مشكل فالهضم. كنصحك تاكل بشوية وتمدغ الماكلة مزيان وتاخد الدوا ديال دانزن ولا فيستال جوج مرات بعد الأكل.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالهضم"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "ولدي دار عملية باش يضيق فتحة الشرج، ولكن مازال كيعاني من مشكل فخروج البراز.",
+    "answer": "خاص يتدار فحص للبراز باش نعرفو شنو هوما الطفيليات اللي كاينة، من بعد نعاودو نعالجو.",
+    "entities": {
+      "symptoms": [
+        "مشكل فخروج البراز"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ولدك مصاب بالحصبة؟",
+    "answer": "ماشي بالضرورة تكون حالة خطيرة، يمكن تكون غير طفح جلدي فيروسي متزامن مع التهاب اللوزات. الطبيب ديالك اللي كيدير العلاج غادي يعرف شنو هو السبب.",
+    "entities": {
+      "symptoms": [
+        "طفح جلدي",
+        "التهاب اللوزات"
+      ],
+      "medical_field": "الأمراض الفيروسية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "أنا واحد الراجل عندي 26 عام، كنعاني من مرض الضمور فالعضلات.",
+    "answer": "مرض ضمور العضلات عندو بزاف دالأنواع، كل وحدة فيهم عندها الأعراض ديالها. خاصك تشوف طبيب باش يعرف حالتك بالضبط.",
+    "entities": {
+      "symptoms": [
+        "ضمور العضلات"
+      ],
+      "medical_field": "الأمراض العضلية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش من أعراض مرض الإيدز هوما الغدد الليمفاوية لي كتكبر؟",
+    "answer": "خاصك دير تيست ديال الإيدز باش تبعاد هاد لخاوف. كاين أعراض أخرى، ولكن الفحص هو الحل.",
+    "entities": {
+      "symptoms": [
+        "كبر الغدد الليمفاوية"
+      ],
+      "medical_field": "الأمراض الفيروسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش مومكين نكتاشفو ونتقاتلو معا لماراد لولفوموتير ديال كلي لعاسيب؟",
+    "answer": "هاد المرض الوراثي يمكن يتكشف بالفحص فالجهاز رباعي الأبعاد. ولكن حتى لدابا ماكاينش شي علاج باش يتحيد.",
+    "entities": {
+      "symptoms": [
+        "مرض وراثي"
+      ],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن تنتاقل الإيدز من الفواكه؟",
+    "answer": "الإيدز ما كينتقلش عن طريق الفواكه. خاصك تكوني واعية بالمخاطر الحقيقية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش واحد تقاد من مرض الضرّن يقدر يتصاب تاني؟",
+    "answer": "نعم، يمكن يتعاود إما عن طريق عدوى جديدة أو إعادة تنشيط الجراثيم. هادشي كيتعلق بالناس اللي عندهم نقص فالمناعة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نحيدو الكرش وواش الرياضة كتعاون؟",
+    "answer": "الرياضة مهمة، ولكن خاصك تراقبي الماكلة ديالك. حاولي تديري تمارين لعضلات البطن.",
+    "entities": {
+      "symptoms": [
+        "الكرش"
+      ],
+      "medical_field": "التغذية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندك نصيحة للي بغا يدير تيست ديال الإيدز؟",
+    "answer": "دير التحليل باش تعرف الحالة ديالك. التحليل مهم حتى لو ما حسيت بشي أعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش التلقيح الصناعي كايعاون فالأمراض الوراثية؟",
+    "answer": "التلقيح الصناعي ماكيعاونش فالتجنب من الأمراض الوراثية. خاص استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نعالج انتفاخ رجلين د بنت عندها ربع شهور؟",
+    "answer": "يمكن علاج الانتفاخ بإدخال أنبوب لشفط السائل. خاص مراقبة الحالة ديالها.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نتخلصو من ريحة الفم الخايبة؟",
+    "answer": "نظافة الفم مهمة بزاف. خاصك تنظفي الأسنان بانتظام وتستعملي الخيط.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم الخايبة"
+      ],
+      "medical_field": "طب الأسنان",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شحال كيبقى فيروس الإيدز خارج الجسم؟",
+    "answer": "فيروس الإيدز ما كيبقاش حي خارج الجسم أكثر من ساعات. خاص الحذر من الأسطح الملوثة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو مرض الامبا وشنو سبابو؟",
+    "answer": "معظم الناس ما كيعانيوش من الأعراض، ولكن إلا كانو عندك الأعراض، كيبداو من 7 ل 10 أيام من بعد ما تتعرض للفيروس. الأعراض كتشمل التقلصات فكرش، الإسهال، والغثيان.",
+    "entities": {
+      "symptoms": [
+        "التقلصات فكرش",
+        "الإسهال",
+        "الغثيان"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هي نسبة النجاح ديال علاج طفل مصاب بالتهاب الرية العرجاء؟",
+    "answer": "التوقعات كتشير أن 90% من المرضى كيوصلو لنتيجة مقبولة. ولكن كاينين بزاف د المشاكل اللي ممكن تأثر على العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي دوايات كايعاونو باش نبعدو فيروس كبد ب؟",
+    "answer": "الحامل خاصو يتبع عند الطبيب بانتظام باش يتأكد بلي الكبدة ديالو صحيحة. خاصو يتجنب الحوايج لي ممكن تضر الكبدة بحال الكحول.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نقدر نتجنب أن عندي شي دراري مصابين بمرض الثلج؟",
+    "answer": "المرض هو مرض وراثي، وكننصحو بمراجعة اختصاصي وراثي وعمل تحليل جيني على العائلة. هادشي غادي يساعدك تعرف نوع الخلل الوراثي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هي الفحوصات اللي خاصنا نديرو قبل الزواج؟",
+    "answer": "خاصك تدير فحص الدم وتأكد من صحتك وصحة مراتك. هادشي مهم خصوصا إلا كان عندكم تاريخ عائلي للأمراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع ف اليمين فوق الكتاف وكنحس براسي ماشي مزيان.",
+    "answer": "خاصك تدخل للسبيطار دابا باش دير تشخيص مزيان. يمكن يكون عندك بزاف دالأمراض بحال السل أو أمراض القلب.",
+    "entities": {
+      "symptoms": [
+        "وجع"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي 22 عام و عندي متلازمة كلاينفلتر. شنو تنصحني؟",
+    "answer": "العلاج بمركب تستسترون كيساعد على مشاكل الانجاب. خاصك تمشي عند طبيب الغدد باش يحدد ليك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "أم عمرها 45 عام ودارت تيست ديال حمى التيفوئيد. واش هاد الدوا مزيان؟",
+    "answer": "العلاج كايتضمن مضاد حيوي سميتو سيفلوكساسين. خاصها تراقب صحتها مع الطبيب بعد العلاج.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو الماكلة المزيانة لقولون العصبي؟",
+    "answer": "خاصك تتجنب الأطعمة اللي كتسبب التهيج، بحال منتجات الألبان. زيد شرب الماء وتجنب المشروبات الغازية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو تعني نتائج التحليل ديالي؟",
+    "answer": "النتائج كتشير لزيادة فأنزيمات الكبد، خاصك تشوف طبيب باش يعرف السبب ويطلب فحوصات إضافية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش زواجي من ولد ختي غادي يأثر على ولادي؟",
+    "answer": "حيت نتي مصابة بالأنيميا المنجلية، كاين احتمال كبير أن ولادكم يكونو مصابين. خاصك تشاوري طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو أحسن علاج للسل؟",
+    "answer": "خاصك تاخد دوا الإيسونيازيد مع دوا آخر ضد السل. الطبيب هو اللي غادي يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض التنفسية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي حموضة قوية، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب باش يدير لك فحص كامل. يمكن تحتاج دوا خاص للحموضة.",
+    "entities": {
+      "symptoms": [
+        "حموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو أحسن علاج للملاريا؟",
+    "answer": "الملاريا مرض معقد، خاصك تشاور مع طبيب باش يحدد لك العلاج المناسب حسب نوع المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الاستوائية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش التحليل ديالي خطير؟",
+    "answer": "إذا كان راجلك مريض بالأنيميا المنجلية، ولادكم يمكن يكونو في خطر. إلا ماكانش مريض، ماكاين حتى مشكل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع فظهري، شنو ندير؟",
+    "answer": "يمكن يكون الألم بسبب التوتر، ولكن خاصك تشوف طبيب باش يعرف السبب الحقيقي.",
+    "entities": {
+      "symptoms": [
+        "وجع فظهر"
+      ],
+      "medical_field": "الجهاز العضلي الهيكلي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش يمكن نعدي الفيروس من كاس واحد؟",
+    "answer": "العدوى كتنقل عن طريق الدم، وماشي عن طريق الشرب من كاس واحد. خاصك تحذر من الجروح والحقن.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي تقلصات فالمعدة، شنو ندير؟",
+    "answer": "التقلصات يمكن تكون مرتبطة بالقلق، ولكن خاصك تدير فحص الجرثومة الحلزونية. يمكن تاخد دوا أوميبرازول.",
+    "entities": {
+      "symptoms": [
+        "تقلصات فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "ماما عندها كرش فيها 31 سنتيمتر، شنو نديرو؟",
+    "answer": "يمكن تجرب العلاج، ولكن إلا كانو عندها أعراض، خاص تدير تدخل جراحي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو ندير للحموضة بعد ما ناكل حاجة حامضة؟",
+    "answer": "خاصك تشوف طبيب، يمكن تحتاج دوا أوميبرازول. خاصك تتجنب الأطعمة الحامضة.",
+    "entities": {
+      "symptoms": [
+        "حموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "صاحبي عندو مرض البروسيلا، شنو يدير؟",
+    "answer": "خاصو يتعالج بالمضادات الحيوية ويتجنب الماكلة الملوثة. خاصو يمشي لطبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن نعدي الإيدز بالتقبيل؟",
+    "answer": "الإيدز كيتنقل عن طريق الدم، والتقبيل ما كينقلش المرض عادة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي ضيق فالتنفس، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب القلب، حيث الألم فالصدر كيدل على مشكل. ما تتأخروش.",
+    "entities": {
+      "symptoms": [
+        "ضيق التنفس"
+      ],
+      "medical_field": "القلب",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "خطيبتي عندها بيرقان، شنو ندير؟",
+    "answer": "يمكن يكون التهاب الكبد، خاصنا نديرو فحوصات إضافية. لازم تتبع مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كنت كانتمشى وفجأة جراحت راسي، شنو ندير؟",
+    "answer": "خاصك تمشي لطبيب فالساعات الأولى باش تاخد تلقيح ضد الكزاز. هادشي مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "طارئ"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي مرض كايخلي معدتي توقف، شنو ندير؟",
+    "answer": "خاصك تتجنب المشروبات اللي كاتضر. أحسن تشرب الماء وتستنى شوية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي إحساس خايب فالمعدة، واش عندي حصاة؟",
+    "answer": "خاصك تدير فحص كامل باش تعرف واش عندك حصاة. هادشي مهم.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن نقترحو شي خطة غذائية لواحد عندو مرض فالمعدة و دار عملية على المصرانة؟",
+    "answer": "باش نعطيو برنامج غذائي خاصنا نعرفو الحالة ديالو مزيان. خاص استشارة طبيب مختص باش يحدد شنو هو الأنسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي دوا لمرض الميوسكيل ديستري؟",
+    "answer": "ما كاينش علاج نهائي لهاد المرض، ولكن العلاج الطبيعي والعلاج بالأجهزة التعويضية كيقدرو يعاونو المريض. خاصو يتابع مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأعصاب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي عدوى من جماع راجل فيه مرض الكبد الوبائي؟",
+    "answer": "إلا خديتي الجرعات كاملة، ماكاينش خوف. ولكن استعمال الواقي كيزيد من الأمان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش الإصابة بمرض التيفوئيد كتعني بلي المريض عندو مرض مزمن؟",
+    "answer": "كاين احتمال يتصاب بالمرض مرة أخرى، ولكن خاصو يتعالج بمضادات حيوية. خاصو يتابع مع طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي فيروس د الانفلوانزا، واش خاصني نراجع شي طبيب؟",
+    "answer": "إلا كانت الأعراض خفيفة، ما كاينش مشكل. ولكن إلا كان عندك سخانة ولا أعراض أخرى، خاصك تمشي للطبيب.",
+    "entities": {
+      "symptoms": [
+        "فيروس الانفلوانزا"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "ولدي عندو 16 عام و كيعاني من عطاس بزاف، شنو خاصو يدير؟",
+    "answer": "خاصو يمشي عند الطبيب باش يشوف واش كاين شي حساسية ولا التهاب. الطبيب غادي يعرف شنو خاصو يدير.",
+    "entities": {
+      "symptoms": [
+        "عطاس"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "ولدي عندو ستة أيام وهو مريض بزاف. كيفاش كيتعامل معاه هاد المرض؟",
+    "answer": "خاصك تمشي لمستشفى متخصص فهاد الحالات. غادي يعطيوك المعلومات اللازمة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "زوجي عندو مرض القلب، واش هادشي كيأثر على ولادي؟",
+    "answer": "ماشي بالضرورة، ولكن خاصك تراقبي صحتهم. استشيري طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "القلب",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو متلازمة كليبل-ترينوني-ويبر، وكيفاش كايتعالج؟",
+    "answer": "هاد الحالة كتسبب أورام دموية، وماكاينش علاج نهائي. العلاج كيكون باش يعالج الأعراض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش الجدري المائي كايسبب النوبات؟",
+    "answer": "الجدري كيمكن يكون خطير على الكبار، وكيقدر يسبب مضاعفات. خاصنا نديرو الفاكسان.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كيبان سرطان الثدي عند لبنات لي عندهم أقل من 20 عام؟",
+    "answer": "سرطان الثدي نادر عند البنات تحت 20 عام، ولكن خاصهم يراقبو حالتهم الصحية. من الأفضل استشارة طبيب إذا كان عندهم عوامل وراثية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأورام",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي مرض كيمنع الزواج إلا كان الفايروس خاوي؟",
+    "answer": "التهاب الكبد نوع 'بي' كينتقل عن طريق الجماع حتى إلا ما كانش الفايروس. خاصك تكوني حذرة وتستشيري طبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش الزواج من الأقارب خطير؟",
+    "answer": "الزواج بين الأقارب كيزيد من احتمال الأمراض الوراثية، ولكن ماشي دائما خطير. خاصك تكوني واعية بالعوامل الوراثية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن يتلوث دم ولدي بعد ما خدا حقنة مضادة للفيروس؟",
+    "answer": "نعم، خاصك تراقبي ولدك وتاخدي ليه لطبيب إذا كان عنده أي أعراض. من الأفضل يكون عنده فحص دوري.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي 33 عام وعندي مرض فالعضلات ديال اليدين، شنو ندير؟",
+    "answer": "هاد المرض يقدر يكون وراثي، خاصك تشوفي طبيب أعصاب. العلاج الطبيعي مهم ويحتاج لصبر.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض العصبية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش يمكن ليا ندير تحليل فيروس الإيدز من نهار عرفتو بالتعرض ليه؟",
+    "answer": "فترة الحضانة ديال فيروس الإيدز كتكون طويلة، خاصك تعاودي الفحص بعد 6 شهور. النتيجة ممكن تكون سلبية في البداية.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي ألم فالبطن وكنحس بحال نار كتمشي فكرشي.",
+    "answer": "خاصك تمشي للطبيب باش يشوف هاد الألم. يمكن يكون التهاب فالبطن ولا قرحة. العلاج كيتحدد حسب السبب.",
+    "entities": {
+      "symptoms": [
+        "ألم فالبطن",
+        "حس بالنار"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي جوج بنات مصابين بنقص فالكرياتين، وخايفة نولد بحالهم. واش يمكن لي ندير فحص للجنين؟",
+    "answer": "يمكن تدير فحص جيني للجنين باش تعرفي إذا كان عندو نفس المشكل. خاصكم تخبرونا عن التحاليل السابقة اللي دارو بناتك. هادشي غادي يعاونكم تعرفو الحالة بشكل أفضل.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الوراثة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي فيروس سي وبديت العلاج، ولكن بعد شهر النتائج كانت 0. واش هادشي مزيان؟",
+    "answer": "نتائج 0 كتعني أن الفيروس ما بقاش كيتواجد فالجسم. خاصك تكمل العلاج وتتابع مع الطبيب. هادشي مزيان ولكن خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي قرحة فالمعدة وجرثومة. شنو العلاج؟",
+    "answer": "خاصك تاخد أدوية مثل أوميبرازول و كلاريثروميسين. تابع مع الطبيب ديالك باش يحدد لك الجرعات المناسبة. العلاج كياخد وقت ولكن غادي تحس بتحسن.",
+    "entities": {
+      "symptoms": [
+        "قرحة فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي فقدان الشم من بعد البرد. واش كاين علاج؟",
+    "answer": "فقدان الشم كيتسبب من التهابات فالجهاز التنفسي. خاصك تمشي للطبيب باش يشوف الحالة ديالك. العلاج غادي يساعدك ترجع حاسة الشم ديالك.",
+    "entities": {
+      "symptoms": [
+        "فقدان الشم"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نحميو راسنا من الفيروسات؟",
+    "answer": "خاصك تحافظ على النظافة، تغسل يديك بانتظام، وتجنب الأماكن المزدحمة. كذلك، حاول تتجنب لمس الوجه بلا غسل اليدين. هادشي غادي يعاونك تحمي راسك.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الوقاية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش الفيروس كيتنقل من واحد لواحد عن طريق الكلام؟",
+    "answer": "فيروس سي كيتنقل عن طريق السوائل ديال الجسم، ولكن ما كيتنقلش عن طريق الكلام. خاصك تكوني حذرة من الجروح والاحتكاك المباشر مع سوائل المصاب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "العدوى",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي إسهال وقرقعة فالبطن. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب. دير تحاليل للبراز وراقب الأعراض الأخرى. العلاج غادي يعتمد على السبب.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "قرقعة فالبطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي تأثيرات سلبية من الثلاسيميا على الصحة؟",
+    "answer": "الثلاسيميا كيمكن تسبب مشاكل صحية، ولكن إذا كان الشخص كياكل مزيان، ما كاين حتى ضرر كبير. خاص الواحد يراقب صحته ويتبع نصائح الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الدم",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي دوا لحمى البحر المتوسط؟",
+    "answer": "ما كاينش دوا معروف لهاد المرض، ولكن كاين أدوية كتساعد فالتخفيف من الأعراض. خاصك تتبع مع طبيبك باش يحدد لك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الالتهابية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع ف راسي وسخانة، الطبيب قال عندي التيفوئيد وعطاني دوا.",
+    "answer": "الألم ممكن يكون بسبب الحرارة والضعف. خاصك تتابع مع الطبيب وتاخد العلاج بانتظام.",
+    "entities": {
+      "symptoms": [
+        "وجع ف راسي",
+        "سخانة"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي حمى وكنستعمل دوا ديال أومادار مع بولميكورت.",
+    "answer": "يمكن يكون عندك ارتجاع من المعدة للمريء. خاصك تشاور طبيب مختص فالجهاز الهضمي.",
+    "entities": {
+      "symptoms": [
+        "حمى"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي الحموضة وارتجاع المريء، بغيت نعرف واش العلاج الجراحي مفيد.",
+    "answer": "خاصك توضح لينا شنو كان العلاج اللي خديتي. الجراحة ممكن تكون خيار، ولكن خاصك استشارة طبيب.",
+    "entities": {
+      "symptoms": [
+        "حموضة",
+        "ارتجاع المريء"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو نظام العلاج الحديث لسل الجهاز الهضمي؟",
+    "answer": "العلاج كيتطلب مضادات حيوية لفترة طويلة. خاصك متابعة طبية دقيقة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "خويا مصاب بالتهاب الكبد الفيروسي، شنو هو آخر علاج؟",
+    "answer": "العلاج كيتحدد حسب نوع التهاب الكبد. خاصك متابعة مع طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "أنا عندي السكري، واش هادشي مرضي؟",
+    "answer": "السكري كيتسبب فمشاكل صحية، خاصك متابعة طبية وعلاج مناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المزمنة",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كنحس بالوجع فكرشي كل صباح، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب إذا كان الألم مستمر. يمكن يكون عندك مشكلة فالجهاز الهضمي.",
+    "entities": {
+      "symptoms": [
+        "وجع فكرشي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كايتعالجو البالغين لي عندهم متلازمة كلاينفلتر؟",
+    "answer": "علاج التيستوستيرون ممكن يكون مفيد لبعض الأشخاص. خاصك استشارة طبيب مختص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "أنا عندي مشكل فالباسور، شنو ندير؟",
+    "answer": "خاصك تشوف طبيب مختص فالأمراض الجلدية. العلاج كيتطلب متابعة.",
+    "entities": {
+      "symptoms": [
+        "مشكل فالباسور"
+      ],
+      "medical_field": "الأمراض الجلدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي حمور فالمؤخرة ووجع فالمفاصل والحلق. واش كاين احتمال الإيدز؟",
+    "answer": "احتمال انتقال الإيدز قليل حيث العلاقة كانت محمية. خاصك دير فحص الإيدز باش تأكد الحالة ديالك.",
+    "entities": {
+      "symptoms": [
+        "حمور",
+        "وجع فالمفاصل",
+        "وجع فالحلق"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عافاك، عندي التهاب فالمعدة وكنحس بالألم. شنو ندير؟",
+    "answer": "خاصك تراجع الطبيب باش يعرف السبب. يمكن يكون عندك التهاب ولا قرحة فالمعدة.",
+    "entities": {
+      "symptoms": [
+        "ألم فالمعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "علاش كاينة الحازوقة بعد الماكلة؟ واش كاين شي مشكل؟",
+    "answer": "الحازوقة كاتجي بسبب تحفيز العصب اللي كيتحكم فالحجاب الحاجز. ما كاينش مشكل كبير، ولكن إذا كانت متكررة خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حازوقة"
+      ],
+      "medical_field": "الجهاز التنفسي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش ممكن تصاب بفيروس الكبد بعد الحقنة الثالثة؟",
+    "answer": "خاصك تراقب الوضعية ديالك مع الطبيب. النزيف ممكن يكون بسبب مشاكل فالكبد، وهادشي خاصو فحص.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي وجع فالمعدة فالصباح وكيجي معاه الإسهال. شنو ندير؟",
+    "answer": "خاصك تشوف طبيب باش يعرف السبب. يمكن يكون عندك قرحة ولا التهاب فالمعدة.",
+    "entities": {
+      "symptoms": [
+        "وجع فالمعدة",
+        "إسهال"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "سافرت لسوريا وكنت مع ناس مصابين بالجرب. واش ممكن نكون مصاب؟",
+    "answer": "يمكن تكون خديت العدوى، حيث كيبان المرض من بعد 4 ل 8 سيمانات. خاصك تراقب أي أعراض وتراجع الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هي أعراض الكبد الوبائي وكيفاش كيتنقل؟",
+    "answer": "أعراض الكبد الوبائي كتكون الحمى والتعب وفقدان الشهية. كيتنقل عن طريق تلوث الدم والعلاقة الجنسية غير الآمنة.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "تعب",
+        "فقدان الشهية"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي إمساك قاصح. شنو ناكل وشنو ما ناكلش؟",
+    "answer": "خاصك تتجنب الأطعمة الحارة والحوامض. كاينين مضادات الحموضة اللي يمكن تعاونوك.",
+    "entities": {
+      "symptoms": [
+        "إمساك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نعرف أني مصاب بالسل؟",
+    "answer": "أعراض السل كتشمل السعال المستمر وضيق النفس. خاصك تشوف طبيب باش يدير ليك الفحوصات.",
+    "entities": {
+      "symptoms": [
+        "سعال مستمر",
+        "ضيق نفس"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي إمساك وكرشي كاضرني.",
+    "answer": "خاصك تشوف طبيب باش يدير ليك التحاليل اللازمة. يمكن تكون عندك مشكلة في الجهاز الهضمي. عافاك حاول تشرب الما وتاكل الخضار.",
+    "entities": {
+      "symptoms": [
+        "إمساك",
+        "ألم في البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هي الأميبا المهيجة؟",
+    "answer": "الأميبا المهيجة كتعني عدوى في الأمعاء. العلاج كيتضمن دوا بحال ميتريدونازول. خاصك تتبع تعليمات الطبيب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي التهاب القولون، البراز فيه مخاط وصعيب يخرج.",
+    "answer": "خاصك تراجع طبيب مختص في الجهاز الهضمي. يمكن تحتاج تحاليل إضافية أو تغيير في العلاج. عافاك عطينا تفاصيل أكثر.",
+    "entities": {
+      "symptoms": [
+        "مخاط في البراز"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كاين شي حل للحموضة؟",
+    "answer": "يمكن التخفيف من الحموضة بتجنب الأطعمة الحارة والدهنية. حاول تأكل وجبات صغيرة ومتكررة. إذا استمرت الأعراض، خاصك تشوف طبيب.",
+    "entities": {
+      "symptoms": [
+        "حموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "زوجي عندو مشكل فالمعدة.",
+    "answer": "خاصه يمشي لطبيب مختص في الجهاز الهضمي. يمكن يحتاج لتنظير هضمي باش يعرف السبب. عافاك تابعي معاه.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي مشكل فالمعدة وريحة الفم ديالي تبدلات.",
+    "answer": "يمكن يكون عندك التهاب في اللثة أو المعدة. خاصك تشوف طبيب الأسنان أو طبيب مختص. عافاك حاولي تعطي تفاصيل أكثر.",
+    "entities": {
+      "symptoms": [
+        "ريحة الفم خايبة",
+        "ألم في المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين خطر نتشاركو فالعناق باش نمرضو بمرض أيدز؟",
+    "answer": "الإيدز كيتنقل عن طريق الدم والسوائل الجسدية. ما كيتنقلش عن طريق العناق إلا إذا كان جرح. خاصك تكوني حذرة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو العلاج لقرحة المعدة؟",
+    "answer": "العلاج كيتضمن مضادات الحموضة وتغيير النظام الغذائي. خاصك تجنب الأطعمة الحارة والكحول. عافاك استشيري طبيبك.",
+    "entities": {
+      "symptoms": [
+        "قرحة المعدة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هي أنواع الأمراض الوراثية؟",
+    "answer": "كاينين أمراض جينية وأمراض كروموسومية. الأمراض الجينية كتكون نتيجة خلل في الجينات. أما الكروموسومية كتعني تغييرات في الكروموسومات.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي إسهال عام كامل وخديت دوا من الطبيب ولكن ماخدامش. دابا كتحس بشي قرقرة فأسفل البطن.",
+    "answer": "خاصك تمشي عند طبيب الجهاز الهضمي باش يعرف السبب. الإهمال ممكن يزيد الأمور سوءً، خاصك تتشاور معاه بسرعة.",
+    "entities": {
+      "symptoms": [
+        "إسهال",
+        "قرقرة فأسفل البطن"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش مرض التيفوئيد خطير؟ شنو هي أعراضو؟",
+    "answer": "مرض التيفوئيد كيتسبب فحمى، صداع، وإسهال. العلاج كيتطلب استشارة طبيب واتباع العلاج المناسب.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "صداع",
+        "إسهال"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "كيفاش نحميو الدراري من مرض بوشوكة؟",
+    "answer": "خاص الدراري ياخدو مطعوم الجدري من عام وربع سنين. هاد المطعوم كيعطيهم مناعة ضد المرض.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "منخفض"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو فيروس كورونا؟",
+    "answer": "فيروس كورونا كيتسبب فحمى وسعال وضيق تنفس. الأعراض كيمكن تتطور إلى التهاب رئوي خطير.",
+    "entities": {
+      "symptoms": [
+        "حمى",
+        "سعال",
+        "ضيق تنفس"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي إمساك بزاف فاش كاناكل.",
+    "answer": "الإمساك كيتطلب استشارة طبيب باش يعرف السبب. خاصك تتجنب الأطعمة اللي كتعكر المعدة وتزيد من شرب الماء.",
+    "entities": {
+      "symptoms": [
+        "إمساك"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين علاج لفيروس الكبد؟",
+    "answer": "التهاب الكبد كيتطلب أدوية خاصة تحت إشراف طبيب. خاصك تكون صبور حيت العلاج كياخد وقت.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "أنا مصاب بمرض الضغط الخبيث. شنو العلاج؟",
+    "answer": "ضغط الدم الخبيث كيتطلب علاج خاص لتقليل الضغط. خاصك تتبع نظام غذائي صحي وتكون نشيط.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض القلبية",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاينة شي حاجة خايبة فالمعدة؟",
+    "answer": "التهاب المعدة كيجي من عدة أسباب، بحال الأكل الخايب أو التوتر. خاصك تشوف طبيب باش يعرف السبب ويعطيك العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو سبب الحموضة وشنو العلاج ديالها؟",
+    "answer": "الحموضة كتجي من التهاب المعدة أو بعض العادات الغذائية. العلاج كيتضمن مضادات الحموضة بحال مالوكس، وتجنب الماكلة الحارة والمشروبات الغازية.",
+    "entities": {
+      "symptoms": [
+        "حموضة"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش التهاب الكبد قابل للعلاج؟",
+    "answer": "بزاف من حالات التهاب الكبد كيتعافاو بوحدهم، ولكن كاينين حالات خاصهم علاج مبكر. إذا كان عندك فيروس نقص المناعة، خاصك علاج خاص باش تحمي الكبد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هو مرض الحمى البحرية وشنو هو العلاج ديالو؟",
+    "answer": "الحمى البحرية هي عدوى كتجي من بكتيريا البروسيلا. العلاج كيتطلب مضادات حيوية، وضروري تشوف طبيب لتحديد العلاج المناسب.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش ممكن يجيبو الدراري هاد المرض من هاد الزواج؟",
+    "answer": "فقر الدم المنجلي كيتنقل من الوالدين اللي عندهم الجين المتنحي. العلاج موجود، ولكن ما كاينش علاج نهائي.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض الوراثية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "علاش كايوقع القرحة فالمعدة وشنو هوما الوقاية منها؟",
+    "answer": "القرحة كتوقع بسبب زيادة الحمض أو ضعف الجدار ديال المعدة. الوقاية كتعتمد على الأكل الصحي وتجنب العادات الغذائية الخايبة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش مرض الحمى المالطية معدي بين البشر؟",
+    "answer": "الحمى المالطية كتنقل من الحيوانات للإنسان، وكتأثر خاصة بالمزارعين. خاصك تتجنب الاتصال المباشر مع الحيوانات المصابة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي انتفاخ فالبطن على اليمين وكيجرحني ملي كنجري.",
+    "answer": "خاصك تراجع الطبيب باش يعرف السبب. يمكن يكون بسبب الغازات أو شي عدوى. تجنب الماكلة لي كتسبب لك الغازات.",
+    "entities": {
+      "symptoms": [
+        "انتفاخ فالبطن",
+        "وجع"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي البيبي ولون البراز ديالو تبدل وولا كحل. شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف البراز. يمكن يكون بسبب شي أكل أو جرح فالمعدة. من الأفضل ما تتأخريش.",
+    "entities": {
+      "symptoms": [
+        "تغير لون البراز"
+      ],
+      "medical_field": "طب الأطفال",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي صداع مستمر وكنعاني من التهاب فالجهاز الهضمي. شنو ندير؟",
+    "answer": "خاصك تمشي للطبيب باش يشوف حالتك. الإسهال المستمر يمكن يكون علامة على مشكل أكبر. ما تتأخريش في العلاج.",
+    "entities": {
+      "symptoms": [
+        "صداع",
+        "التهاب فالجهاز الهضمي"
+      ],
+      "medical_field": "الجهاز الهضمي",
+      "urgency": "عالي"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش كاين شي علاج لمتلازمة كريبيلر ناجر للحامل؟",
+    "answer": "ماكاينش علاج لمتلازمة كريبيلر ناجر. خاصك تستشيري طبيب مختص فالجينات. يمكن ديروا اختبارات قبل الولادة.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الطب الوراثي",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "عندي احمرار فالفخذين وكنشك فالإيدز. شنو ندير؟",
+    "answer": "استعملي الواقي الذكري، ولكن خاصك دير فحص للإيدز باش تتأكدي. الاحمرار يمكن يكون بسبب شي حاجة أخرى. ما تتقلقيش بزاف.",
+    "entities": {
+      "symptoms": [
+        "احمرار فالفخذين",
+        "إرهاق"
+      ],
+      "medical_field": "الأمراض المعدية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "واش مرض بهجت وراثي؟",
+    "answer": "مرض بهجت يمكن يكون وراثي، ولكن خاص أعراض أخرى بحال التقرحات. خاصك تراجعي طبيب مختص باش يشخص الحالة. الله يبارك فيك بالصحة.",
+    "entities": {
+      "symptoms": [
+        "تقرحات"
+      ],
+      "medical_field": "الأمراض المناعية",
+      "urgency": "متوسط"
+    }
+  },
+  {
+    "category": "Infectious Diseases",
+    "question_darija": "شنو هي الماكلة المزيانة لالتهاب الكبد؟",
+    "answer": "خاصك تاكل أطعمة غنية بالبروتينات والكربوهيدرات. تجنب الأكل الملوث واهتم بالفطور. العسل الأبيض مفيد.",
+    "entities": {
+      "symptoms": [],
+      "medical_field": "الكبد",
+      "urgency": "متوسط"
+    }
+  }
+]
