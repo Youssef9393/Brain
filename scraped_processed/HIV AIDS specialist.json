@@ -1,0 +1,3090 @@
+[
+  {
+    "question": "I have taken an HIV (human immunodeficiency virus) CMIA (chemiluminescent microparticle immunoassay) test on the 26th day after a sexual encounter. The result came back negative.",
+    "context_question": "I took an HIV test on day 26 after exposure, which was negative. Afterward, I had protected sex but saw blood on my partner and had two pimples on my penis.",
+    "answer": "The HIV test taken on day 26 is reassuring, but a confirmatory test is needed at three months. Your symptoms may not indicate HIV. Consider tests for other STIs and check vitamin D3 and B12 levels.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "confirmatory HIV",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "blood on the inner parts of my partner",
+        "two pimples on my penis"
+      ],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV CMIA test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I am a male. I had unprotected vaginal sex single exposure with a girl.",
+    "context_question": "I had unprotected vaginal sex with a girl. Nine months later, I found she is HIV positive. Is my negative result conclusive?",
+    "answer": "The accuracy of your HIV test depends on the type and timing. Antibodies typically become detectable 15-23 days after exposure, but there is a brief period when false negatives can occur.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had tested with five different manufacturers of HIV rapid kits at home after three to four sexual exposures. Present symptoms include pain in the body, weakness, palpitations, and a conti",
+    "context_question": "I tested with five HIV rapid kits after three to four exposures. I have symptoms like body pain, weakness, and palpitations.",
+    "answer": "No need to worry about HIV. Your symptoms are likely due to stress and anxiety, not HIV. There is no need for further testing.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in the body",
+        "weakness",
+        "palpitations"
+      ],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a recent HIV exposure. After that, I have taken an HIV duo non-reactive test and HIV RNA quantitative test.",
+    "context_question": "After a recent HIV exposure, I took an HIV duo non-reactive test and RNA quantitative test. Now I have skin rashes, body pain, neck pain, and back pain.",
+    "answer": "Both the HIV duo test and RNA test are negative. Your symptoms may be due to other reasons. For rashes, take Montek LC and apply Betnovate C if needed. For body pain, take Flexon MR.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Diclofenac",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Montek LC",
+        "Betnovate C",
+        "Flexon MR"
+      ],
+      "sympt": [
+        "skin rashes",
+        "body pain",
+        "neck pain",
+        "back pain"
+      ],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV duo test",
+        "HIV RNA quantitative test"
+      ],
+      "Result": [
+        "non-reactive",
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I have an immense fear of testing for HIV. It took me years to gather the courage to buy an OraQuick home test, which I took a year ago and came up negative.",
+    "context_question": "I fear testing for HIV. I took an OraQuick home test a year ago, which was negative, but I worry I contracted it earlier.",
+    "answer": "Your negative rapid test after a year is sufficient time for antibodies to develop. You are HIV negative. Pregnancy or autoimmune disorders can cause false results, but your test is reliable.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "test for HIV",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [
+        "OraQuick home test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I spent three nights with a girl I met online a week ago. There was no intercourse, but we had unprotected oral sex, mutual masturbation, and kissing.",
+    "context_question": "I had unprotected oral sex, mutual masturbation, and kissing with a girl I met online. Am I at risk of HIV?",
+    "answer": "Unprotected oral sex carries a low risk for HIV. Mutual masturbation and kissing are safe. Get tested for HIV at four weeks and confirm with an antibody test at three months if negative.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "tested for HIV",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had protected vaginal sex with a girl I had known for just five days, this was a month ago. It was our first encounter.",
+    "context_question": "I had protected vaginal sex and unprotected oral sex a month ago. I experienced pain in my testicles and stomach and weakness afterward.",
+    "answer": "Prostatitis can cause lingering symptoms. Treatment may require long-term therapy. Follow up with your healthcare provider for ongoing symptoms.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "treatment for prostatitis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in my testicles",
+        "stomach pain",
+        "weakness"
+      ],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [
+        "urine and semen samples for culture testing"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "It has been 22 months since my last exposure to HIV. I had done the TRI-DOT test, and comb AIDS test eight months after exposure to HIV, but they were negative.",
+    "context_question": "It has been 22 months since my last exposure to HIV. I had TRI-DOT and comb AIDS tests eight months after exposure, both negative. I have symptoms like ear pain and sore throat.",
+    "answer": "If HIV antibodies are negative after three months, it is conclusive. Your symptoms are non-specific and not related to HIV. Consult your physician for management.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "immunodeficiency",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "ear pain",
+        "sore throat",
+        "cold",
+        "runny nose"
+      ],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [
+        "TRI-DOT test",
+        "comb AIDS test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I met a girl for my remarriage. Her ex-husband was an HIV-affected person.",
+    "context_question": "I met a girl for remarriage whose ex-husband was HIV positive. She tested non-reactive after their separation. What should I do?",
+    "answer": "The girl tested non-reactive after her last contact with her ex-husband. Ensure the timing of her last HIV test was appropriate. Consider getting your own HIV rapid test.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV rapid test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am writing to request some information regarding the use and reliability of Biosynex HIV self-tests. I performed a first self-test strictly following the instructions.",
+    "context_question": "I performed a Biosynex HIV self-test and got a negative result. I am anxious about the reliability of the test.",
+    "answer": "Using a phone's flash does not affect the accuracy of the Biosynex HIV self-test. The test's internal process is not influenced by external light.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "anxiety",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [
+        "Biosynex HIV self-test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I had unprotected sex with a CSW (community sex worker) last month. Two days later, I got her tested at a reputed pathology laboratory for HIV (human immunodeficiency virus), 4th generat",
+    "context_question": "I had unprotected sex with a CSW last month. I tested her for HIV two days later, and all tests were negative.",
+    "answer": "The HIV 4th generation duo antigen/antibody test is negative after 31 days. The chances of later positivity are almost nil. Consider an HIV antibody test after three months for reassurance.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "human immunodeficiency virus",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV 4th generation duo antigen/antibody test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "What is the period during which HIV will be detected in blood by using available test methods? Please give the minimum and maximum period details.",
+    "context_question": "What is the detection period for HIV using available tests?",
+    "answer": "HIV can be detected as early as four days after exposure. A conclusive result is suggested after three months of exposure.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had protected sex with a commercial sex worker. I was worried, so I underwent an HIV (Human Immunodeficiency Virus) combo test along with p24 antigen screening after 34 days, which cam",
+    "context_question": "I had protected sex with a commercial sex worker and tested negative after 34 days. I have flu symptoms and am worried about my test results.",
+    "answer": "The chances of HIV transmission through protected intercourse are almost nil. Your negative test results are reliable. Consider an HIV antibody test after three months for reassurance.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "flu symptoms"
+      ],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV combo test",
+        "p24 antigen screening"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I have a skin allergy, rashes, hives, and weight loss.",
+    "context_question": "I have a skin allergy, rashes, hives, and weight loss. Kindly help.",
+    "answer": "I would like to know the duration of your complaints. Please upload images of the rashes if available. Have you taken any treatment already?",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "skin allergy",
+        "rashes",
+        "hives",
+        "weight loss"
+      ],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "How reliable is the HIV (human immunodeficiency virus) rapid blood test after six months of my last exposure?",
+    "context_question": "How reliable is the HIV rapid blood test after six months of exposure?",
+    "answer": "HIV tests are considered conclusive at 12 weeks after the last exposure. A negative result at six months is definitive, and no further testing is needed.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 23-year-old female, and I have been sharing cups of water and straws, and occasional food with a friend for a few years. The friend is no more, but I do not know if she was HIV po",
+    "context_question": "I am a 23-year-old female who shared cups and food with a friend. I am worried about the risk of HIV transmission.",
+    "answer": "You need not worry about HIV unless you had direct blood contact or sexual contact. Sharing cups and food does not pose a risk.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "23"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Two months back, I met a girl, and we ended up back in my room. Long story short, she performed oral on me for about 30 seconds, and I performed oral on her for maybe about the same, les",
+    "context_question": "Two months ago, I had oral sex with a girl. I felt weird after my friend got sick. Am I at risk for HIV?",
+    "answer": "You are negative for HIV based on tests. Your symptoms are likely due to other factors, not HIV. You are free from HIV.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV infection",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV/AIDS"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had unprotected sex one year back, and the next day I told her to get tested; she was negative. I got tested myself after 12 weeks (tridot antibody test).",
+    "context_question": "Had unprotected sex a year ago; partner tested negative. I tested after 12 weeks and again after eight months, both negative. Had another instance of rubbing against my partner.",
+    "answer": "You have no evidence of HIV. Your tests at 12 weeks and eight months were negative, which are conclusive. Repeating tests only further confirms this.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "human immunodeficiency virus (HIV)",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "tridot antibody test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I had unprotected sex 15 months back; the next day I tested the girl, she was negative, and after that I tested again after 12 weeks. I had taken the tridot antibody test, and later I had taken a test seven months later, which was also negative. After that, I had an unprotected romance. I removed my clothes, but the woman is wearing them.",
+    "context_question": "Had unprotected sex 15 months ago; partner tested negative. I tested again after 12 weeks and seven months, both negative. Had unprotected romance afterward.",
+    "answer": "You do not need to worry about HIV. Your multiple negative tests are conclusive. A negative test at 12 weeks is definitive, and you have tested negative repeatedly.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV (human immunodeficiency virus)",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "tridot antibody test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "The doctor told me to test for a retrovirus. Unfortunately, it came positive.",
+    "context_question": "Tested positive for a retrovirus; doctor suggested it might be HIV. Blood sample confirmed HIV 1, and treatment started.",
+    "answer": "You have HIV, confirmed by tests. You can get tested for RNA PCR. Efavirenz may cause side effects, but they will subside. You need Benzathine penicillin for syphilis.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV test",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Efavirenz",
+        "Benzathine penicillin"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Last week, I had a sexual encounter with a girl. I did not have any penetrative sex, but I rubbed my penis against her vagina for two to three times.",
+    "context_question": "Had a sexual encounter last week; no penetrative sex, just rubbing against vagina. Worried about HIV exposure.",
+    "answer": "There is a low risk of HIV from your activities. You should get an HIV RNA test and also test for antibodies and p24 antigen levels.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HIV RNA test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had unprotected sex about 7 to 8 months ago. I got tested on the 12th day using a PCR (Polymerase Chain Reaction) test.",
+    "context_question": "Had unprotected sex 7 to 8 months ago; tested on the 12th day with PCR test, then Anti-HIV 1/2 test, both negative. Noticed bumps on arms.",
+    "answer": "Your negative PCR test after 12 days is sensitive, but an HIV antibody test is recommended for conclusive results. The bumps may not be related to HIV.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "PCR (Polymerase Chain Reaction) test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "bumps on arms"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "PCR test",
+        "Anti-HIV 1/2 test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I received a preliminary reactive HIV test result, followed by two confirmatory tests that were negative more than 30 days after my last sexual encounter. For reference, I am 34 years old, 5'3', and weigh 181 lbs. Please help. Thank you.",
+    "context_question": "Received a preliminary reactive HIV test, followed by two negative confirmatory tests over 30 days after last sexual encounter. Concerned about results.",
+    "answer": "Preliminary reactive tests can give false results. Your two negative confirmatory tests are reassuring. Testing accuracy is not usually affected by height and weight.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "human immunodeficiency virus",
+    "entities": {
+      "age": [
+        "34"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I had protected sex with a hooker, and there was no exchange of body fluids. I was a little worried that the condom may not be 100% effective, so I ran a PCR RNA test after 11 days to check.",
+    "context_question": "Had protected sex with a hooker; no body fluid exchange. Worried about condom effectiveness, ran PCR RNA test after 11 days, which was negative.",
+    "answer": "PCR RNA test cannot be confirmatory after 11 days. Minimum time for a confirmatory result is 30 days. You can be at peace as you used condoms.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "PCR RNA test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I had sex with a massage girl a month back with a condom. But I am not sure about condom break.",
+    "context_question": "Had sex with a massage girl a month ago with a condom; unsure if it broke. Tested negative for HIV-1 RNA after 21 days.",
+    "answer": "You need to go for a fourth-generation ELISA test for confirmation. Testing is recommended to ensure safety.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "ELISA",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had my first sex with a sex worker 14 days ago with condom protection. My body gets itchy in the chest, forearms, and back of the spinal region, and the itching is not severe.",
+    "context_question": "Had first sex with a sex worker 14 days ago with condom protection; experiencing mild itching in chest and forearms.",
+    "answer": "Itching may be due to irritation or over-cleaning. Maintain hygiene and use moisturizing lotions. The chances of HIV transmission are very low with proper condom use.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "polymerase chain reaction (PCR) tests",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Cetirizine"
+      ],
+      "sympt": [
+        "itching",
+        "pimple-like formations"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HIV PCR tests"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had unprotected oral sex for three minutes and she was not bleeding at the time from what I know. I got tested for proviral DNA (Deoxyribonucleic acid) PCR (Polymerase Chain Reaction) qualitative test at 10 days negative and duo test at 13 days negative.",
+    "context_question": "Had unprotected oral sex for three minutes; tested negative for proviral DNA PCR at 10 days and duo test at 13 days.",
+    "answer": "You need further testing at four and 12 weeks for confirmation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "testing",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "proviral DNA PCR",
+        "duo test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I have done some stupid things in my life. I had safe sex, but with many different girls.",
+    "context_question": "Had safe sex with multiple partners; noticed a condom tip broke during the fourth encounter and took PEP.",
+    "answer": "Chances of HIV infection are very low due to condom use and precautions. Limit sexual encounters to reduce risk.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "human immunodeficiency virus",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "PEP"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had an exposure with an HIV positive lady four months ago, and since then, up to a week back, all my fourth-generation tests came negative, as well as my VDRL was negative and also negative for HBsAg and hepatitis C.",
+    "context_question": "Had exposure to HIV positive lady four months ago; all fourth-generation tests and VDRL tests were negative.",
+    "answer": "A negative fourth-generation test after three weeks indicates a very low possibility of infection. You can repeat another test for confirmation.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "fourth-generation tests",
+        "VDRL",
+        "RNA PCR test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I am a 29-year-old male homosexual. I had a sexual encounter 15 days ago with a confirmed HIV positive guy.",
+    "context_question": "29-year-old male had a sexual encounter 15 days ago with a confirmed HIV positive partner.",
+    "answer": "There is a risk of transmission. Get tested for HIV RNA or p24 antigen now, and repeat testing after two weeks.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "29"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HIV RNA",
+        "p24 antigen test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Is HIV (Human Immunodeficiency Virus) RNA (Ribonucleic Acid), QL TMA (Qualitative transcription-mediated amplification) accurate after 20 to 21 days of exposure? And also, this came with my results. RNA is not detected. No laboratory evidence of HIV infection.",
+    "context_question": "Inquired about the accuracy of HIV RNA QL TMA test after 20 to 21 days of exposure; results showed no HIV detected.",
+    "answer": "HIV RNA PCR test is accurate after 9 to 13 days. It should be followed by a more sensitive test at four and 12 weeks for confirmation.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV screening test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HIV RNA PCR"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 29 years old. I had protected sex with a call girl for five months.",
+    "context_question": "29-year-old had protected sex with a call girl for five months; underwent ELISA test for HIV, result was non-reactive.",
+    "answer": "ELISA is highly reliable after three months. Your non-reactive result confirms you are not at risk for HIV.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "post-exposure prophylaxis",
+    "entities": {
+      "age": [
+        "29"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "ELISA"
+      ],
+      "Result": [
+        "non-reactive"
+      ]
+    }
+  },
+  {
+    "question": "My partner is HIV (Human Immunodeficiency Virus) positive, and I had protected sex for 30 seconds using a condom. After one week, I developed fever, muscle aches, stomach pain, and red pimples on the genitals.",
+    "context_question": "Partner is HIV positive; had protected sex for 30 seconds. Developed fever, muscle aches, stomach pain, and red pimples a week later.",
+    "answer": "If tests after 45 days are negative, you are likely HIV negative. The fourth-generation ELISA test is very sensitive.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "fourth generation ELISA (enzyme-linked immunoassay)",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "fever",
+        "muscle aches",
+        "stomach pain",
+        "red pimples"
+      ],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My cousin is worried about having a human immunodeficiency virus (HIV). What are the first signs to look for?",
+    "context_question": "Cousin feels tired, losing weight, has fever, night sweats, and sore throat for a month. Are these related to HIV?",
+    "answer": "Symptoms may indicate HIV but could also relate to tuberculosis. Recommend PCR and Tuberculin tests. Consult a specialist for further evaluation and treatment.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "symptoms are HIV-related",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "tired",
+        "losing weight",
+        "fever",
+        "night sweats",
+        "sore throat"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [
+        "tuberculosis"
+      ],
+      "Test": [
+        "Polymerase chain reaction (PCR)",
+        "Tuberculin test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had unprotected sex two weeks ago with somebody I do not know that well. I am bunged up with a runny nose at times these two weeks, my neck hurts, and I have a cough with phlegm.",
+    "context_question": "Had unprotected sex two weeks ago, now has runny nose, neck pain, cough with phlegm, and red spots. Concerned about early HIV symptoms.",
+    "answer": "Symptoms are non-specific. HIV transmission risk from unprotected sex is low. Recommend HIV 1 and 2 RNA QN PCR test now and an antibody test after three months.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "runny nose",
+        "neck pain",
+        "cough with phlegm",
+        "red spots"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV 1 and 2 RNA QN PCR",
+        "HIV antibody test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had protected sex with a spa girl ten days back, and after three days, I started getting a runny nose and a sore throat. On the sixth day of the exposure, I went to the STD (sexually transmitted disease) clinic.",
+    "context_question": "Had protected sex ten days ago, developed runny nose and sore throat after three days. Went to STD clinic for HIV PCR and antigen-antibody tests.",
+    "answer": "Transmission risk from protected intercourse is negligible. If tests are negative, the likelihood of future positive results is low. Antibody test can confirm after three months.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "antibody test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "runny nose",
+        "sore throat"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV PCR",
+        "antigen-antibody test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 35-year-old female who had one-time unprotected sex with a 38-year-old male. His history is unknown, though he claims he is clean.",
+    "context_question": "35-year-old female had unprotected sex with a 38-year-old male. Interested in PCR RNA test accuracy at 11 days post-exposure.",
+    "answer": "Elisa kit test is recommended over RNA-PCR for early detection. If negative, most concerns are alleviated. Consider testing for STDs after three weeks.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "polymerase chain reaction",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [
+        "Elisa kit test",
+        "RNA-PCR test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 28-year-old male and had unprotected anal-vaginal intercourse with a sex worker, with me being the active partner. I was put on PEP immediately, within 11 hours post-exposure, and th",
+    "context_question": "28-year-old male had unprotected anal-vaginal intercourse with a sex worker and started PEP with TLE (Tenofovir, Lamuvidine, Efavirenz) within 11 hours.",
+    "answer": "Continue PEP regimen for 28 days. HIV PCR test is unreliable during PEP; wait until treatment is complete before testing.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "28"
+      ],
+      "medicament": [
+        "PEP",
+        "TLE (Tenofovir, Lamuvidine, Efavirenz)"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV PCR test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from a urinary infection for the last one week. I am unable to control urine.",
+    "context_question": "34-year-old female suffering from urinary infection for one week, unable to control urine, no medication taken yet.",
+    "answer": "Get a complete urine examination and culture. Recommend Levofloxacin and Darilong for treatment. Consult your doctor for proper treatment.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Darifenacin",
+    "entities": {
+      "age": [
+        "34"
+      ],
+      "medicament": [
+        "Levofloxacin",
+        "Darilong"
+      ],
+      "sympt": [
+        "urinary infection",
+        "unable to control urine"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "urine examination",
+        "urine culture"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had the following symptoms every few months for a long time now. Frequent urination, burning in perineum area, and discomfort after urination.",
+    "context_question": "Experiencing frequent urination, burning in perineum, and discomfort after urination. Treated for urethritis three times, no STDs.",
+    "answer": "Symptoms may indicate prostatitis. Further investigation needed, including reports on previous treatments and urine culture.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "prostatitis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "frequent urination",
+        "burning in perineum",
+        "discomfort after urination"
+      ],
+      "medical_field": [],
+      "disease": [
+        "prostatitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 60-year-old female. I have had a fever of around 102 degrees Fahrenheit for four days.",
+    "context_question": "60-year-old female with a fever of 102°F for four days, vomited initially, tested for dengue, malaria, and thyroid.",
+    "answer": "Common causes of fever include urinary tract infection, viral fever, pneumonia, and gastroenteritis. Suggest chest X-ray, urine examination, and start Levofloxacin.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "urinary tract infection",
+    "entities": {
+      "age": [
+        "60"
+      ],
+      "medicament": [
+        "Levofloxacin"
+      ],
+      "sympt": [
+        "fever",
+        "vomiting"
+      ],
+      "medical_field": [],
+      "disease": [
+        "urinary tract infection",
+        "viral fever",
+        "pneumonia",
+        "gastroenteritis"
+      ],
+      "Test": [
+        "chest X-ray",
+        "urine examination"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a urinary tract infection again. I had it two times within past two months.",
+    "context_question": "Recurrent urinary tract infection, previously treated with Sefdin and megatas, no improvement.",
+    "answer": "Start Levofloxacin, Alkamax, Pyridium, and Utwell for treatment. Recommend sitz bath and further tests including urine culture and ultrasound.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "urinary tract infection",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Levofloxacin",
+        "Alkamax",
+        "Pyridium",
+        "Utwell"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "urinary tract infection"
+      ],
+      "Test": [
+        "urine culture",
+        "ultrasound abdomen"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have observed white spots on the tip of my penis in the last few months. I do not have any pain or discomfort.",
+    "context_question": "Noticed white spots on penis tip for months, no pain or discomfort, unable to retract skin.",
+    "answer": "Need more information and possibly images for diagnosis. It may be due to irritation from masturbation.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "white spots",
+        "no pain",
+        "no discomfort"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been prescribed Levofloxacin for five days during my 13th week of pregnancy to treat a UTI. I am sensitive to Levofloxacin and mildly sensitive to Nitrofurantoin.",
+    "context_question": "Pregnant female in 13th week prescribed Levofloxacin for UTI, concerned about safety due to sensitivities.",
+    "answer": "UTIs are common in pregnancy. Recommend Cefixime and Cran-Max as safer alternatives. These medications are effective and safe during pregnancy.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Urinary tract infections",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Levofloxacin",
+        "Cefixime",
+        "Cran-Max"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "urinary tract infection"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 71 years old. He had a fever for a week, and the temperature raised up to 104 during the night along with frequent urination.",
+    "context_question": "71-year-old father with a week-long fever peaking at 104°F, experiencing frequent urination, currently on antibiotics.",
+    "answer": "Father may have sepsis; current antibiotics are inadequate. Recommend Levofloxacin and further tests like RBC and chest X-ray.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "sepsis",
+    "entities": {
+      "age": [
+        "71"
+      ],
+      "medicament": [
+        "Gudcef-CV 200",
+        "Monocef",
+        "Levofloxacin"
+      ],
+      "sympt": [
+        "fever",
+        "frequent urination"
+      ],
+      "medical_field": [],
+      "disease": [
+        "sepsis"
+      ],
+      "Test": [
+        "RBC",
+        "chest X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I was diagnosed with urinary tract infection (E.coli) three months back. I took Ciprofloxacin for 10 days, but there is no sign of improvement.",
+    "context_question": "Previously diagnosed with E.coli UTI, treated with Ciprofloxacin for 10 days, now experiencing back pain, body weakness, mild fever.",
+    "answer": "Symptoms suggest an upper urinary tract infection. Recommend urine test for E.coli and ultrasonography. Start Levoflox after culture.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "It looks like an upper urinary tract infection",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Ciprofloxacin",
+        "Levoflox"
+      ],
+      "sympt": [
+        "back pain",
+        "body weakness",
+        "mild fever"
+      ],
+      "medical_field": [],
+      "disease": [
+        "urinary tract infection"
+      ],
+      "Test": [
+        "urine test",
+        "ultrasonography"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 21 years old boy suffering from burning sensation in the upper part of the stomach with back pain. Also, I have to urinate many times and have the urge to urinate always.",
+    "context_question": "21-year-old male with burning sensation in stomach, back pain, frequent urination, and urge to urinate. Previously treated with Levofloxacin.",
+    "answer": "Burning sensation likely due to gastritis; frequent urination may indicate UTI. Recommend dietary changes and medications for both conditions.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "urinary tract infection",
+    "entities": {
+      "age": [
+        "21"
+      ],
+      "medicament": [
+        "Levofloxacin",
+        "Pantocid-d",
+        "Sompraz-L",
+        "Sucrafil O",
+        "Norflox",
+        "Citralka"
+      ],
+      "sympt": [
+        "burning sensation",
+        "back pain",
+        "frequent urination",
+        "urge to urinate"
+      ],
+      "medical_field": [],
+      "disease": [
+        "gastritis",
+        "urinary tract infection"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am uncircumcised and never had sex. I masturbate three to four times a month.",
+    "context_question": "Uncircumcised male with discomfort in penis, mild irritation, no pain during urination or masturbation.",
+    "answer": "Need images for diagnosis. Possible irritation from masturbation; recommend abstaining for two weeks.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "discomfort",
+        "mild irritation"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 59 years old male. I am suffering from urinary bladder distension with a bladder wall thickening of about 6 mm.",
+    "context_question": "59-year-old male with bladder distension and wall thickening, prescribed Levofloxacin, seeking confirmation of treatment.",
+    "answer": "Bladder distension may indicate cystitis. Recommend urine tests before starting antibiotics. Undescended testes may pose risks.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "59"
+      ],
+      "medicament": [
+        "Levofloxacin"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "cystitis"
+      ],
+      "Test": [
+        "urine routine",
+        "urine culture"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been prescribed Levaquin 500 mg (Levofloxacin) for sinus infection, and I am scared to have a heart problem or tendon rupture.",
+    "context_question": "Concerned about heart problems or tendon rupture from Levofloxacin after previous experience with soreness.",
+    "answer": "Levofloxacin should be avoided. Macrolide antibiotics like Azithromycin are safer alternatives for sinus infection.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Levaquin 500 mg",
+        "Azithromycin"
+      ],
+      "sympt": [
+        "soreness"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "ECG"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been facing this severe and acute cough for the past three days. I am constantly coughing.",
+    "context_question": "Severe cough for three days after a cold. Took Zyrcold, helped with runny nose but persistent cough remains.",
+    "answer": "You likely have an upper respiratory viral infection. It's self-limiting but bothersome. I recommend Tablet Telekast-L twice daily for five days, Levofloxacin 500 mg once daily for five days, and Paracetamol 500 if fever arises.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Montelukast",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Zyrcold",
+        "Tablet Telekast-L",
+        "Levofloxacin 500 mg",
+        "Paracetamol 500"
+      ],
+      "sympt": [
+        "cough",
+        "runny nose"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 58-year-old female. I was seen at the weekend by the emergency doctor and was diagnosed with bowel infection.",
+    "context_question": "58-year-old female diagnosed with bowel infection. Received IV Paracetamol and oral antibiotics - Flagyl 400 mg thrice daily and Tavanic 500 mg twice daily.",
+    "answer": "Continue Flagyl and Tavanic for five days. Consider adding a probiotic like Sporolac twice daily to restore stomach flora, and maintain oral rehydration therapy.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "oral rehydration therapy",
+    "entities": {
+      "age": [
+        "58"
+      ],
+      "medicament": [
+        "Flagyl 400 mg",
+        "Tavanic 500 mg",
+        "Sporolac"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "bowel infection"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 29-year-old male with prostatitis. My prostatitis symptoms flared up a few months ago, after eight months of partial remission.",
+    "context_question": "29-year-old male with prostatitis. Symptoms worsened with pain and cramping in multiple areas.",
+    "answer": "You likely have chronic pelvic pain syndrome (CPPS). It won't cause physical harm. Consult your physician for medication recommendations.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "chronic pelvic pain syndrome",
+    "entities": {
+      "age": [
+        "29"
+      ],
+      "medicament": [],
+      "sympt": [
+        "pain",
+        "cramping"
+      ],
+      "medical_field": [],
+      "disease": [
+        "prostatitis",
+        "chronic pelvic pain syndrome"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": [
+        "normal"
+      ]
+    }
+  },
+  {
+    "question": "I am a 21-year-old male and I weigh 125 lbs. I am five feet six inches in height.",
+    "context_question": "21-year-old male with a cough for one month. Currently on Levosure 500 mg, Ventair 10 mg, and syrup Adovas.",
+    "answer": "Your symptoms suggest a respiratory infection. If productive cough is yellowish or greenish, it indicates bacterial infection. Consult your doctor about Levofloxacin.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Levofloxacin",
+    "entities": {
+      "age": [
+        "21"
+      ],
+      "medicament": [
+        "Levosure 500 mg",
+        "Ventair 10 mg",
+        "syrup Adovas"
+      ],
+      "sympt": [
+        "cough"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am male having UTI from 10 days. First I took Cefixime 200 two times for five days, after seven days symptoms reappeared.",
+    "context_question": "Male with UTI for 10 days. Took Cefixime 200 for five days, then Levoflaxican 500 for 4 days. Symptoms returned with white particles in urine.",
+    "answer": "You need a urine routine microscopy and culture test to confirm if the infection persists. White particles may not be concerning but could indicate residual infection.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "recurrent UTI",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Cefixime 200",
+        "Levoflaxican 500"
+      ],
+      "sympt": [
+        "UTI",
+        "white particles in urine"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "urine routine microscopy",
+        "urine culture"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I was recently tested for chlamydia and had a reading of IgM - 0.9 and IgG - 1.3. I was prescribed tablet Levofloxacin treatment once daily for 14 days.",
+    "context_question": "Tested for chlamydia with IgM - 0.9 and IgG - 1.3. Prescribed Levofloxacin for 14 days.",
+    "answer": "Levofloxacin is effective for treating chlamydia. A seven-day course is typically sufficient. Repeat the test after a week.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Levofloxacin",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Levofloxacin"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "chlamydia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I did IgG (Immunoglobulin G) test for Herpes simplex virus (HSV-1 and HSV-2) after four months of possible exposure, which was negative. Is it conclusive?",
+    "context_question": "Negative IgG test for HSV-1 and HSV-2 after four months. Is it conclusive? Should I do IgM test?",
+    "answer": "A negative IgG indicates no exposure to HSV. IgM tests for current infection. If no further exposure, IgG is sufficient.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "IgG test",
+        "IgM test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I am a 23-year-old male weighing 176 pounds. I have a recurring infection in my right testicle that has been cleared twice with antibiotics.",
+    "context_question": "23-year-old male with recurring right testicle infection. Cleared twice with Ofloxacin.",
+    "answer": "This seems to be prostatitis. I recommend Ciprofloxacin 500 mg twice daily for four weeks and Tamsulosin 0.4 mg once at night for a month.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Ciprofloxacin 500 mg",
+    "entities": {
+      "age": [
+        "23"
+      ],
+      "medicament": [
+        "Ofloxacin",
+        "Ciprofloxacin 500 mg",
+        "Tamsulosin 0.4 mg"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "prostatitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a protected relationship with a girl but there was strong unprotected oral sex. I inserted my fingers into the her vagina for two minutes or more.",
+    "context_question": "Had protected relationship but unprotected oral sex. Concerned about HIV.",
+    "answer": "The test detects HIV antigen and antibodies. If no additional risk exposures, no need for further tests.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am concerned regarding p24 antigen detection. I read in different articles that it is delectable for only two months, and later it disappears as antibodies are formed.",
+    "context_question": "Concerned about p24 antigen detection and its disappearance after two months.",
+    "answer": "The p24 antigen can be detected faster than antibodies. It may not be detectable after two months, but can reappear if viral load increases.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "p24 antigen test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a single exposure due to condom breakage with a part-time sex worker a few days back. I had undergone an ART course within 72 hours of exposure for 26 days only.",
+    "context_question": "Single exposure due to condom breakage. Underwent ART course within 72 hours.",
+    "answer": "Unprotected exposure is a risk for STDs, including HIV, but the actual risk is low. Your report is negative one month after exposure.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "risk of HIV",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have some concerns regarding HIV testing. Please answer my questions below regarding the same.",
+    "context_question": "Concerns about HIV testing and detection methods.",
+    "answer": "The HIV combo test detects both HIV types. Your negative report means you are free from HIV if tested after six weeks. PCR tests detect all virus types.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "polymerase chain reaction",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HIV combo test",
+        "PCR test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I took the (human immunodeficiency virus) HIV-1, HIV-2, and p24 tests on the 32nd day after exposure. I am attaching the file.",
+    "context_question": "Took HIV-1, HIV-2, and p24 tests on the 32nd day after exposure. Want to know about the test type.",
+    "answer": "The test performed is a fourth-generation test. If negative on the 32nd day, a confirmatory test is required at three months.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV antibody rapid test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "fourth-generation test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I have been tested for(Human Immunodeficiency Virus) HIV 1 and 2 many times. My tests are 10 weeks card test negative.",
+    "context_question": "Multiple HIV tests negative at various intervals. Concerned about risk.",
+    "answer": "Your HIV screening tests are conclusive. No need for further testing. Lesions on your back are acne vulgaris, not related to HIV.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Human Immunodeficiency Virus",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had protected sex with a CSW (Commercial Sex Worker) five months before. I do not know the condom's status, either broken or ruptured.",
+    "context_question": "Had protected sex with CSW five months ago. Tested negative for HIV.",
+    "answer": "Multiple negative tests indicate no HIV infection. The negativity of tests supports that you have not acquired HIV.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "ELISA test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HIV tests",
+        "p24 antigen detection"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I had intercourse with a girl two months back without safety measures. After one month, I took a PCR test and it was negative.",
+    "context_question": "Had unprotected intercourse two months ago. PCR test negative after one month.",
+    "answer": "The chances of HIV transmission from a single episode are low. Repeat an HIV antibody test at least 90 days after exposure for conclusive results.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "dehydration",
+        "leg muscle pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "PCR test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I had protected exposure followed by P24 antigen after 33 days, fourth-generation P24 Ag, HIV (Human Immunodeficiency Virus) 1 and 2 antibodies (CMIA - Chemiluminescent Microparticle Immuno Assay) after 38 days, and then tridot after 93 days. All reports were negative for all the tests. As all the reports are negative and protected exposure, can my HIV status be treated as safe?",
+    "context_question": "Protected exposure followed by multiple negative HIV tests.",
+    "answer": "As it was protected sex and all tests are negative, your HIV status can be considered safe. No need for further testing.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had unprotected sex with my neighbor. I am really afraid of HIV.",
+    "context_question": "Had unprotected sex with neighbor. Concerned about HIV.",
+    "answer": "Please scan your reports and attach it while posting the follow-up query.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had an HIV test done, and it is reactive, but the antibody test is negative. What does this mean?",
+    "context_question": "Had an HIV test that is reactive but antibody test is negative. What does this mean?",
+    "answer": "The HIV test may detect the HIV antigen (p24), while the antibody test might still be in the window period. Antigens are produced first, followed by antibodies as the immune system responds.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "HIV test",
+        "antibody test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 30-year-old man. Recently, I was tested for a complete STD checkup with the TORCH (toxoplasmosis, rubella, cytomegalovirus, herpes simplex, and HIV) test.",
+    "context_question": "I am a 30-year-old man tested for a complete STD checkup with TORCH test. Are HIV 1 and 2 with p24 duo test after 28 days conclusive? My result is nonreactive.",
+    "answer": "The fourth-generation p24 anti-HIV test is conclusive after 2 to 3 weeks. A negative result at 28 days is reliable. Positive IgG for HSV indicates an old infection. CMV positivity is common and usually not an issue.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Herpes Simplex Virus",
+    "entities": {
+      "age": [
+        "30-year-old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV",
+        "rubella",
+        "CMV",
+        "HSV"
+      ],
+      "Test": [
+        "TORCH test",
+        "p24 duo test"
+      ],
+      "Result": [
+        "nonreactive"
+      ]
+    }
+  },
+  {
+    "question": "I have had a possible low risk exposure a year back which is about 53-54 days before this day, this has wrecked my life, the exposure can be best described as follows and I apologize for th",
+    "context_question": "Had a possible low risk exposure a year back, about 53-54 days ago. What is the risk of HIV transmission?",
+    "answer": "Your HIV test is considered conclusive, but antibodies may take weeks to develop. The risk of transmission from your encounter was very low. Practice safer sex to lower the risk of HIV and STIs.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "test for HIV",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a small fresh peeling and there was slight bleeding from my nail as I do bite my fingers from time to time, and I fingered a girl who had an orgasm on my finger. Do I have any risk",
+    "context_question": "Had slight bleeding from my nail and fingered a girl. Do I have any risk of getting HIV?",
+    "answer": "There are chances of HIV transmission if the wound is open and if she is positive. Consult your doctor for risk assessment and management.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "transmission of HIV",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 29-year-old male who got an unprotected blowjob from a sex worker at a massage parlor. I do not know her HIV (human immunodeficiency virus) status.",
+    "context_question": "I am a 29-year-old male who got an unprotected blowjob from a sex worker. I later tested negative for HIV.",
+    "answer": "The chances of HIV transmission from a single unprotected oral sex act are almost nil unless there are bleeding wounds. Your negative test suggests no current infection, but consult your doctor for further assessment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "PEP (post-exposure prophylaxis)",
+    "entities": {
+      "age": [
+        "29-year-old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "HIV 1/2 combo with p24 antigen test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I have had HIV (Human Immunodeficiency Virus) 1 and 2 antibody tests to detect antigens p24 and glycoprotein (Gp41 and Gp120) of HIV immunochromatography after 28 days of unprotected vag",
+    "context_question": "I had HIV 1 and 2 antibody tests after 28 days of unprotected vaginal sex, results are nonreactive. Am I safe from the virus?",
+    "answer": "This HIV screening test detects the majority of infections at four weeks, with sensitivity increasing at six weeks. Most specialists consider results conclusive at six weeks.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "HIV 1 and 2 antibody tests"
+      ],
+      "Result": [
+        "nonreactive"
+      ]
+    }
+  },
+  {
+    "question": "I had a protected intercourse with a girl twice in a single day. After that, the girl and I tested HIV negative using the fourth generation CMIA at 66 days.",
+    "context_question": "Had protected intercourse twice in one day, tested HIV negative at 66 days. Is it conclusive?",
+    "answer": "Yes, the test is conclusive. Deep lip kissing can transmit HIV through saliva, but the risk is low.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "human immunodeficiency virus",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "fourth generation CMIA"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "Is real time viral load reliable for HIV (Human Immunodeficiency Virus) test after 14 days of sex encounter? I got normal result.",
+    "context_question": "Is real time viral load reliable for HIV test after 14 days? I got normal result.",
+    "answer": "If condoms were used correctly, your risk of HIV is nonexistent. The test is sensitive and specific. A negative HIV-RNA test should be complemented with a fourth-generation test at four weeks.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV rapid antibody test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "real time viral load",
+        "p24"
+      ],
+      "Result": [
+        "normal"
+      ]
+    }
+  },
+  {
+    "question": "Before 19 days, I had protected sex with a part-time sex worker and freaked out after the incident. I am worried about any possible infection that could happen.",
+    "context_question": "Had protected sex with a part-time sex worker 19 days ago. Did a p24 antigen test.",
+    "answer": "The p24 titer is increased but still below the positive threshold. Your PCR RNA and HIV tests are negative, indicating no infection. Repeat the fourth generation HIV test after 12 weeks for certainty.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "p24 antigen test",
+        "PCR RNA"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I got an HIV-positive result when I tested last week. I am very anxious about it and I have a few symptoms like fever, headache, and night sweats.",
+    "context_question": "Got an HIV-positive result last week. Experiencing fever, headache, night sweats. What should I do?",
+    "answer": "Confirm the positive result with a Western blot test. Start ART (antiretroviral therapy) as soon as possible. Tests for liver, kidney, and CD4 count are needed before medication.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "antiretroviral therapy",
+    "entities": {
+      "age": [
+        "32-year-old"
+      ],
+      "medicament": [
+        "Bactrim DS (sulfamethoxazole and trimethoprim)"
+      ],
+      "sympt": [
+        "fever",
+        "headache",
+        "night sweats"
+      ],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "Western blot"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Six months before, I ordered an STD panel and received a high level of herpes-2 on the IgG test. I did a retest using IgG four days later and got a high result.",
+    "context_question": "Ordered an STD panel six months ago, high level of herpes-2 on IgG test, retested with high result.",
+    "answer": "Your herpes-2-IgG is positive, but the western blot test is negative, which is conclusive evidence. Positive IgM could be a false positive due to prior infections.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "chickenpox",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "herpes-2"
+      ],
+      "Test": [
+        "IgG test",
+        "western blot"
+      ],
+      "Result": [
+        "high"
+      ]
+    }
+  },
+  {
+    "question": "I have undergone a wide range of HIV testing. The test values are - On 78, 88, 96, 110, 120, 126, 158, 164, and 168th day, the fourth generation antigen and antibody tests were all negat",
+    "context_question": "Underwent various HIV tests, all negative after 78 to 168 days. What does this mean?",
+    "answer": "Tests beyond 12 weeks are negative, indicating you likely do not have the infection. Indeterminate results in Western blot can be false positives.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "fourth generation antigen and antibody tests",
+        "Western blot"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I am under ART for HIV. If I test for HIV now, will it be negative since I am under treatment?",
+    "context_question": "I am under ART for HIV. Will my test be negative now?",
+    "answer": "Your HIV detection tests like ELISA and western blot are not expected to become negative despite ART. Improvement is seen in CD4 counts and reduction of viral load.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "human immunodeficiency virus",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "ELISA",
+        "western blot"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had unprotected sex with a sex worker five months back. After that every month I have taken CMIA fourth generation test.",
+    "context_question": "Had unprotected sex with a sex worker five months ago. Monthly CMIA fourth generation tests have been negative.",
+    "answer": "HIV tests are negative after three months of exposure, which is conclusive. You are free from HIV, and further tests are unnecessary.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV tests",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "CMIA fourth generation test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I have taken a HIV test due to a recent possible exposure. The incident happened 60 days ago.",
+    "context_question": "Had an HIV test after possible exposure 60 days ago. Rapid test and Western blot are negative.",
+    "answer": "Both tests are negative after 60 days, indicating a very low chance of infection. It’s advisable to retest after three months for conclusive results.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "rapid HIV test",
+        "Western blot"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I am 26-years-old. Doctor has recommended western blot for HIV 1 and 2 as a screening test.",
+    "context_question": "I am 26-years-old and had a negative western blot for HIV 1 and 2. Is it 100% accurate?",
+    "answer": "The western blot test at 16 weeks is extremely accurate, but tests are recommended at repeat intervals. Rapid tests are now used as screening due to their speed and cost-effectiveness.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV rapid tests",
+    "entities": {
+      "age": [
+        "26-years-old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "western blot",
+        "CMIA test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "My concern is that I engaged in unprotected oral sex with a CSW (community sex worker) a few months ago. Since then, I have experienced recurring lymphadenopathy up to the present date.",
+    "context_question": "Engaged in unprotected oral sex with a CSW a few months ago. Experiencing recurring lymphadenopathy. What should I do?",
+    "answer": "Unprotected oral sex carries a low risk of HIV if there are no bleeding gums. Your negative test results are conclusive. If no further exposures occurred, additional testing is unnecessary.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "confirmatory HIV antibody test",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lymphadenopathy"
+      ],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "HIV TRI-DOT test"
+      ],
+      "Result": [
+        "negative"
+      ]
+    }
+  },
+  {
+    "question": "I have been sexually active for the past three years, but I have never checked my HIV status nor done any tests. But I had sex with a sex worker with protection, but still got scared.",
+    "context_question": "Patient has been sexually active for three years without checking HIV status. Had protected sex with a sex worker and is concerned about needing a test after seven months.",
+    "answer": "The chance of getting HIV while using condoms is very low. An ELISA test for HIV is recommended since the exposure was seven months ago. Testing is advisable to confirm your status.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "ELISA"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "About four weeks ago, I got oral sex from a partner whose HIV status is unknown to me. I did only that with her.",
+    "context_question": "Patient received oral sex from a partner with unknown HIV status four weeks ago and later tested positive for herpes types 1 and 2.",
+    "answer": "Pre-existing herpes lesions increase the risk of HIV transmission. Your blood test is positive for herpes types 1 and 2. To rule out HIV, please get a Western blot test for HIV-1 and HIV-2.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "ELISA",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "herpes types 1 and 2"
+      ],
+      "Test": [
+        "Western blot"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Does Ashwagandha delay on HIV test? Does any medicine delay on HIV test?",
+    "context_question": "Patient asks if Ashwagandha or any medicine can delay HIV test results and inquires about the accuracy of a fourth-generation HIV test at six months.",
+    "answer": "Ashwagandha does not delay HIV test results. Most patients develop antibodies within 6-12 weeks after exposure. Testing after three months is recommended for accurate results.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV test",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Ashwagandha"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "In the USG scan report, I have a mildly coarsened echotexture with grade 1 fatty liver, and in the blood test, VLDL and triglyceride results look abnormal, so my doctor suggested taking another blood test, like LKMA, ANA, Western blot, immunoglobulins, etc.",
+    "context_question": "Patient has grade 1 fatty liver and abnormal VLDL and triglyceride results. Doctor suggested further blood tests due to discomfort in the upper right stomach.",
+    "answer": "You likely have fatty liver disease. Your doctor recommended tests to determine if it's related to autoimmune disease or infections like HIV. A liver function test is also advised.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "fatty liver disease",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "fatty liver disease"
+      ],
+      "Test": [
+        "ANA",
+        "Western blot"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had unprotected anal and oral sex with a guy. This makes me very stressed.",
+    "context_question": "Patient had unprotected anal and oral sex and is experiencing stress and symptoms like tiredness, difficulty breathing, and numbness.",
+    "answer": "The symptoms may indicate acute HIV syndrome or could be stress-related. It's important to monitor these symptoms and consider testing for HIV.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "STI (sexually transmitted infection)",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "tiredness",
+        "difficulty in breathing",
+        "numbness"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I did protected sex with a known lady two times, (65 days before and 36 days back). She has breast milk, I swallowed a couple of drops at that time.",
+    "context_question": "Patient had protected sex twice with a known lady and felt fatigue and bumps on the neck after the second exposure. Tested non-reactive for HIV duo combo after 28 days.",
+    "answer": "Both you and your partner tested negative for HIV, indicating no infection. The bumps are likely due to another cause, possibly molluscum contagiosum.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "fatigue",
+        "bumps on the neck"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HIV duo combo"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Two months ago, I had sex with a female sex worker. It was oral and vaginal, both condom protected.",
+    "context_question": "Patient had protected oral and vaginal sex with a female sex worker two months ago and is concerned about the risk of contracting HIV.",
+    "answer": "You are mostly protected from infection due to condom use. Testing with Western blot or fourth-generation HIV tests is recommended to confirm your status.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "HIV tests",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "Western blot",
+        "fourth-generation HIV tests"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "What is the window period for the HIV (Human Immunodeficiency Virus) western blot test from the date of a suspected exposure? And, what is the accuracy of the test?",
+    "context_question": "Patient asks about the window period and accuracy of the HIV western blot test after suspected exposure.",
+    "answer": "The western blot test is confirmatory for HIV and is positive six to eight weeks after exposure. It is highly sensitive and specific.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "western blot"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a possible exposure before November 2019. I do not know the exact date.",
+    "context_question": "Patient had a possible exposure before November 2019 and tested negative for HIV multiple times after the exposure.",
+    "answer": "Your multiple negative tests indicate you are HIV negative. The Western blot test is more confirmatory, and false negatives are rare if healthy.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "enzyme-linked immunosorbent assay",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "rapid tests",
+        "enzyme-linked immunosorbent assay (ELISA)",
+        "Western blot"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "How accurate are HIV tests done in the laboratory on the 56th day of exposure along with the Western blot test? Both tests came back negative.",
+    "context_question": "Patient asks about the accuracy of HIV tests done on the 56th day after exposure, both of which were negative.",
+    "answer": "Your negative tests indicate you are free from HIV. The tests are reliable, and there is no need for concern.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I feel lost and afraid. Approximately nine years, six months, and one week ago, I had a small scratch from a disk that caused a little bleeding, which then stopped.",
+    "context_question": "Patient had a small scratch nine years ago and is concerned about potential HIV exposure from contact with a clot from a CSW vaginal procedure.",
+    "answer": "Your combo HIV antigen/antibody test is nonreactive, indicating you are HIV negative. It's advisable to repeat the test at three months.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "combo HIV antigen/antibody test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had unprotected oral sex with a guy, but he did not ejaculate. He penetrated me unprotected for about two minutes and then put on a condom.",
+    "context_question": "Patient had unprotected oral sex and brief unprotected penetration, unsure about potential HIV exposure.",
+    "answer": "The fourth-generation dual test is recommended. Symptoms may not be related to HIV. Testing after 45 days is advisable for accurate results.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "sore throat,",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "sore throat"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "fourth-generation dual test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a protected intercourse with a female sex worker. I tested negative for HIV ribonucleic acid polymerase chain reaction test, HIV (Human Immunodeficiency Virus) 1 and 2 antibodies,",
+    "context_question": "Patient had protected intercourse and tested negative for HIV RNA PCR and antibodies, seeking advice on further testing.",
+    "answer": "The chances of HIV transmission from protected intercourse are almost nil. Further testing after 90 days is advisable for complete reassurance.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HIV ribonucleic acid polymerase chain reaction test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had a few unprotected high-risk exposures in my life so far. I had a concern and checked my status of HIV (human immunodeficiency virus) through an ELFA test (enzyme-linked immuno",
+    "context_question": "Patient had unprotected high-risk exposures and tested for HIV through an ELFA test three months after the last encounter.",
+    "answer": "Your last ELFA test is conclusive for previous exposures. A negative antibody screening test further confirms this after three months.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "ELFA test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 32-year-old male. I had a gay encounter with four men in a massage parlor on three different days.",
+    "context_question": "32-year-old male had multiple gay encounters with condom use, but one condom slipped. Experiencing dark blood during encounters.",
+    "answer": "HIV transmission risk is higher with homosexual exposures. Your negative test after 91 days indicates you have not acquired HIV. Avoid high-risk activities in the future.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "window period",
+    "entities": {
+      "age": [
+        "32"
+      ],
+      "medicament": [],
+      "sympt": [
+        "dark color blood"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have allergies like sneezing, running nose, pain behind the eyes due to strong fragrance or dust, and taking homeopathy medicines. I used to have these allergies before a sexual incident,",
+    "context_question": "Patient has allergies worsening after a sexual incident and is concerned about stress affecting their condition.",
+    "answer": "Your allergy symptoms are non-specific and may be exacerbated by stress. Antiallergic homeopathic medicines should not interfere with test results. Regular breathing exercises and saline gargles are recommended.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "homeopathy medicines"
+      ],
+      "sympt": [
+        "sneezing",
+        "running nose",
+        "pain behind the eyes"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I was exposed to a needlestick injury around ten weeks ago, and I ran a series of tests out of fear. They are as follows: 1) HIV (human immunodeficiency virus) combination test - Non-reacti",
+    "context_question": "I was exposed to a needlestick injury ten weeks ago and ran tests for HIV, HbsAg, and HCV.",
+    "answer": "The tests for HIV and HbsAg are negative, but you should continue testing yearly. HCV was positive, but the viral load was not detected. Discuss further testing with your doctor.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV",
+        "HCV"
+      ],
+      "Test": [
+        "HIV combination test",
+        "HbsAg test",
+        "HCV test"
+      ],
+      "Result": [
+        "Non-reactive",
+        "Positive",
+        "Not detected"
+      ]
+    }
+  },
+  {
+    "question": "Is it possible to test negative for an HIV test in the first trimester and later test positive in the third trimester? My partner is HIV-negative, so I do not understand how I tested pos",
+    "context_question": "Is it possible to test negative for HIV in the first trimester and positive in the third trimester?",
+    "answer": "Yes, it is possible due to the window period of HIV infection. Tests are repeated in the third trimester for all HIV-negative clients.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "human immunodeficiency virus",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Some 20 months ago, while having tea outside the office, I felt a slight pinch in my hands. I thought it would have been a mosquito bite as it was itching.",
+    "context_question": "I felt a pinch in my hands 20 months ago and thought it was a mosquito bite, but I'm concerned it might have been a needle.",
+    "answer": "Your HIV antibodies test is negative after three months of exposure, indicating you are free from HIV. Antibody tests are conclusive after this period.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "human immunodeficiency virus",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "HIV antibodies test"
+      ],
+      "Result": [
+        "Negative"
+      ]
+    }
+  },
+  {
+    "question": "I am a 26-year-old male. Two months back, I had unprotected oral sex and protected vaginal sex with a massage lady.",
+    "context_question": "I had unprotected oral sex and protected vaginal sex two months ago, and my HIV tests were negative.",
+    "answer": "Your HIV test results are reassuring, but you should undergo a confirmatory test after three months. Unprotected oral sex has a low risk of HIV acquisition.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "26"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "HIV"
+      ],
+      "Test": [
+        "HIV test"
+      ],
+      "Result": [
+        "Negative"
+      ]
+    }
+  },
+  {
+    "question": "I recently had a severely chapped, red, bleeding bottom lip. I have no idea where it came from, and I am not sure what to treat it with.",
+    "context_question": "I have a severely chapped, red, bleeding bottom lip and need treatment advice.",
+    "answer": "Your condition may be due to dryness or allergies. Avoid irritants, use moisturizers, and consult a dermatologist if it does not improve in two to three weeks.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "chapped lips",
+        "red lips",
+        "bleeding lips"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a cut on my lip due to a dry and chapped lip. Today I had oral sex with my girl, and now I m worried if I could catch some STD.",
+    "context_question": "I had a cut on my lip and had oral sex; I'm worried about STDs.",
+    "answer": "If both partners are free of STDs, there is nothing to worry about. Consult your doctor for examination and risk assessment if uncertain.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "sexually transmitted diseases",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "cut on lip"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Norovirus is hitting me hard. I have had violent vomiting and watery diarrhea for 48 hours straight.",
+    "context_question": "I have had violent vomiting and watery diarrhea for 48 hours.",
+    "answer": "You need to seek medical help due to severe symptoms. Dehydration can escalate quickly, and IV fluids may be necessary.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "norovirus",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "vomiting",
+        "watery diarrhea"
+      ],
+      "medical_field": [],
+      "disease": [
+        "norovirus"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "What are the benefits of natural remedies for chapped lips? Can almond oil, cucumber, lemon juice, coconut oil, a humidifier, sugar and honey, green tea bags, and olive oil be used as na",
+    "context_question": "What are the benefits of natural remedies for chapped lips?",
+    "answer": "Coconut oil and olive oil are effective for treating chapped lips. They help retain moisture and prevent further damage. Other remedies include rose petals and lemon juice.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been experiencing a severe issue with my lips for the past six months. The problem involves intense chapping and cracking of my lips.",
+    "context_question": "I have severe chapping and cracking of my lips for the past six months.",
+    "answer": "Please provide a picture of the affected area for accurate assessment and treatment suggestions.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "chapping",
+        "cracking of lips"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "For the past two months, I had severely chapped lips from the cold weather. I tried OâKeefe's, Blistex, La Roche-Posay Cicaplast lips, Vaseline, coconut oil, and plain slices of cucumb",
+    "context_question": "I had severely chapped lips for two months and tried various products without improvement.",
+    "answer": "This condition is called cheilitis, likely due to vitamin B deficiency. Investigations for hemoglobin and iron levels are needed. Use a good quality lip balm and take Becosules for 10 days.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Becosules"
+      ],
+      "sympt": [
+        "chapped lips"
+      ],
+      "medical_field": [],
+      "disease": [
+        "cheilitis"
+      ],
+      "Test": [
+        "hemoglobin and iron levels"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 17-year-old female with a weight of 125 pounds and a height of 5'4. I have dry skin around my mouth and lips.",
+    "context_question": "I am a 17-year-old female with dry skin around my mouth and lips.",
+    "answer": "You may have dermatitis, specifically cheilitis, due to an allergic reaction. Using coconut oil on damp lips can help with dryness.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "dermatitis",
+    "entities": {
+      "age": [
+        "17"
+      ],
+      "medicament": [],
+      "sympt": [
+        "dry skin around mouth and lips"
+      ],
+      "medical_field": [],
+      "disease": [
+        "dermatitis",
+        "cheilitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 19-year-old male. A few days back, my lips got creviced and I had a little bleeding in the morning.",
+    "context_question": "I am a 19-year-old male with creviced lips and some bleeding.",
+    "answer": "This may not be a new issue. Consult a general physician for examination and blood tests. Use a moisturizing cream for treatment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "19"
+      ],
+      "medicament": [],
+      "sympt": [
+        "creviced lips",
+        "bleeding"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a lip infection with a bump. Lip cracks have already been there for over a year and I consulted a doctor.",
+    "context_question": "I have a lip infection with a bump and cracks for over a year.",
+    "answer": "The bump is likely an aphthous ulcer, which can be caused by various factors. Avoid hot foods and do warm saline rinses.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "oral hygiene",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lip infection",
+        "bump",
+        "lip cracks"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am worried about my lips. It is dry, swollen, itching, and chapped.",
+    "context_question": "I have dry, swollen, itching, and chapped lips.",
+    "answer": "You may have allergic responses or angioedema. Use lip bless cream and take a tablet of Cetirizine once daily.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "lip bless cream",
+        "Cetirizine"
+      ],
+      "sympt": [
+        "dry lips",
+        "swollen lips",
+        "itching",
+        "chapped lips"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have recently developed a troubling condition that is causing discomfort. The skin around my lips has become extremely red, itchy and painful, despite my attempts to alleviate the symp",
+    "context_question": "The skin around my lips is red, itchy, and painful.",
+    "answer": "Wash your face after being outdoors and maintain a balanced diet. Supplement with Vitamin B complex and Folic acid. Avoid smoking and alcohol.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "tobacco",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "red skin around lips",
+        "itchy",
+        "painful"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My lips are always getting crusts. It is almost as if they keep regenerating the skin for some reason.",
+    "context_question": "My lips keep getting crusts and regenerating skin.",
+    "answer": "You may have cheilitis. Use lip bless cream and consult your physician for better evaluation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "lip bless cream"
+      ],
+      "sympt": [
+        "crusts on lips"
+      ],
+      "medical_field": [],
+      "disease": [
+        "cheilitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 27-year-old, 5 foot, and relatively an athletic female. I have been suffering from some pretty severe chapped lips.",
+    "context_question": "27-year-old female with severe chapped lips for a month, feeling odd or numb.",
+    "answer": "Chapped lips are common in winters. Apply Vaseline and moisturizer. Consider food allergies and repeated lip licking. Mention any exacerbation after certain foods or other creams used.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "27-year-old"
+      ],
+      "medicament": [
+        "Vaseline"
+      ],
+      "sympt": [
+        "severe chapped lips"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 18 years old, male and I have small cuts in the inside of my lips and my tongue. They burn when I drink or eat.",
+    "context_question": "18-year-old male with small cuts in lips and tongue, burning sensation while eating.",
+    "answer": "Chapped lips and burning sensation likely due to vitamin deficiency and stress. Apply petroleum jelly frequently, consume green vegetables, and stay hydrated. If burning persists, use Ointment Dentogel (Choline Salicylate and Lidocaine) 20 mg.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Multivitamin supplements",
+    "entities": {
+      "age": [
+        "18 years old"
+      ],
+      "medicament": [
+        "petroleum jelly",
+        "Ointment Dentogel (Choline Salicylate and Lidocaine) 20 mg"
+      ],
+      "sympt": [
+        "small cuts",
+        "burning sensation"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been scheduled for minor surgery, prior to which I have been advised few routine investigations, including HIV. Though I have always practiced safe sex throughout by using a condom,",
+    "context_question": "Scheduled for minor surgery, advised routine investigations including HIV, practiced safe sex.",
+    "answer": "The chances of HIV transmission by oral sex are almost nil unless there are bleeding wounds. Proceed with the HIV antibodies test; it will be conclusive since the last exposure was six months ago.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [
+        "HIV (human immunodeficiency syndrome)"
+      ],
+      "Test": [
+        "HIV antibodies test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a male, 26 years old. My HIV (Human Immunodeficiency Virus) tests were negative and I have attached them.",
+    "context_question": "26-year-old male with negative HIV tests, mild rash on face and upper arms, fatigue.",
+    "answer": "All tests are negative. If tests are negative, no further tests are needed. Maintain a good diet and consider treatment for rashes with tablet Ketasma (Ketotifen) 1 mg.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "26 years old"
+      ],
+      "medicament": [
+        "tablet Ketasma (Ketotifen) 1 mg"
+      ],
+      "sympt": [
+        "mild rash",
+        "fatigue"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I gave oral sex to a man whose HIV (human immunodeficiency virus) status was unknown six weeks ago. I now have rash under both armpits and a swollen lymph node in my neck.",
+    "context_question": "Oral sex with unknown HIV status, rash under armpits, swollen lymph node in neck.",
+    "answer": "Oral sex has a low possibility of ARS. If rashes appeared after six weeks, get a CMIA fourth-generation test. It could be HSV or another STD. For the rash, take Tablet Atarax (Hydroxyzine) 25 mg.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "herpes simplex virus",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Tablet Atarax (Hydroxyzine) 25 mg"
+      ],
+      "sympt": [
+        "rash",
+        "swollen lymph node"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [
+        "CMIA fourth-generation test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Can I get ARS (acute retroviral syndrome) five days after exposure? I had night sweats, dry mouth, fever, and pus in my tonsils, or was this just flu?",
+    "context_question": "Concern about ARS five days after exposure, symptoms include night sweats, dry mouth, fever, pus in tonsils.",
+    "answer": "It is unusual for HIV symptoms to appear five days after exposure. Symptoms may appear within two to four weeks. Your symptoms could be due to a viral infection or acute viral tonsillitis. Gargle with saline, stay hydrated, and take Paracetamol for pain.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Paracetamol"
+      ],
+      "sympt": [
+        "night sweats",
+        "dry mouth",
+        "fever",
+        "pus in tonsils"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Actually, I had casual sex with a CSW (Community Sex Worker) a month back. I did my HIV(Human Immunodeficiency Virus) 1/2 antigen and antibody test 15 days back, almost after 26 days.",
+    "context_question": "Casual sex with CSW a month ago, HIV 1/2 antigen and antibody test done 15 days ago.",
+    "answer": "Sensitivity is up to 92 percent for your test. You need to repeat testing after 12 weeks.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV 1/2 antigen and antibody test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 28-year-old male. I had an exposure with an unknown girl 43 days ago and the condom tore when my penis was still inside her vagina.",
+    "context_question": "28-year-old male with exposure to unknown girl, condom tore during intercourse.",
+    "answer": "At one month, the test is 95% sensitive. Since the condom broke, follow up with a retest at 12 weeks for an HIV antibody test, which is 99.9% sensitive.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "unprotected sex",
+    "entities": {
+      "age": [
+        "28-year-old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [
+        "HIV antibody test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a few query regarding HIV ARS symptoms and timelines. What are the most common symptoms of HIV ARS?",
+    "context_question": "Queries about HIV ARS symptoms and timelines.",
+    "answer": "Common symptoms of HIV ARS include fever, fatigue, headache, sore throat, swollen lymph nodes, muscle aches, night sweats, joint pain, rash, mouth ulcers, and chills. Symptoms may appear within two to six weeks after transmission.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "fever",
+        "fatigue",
+        "headache",
+        "sore throat",
+        "swollen lymph nodes",
+        "muscle aches",
+        "night sweats",
+        "joint pain",
+        "rash",
+        "mouth ulcers",
+        "chills"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 35-year-old male. I cheated on my wife, and I am really scared that I may have HIV (human immunodeficiency virus).",
+    "context_question": "35-year-old male fears he may have HIV after cheating, experiencing anxiety and weight loss.",
+    "answer": "You have a low risk of HIV transmission from this exposure. Get a fourth-generation ELISA test for HIV at six weeks and repeat at three months. Anxiety is likely causing your symptoms.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "ELISA (enzyme-linked immunosorbent assay)",
+    "entities": {
+      "age": [
+        "35-year-old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "anxiety",
+        "weight loss"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [
+        "HIV (human immunodeficiency virus)"
+      ],
+      "Test": [
+        "fourth-generation ELISA test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Hi, I am a 31 year oldÂ male. About 38 days before I had sex with a CSW (Commercial Social Worker).",
+    "context_question": "31-year-old male had sex with CSW 38 days ago, experiencing sore throat and mild joint pain.",
+    "answer": "ARS typically begins 7-14 days after exposure and lasts up to 3-4 months. Your symptoms may relate to ARS, but this does not confirm infection. There is a likelihood of condom failure.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "Acute Retroviral Syndrome",
+    "entities": {
+      "age": [
+        "31 year old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "sore throat",
+        "mild joint pain"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 22-year-old male. I had protected sex two years ago, and I am having a skin rash called dermatographia, which is growing.",
+    "context_question": "22-year-old male with growing dermatographia rash, tested negative for HIV twice.",
+    "answer": "You have tested negative for HIV multiple times. Joint pain may be due to other causes. Consult an orthopedician and dermatologist. For joint pain, take Ultracet (Tramadol Hydrochloride and Acetaminophen) if needed.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "HIV/AIDS specialist",
+    "article_title": "herpes simplex virus",
+    "entities": {
+      "age": [
+        "22-year-old"
+      ],
+      "medicament": [
+        "Ultracet (Tramadol Hydrochloride and Acetaminophen)"
+      ],
+      "sympt": [
+        "skin rash",
+        "joint pain"
+      ],
+      "medical_field": [
+        "HIV"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  }
+]

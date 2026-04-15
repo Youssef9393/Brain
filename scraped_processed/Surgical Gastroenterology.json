@@ -1,0 +1,2568 @@
+[
+  {
+    "question": "I am having right abdominal pain since last five days. I am not getting relief after taking medicines also.",
+    "context_question": "Right abdominal pain for five days, no relief from medications. Ultrasound shows gallbladder distended with calculus, thickened wall, and sludge. Diagnosis: acute cholecystitis with cholelithiasis.",
+    "answer": "Gallbladder stones can be treated with dissolving drugs, but they have limitations. Surgery is advisable within a week of pain onset. Two options: operate immediately or take medications and operate after six weeks.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "medications"
+      ],
+      "sympt": [
+        "right abdominal pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "acute cholecystitis",
+        "cholelithiasis"
+      ],
+      "Test": [
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 22-year-old male, suffering from constipation at times. Last month, I also noticed blood in my stool which previously occurred last year.",
+    "context_question": "22-year-old male with occasional constipation and blood in stool last month. Blood was not mixed with stool. Also has acidity issues.",
+    "answer": "You are experiencing constipation and occasional bleeding. Possible causes include hemorrhoids, anal fissures, or diverticulitis. Recommendations: drink water, increase fiber intake, and establish a regular bowel routine.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "22"
+      ],
+      "medicament": [],
+      "sympt": [
+        "constipation",
+        "blood in stool",
+        "acidity issues"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Is a 40 mm hiatal hernia classified as large? I have a milk allergy and have been put on Pantoprazole 40 mg once daily for six weeks.",
+    "context_question": "Inquiring if a 40 mm hiatal hernia is classified as large. Has a milk allergy and taking Pantoprazole 40 mg daily for six weeks.",
+    "answer": "A 40 mm hiatal hernia is classified as large. Surgery decision depends on symptom severity and quality of life. Discuss concerns about surgery with your healthcare provider.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pantoprazole 40 mg"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "hiatal hernia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been having stomach pain for five days now, and I am not sure what is going on. I thought it might be due to my gastric problem, especially since I am fasting for Ramadan.",
+    "context_question": "Stomach pain for five days, possibly related to gastric issues while fasting for Ramadan. Experiencing nausea and constipation.",
+    "answer": "Fasting can cause acid buildup leading to ulcers. Your symptoms suggest a possible serious condition. More information is needed about your pain for further advice.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "stomach pain",
+        "nausea",
+        "constipation"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My child got surgery at five days old due to being wrongly diagnosed with Hirschsprung's disease and is suffering from SBS. The wound in the anus never got healed until now for four year",
+    "context_question": "Child had surgery at five days old for Hirschsprung's disease, now suffering from SBS and an unhealed wound in the anus for four years.",
+    "answer": "Consult a pediatric surgeon for evaluation and treatment options. Support groups may also provide resources for families with similar health conditions.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "Hirschsprung's disease",
+        "SBS"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 29-year-old male. I am healthy and fit and do not consume alcohol or smoke.",
+    "context_question": "29-year-old male, healthy, with an anal fistula and mild clubbing of fingers. Doctor suspects Crohn's disease or IBD.",
+    "answer": "Clubbing of nails can be caused by various diseases. An anal fistula may lead to chronic blood loss and anemia. Recommendations include a high fiber diet and treatment for the fistula.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "inflammatory bowel diseases",
+    "entities": {
+      "age": [
+        "29"
+      ],
+      "medicament": [],
+      "sympt": [
+        "anal fistula",
+        "mild clubbing of fingers"
+      ],
+      "medical_field": [],
+      "disease": [
+        "Crohn's disease",
+        "IBD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Kindly go through the CT scan report, which shows any lesions or evidence of liver hemangioma. Please clarify it.",
+    "context_question": "Request for clarification on CT scan report showing lesions or evidence of liver hemangioma.",
+    "answer": "The lesions are consistent with a hemangioma. Small hemangiomas without symptoms require no treatment. Larger ones may need follow-up or surgery based on size.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "hemangioma"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 70 years old and has been suffering from a liver cyst for three years, as shown in the ultrasound scan. He is unable to digest anything and is suffering from heartburn conti",
+    "context_question": "70-year-old father with a liver cyst for three years, unable to digest food and suffering from continuous heartburn.",
+    "answer": "Surgery may be considered after pre-operative evaluation. Most liver cysts do not require treatment unless there is pain. Consult the surgeon regarding symptoms.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "70"
+      ],
+      "medicament": [],
+      "sympt": [
+        "heartburn",
+        "irregular motions"
+      ],
+      "medical_field": [],
+      "disease": [
+        "liver cyst"
+      ],
+      "Test": [
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 19 years old female. I have had anal fissure.",
+    "context_question": "19-year-old female with a history of anal fissure and surgery six months ago, now unable to pass stools.",
+    "answer": "You may be experiencing post-operative anal stenosis. Dilation of the passage may be necessary. If severe pain or distension occurs, seek emergency care.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "19"
+      ],
+      "medicament": [],
+      "sympt": [
+        "anal fissure",
+        "constipation"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father, aged over 77, has a lump or maybe a tumor or inorganic cysts in the food pipe esophagus right over the stomach. He is struggling to eat or drink.",
+    "context_question": "Father over 77 with a lump or tumor in the esophagus, struggling to eat or drink, and vomiting.",
+    "answer": "Options include surgery to remove the stomach or feeding via a tube directly to the intestine. Consider overall health and surgical tolerance.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "77"
+      ],
+      "medicament": [],
+      "sympt": [
+        "struggling to eat or drink",
+        "vomiting"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have severe burning in my stomach after eating and while changing my position. I used to smoke.",
+    "context_question": "Severe burning in stomach after eating and changing positions. History of smoking and difficulty emptying stomach.",
+    "answer": "Further information is needed to provide appropriate advice. Please answer questions regarding symptoms, weight changes, and any other health issues.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "endoscopy",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Normaxin",
+        "Velgut",
+        "Rabonik Plus"
+      ],
+      "sympt": [
+        "severe burning in stomach"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I defecate two times a week, and I suffer from chronic constipation for the last year. Today while defecating due to hard stool it was very painful and drops of blood came out from the rect",
+    "context_question": "Chronic constipation for a year, defecating twice a week, painful defecation with blood from the rectal region.",
+    "answer": "Investigations like CBC and stool examination are suggested. Please answer additional questions for a better understanding of your problem.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "chronic constipation",
+        "painful defecation",
+        "blood from rectal region"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CBC",
+        "stool examination"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Suffering from mild IBS D (irritable bowel syndrome with diarrhea) since last four years. Noticed a tender lump beneath skin near anus three years ago.",
+    "context_question": "Mild IBS D for four years, tender lump near anus for three years, swelling and discharge when pressed.",
+    "answer": "You may have a fistula-in-ano or perianal abscess. Further evaluation and imaging may be needed for treatment options.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "perianal abscess",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "mild IBS D",
+        "tender lump",
+        "swelling",
+        "discharge"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband had duodenal ulcer two months back and was treated immediately by a gastroenterologist. For the past 70 days, he is taking Sompraz 40.",
+    "context_question": "Husband had duodenal ulcer treated two months ago, currently taking Sompraz 40 for 70 days, experiencing wind formation in stomach.",
+    "answer": "Ulcers can cause wind feeling. Additional treatment is needed beyond Sompraz. Avoid fatty and spicy foods, and regular exercise is recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Sompraz 40"
+      ],
+      "sympt": [
+        "wind formation in stomach"
+      ],
+      "medical_field": [],
+      "disease": [
+        "duodenal ulcer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is 56 year old female, with ovarian cancer IVB, CR after chemo, Lynparza+ Avastin now and her CT scan results come back like this, 'bilateral ovarian cancers with pelvic/ abdom",
+    "context_question": "Mother, 56 years old, with ovarian cancer IVB, CR after chemotherapy, CT scan shows bilateral ovarian cancers and possible carcinomatosis.",
+    "answer": "CT scan shows no signs of metastasis. Cancer indicators are normal. Your mother is physically sound with no symptoms of cancerous condition.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "56"
+      ],
+      "medicament": [
+        "Lynparza",
+        "Avastin"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "ovarian cancer"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My sister underwent hernia surgery in her right lower abdomen four months back. As she was having slight pain and fever at that time, the doctor suspected some infection there.",
+    "context_question": "Sister had hernia surgery four months ago, slight pain and fever suspected infection. Small hole observed in incision.",
+    "answer": "A personal examination is needed. If fluid leakage is small, wait a month. If it does not heal, a CT scan may be necessary.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "slight pain",
+        "fever",
+        "small hole in incision"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had an ongoing issue of throat irritation for the past six months. Sometimes it changes to a lump feeling, and at other times, it turns into irritation or a lump with mucus buildup.",
+    "context_question": "Ongoing throat irritation for six months, sometimes feels like a lump, with mucus buildup. Positive for H. pylori, treated with antibiotics for two weeks.",
+    "answer": "Diagnosis includes hiatus hernia, mild H. pylori infection, and GERD. Chronic active gastritis noted, no malignancy. Ongoing proton pump inhibitor treatment suggests acid reflux as a significant factor in throat irritation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "Helicobacter pylori infection",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "H. pylori antibiotics",
+        "Pantoprazole"
+      ],
+      "sympt": [
+        "throat irritation",
+        "lump feeling",
+        "mucus buildup"
+      ],
+      "medical_field": [],
+      "disease": [
+        "Helicobacter pylori infection",
+        "gastroesophageal reflux disease",
+        "chronic active gastritis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 27-year-old female. I had a history of on and off acid reflux for a few years.",
+    "context_question": "27-year-old female with a history of acid reflux. Last month had a bad episode of GERD, prescribed Pantoprazole for a month, still has epigastric pain.",
+    "answer": "Atrophy and erythema indicate inflammation, possibly from H. pylori. Treatment may include triple therapy. Hyoscyamine can alleviate cramps, but PPIs like Pantoprazole are preferred. Avoid smoking, drinking, and spicy foods.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "27"
+      ],
+      "medicament": [
+        "Pantoprazole",
+        "Hyoscyamine"
+      ],
+      "sympt": [
+        "acid reflux",
+        "epigastric pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "upper endoscopy"
+      ],
+      "Result": [
+        "normal findings",
+        "erythema atrophy of antrum"
+      ]
+    }
+  },
+  {
+    "question": "Is hyperpermeable intestine treatable?",
+    "context_question": "Inquiring about the treatability of hyperpermeable intestine.",
+    "answer": "Hyperpermeable intestine allows harmful molecules to enter the bloodstream. Treatment options vary and depend on individual circumstances.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "parenteral nutrition",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from pancreatitis since yesterday. I took the medicines prescribed to me last year while discharged from the hospital.",
+    "context_question": "Suffering from pancreatitis since yesterday, taking previous medications, still experiencing pain.",
+    "answer": "Further evaluation is needed. Upload ultrasound, CT, MRI, and other test reports for better guidance on therapy options.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pancreatitis",
+        "pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother has abdominal tuberculosis, duodenum stricture, and obstruction in rectosigmoid and distal sigmoid colon.",
+    "context_question": "Mother has abdominal tuberculosis, duodenum stricture, and obstruction in rectosigmoid and distal sigmoid colon, not taking any food.",
+    "answer": "Antituberculosis drugs are necessary. If stricture persists after treatment, surgery may be needed to relieve obstruction. Feeding jejunostomy may be required for nutrition.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "abdominal tuberculosis",
+        "stricture",
+        "obstruction"
+      ],
+      "medical_field": [],
+      "disease": [
+        "abdominal tuberculosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from sudden attack of pain in stomach for the past four years.",
+    "context_question": "Experiencing sudden stomach pain for four years, radiating to the back, consulted many doctors, all tests normal.",
+    "answer": "Evaluate for gallbladder issues or pancreatitis. If previous ultrasound is normal, consider a CT scan. Symptoms may indicate irritable bowel syndrome (IBS).",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pantoprazole",
+        "Rabeprazole",
+        "Mebeverine"
+      ],
+      "sympt": [
+        "stomach pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "irritable bowel syndrome"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I was diagnosed with an external anal fissure.",
+    "context_question": "Diagnosed with external anal fissure, prescribed Hydrocortisone cream and Lidocaine or Nifedipine gel, experienced some relief but not complete healing.",
+    "answer": "Consider high-fiber diet and laxatives to prevent recurrence. Sitz baths are effective. If not healing, surgical options like lateral sphincterotomy may be needed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "anal fistula",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Hydrocortisone cream",
+        "Lidocaine",
+        "Nifedipine gel",
+        "Ciplox-TZ",
+        "Duphalac Fibre"
+      ],
+      "sympt": [
+        "anal fissure"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a painless peanut size bump near the outer side of my anus.",
+    "context_question": "Painless bump near anus for 10 years, feels like it's growing, sometimes bleeds, no pain.",
+    "answer": "The bump is likely a hemorrhoid near an anal fissure. Chronic constipation may have led to this condition. Surgery may be required due to bleeding.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "bump",
+        "bleeding"
+      ],
+      "medical_field": [],
+      "disease": [
+        "hemorrhoid",
+        "anal fissure"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had my gallbladder removed yesterday.",
+    "context_question": "Post gallbladder removal, experiencing coughing and stomach pain.",
+    "answer": "Cough may be due to edema from intubation during anesthesia. Throat lozenges and steam inhalation may help. Cough should resolve as edema subsides.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "general anesthesia",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "cough",
+        "stomach pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am worried that my ultrasound shows a 78.4 percent decrease in gallbladder volume within two hours after consuming the meal.",
+    "context_question": "Concern about ultrasound showing significant decrease in gallbladder volume after a meal.",
+    "answer": "Symptoms suggest gallbladder ileus possibly due to biliary-enteric fistula. Rapid bile flow may cause abdominal pain and vomiting. Consider adding Cholestyramine to reduce bile flow.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Cholestyramine"
+      ],
+      "sympt": [
+        "nausea"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 60 years old and suffering from diabetes for the past one year.",
+    "context_question": "Father, 60 years old, has diabetes, gallstone, and tuberculosis in lungs.",
+    "answer": "Emergency gallstone removal may be needed. Respiratory clearance is essential due to pulmonary TB. Further investigations required to assess gallstone size and diabetes management.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "Tuberculosis",
+    "entities": {
+      "age": [
+        "60"
+      ],
+      "medicament": [],
+      "sympt": [
+        "diabetes",
+        "gallstone",
+        "tuberculosis"
+      ],
+      "medical_field": [],
+      "disease": [
+        "gallstone",
+        "tuberculosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a heavy gas problem with heaviness on head and neck.",
+    "context_question": "Experiencing heavy gas problem, diabetic, 72 years old.",
+    "answer": "Functional indigestion may cause gas. Consider Gelusil or Alcid MPS for relief. Avoid gas-forming foods and eat slowly.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "72"
+      ],
+      "medicament": [
+        "Gelusil",
+        "Alcid MPS",
+        "Aristozyme"
+      ],
+      "sympt": [
+        "heavy gas",
+        "heaviness on head and neck"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Doctors are switching between whether I have Crohn’s or ulcerative colitis.",
+    "context_question": "Uncertainty between Crohn's disease and ulcerative colitis, started Humira, experiencing swelling around rectum.",
+    "answer": "Symptoms suggest Crohn's disease. Extended intervals between Humira doses can lead to flares. Swelling may indicate perianal abscess due to active disease.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "Crohn's disease",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Humira"
+      ],
+      "sympt": [
+        "swelling around rectum"
+      ],
+      "medical_field": [],
+      "disease": [
+        "Crohn's disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had two tags on my anus for the past one year.",
+    "context_question": "Two tags on anus for one year, recent blood in stool.",
+    "answer": "Further details needed to confirm diagnosis. If bleeding persists, examination is necessary. Follow healthy practices and increase fiber intake.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "tags on anus",
+        "blood in stool"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 68-year-old female. Two weeks ago, I had a gastritis problem and poor intake.",
+    "context_question": "68-year-old female with gastritis and poor intake, experiencing mucus in stool.",
+    "answer": "Possible causes include colitis or IBS. Investigations like stool tests are recommended to determine the cause of mucus in stool.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "inflammatory bowel disease",
+    "entities": {
+      "age": [
+        "68"
+      ],
+      "medicament": [],
+      "sympt": [
+        "gastritis",
+        "mucus in stool"
+      ],
+      "medical_field": [],
+      "disease": [
+        "colitis",
+        "inflammatory bowel disease"
+      ],
+      "Test": [
+        "stool test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been experiencing loose stools and diarrhea for approximately four weeks.",
+    "context_question": "Experiencing loose stools and diarrhea for four weeks, history of serrated polyp removal.",
+    "answer": "Further evaluation is needed. Awaiting detailed response.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "loose stools",
+        "diarrhea"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 24 year old female. Last week, I suddenly saw blood in my stool, and I have a small lump in my anus.",
+    "context_question": "24-year-old female saw blood in stool and has a lump in anus. Symptoms returned after initial treatment with Dulcoflex and ointment.",
+    "answer": "Diagnosis is anal fissure with an anal tag. Recommended treatments include drinking fluids, consuming green leafy vegetables, warm sitz baths, applying Lox 2% gel, and taking Lactulose syrup at bedtime for fifteen days.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "24"
+      ],
+      "medicament": [
+        "Dulcoflex",
+        "Lox 2 % gel",
+        "Lactulose"
+      ],
+      "sympt": [
+        "blood in stool",
+        "small lump in anus"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "anal fissure"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 5-year-old daughter will have an endoscopy to check for celiac disease next week.",
+    "context_question": "5-year-old daughter needs to eat gluten every 14 days before endoscopy for celiac disease.",
+    "answer": "It is sufficient to ensure gluten intake before the endoscopy. Providing a detailed history and previous investigations will be helpful for further advice.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "5"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "celiac disease"
+      ],
+      "Test": [
+        "endoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am practicing as a karma yogi. I have a problem with the bowel movement.",
+    "context_question": "Practicing karma yogi, experiencing bowel movement issues taking up to 30 minutes.",
+    "answer": "Condition is gastrocolic reflux (increased colon motility). Further investigation and treatment are necessary.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "problem with bowel movement"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "gastrocolic reflux"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 50 years old. I have high blood pressure and high cholesterol.",
+    "context_question": "50-year-old with high blood pressure, high cholesterol, and a history of heart stroke seeking weight loss advice.",
+    "answer": "Current weight is fine with a BMI of 21.66 kg/m2. No need for further weight reduction; maintain current weight.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "high blood pressure",
+        "high cholesterol"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 16 years old, and I have been experiencing problems while urinating.",
+    "context_question": "16-year-old experiencing problems starting urine flow and feeling pelvic floor pressure.",
+    "answer": "Condition may be internal rectal prolapse. Evaluation by a general surgeon is recommended for further assessment.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "rectal prolapse",
+    "entities": {
+      "age": [
+        "16"
+      ],
+      "medicament": [
+        "Sat-Isabgol"
+      ],
+      "sympt": [
+        "problems while urinating"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "internal rectal prolapse"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I just found out I am having a very dark tarry black stool. Also a slight stomach ache.",
+    "context_question": "Experiencing dark tarry black stool and slight stomach ache, with a history of chronic gastritis.",
+    "answer": "If feeling weak or thirsty, go to the hospital immediately. Further information is needed for accurate assessment.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "endoscopy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "dark tarry black stool",
+        "slight stomach ache"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "chronic gastritis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My wife is 35 years old and has been dealing with IBS-D for over two years.",
+    "context_question": "35-year-old wife suffering from IBS-D with severe diarrhea and abdominal cramping.",
+    "answer": "Diagnosis is severe, refractory IBS. Consider gut-brain neuromodulators for pain sensitivity and urgency.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "Pelvic floor exercises",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [
+        "Dicyclomine",
+        "Loperamide",
+        "Amitriptyline",
+        "Nortriptyline"
+      ],
+      "sympt": [
+        "urgent diarrhea",
+        "abdominal cramping"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "IBS-D"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 47-year-old female. My weight is 209 pounds.",
+    "context_question": "47-year-old female with blood in stools and stomach bloating, suspected colon or rectal cancer.",
+    "answer": "Diagnosis may be anorectal cancer. Wait for biopsy results; surgery or chemotherapy may be necessary.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "stoma",
+    "entities": {
+      "age": [
+        "47"
+      ],
+      "medicament": [],
+      "sympt": [
+        "blood in stools",
+        "stomach bloating"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "anorectal cancer"
+      ],
+      "Test": [
+        "colonoscopy",
+        "blood tests",
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 23 years old with a weight of 169 pounds and a height of six feet.",
+    "context_question": "23-year-old saw blood in stool multiple times over 40 days.",
+    "answer": "Diagnosis is likely hemorrhoids causing blood in stools. Consult a surgeon and do a CBC to check hemoglobin levels.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "23"
+      ],
+      "medicament": [
+        "oral laxatives"
+      ],
+      "sympt": [
+        "blood in stools"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "hemorrhoids"
+      ],
+      "Test": [
+        "CBC"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Is GERD curable through medicines permanently? If yes, kindly prescribe the medicines.",
+    "context_question": "Inquiring about permanent cure for GERD through medications.",
+    "answer": "GERD can be treated effectively with medications like omeprazole, pantoprazole, and prokinetic drugs. Lifestyle modifications are also important.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "GERD (Gastroesophageal Reflux Disease)",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "omeprazole",
+        "pantoprazole",
+        "domperidone"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "GERD"
+      ],
+      "Test": [
+        "upper GI endoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have uneasiness in my lower left side of my belly for a year.",
+    "context_question": "Experiencing uneasiness in lower left belly for a year, consulted several doctors.",
+    "answer": "Chronic pain may be due to colitis or infection of the bowel. Further investigations are suggested.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "uneasiness in lower left side of belly"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "colitis"
+      ],
+      "Test": [
+        "stool FOB",
+        "stool for ova test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Hi, Why does my heartburn go away when I lay down in the bed and increases when I sit upright?",
+    "context_question": "Inquiring about heartburn symptoms related to body position.",
+    "answer": "Heartburn is caused by acid entering the esophagus. Certain drugs and postural changes can help relieve symptoms.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "heartburn"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [],
+      "Test": [
+        "24 hour ph study",
+        "manometry"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am experiencing itching in my anus.",
+    "context_question": "Experiencing itching in anus with a small growth present.",
+    "answer": "Condition is Pruritus ani. No visible signs of fistula or hemorrhoids. Suggest scheduling an in-person appointment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "33"
+      ],
+      "medicament": [],
+      "sympt": [
+        "itching in anus"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 29 years old. I was having stomach pain, acidity and bloating since a year.",
+    "context_question": "29-year-old with stomach pain, acidity, and bloating, diagnosed with H. pylori positive.",
+    "answer": "Diagnosis includes lower esophageal sphincter laxity and chronic gastritis. Stool examination and culture are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "29"
+      ],
+      "medicament": [
+        "proton pump inhibitor",
+        "probiotic"
+      ],
+      "sympt": [
+        "stomach pain",
+        "acidity",
+        "bloating"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "H. pylori positive",
+        "chronic gastritis"
+      ],
+      "Test": [
+        "stool examination",
+        "culture"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "For the past one month, I am having pain in my anus.",
+    "context_question": "Experiencing anal pain for one month with skin flaps present.",
+    "answer": "Diagnosis suggests external pile mass with an underlying fissure. Dietary measures and topical medicines are recommended.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "fissure",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in anus"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "external pile mass",
+        "fissure"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband has been having a lot of issues in the past year.",
+    "context_question": "Husband with bloating, gas, and chest pressure, has a family history of colon cancer.",
+    "answer": "Concerns about family history are valid. Symptoms may indicate indigestion. Blood in stool is alarming; complete checkup is necessary.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "bloating",
+        "gas",
+        "chest pressure"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father has a problem with the abdomen.",
+    "context_question": "Father unable to pass stool normally, suspected carcinoid tumor after ultrasound.",
+    "answer": "Diagnosis indicates an advanced pancreatic tumor. Supportive treatment is the main focus; further blood tests are needed.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "unable to pass stool normally"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "carcinoid tumor"
+      ],
+      "Test": [
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been diagnosed with GERD (gastrointestinal reflux disorder) as confirmed by an ENT specialist, I took medicine for over a month but I did not get totally well. I changed my diet plan",
+    "context_question": "Diagnosed with GERD, took medicine for over a month without relief, changed diet, and elevated head while sleeping.",
+    "answer": "You have GERD due to acid reflux. Follow the same diet plan, walk after meals, and consider upper GI endoscopy if not done previously. I will prescribe some medicine to help you.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "GERD",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "GERD",
+        "acid reflux"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "upper GI endoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Two months back, I had severe constipation, and my stool got stuck. So, I had to put more pressure.",
+    "context_question": "Had severe constipation two months ago, stool got stuck, leading to an itchy anus and severe pain with a lump.",
+    "answer": "You likely have hemorrhoids due to hard stool and constipation. Use syrup liquid Paraffin 20 ml orally twice daily, Anusol rectal suppository twice daily, and sitz bath twice daily. Consult a specialist if symptoms persist.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "syrup liquid Paraffin",
+        "Anusol rectal suppository"
+      ],
+      "sympt": [
+        "constipation",
+        "itchy anus",
+        "severe pain",
+        "lump"
+      ],
+      "medical_field": [],
+      "disease": [
+        "hemorrhoids"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had acute pancreatitis three weeks ago (probably due to too many drinks on a Saturday although I am not a big drinker generally) and since then struggled with digestion. I am very worr",
+    "context_question": "Had acute pancreatitis three weeks ago, struggling with digestion, pale yellow stools, and terrible fatigue.",
+    "answer": "Recovery after acute pancreatitis takes time. Stop drinking alcohol and start enzyme supplements. An endoscopic ultrasound is recommended to check for chronic pancreatitis.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "acute pancreatitis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "acute pancreatitis",
+        "pale yellow stools",
+        "fatigue"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "endoscopic ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am facing extreme gas problem almost continuously from the last few months. I feel constant uneasiness, bloated feeling, and slight pain sometimes.",
+    "context_question": "Facing extreme gas problem for months, constant uneasiness, bloating, and slight pain.",
+    "answer": "Your symptoms suggest indigestion, possibly due to acidity. Stop taking Liv-52 and Triphala. Undergo tests like upper GI endoscopy and colonoscopy to find the cause.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Liv-52",
+        "Triphala"
+      ],
+      "sympt": [
+        "indigestion",
+        "uneasiness",
+        "bloating",
+        "slight pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "upper GI endoscopy",
+        "colonoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have acidity and I feel like something is stuck in my throat and have inflammation.",
+    "context_question": "Experiencing acidity, feeling of something stuck in throat, and inflammation.",
+    "answer": "You have severe pharyngitis likely due to acid reflux. Avoid spicy foods and take Pantocid-D tablets twice daily before food for three days.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "have severe pharyngitis",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pantocid-D"
+      ],
+      "sympt": [
+        "acidity",
+        "inflammation",
+        "pharyngitis"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had proctocolectomy surgery one year back. It has been five months to ileostomy closure surgery.",
+    "context_question": "Had proctocolectomy a year ago and ileostomy closure five months ago, experiencing increased stool frequency and burning around the anus.",
+    "answer": "Increased stool frequency is normal after a pouch. Itching may occur due to liquid effluent. Give it time to improve, and don't worry too much.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "proctocolectomy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "increased stool frequency",
+        "burning",
+        "itching"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "One year before appendix surgery was done for me. Now, I have to face a problem.",
+    "context_question": "Had appendix surgery a year ago, now experiencing a lump in the anus area and light pain in the left lower abdomen.",
+    "answer": "The left abdominal pain and anal lump are likely unrelated to your previous surgery. Visit a surgeon for proper examination to rule out the cause.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "kidney stones",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "left lower abdominal pain",
+        "anal lump"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 19 year old female with no past medical history. I experienced constipation for some days, and I saw blood in my stools.",
+    "context_question": "19-year-old female with constipation for days and blood in stools, found a fleshy growth on the anus that hurts after passing motion.",
+    "answer": "You likely have old hemorrhoids and an anal fissure. To heal the fissure, do sitz baths and manage constipation to prevent recurrence.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "old hemorrhoids called as skin tags",
+    "entities": {
+      "age": [
+        "19"
+      ],
+      "medicament": [],
+      "sympt": [
+        "constipation",
+        "blood in stools",
+        "fleshy growth",
+        "pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "hemorrhoids",
+        "anal fissure"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am seeking guidance regarding my health condition. I developed jaundice seven years back with clay-colored stool, and my bilirubin level reached a maximum of 50 mg/dl.",
+    "context_question": "Developed jaundice seven years ago with clay-colored stool, bilirubin level of 50 mg/dl, underwent ERCP stenting six years ago.",
+    "answer": "You have a complex case of biliary tract disease with chronic cholestasis and possible primary biliary cholangitis. Current symptoms raise concerns about infection or sepsis.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "chronic cholestasis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "jaundice",
+        "clay-colored stool"
+      ],
+      "medical_field": [],
+      "disease": [
+        "biliary tract disease",
+        "chronic cholestasis",
+        "primary biliary cholangitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 27-year-old female, 5 feet 2 inches tall, and 130 pounds. I have had a bloated stomach for the last two years, on and off.",
+    "context_question": "27-year-old female with a bloated stomach for two years, feeling full after a few bites of food.",
+    "answer": "You may have gastritis. Take Pantoprazole 40 mg before breakfast for 15 days and avoid spicy and high-fat meals.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "Gastritis",
+    "entities": {
+      "age": [
+        "27"
+      ],
+      "medicament": [
+        "Pantoprazole"
+      ],
+      "sympt": [
+        "bloated stomach"
+      ],
+      "medical_field": [],
+      "disease": [
+        "gastritis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My present condition is multiple gallbladder stones (size 0.98 inch. identified before four months) and asymptomatic extra pancreatic walled off - necrosis (size as per USG 3.4*2 inches",
+    "context_question": "Multiple gallbladder stones identified four months ago and asymptomatic extra pancreatic walled off necrosis.",
+    "answer": "Gallbladder stones should be removed due to your history of pancreatitis. Laparoscopic cholecystectomy is recommended. No surgical treatment is needed for the walled-off necrosis.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "gallbladder stones",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "gallbladder stones",
+        "acute pancreatitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a pilonidal cyst excision about four weeks ago, and it has been doing fine. However, my doctor applied silver nitrate to my scar, and the day after, I sat down on the toilet, and i",
+    "context_question": "Had pilonidal cyst excision four weeks ago, bleeding occurred after silver nitrate application.",
+    "answer": "Bleeding may be due to irritation from silver nitrate. Inform your doctor if it continues. Your medications are unlikely to affect the surgical site.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Amphetamine/Dextroamphetamine",
+        "Bupropion 150 mg"
+      ],
+      "sympt": [
+        "bleeding"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I suddenly started having severe pain all over my stomach yesterday. I took injections for pain, vomiting, and gas from the nearby clinic.",
+    "context_question": "Sudden severe stomach pain, took injections for pain, vomiting, and gas, advised to get an ultrasound scan.",
+    "answer": "Your stomach pain may be due to appendicitis. If ultrasound shows appendicitis, surgery may be necessary. Continue treatment for pain and inflammation.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "appendicitis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe stomach pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "appendicitis"
+      ],
+      "Test": [
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have two small anal skin tags developed from healed fissures. Physically they do not bother me much but mentally I do not like to have them.",
+    "context_question": "Two small anal skin tags from healed fissures, do not bother physically but cause mental discomfort.",
+    "answer": "Skin tags from anal fissures can be removed surgically. It's a minor surgery with no significant side effects, but they may reappear.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "anal fissure",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "skin tags"
+      ],
+      "medical_field": [],
+      "disease": [
+        "anal fissure"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I was diagnosed with MRSA eight days after surgery. The surgery was performed to repair the complications from previous surgery.",
+    "context_question": "Diagnosed with MRSA eight days post-surgery, stitches from the second surgery are infected.",
+    "answer": "If MRSA was known before surgery, alternative options could have been considered. Use monofilament suture material for better outcomes.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "MRSA"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My sister went through appendix surgery three days back. She vomited yesterday when we were taking her home and then we took her back to the hospital.",
+    "context_question": "Sister had appendix surgery three days ago, vomited after discharge, and needs advice on normal recovery.",
+    "answer": "If vomiting occurs without fever or abdominal pain, it may be normal. Monitor for other symptoms and consult a doctor if distress occurs.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "vomiting"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Four years back, I got constipation for two days and due to that I had some mass near my anal opening, but it does not cause any pain or bleeding while defecation. Doctor told it is a se",
+    "context_question": "Four years ago, I had constipation for two days, leading to a mass near my anal opening without pain or bleeding. I had an anal fissure two years ago, which healed but reappears every few months.",
+    "answer": "The sentinel pile mass is due to an underlying chronic fissure, aggravated by constipation. To avoid fissures, maintain good hydration, avoid constipating foods, and use laxatives like lactulose syrup as needed. Anal creams with Lignocaine or Diltiazem can help with pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "lactulose syrup",
+        "Lignocaine",
+        "Diltiazem"
+      ],
+      "sympt": [
+        "constipation",
+        "mass near anal opening",
+        "anal fissure",
+        "pain",
+        "bleeding"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had an endoscopy done where gastric adenomas were found near the duodenum. It was benign and completely removed.",
+    "context_question": "I had an endoscopy where benign gastric adenomas were found near the duodenum and completely removed. After a month, a colonoscopy showed no polyps.",
+    "answer": "Five years is a reasonable follow-up period for low-grade dysplasia. Trust your doctor's advice regarding follow-ups.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "gastric adenoma"
+      ],
+      "Test": [
+        "endoscopy",
+        "colonoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 59 years old now. Three years back, one day early morning my father started to cough and when he spit, the color of the sputum was dark red.",
+    "context_question": "My 59-year-old father coughed dark red sputum three years ago, later coughing blood. He was diagnosed with cirrhosis.",
+    "answer": "The coughing and blood are likely due to gastric varices from cirrhosis. An ultrasound of the liver (fibroscan) and repeat endoscopy are recommended for further evaluation.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "59"
+      ],
+      "medicament": [],
+      "sympt": [
+        "cough",
+        "dark red sputum",
+        "blood in sputum"
+      ],
+      "medical_field": [],
+      "disease": [
+        "cirrhosis"
+      ],
+      "Test": [
+        "endoscopy",
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I recently read about something called 'Foreign Accent Syndrome. I have noticed that after a mild head injury, my accent seems to have changed, and people think I sound like I am from an",
+    "context_question": "After a mild head injury, my accent changed, and people think I sound like I'm from another country. Is this possible?",
+    "answer": "Foreign Accent Syndrome (FAS) can occur after brain injury or stroke, affecting speech patterns. It is crucial to investigate the underlying cause of the change.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "change in accent"
+      ],
+      "medical_field": [],
+      "disease": [
+        "Foreign Accent Syndrome"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from abdominal pain and diarrhea three to four times a day for the last four months. I have gone through colonoscopy and sigmoidoscopy followed by a biopsy.",
+    "context_question": "I have abdominal pain and diarrhea three to four times daily for four months. Biopsy results show mild non-specific inflammation.",
+    "answer": "I recommend taking tablet Ondem MD (Ondansetron) 4 mg twice daily for a month, tablet Rablet L (Rabeprazole and levosulpiride) twice daily for a month, and tablet Oflox Oz (Ofloxacin and Ornidazole) twice daily for five days. Stay hydrated with ORS.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "Ondansetron",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Ondem MD",
+        "Rablet L",
+        "Oflox Oz"
+      ],
+      "sympt": [
+        "abdominal pain",
+        "diarrhea"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "colonoscopy",
+        "sigmoidoscopy",
+        "biopsy"
+      ],
+      "Result": [
+        "mild non-specific inflammation"
+      ]
+    }
+  },
+  {
+    "question": "I am a 22 year old female. I have been having constipation since a year.",
+    "context_question": "I am a 22-year-old female with a year-long history of constipation and anal fissures, experiencing burning and mild itching.",
+    "answer": "The pain and itching suggest healing of the fissure. Continue medications, and consider surgery if there is no swelling in the anal region due to repeated episodes of pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "22"
+      ],
+      "medicament": [],
+      "sympt": [
+        "constipation",
+        "anal fissures",
+        "burning sensation",
+        "mild itching"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Hello, doctor, There is a sensual pain near my navel, and that area is a little stiff; pressure needs to be exerted when I want to excrete my stool. It is from the last one or two weeks.",
+    "context_question": "I have had dull pain near my navel and stiffness for one to two weeks, needing to strain during bowel movements.",
+    "answer": "The pain near your navel could indicate constipation, mild intestinal bloating, or early signs of gastrointestinal issues. Increase fiber intake and stay hydrated.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "constipation",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain near navel",
+        "stiffness",
+        "need to strain during bowel movements"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother has been diagnosed with probability of lower GI bleed in proximal jejunal small bowel loops through nuclear scan. She is a heart patient and had been operated in the past and g",
+    "context_question": "My mother has a probable lower GI bleed in proximal jejunal loops detected by nuclear scan. She is a heart patient on Warfarin and has low hemoglobin due to blood loss.",
+    "answer": "The RBC scan indicates the site of bleeding but not the cause. The bleeding may be due to Warfarin causing ulcers. Surgery is a last resort if bleeding cannot be controlled.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Warfarin"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "nuclear scan"
+      ],
+      "Result": [
+        "probability of lower GI bleed",
+        "low hemoglobin"
+      ]
+    }
+  },
+  {
+    "question": "I am suffering from acidity, GERD (gastroesophageal reflux disease), IBS (irritable bowel syndrome) from the last five years. I am just taking Pantop DSR or Rabekind DSR from the last three",
+    "context_question": "I have been suffering from acidity, GERD, and IBS for five years, taking Pantop DSR or Rabekind DSR for three years without improvement.",
+    "answer": "You have symptoms related to GERD and IBS. A dietary approach, such as a low carbohydrate, high fat diet, may help alleviate your symptoms and reduce bloating.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "GERD",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pantop DSR",
+        "Rabekind DSR"
+      ],
+      "sympt": [
+        "acidity",
+        "GERD",
+        "IBS",
+        "bloating"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 18 years old. This all started two weeks ago.",
+    "context_question": "I am 18 years old and started having loose stools, abdominal pain, and grumbling in my stomach two weeks ago.",
+    "answer": "Your symptoms suggest irritable bowel syndrome. If symptoms worsen or change, further evaluation like colonoscopy may be needed. Follow your doctor's medication plan.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "18"
+      ],
+      "medicament": [
+        "Buscopan",
+        "charcoal",
+        "Apo-ranitidine"
+      ],
+      "sympt": [
+        "loose stools",
+        "abdominal pain",
+        "grumbling in stomach"
+      ],
+      "medical_field": [],
+      "disease": [
+        "irritable bowel syndrome"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My MIL is 60 years old. She just had an appendectomy and is having some complications, including a severe headache and vomiting.",
+    "context_question": "My 60-year-old mother-in-law had an appendectomy and is experiencing severe headache and vomiting.",
+    "answer": "The symptoms could be due to various causes post-surgery. Common issues include post-spinal headache or postoperative complications. Consult your doctor for appropriate management.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "60"
+      ],
+      "medicament": [],
+      "sympt": [
+        "severe headache",
+        "vomiting"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been experiencing acid problems. I keep burping after eating.",
+    "context_question": "I have acid problems and burp frequently after eating. I started taking 20 mg Omeprazole but experience side effects.",
+    "answer": "Burping after eating is common in GERD. I recommend dietary changes and suggest switching to Esomeprazole. Add Levosulpiride for 15 days and take Sucralfate to help heal ulcers.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "Burping",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Omeprazole",
+        "Esomeprazole",
+        "Levosulpiride",
+        "Sucralfate"
+      ],
+      "sympt": [
+        "acid problems",
+        "burping"
+      ],
+      "medical_field": [],
+      "disease": [
+        "GERD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Last month I was diagnosed with a gallbladder polyp of 0.23 inch. I underwent a follow-up ultrasound recently which showed the polyp has grown to 0.29 inch.",
+    "context_question": "I was diagnosed with a gallbladder polyp that grew from 0.23 inch to 0.29 inch. Is it cancerous?",
+    "answer": "Polyp growth can indicate a chance of malignancy. Surgery is advised for gallbladder polyps, and the specimen will be sent for histopathology to confirm malignancy.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "gallbladder polyp",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "gallbladder polyp"
+      ],
+      "Test": [
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 60 year old female, who weighs 171 pounds. I have multiple stones in the gallbladder.",
+    "context_question": "I am a 60-year-old female with multiple gallbladder stones and greenish or yellowish vomit, with a history of brownish vomit due to blood.",
+    "answer": "Surgery for gallbladder stones is recommended. A cardiac assessment was requested due to age, but this is not always necessary. Trust your cardiologist's advice.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "60"
+      ],
+      "medicament": [],
+      "sympt": [
+        "multiple stones in gallbladder",
+        "greenish vomit",
+        "yellowish vomit",
+        "brownish vomit"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is 59 years old. She has gallstone and she was supposed to have cholecystectomy but was postponed due to quarantine.",
+    "context_question": "My 59-year-old mother has gallstones and her cholecystectomy was postponed. She now has increased pain in her right shoulder.",
+    "answer": "Gallstone surgery is not emergency unless there are complications. A CT scan or ultrasound is recommended to assess the situation. Pain management and dietary adjustments are advised.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "jaundice",
+    "entities": {
+      "age": [
+        "59"
+      ],
+      "medicament": [],
+      "sympt": [
+        "gallstones",
+        "increased pain in right shoulder"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CT scan",
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I know I should have sought medical help earlier. A few years back, I started experiencing heartburn after meals daily.",
+    "context_question": "I have been experiencing daily heartburn after meals for years, which worsened last year.",
+    "answer": "Your symptoms suggest gastrointestinal reflux disease. A healthy diet, adequate sleep, and avoiding certain foods are recommended. An endoscopy is necessary to evaluate further.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "heartburn"
+      ],
+      "medical_field": [],
+      "disease": [
+        "gastroesophageal reflux disease"
+      ],
+      "Test": [
+        "endoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been doing Kapalbhati pranayama for past one year. I do it for 30 minutes daily in the morning.",
+    "context_question": "Patient has been practicing Kapalbhati pranayama for one year, 30 minutes daily, feeling vitalized.",
+    "answer": "A hernia occurs due to a weak abdominal wall, not from exercise. Exercise strengthens abdominal muscles. Continue your exercise. Causes of a hernia include chronic constipation, smoking, and urinary retention.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "urinary retention",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 29-year-old male with a weight of 121 pounds and a height of five feet. I suffer from IBS.",
+    "context_question": "Patient is a 29-year-old male with IBS, experiencing pain while defecating and burning sensation in the anus.",
+    "answer": "Pain during defecation is often due to hemorrhoids, sometimes with blood. Your abdominal pain is due to IBS, which causes intermittent diarrhea and constipation. Increase fiber intake and consider Normacol one to two sachets daily.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "rectal prolapse",
+    "entities": {
+      "age": [
+        "29"
+      ],
+      "medicament": [
+        "Normacol"
+      ],
+      "sympt": [
+        "pain while defecating",
+        "burning sensation in the anus",
+        "abdominal pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "IBS"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been experiencing pain in my lower abdomen and have had gastric issues for the past three years. It started with an endoscopy which showed a gastric and an H.",
+    "context_question": "Patient has lower abdominal pain and gastric issues for three years, with endoscopy showing H. pylori.",
+    "answer": "Despite normal tests, consider a second opinion from a gastroenterologist. Home remedies like ginger tea and smaller meals may help alleviate pain.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in lower abdomen",
+        "gastric issues"
+      ],
+      "medical_field": [],
+      "disease": [
+        "H. pylori"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 19 years old female. I have had this tiny bump on my anus, it is not painful unless I press hard on it.",
+    "context_question": "Patient is a 19-year-old female with a non-painful bump on the anus.",
+    "answer": "More information is needed to provide specific advice regarding constipation and the anal bump.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "19"
+      ],
+      "medicament": [],
+      "sympt": [
+        "tiny bump on anus"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am having mucus and bloody stools. The mucus has been occurring for about 10 months, and the bleeding began about one month ago.",
+    "context_question": "Patient has had mucus in stools for 10 months and bleeding for one month, with a history of pancreatitis.",
+    "answer": "Mucus with blood suggests rectal inflammation. Your pancreatic issues may cause post-meal pain. Consider dietary adjustments and monitor symptoms closely.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "acute pancreatitis",
+    "entities": {
+      "age": [
+        "24"
+      ],
+      "medicament": [
+        "Creon"
+      ],
+      "sympt": [
+        "mucus in stools",
+        "bloody stools"
+      ],
+      "medical_field": [],
+      "disease": [
+        "pancreatitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 17 years old. A few days back, I had hard stools and it resulted in causing anal fissure.",
+    "context_question": "Patient is 17 years old with hard stools causing an anal fissure and sharp pain during bowel movements.",
+    "answer": "If blood loss is significant, seek emergency care. Maintain hydration and a high-fiber diet. Over-the-counter stool softeners may be necessary.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "17"
+      ],
+      "medicament": [],
+      "sympt": [
+        "hard stools",
+        "anal fissure",
+        "sharp pain during bowel movement"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am passing black stools since two days. I am on medication since four months.",
+    "context_question": "Patient has been passing black stools for two days and is on medication.",
+    "answer": "Black stools may be due to iron in Irozorb or gastritis. Monitor for abdominal pain, nausea, or vomiting.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Irozorb",
+        "Cranbe"
+      ],
+      "sympt": [
+        "black stools"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 37-year-old male. My height is 5.5 feet, and my weight is 123 pounds.",
+    "context_question": "Patient is a 37-year-old male with burning sensation in the right abdomen, weight loss, and diarrhea after certain foods.",
+    "answer": "Your symptoms suggest irritable bowel disease. Consider reducing stress and exercising. Take Nexpro (Esomeprazole) and Tryptomer (Amitriptyline) as prescribed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "CT scan",
+    "entities": {
+      "age": [
+        "37"
+      ],
+      "medicament": [
+        "Nexpro",
+        "Tryptomer"
+      ],
+      "sympt": [
+        "burning sensation in right abdomen",
+        "weight loss",
+        "diarrhea"
+      ],
+      "medical_field": [],
+      "disease": [
+        "irritable bowel disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 68-year-old, dealing with frequent heartburn and a burning sensation in my chest after meals.",
+    "context_question": "Patient is 68 years old with frequent heartburn and regurgitation after meals.",
+    "answer": "Your symptoms suggest gastroesophageal reflux disease (GERD) or gastric ulcer. Factors like smoking and certain foods may aggravate your condition.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "causes of gastroesophageal reflux disease",
+    "entities": {
+      "age": [
+        "68"
+      ],
+      "medicament": [],
+      "sympt": [
+        "frequent heartburn",
+        "burning sensation in chest",
+        "regurgitation"
+      ],
+      "medical_field": [],
+      "disease": [
+        "GERD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had diarrhea two years back, and since then I had gastrointestinal problems.",
+    "context_question": "Patient had diarrhea two years ago and has since experienced gastrointestinal problems without mucus or blood.",
+    "answer": "Your symptoms may indicate issues in the rectum or sigmoid colon. Blood in stools could be from hemorrhoids. An examination is needed to determine the cause.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "gastrointestinal problems",
+        "blood in stools"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a bulge in my left lower abdomen above a scar from surgery last year.",
+    "context_question": "Patient has a bulge in the left lower abdomen above a surgical scar, which has become bigger and more painful.",
+    "answer": "The bulge may indicate a ventral hernia. Monitor its behavior when lying down or coughing. An ultrasound may be necessary to rule out obstruction.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "bulge in left lower abdomen",
+        "pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am in a situation that I cannot go to any hospital for the next three weeks.",
+    "context_question": "Patient is a 27-year-old female with internal hemorrhoids and new fissures causing bleeding.",
+    "answer": "Apply Xylocaine jelly 2 percent and sit in lukewarm water. If symptoms persist, visit a surgeon as soon as possible.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "27"
+      ],
+      "medicament": [
+        "Xylocaine jelly"
+      ],
+      "sympt": [
+        "internal hemorrhoids",
+        "fissures",
+        "bleeding"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "A few years back, I started experiencing pain in the upper abdomen, just underneath the chest.",
+    "context_question": "Patient has upper abdominal pain, previously normal ultrasound and tests.",
+    "answer": "Your symptoms indicate a hiatus hernia with GERD. This condition can cause pain and discomfort, often improving with medication and lifestyle changes.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "GERD (gastroesophageal reflux disease)",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in upper abdomen"
+      ],
+      "medical_field": [],
+      "disease": [
+        "hiatus hernia",
+        "GERD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a problem of abdomen pain since last 3 months which comes and goes away.",
+    "context_question": "Patient has abdominal pain for three months, with normal tests except for a calcified spot in the liver.",
+    "answer": "Common causes of abdominal pain include ulcers and indigestion. Dietary changes and possibly an upper GI endoscopy may be beneficial.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "abdominal pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 30-year-old male. My height is 5 feet and 7 inches, and I weigh about 191 pounds.",
+    "context_question": "Patient is a 30-year-old male with a history of indigestion for four to five years.",
+    "answer": "You likely have NAFLD and GERD. Lifestyle changes and medications like Rabeprazole may be necessary to manage your condition.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "ferritin",
+    "entities": {
+      "age": [
+        "30"
+      ],
+      "medicament": [
+        "Rabeprazole"
+      ],
+      "sympt": [
+        "indigestion"
+      ],
+      "medical_field": [],
+      "disease": [
+        "NAFLD",
+        "GERD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I feel irritation and pain in the abdomen, particularly below my right rib cage for almost two years now.",
+    "context_question": "Patient has irritation and pain in the abdomen below the right rib cage for two years.",
+    "answer": "More information is needed to understand your symptoms better. Please provide details about the pain's nature and any related issues.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "irritation and pain in abdomen"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "A case of a 34-year-old male who is a known case of Crohn's disease recently underwent an MRI enterogram, which revealed: Long segment circumferential mural thickening of proximal transv",
+    "context_question": "A 34-year-old male with Crohn's disease underwent an MRI enterogram revealing mural thickening and a fistulous tract.",
+    "answer": "The MRI results indicate a diagnosis of Crohn's disease. Colonoscopy is contraindicated due to the risk of puncturing abscesses, which could lead to acute peritonitis.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "34"
+      ],
+      "medicament": [],
+      "sympt": [
+        "mural thickening",
+        "fistulous tract"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "Crohn's disease"
+      ],
+      "Test": [
+        "MRI enterogram"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been struggling with severe bloating, digestive issues, and weight gain. My weight used to be high, but with diet and exercise, I have lost over 6 years.",
+    "context_question": "Struggling with severe bloating, digestive issues, and weight gain despite diet and exercise.",
+    "answer": "Your symptoms suggest functional dyspepsia or IBS-like symptoms. A Fibroscan or abdominal ultrasound is recommended to check for fatty liver. Increase protein intake and consider Vitamin D supplements.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "functional dyspepsia",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Vitamin D"
+      ],
+      "sympt": [
+        "bloating",
+        "digestive issues",
+        "weight gain"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "functional dyspepsia",
+        "non-alcoholic fatty liver disease"
+      ],
+      "Test": [
+        "Fibroscan",
+        "abdominal ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had gastric sleeve surgery ten days ago. I took all of my medicines (gastric vitamin, Omeprazole, iron chewable, Lexapro, and Lisinopril) all at once, which I have never done before.",
+    "context_question": "After gastric sleeve surgery, took all medications at once and experienced nausea and vomiting with blood.",
+    "answer": "The blood in the vomit is concerning. If you feel fine without other symptoms, monitor your condition. Consult your doctor if symptoms persist.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "gastric vitamin",
+        "Omeprazole",
+        "iron chewable",
+        "Lexapro",
+        "Lisinopril"
+      ],
+      "sympt": [
+        "nausea",
+        "vomiting",
+        "blood in vomit"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 20-year-old female. I have had bad stomach issues since last month.",
+    "context_question": "A 20-year-old female with stomach issues, yellow stool, diarrhea after fatty foods, and rib cage pain.",
+    "answer": "Your symptoms may indicate hepatitis. Hepatitis marker tests are recommended for diagnosis. Avoid fatty and spicy foods and drink plenty of water.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "20"
+      ],
+      "medicament": [],
+      "sympt": [
+        "bad stomach issues",
+        "yellow stool",
+        "diarrhea",
+        "pain on right rib cage"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "hepatitis"
+      ],
+      "Test": [
+        "HIDA scan"
+      ],
+      "Result": [
+        "EF (ejection fraction) was 68 percent"
+      ]
+    }
+  },
+  {
+    "question": "I have been having some pain in my butthole. I have a giant rash that is on the edge of my anus and a lump or inflammation directly in the opening in my anus.",
+    "context_question": "Experiencing pain in the anus with a rash and lump causing discomfort.",
+    "answer": "You likely have hemorrhoids, which can be treated with medications. Take Daflon 1000 mg twice daily, apply Anovate thrice daily, and take Looz 0.06 tablespoon twice daily.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Surgical Gastroenterology",
+    "article_title": "Tranexamic acid",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Daflon 1000 mg",
+        "Anovate",
+        "Looz 0.06 tablespoon"
+      ],
+      "sympt": [
+        "pain in anus",
+        "rash",
+        "lump",
+        "inflammation"
+      ],
+      "medical_field": [
+        "Surgical Gastroenterology"
+      ],
+      "disease": [
+        "hemorrhoids"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  }
+]
