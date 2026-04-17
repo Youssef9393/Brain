@@ -1,3 +1,5 @@
+<img width="2404" height="1552" alt="diagram-export-17-04-2026-16_00_48" src="https://github.com/user-attachments/assets/6df29da2-38fa-4e01-8016-8fe29c599719" />
+
 ## Sources De donnees 
 cette dataset contient des questions reponce en Medical Deja annote par Des Medecine et de difference specialite.
 
