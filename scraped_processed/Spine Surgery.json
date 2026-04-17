@@ -1,0 +1,1561 @@
+[
+  {
+    "question": "I have a C4 spinous process fracture with ligamentum flavum focal disruption at C4 and C5. I have been in a Miami J collar for seven weeks now and have had varying information regarding my",
+    "context_question": "Patient has a C4 spinous process fracture with ligamentum flavum disruption and has been in a Miami J collar for seven weeks.",
+    "answer": "The patient needs to send MRI films for better assessment. Further assistance can be provided once more information is available.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 27-year-old brother has been suffering from back pain for the last nine months. Nine months ago, his first MRI (magnetic resonance imaging) showed a slipped disc.",
+    "context_question": "Patient's brother, 27, has back pain for nine months; first MRI showed a slipped disc. Pain has become severe in the last 15 days.",
+    "answer": "Surgery is recommended to drain an abscess and relieve pressure on the spinal cord due to the slipped disc and abscess.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "tuberculosis (TB)",
+    "entities": {
+      "age": [
+        "27"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "slipped disc",
+        "abscess"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 46-year-old female and weigh 121.2 pounds. My MRI reports reveal an L4-L5 diffuse disc bulge causing thecal sac indentation and compression of both existing nerve roots and an L5-",
+    "context_question": "Patient, 46, has an L4-L5 diffuse disc bulge causing thecal sac indentation and compression of nerve roots.",
+    "answer": "Recommendations include avoiding heavy lifting, improving posture, and taking bed rest if severe pain occurs. Local hot fomentations and applying Oxalgin gel are suggested.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "46"
+      ],
+      "medicament": [
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "disc bulge"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 38-year-old male with a height of 5.7 feet and a weight of 143.3 pounds, facing a problem of pain in the left leg, weakness, and numbness, tingling in the feet, and stiffness in t",
+    "context_question": "Patient, 38, has left leg pain, weakness, numbness, tingling in feet, and stiffness in thighs, with difficulty walking.",
+    "answer": "Symptoms suggest muscle spasm; further history regarding weight lifting or trauma is needed for better assessment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "38"
+      ],
+      "medicament": [],
+      "sympt": [
+        "pain in the left leg",
+        "weakness",
+        "numbness",
+        "tingling",
+        "stiffness"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 31-year-old female. For the past year, I have been suffering from heaviness of the head and neck stiffness.",
+    "context_question": "Patient, 31, has experienced heaviness in the head and neck stiffness for a year.",
+    "answer": "Early cervical spondylosis is noted, and treatment for vertigo is recommended. An abdominal ultrasound is suggested to rule out gastrointestinal issues.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "spondylosis,",
+    "entities": {
+      "age": [
+        "31"
+      ],
+      "medicament": [],
+      "sympt": [
+        "heaviness of the head",
+        "neck stiffness"
+      ],
+      "medical_field": [],
+      "disease": [
+        "early cervical spondylosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 21 years old. Last night, I had right side neck pain followed by tingling in the right leg and weakness.",
+    "context_question": "Patient, 21, experienced right side neck pain, tingling in the right leg, and weakness.",
+    "answer": "Symptoms likely due to muscle spasm; further history regarding weight lifting or trauma is needed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "21"
+      ],
+      "medicament": [],
+      "sympt": [
+        "neck pain",
+        "tingling in the right leg",
+        "weakness"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 37.5-year army veteran with a service-related history of cervical spine degeneration. Recent MRI (magnetic resonance imaging) findings confirm myelomalacia at the C5âC6 level with",
+    "context_question": "Patient, 37.5, has myelomalacia at C5-C6 level with cervical spine degeneration.",
+    "answer": "Surgical intervention is recommended due to the progression of the condition and noticeable balance issues.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "cervical myelopathy",
+    "entities": {
+      "age": [
+        "37.5"
+      ],
+      "medicament": [],
+      "sympt": [
+        "balance issues"
+      ],
+      "medical_field": [],
+      "disease": [
+        "myelomalacia"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a disc bulge at L4, L5, and S1. As a result, I have back pain.",
+    "context_question": "Patient has a disc bulge at L4, L5, and S1 causing back pain.",
+    "answer": "Temporary injections like Depo-Medrol (Methylprednisolone acetate) can help with pain relief, but there are no permanent injections available.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "epidural injection",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Depo-Medrol (Methylprednisolone acetate)"
+      ],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from back pain for the past 15 months. I am unable to stand due to pain.",
+    "context_question": "Patient has been suffering from back pain for 15 months and is unable to stand.",
+    "answer": "An MRI scan is recommended, along with physiotherapy, to investigate the cause of the pain.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "physiotherapy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 48 years old. I am suffering from lower back pain radiating to my right leg.",
+    "context_question": "Patient, 48, has lower back pain radiating to the right leg.",
+    "answer": "Symptoms suggest sciatica; recommendations include avoiding heavy lifting and improving posture.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "sciatica",
+    "entities": {
+      "age": [
+        "48"
+      ],
+      "medicament": [],
+      "sympt": [
+        "lower back pain",
+        "radiating pain to right leg"
+      ],
+      "medical_field": [],
+      "disease": [
+        "sciatica"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been experiencing severe back pain with left lower leg pain and difficulty standing or sitting for the past ten years. An MRI was done, which shows severe disc degeneration betwee",
+    "context_question": "Patient has severe back pain with left lower leg pain and difficulty standing or sitting for ten years; MRI shows severe disc degeneration.",
+    "answer": "Significant disc protrusion at L4 to L5 is noted. Treatment options depend on clinical findings and history.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "Selective nerve root block",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe back pain",
+        "left lower leg pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "disc degeneration"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 37-year-old male. I was diagnosed with an L5S1 disc herniation 1.5 years ago.",
+    "context_question": "Patient, 37, diagnosed with L5S1 disc herniation 1.5 years ago, has localized pain in lower back and testicle.",
+    "answer": "Further assessment is needed with MRI images to determine if the herniation has progressed. A phone consultation is suggested.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "epidural injections",
+    "entities": {
+      "age": [
+        "37"
+      ],
+      "medicament": [],
+      "sympt": [
+        "localized pain in lower back",
+        "pain in testicle"
+      ],
+      "medical_field": [],
+      "disease": [
+        "L5S1 disc herniation"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from severe sciatic pain for the last three months and was reported to the hospital three months ago. An MRI scan was carried out two months before.",
+    "context_question": "Patient has severe sciatic pain for three months; MRI showed degenerative disc disease or prolapsed intervertebral disc.",
+    "answer": "Further assessment is needed regarding leg pain and any bladder or bowel changes.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "sciatic pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "degenerative disc disease",
+        "prolapsed intervertebral disc"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "A 75-year-old woman was in a car accident that occurred ten days ago, resulting in her hospitalization. She has the following conditions: Acute avulsion fracture of the antero-inferior a",
+    "context_question": "Patient, 75, has acute avulsion fracture of C3 vertebral body and multifocal post-traumatic cord contusion.",
+    "answer": "Surgery is recommended to relieve spinal cord compression and fuse bones using implants.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "cord compression",
+    "entities": {
+      "age": [
+        "75"
+      ],
+      "medicament": [],
+      "sympt": [
+        "weakness in both upper and lower limbs"
+      ],
+      "medical_field": [],
+      "disease": [
+        "acute avulsion fracture",
+        "post-traumatic cord contusion"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Two months back, when I was moving a ladder, I twisted the wrong way and injured my back. At that moment, I felt like I sprained or pulled something.",
+    "context_question": "Patient injured back two months ago while moving a ladder, experiencing burning, numbness, weakness in left leg, and sharp pain.",
+    "answer": "Further clarification on the nature of the lower back pain is needed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "burning",
+        "numbness",
+        "weakness in left leg",
+        "sharp pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have cervical pain radiating to the right shoulder, neck, and arm until fingers. I have this problem for the past eight months and I am currently on medications for diabetics.",
+    "context_question": "Cervical pain radiating to the right shoulder, neck, and arm for eight months. Currently on diabetic medications.",
+    "answer": "Symptoms suggest cervical disc issues with irritation to the right-sided nerve at C5-6 level. Usually heals within six to eight weeks. Warm water fomentation and local pain killer gel recommended. Avoid lifting weights and jerks to the neck.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "cervical pain",
+        "radiating pain",
+        "pain in shoulder",
+        "pain in neck",
+        "pain in arm"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had back pain for the last 12 years. I had an L5 S1 disc herniation and later diagnosed with severe lumbar spinal stenosis at l4 l5 as well.",
+    "context_question": "Back pain for 12 years, with L5 S1 disc herniation and severe lumbar spinal stenosis at L4 L5. Persistent calf and foot spasms.",
+    "answer": "Back pain likely due to local instability. Recommend discussing laminectomy and pedicle screw stabilization with your doctor for relief. Lumbar canal stenosis usually does not cause back pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "laminectomy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "calf spasms",
+        "foot cramps"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "L5 S1 disc herniation",
+        "lumbar spinal stenosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have lower back pain that radiates along the subcostal margins bilaterally but predominantly on the right. The pain is more noticeable and worsens with movement.",
+    "context_question": "Lower back pain radiating along subcostal margins, predominantly on the right, worsens with movement.",
+    "answer": "Mid-back pain may be due to vitamin D deficiency, arthritis, or injury. Recommend X-ray of the dorso-lumbar spine and blood tests for vitamin levels. Avoid heavy lifting and improve posture.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "X-ray",
+        "blood tests"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from spinal pain problem for the last five years. I was diagnosed with disc protrusion at L4-L5 and L5-S1 initially.",
+    "context_question": "Spinal pain for five years, diagnosed with disc protrusion at L4-L5 and L5-S1. Pain worsened after childbirth.",
+    "answer": "Disc protrusion at L4-5 and L5-S1 noted. Recommend sending recent MRI for evaluation. Conservative measures like medication and physiotherapy are options.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "Disc protrusion",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "spinal pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "disc protrusion"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 31 years old, and before I was 16 years old, I underwent an anterior discectomy of C3-C4 and C4-C5 with fusion. Even had neck pain, and the pain radiated to my neck and back while w",
+    "context_question": "31 years old, underwent anterior discectomy of C3-C4 and C4-C5. Suffering from neck pain radiating to neck and back for 16 years.",
+    "answer": "Current symptoms likely due to disc prolapse at C5-C6 with nerve compression. Recommend physiotherapy, cervical traction, and avoiding surgery if possible.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "Analgesics",
+    "entities": {
+      "age": [
+        "31 years old"
+      ],
+      "medicament": [
+        "Analgesics"
+      ],
+      "sympt": [
+        "neck pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "disc prolapse"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a slight leg discrepancy, with one leg shorter than the other by about four cm. Because of this, I have very slight scoliosis.",
+    "context_question": "Slight leg discrepancy of four cm causing slight scoliosis and lower back pain.",
+    "answer": "MRI is necessary to determine the cause of symptoms. Without it, proper treatment cannot be established.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "agoraphobia",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "leg discrepancy",
+        "scoliosis",
+        "lower back pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 30-year-old woman diagnosed with a partially dislocated disc at L5-S1. The MRI (magnetic resonance imaging) shows a posterior bulge with a focal annular tear, causing indentation",
+    "context_question": "30-year-old woman with partially dislocated disc at L5-S1, MRI shows posterior bulge and focal annular tear causing leg pain.",
+    "answer": "Back pain likely due to L5-S1 disc bulge pressing on the left nerve root. Surgery considered if pain persists despite rest and medications.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "Back pain",
+    "entities": {
+      "age": [
+        "30 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "leg pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "partially dislocated disc",
+        "disc bulge"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Nine years ago, I visited the emergency room due to severe muscle cramping and spasms in my back. I was treated with eight muscle relaxer pills, and the problem resolved completely.",
+    "context_question": "Nine years ago, severe muscle cramping and spasms in back treated with muscle relaxers. Recently unable to walk after work-related injury.",
+    "answer": "Back muscle spasms can occur without disc problems. A prolapsed disc may not relate to a previous injury unless an MRI was done.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "muscle spasms",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "muscle relaxer pills"
+      ],
+      "sympt": [
+        "muscle cramping",
+        "muscle spasms"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had a short neck since birth. I am attaching my recent X-ray report with this post.",
+    "context_question": "Short neck since birth, seeking understanding of condition and potential solutions.",
+    "answer": "Condition likely due to block vertebrae or congenital fusion of cervical vertebrae. Traction devices may not help unless specific issues arise.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "short neck"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am living in a place, but my mother lives abroad in a country with limited access to spinal surgeons. She is 71 otherwise fit and well for her age.",
+    "context_question": "Mother, 71 years old, has a T8 vertebral body fracture that is minimally displaced with no cord compression.",
+    "answer": "For T8 vertebral fracture, treatment involves pain relief and physiotherapy. A TLSO brace may help. Bed rest only if severe pain occurs.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "71 years old"
+      ],
+      "medicament": [
+        "pain-killers"
+      ],
+      "sympt": [
+        "pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "T8 vertebral body fracture"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from disc bulge at the level of L5-S1. It has caused pressure on the nerve root for the past two months.",
+    "context_question": "Suffering from disc bulge at L5-S1 causing pressure on nerve root for two months.",
+    "answer": "MRI findings indicate L5/S1 disc bulge and instability. Further details needed regarding pain intensity and symptoms. Attach MRI for assessment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "MRI (magnetic resonance imaging)",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "disc bulge",
+        "pressure on nerve root"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 40 years old, having mild back pain for four years and no leg pain, but while traveling on sitting, I have mild lower back pain. So I got an MRI scanning as suggested by the doctor, an",
+    "context_question": "40 years old, mild back pain for four years, mild lower back pain while sitting.",
+    "answer": "Avoid heavy lifting and improve posture. Apply Oxalgin gel (Diclofenac sodium, Methyl salicylate, and Menthol) for pain relief.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "Ibuprofen",
+    "entities": {
+      "age": [
+        "40 years old"
+      ],
+      "medicament": [
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "mild back pain",
+        "lower back pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Other than Bell's palsy, I have a problem of back or neck pain now. In fact, this has been going on for a few months now.",
+    "context_question": "Back or neck pain for a few months, with significant pain in the lower back and hip recently.",
+    "answer": "Symptoms due to degenerative changes in the spine. No significant nerve root compression. Pain likely due to joint degeneration.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "treatment of back pain",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "neck pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had discomfort in my lower back and took medications for two months. Now I have pain there occasionally I also have numbness in my right side after standing or walking for two to three",
+    "context_question": "Lower back discomfort treated with medications for two months. Occasional pain and numbness in the right side after standing or walking.",
+    "answer": "Further details needed regarding physical activity and symptoms. Surgery may not be necessary; follow-up required.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "physical activity",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain",
+        "numbness"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been treated for complications in my spinal cord. As the metastatic cells have been considered the reason behind some fractures in his spinal cord, he had two chemotherapy.",
+    "context_question": "Treated for spinal cord complications due to metastatic cells causing fractures. Recently, both legs got paralyzed.",
+    "answer": "MRI shows multiple metastatic lesions and unstable fracture requiring surgery. Recovery prognosis is low due to existing weakness.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "positron emission tomography",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "paralysis",
+        "loss of bladder control",
+        "loss of bowel control"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "metastatic lesions",
+        "unstable fracture"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 60-year-old female, having pain in both knees and ankles, swollen, and the knees do not bend. The pain starts from the upper thigh to the knee.",
+    "context_question": "60-year-old female with pain in knees and ankles, swollen, and knees do not bend.",
+    "answer": "Blood tests for cholesterol, uric acid, and blood urea recommended. Use knee cap and warm water soaks for pain relief.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "cholesterol",
+    "entities": {
+      "age": [
+        "60 years old"
+      ],
+      "medicament": [
+        "Shelcal 500"
+      ],
+      "sympt": [
+        "pain in knees",
+        "swelling"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "blood test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 34-year-old female having low back pain for the past nine years. I underwent various treatments along with regular physiotherapy, but no improvement.",
+    "context_question": "34-year-old female with low back pain for nine years, severe pain radiating to left hip and leg, unable to walk or sleep.",
+    "answer": "You have chronic low back pain with MRI findings indicating disc-related issues. Consider pain management options like NSAIDs, muscle relaxants, or nerve pain medications.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "back pain",
+    "entities": {
+      "age": [
+        "34"
+      ],
+      "medicament": [
+        "NSAIDs"
+      ],
+      "sympt": [
+        "low back pain",
+        "severe low back pain",
+        "burning sensation",
+        "pinching sensation"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "magnetic resonance imaging (MRI)"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I just had posterior stabilization for a compressed fracture at T12. When can I resume normal activity?",
+    "context_question": "Patient had posterior stabilization for T12 fracture and inquires about resuming normal activity.",
+    "answer": "You can usually start walking the day after surgery. It should not affect your sex life or the rest of your life if healing goes well.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "compressed fracture"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 33 years old and very active. I got these results from a neurologist, who said I should try strength training instead of going straight to surgery.",
+    "context_question": "33-year-old active individual with numbness in arms and hands, weakness in grip strength and shoulders, worsening symptoms.",
+    "answer": "You may have weakness and numbness. Please provide your neurologist's examination findings for better advice.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "numbness",
+    "entities": {
+      "age": [
+        "33"
+      ],
+      "medicament": [],
+      "sympt": [
+        "numbness",
+        "weakness in grip strength",
+        "weakness in shoulders"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had surgery on my spine for disc herniation last year. But still, I am not feeling recovered.",
+    "context_question": "Patient had spine surgery for disc herniation last year but is not feeling recovered.",
+    "answer": "Your MRI shows a small protrusion at L5 to S1, which may be causing residual pain. You should continue physiotherapy and reassess in six months.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "physiotherapy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "residual pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "disc herniation",
+        "failed back surgery syndrome"
+      ],
+      "Test": [
+        "magnetic resonance imaging (MRI)"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 36 years old. I had vitamin D deficiency with back pain before four years.",
+    "context_question": "36-year-old with a history of vitamin D deficiency and back pain, experiencing ongoing symptoms.",
+    "answer": "Your symptoms suggest core and back muscle weakness. Regular exercise, yoga, and maintaining posture while sitting can help.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "gym, yoga,",
+    "entities": {
+      "age": [
+        "36"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "vitamin D deficiency"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 56-year-old male. I am suffering from low-grade lower back pain for a couple of months already.",
+    "context_question": "56-year-old male with low-grade lower back pain for a couple of months, uncomfortable when lying down.",
+    "answer": "Your X-ray suggests muscle spasms likely due to chronic nerve compression. An MRI is recommended to assess the discs and nerve compression.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "56"
+      ],
+      "medicament": [],
+      "sympt": [
+        "low-grade lower back pain",
+        "muscle spasms"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "X-ray",
+        "magnetic resonance imaging (MRI)"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am having back pain at rest for the past for one month. I am also having an issue with sleep since it is hurting and it keeps on tingling when at rest.",
+    "context_question": "Patient has back pain at rest for one month, affecting sleep and causing tingling.",
+    "answer": "There are many causes for lower back pain. A detailed discussion is needed to understand the pain's duration, onset, and associated symptoms.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "tingling"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I need help for my aunt. She is 71 years old, 62 inches, and 97 pounds.",
+    "context_question": "71-year-old female with constant pain and difficulty getting up, limited mobility.",
+    "answer": "Your aunt's condition involves multiple spinal surgeries, scoliosis, degenerative disc disease, and nerve damage. Conservative management is recommended.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "scoliosis",
+    "entities": {
+      "age": [
+        "71"
+      ],
+      "medicament": [],
+      "sympt": [
+        "constant pain",
+        "difficulty in getting up",
+        "limited mobility"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "scoliosis",
+        "degenerative disc disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I recently had two spinal surgeries for cauda equina syndrome. I was told that a second surgery was required due to a dural tear.",
+    "context_question": "Patient had two spinal surgeries for cauda equina syndrome and questions the necessity of a second surgery.",
+    "answer": "Please elaborate on your question regarding the surgeries. I am here to help you.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "cauda equina syndrome"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had an ACDF of C3-C7 seven years back. After the surgery, I have had chronic muscle spasms, numbness, and pain on the left side of the neck.",
+    "context_question": "Patient had ACDF surgery seven years ago, now experiencing chronic muscle spasms, numbness, and neck pain.",
+    "answer": "You have cervical stenosis post-surgery causing pain. Continue medications and consider exercises. Re-surgery may be an option if symptoms persist.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "Avoid sitting for long hours",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "chronic muscle spasms",
+        "numbness",
+        "pain on the left side of the neck"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "cervical central canal stenosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had pain in my lower back for two months, and I finally went to a hospital. The doctor ordered a CT for me, and it turns out I have L4 to L5 central and left paracentral disc bulge.",
+    "context_question": "Patient has lower back pain for two months and was diagnosed with L4 to L5 disc bulge.",
+    "answer": "Your doctor is correct. Avoid heavy lifting and improve your posture. Regular breaks and local hot fermentations are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "Diclofenac",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Diclofenac"
+      ],
+      "sympt": [
+        "lower back pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "CT"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My C4/5 and C5/6 disks removed three years back. C5/6 has been fused, and the C4/5 was replaced with an M6 artificial disc.",
+    "context_question": "Patient had C4/5 and C5/6 disks removed, experiencing intermittent pain and tightness in neck and upper back.",
+    "answer": "There is significant osteolysis around the M6 prosthesis. Physiotherapy is recommended instead of re-surgery for better results.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "intermittent pains",
+        "tightness in neck",
+        "tightness in upper back"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "What is the difference between spine fusion and fixation surgery?",
+    "context_question": "Patient inquires about the difference between spine fusion and fixation surgery.",
+    "answer": "Spine fusion involves fusing two vertebral bodies with a bone graft, while fixation surgery uses screws and rods for trauma cases.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Surgery",
+    "article_title": "bone graft",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have lower back pain and right buttock pain. I have consulted a doctor for this, but I am not satisfied with the explanations.",
+    "context_question": "Patient has lower back pain and right buttock pain, underwent MRI showing disc bulge and stenosis.",
+    "answer": "Your MRI shows degenerative disc disease. I need more clinical details to correlate with the MRI images for better advice.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "MRI scan",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain",
+        "right buttock pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had pain in my lower back in the lumbar region for the past six months. I have severe pain during sleep.",
+    "context_question": "Patient has lower back pain for six months, experiencing severe pain during sleep.",
+    "answer": "Follow instructions to relieve pain, avoid heavy lifting, improve posture, and consider bed rest if severe pain persists.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain",
+        "severe pain during sleep"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have done my C1 and C2 surgery with screw fixation. After three months, my head is little flexible to move down and backward but not left and right.",
+    "context_question": "Patient had C1 and C2 surgery with screw fixation, now experiencing stiffness and tightness in neck and shoulder.",
+    "answer": "Your X-ray looks fine. Use a soft cervical collar if you have pain and stiffness. Incorporate McKenzie back extension exercises cautiously.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "stiff neck",
+        "tightness in shoulder"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My nine-month-old infant has Klippel-Feil syndrome. She has multilevel issues throughout her spine and would like you to review the submitted information and let us know your thoughts.",
+    "context_question": "My nine-month-old infant has Klippel-Feil syndrome with multilevel spine issues and a suspected hemivertebra at right C5. Kindly suggest.",
+    "answer": "The spine deformity is concerning, with multiple vertebrae defects causing deformation. The head tilting may indicate instability at C1-2 or tight muscles, which can be corrected with minor surgery if muscle-related.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "scoliosis",
+    "entities": {
+      "age": [
+        "nine-month-old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "multilevel issues throughout her spine"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "Klippel-Feil syndrome"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am inquiring for a friend who underwent L4 - L5 hemilaminectomy surgery. He is recovering except for the persistent numbness, pins and needles and swelling in his left foot.",
+    "context_question": "My friend had L4 - L5 hemilaminectomy surgery and is experiencing persistent numbness, pins and needles, and swelling in his left foot.",
+    "answer": "Your friend's persistent tingling and numbness in the left foot may indicate that these sensations were present before surgery. Reviewing preoperative MRI images could clarify the situation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "herniated disc",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "persistent numbness",
+        "pins and needles",
+        "swelling in his left foot"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from severe back pain, so I got an MRI of the lumbar spine. I do not understand the findings.",
+    "context_question": "I have severe back pain and got an MRI of the lumbar spine. I do not understand the findings.",
+    "answer": "The MRI report suggests strain in your back muscles, particularly on the right side, correlating with your symptoms. There are multilevel disc changes but no significant pressure on nerves.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "low back pain",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe back pain"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI of the lumbar spine"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My brother met with an accident while riding his bike. His D4 and D5 vertebra got fractured and he is not able to move due to loss of sensation from the upper part of the abdomen.",
+    "context_question": "My brother has fractured D4 and D5 vertebrae from a bike accident and has lost sensation from the upper abdomen.",
+    "answer": "Natural healing is the only option for paraplegia. Surgery may be needed to allow the spinal cord to heal, along with physiotherapy, rest, and medications like Calcium and Vitamin B12.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Calcium",
+        "Vitamin B12"
+      ],
+      "sympt": [
+        "loss of sensation from the upper part of the abdomen"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "paraplegia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My wife did MRI today. She is unable to walk, severe pain, and swelling in her back and both legs.",
+    "context_question": "My wife is unable to walk and has severe pain and swelling in her back and both legs after an MRI.",
+    "answer": "The MRI indicates a disc prolapse causing compression of the S1 nerve root, leading to severe pain. Most patients respond to medications within six weeks, and I recommend Aceclofenac, Tramadol, and Pregabalin.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Surgery",
+    "article_title": "disc prolapse",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Aceclofenac",
+        "Tramadol",
+        "Pregabalin"
+      ],
+      "sympt": [
+        "unable to walk",
+        "severe pain",
+        "swelling in her back and both legs"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been having pain in my lower neck and arm for the past year and have been on conservative treatment since then. But it is not fully cured.",
+    "context_question": "I have had pain in my lower neck and arm for the past year, and conservative treatment has not fully cured it.",
+    "answer": "I recommend avoiding heavy lifting, improving posture, and doing warm compressions. Use Oxalgin (Diclofenac) gel and take Pregabalin for pain management.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "Diclofenac",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Oxalgin",
+        "Diclofenac",
+        "Pregabalin"
+      ],
+      "sympt": [
+        "pain in my lower neck and arm"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 50 plus in age. He has had the bulging disk for the last one and half years.",
+    "context_question": "My father, over 50, has had a bulging disk for one and a half years and has tried various treatments.",
+    "answer": "I need to see your father's MRI or X-ray report. Meanwhile, he should avoid heavy lifting and improve posture. Bed rest and hot fomentation may help.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [
+        "50 plus"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "bulging disk"
+      ],
+      "Test": [
+        "MRI",
+        "X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 36-year-old mom with three kids. My younger child is four years old.",
+    "context_question": "I am a 36-year-old mom with chronic pain in my back, pelvis, stomach, and legs for two and a half years after slipping three lower back discs.",
+    "answer": "Your chronic back pain may improve with weight reduction and exercise. The MRI shows slight symptoms at L3/4, but other levels are not symptomatic.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "back pain",
+    "entities": {
+      "age": [
+        "36-year-old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "chronic pain in my back, pelvis, stomach, and legs"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am having back pain near the spine on the right side, especially when I go downstairs or go for a walk. My back gets locked when I am standing still.",
+    "context_question": "I have back pain near the spine on the right side, worsening with movement and causing my back to lock when standing still.",
+    "answer": "I need more details about your pain characteristics and history. The nature of the pain and any past injuries could help in understanding your condition.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "tingling sensation",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain near the spine on the right side"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I got cervical neuropathy 10 days back. Got MRI six days back.",
+    "context_question": "I was diagnosed with cervical neuropathy 10 days ago and had an MRI six days ago.",
+    "answer": "Your condition is not serious. Neuropathies are common and usually resolve in three to four weeks. Follow care instructions and avoid heavy lifting.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "neck exercises",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Depomedrol 80 mg",
+        "Pregabalin",
+        "Methycobalamine",
+        "Medrol"
+      ],
+      "sympt": [
+        "mild parasthesia in thumb and index finger of right hand"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [
+        "cervical neuropathy"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 26-year-old male. I have had mild back pain for over two years.",
+    "context_question": "I am a 26-year-old male with mild back pain for over two years and discomfort while walking.",
+    "answer": "Your MRI shows a mild bulge at L5-S1, but there's no significant compression. Spinal extension exercises may help, and your imbalance is likely unrelated to the spine.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "neck exercises",
+    "entities": {
+      "age": [
+        "26-year-old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "mild back pain",
+        "discomfort while walking"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have attached my cervical spine MRI (magnetic resonance image) report; only the images are added. I was having pain in the back of the head, the back of the neck, and the upper back an",
+    "context_question": "I have attached my cervical spine MRI report due to pain in the back of the head, neck, and upper back for one year.",
+    "answer": "I need to review your MRI report. Your symptoms have been persistent, and further evaluation is necessary to provide guidance.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "MRI (magnetic resonance image)",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in the back of the head",
+        "the back of the neck",
+        "the upper back"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Post spine surgery My CT says evidence of pre and paravertebral soft tissue and differentiation of hematoma may be considered. Does this mean there is a blood clot?",
+    "context_question": "Post spine surgery, my CT indicates pre and paravertebral soft tissue and possible hematoma. Does this suggest a blood clot?",
+    "answer": "The CT report indicates soft tissue but does not confirm a blood clot. Further comparison with preoperative scans is needed to narrow down the diagnosis.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "CT"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have attached my MRI reports. No significant narrowing of the cord after the accident last year.",
+    "context_question": "I have attached my MRI reports showing no significant narrowing of the cord after last year's accident. Symptoms include numbness and muscle tightening.",
+    "answer": "I need images of the MRI to assess your condition further. Please provide details about any instability while walking or changes in symptoms since last year.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Surgery",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "numbness",
+        "muscle tightening from the abdomen to the toes"
+      ],
+      "medical_field": [
+        "Spine Surgery"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  }
+]

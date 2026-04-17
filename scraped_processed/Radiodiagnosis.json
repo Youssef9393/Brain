@@ -1,0 +1,1009 @@
+[
+  {
+    "question": "I have sciatica on the left side. I have pain when walking or standing for a long period of time.",
+    "context_question": "Patient has left-sided sciatica with pain when walking or standing for years. Physical therapy and weight loss helped, but pain persists after walking over a mile.",
+    "answer": "MRI shows degenerative changes in lumbar spine, acute edema at L5-S1, and disc bulges causing neural foraminal compromise. Severe pain may require surgical treatment if daily activities are limited.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "sciatica",
+        "pain when walking",
+        "pain when standing"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 33-year-old female. I recently had a chest X-ray done, and there were opacities in my right infraclavicular region.",
+    "context_question": "Patient is a 33-year-old female with opacities in the right infraclavicular region noted on a recent chest X-ray. She seeks clarification on a follow-up X-ray.",
+    "answer": "Chest X-ray shows suspicious opacities in the right infraclavicular region, which may indicate lung pathology or normal structures. Further imaging may be needed for clarification.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "33"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "chest X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Magnetic resonance imaging (MRI) of the right ankle was performed following a climbing fall from 3.89 yards, with inversion rolling on impact. This occurred a year ago, and I have had on",
+    "context_question": "Patient had an MRI of the right ankle after a climbing fall a year ago, experiencing ongoing pain around the anterior talo-fibular ligament and occasional swelling.",
+    "answer": "MRI confirms a sprain of the ATFL and CFL, with significant effusion in the ankle joint. No tear is observed, and the TFCC shows mild sprain but is intact.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "tendons",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain",
+        "swelling"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am having a lump around three to four centimeters in diameter on my right buttock for the past many years. It pains a little when it is pressed.",
+    "context_question": "Patient has a 3-4 cm lump on the right buttock for years, which hurts when pressed. The lump has slightly increased in size recently.",
+    "answer": "Ultrasound suggests a slow flow venous malformation, a benign condition. A new ultrasound is recommended to assess current size and features.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lump",
+        "pain when pressed"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I would like to get a an opinion regarding the attached chest radiograph .Â I wish to know if there are any abnormalities like scarring.",
+    "context_question": "Patient seeks an opinion on a chest radiograph to check for abnormalities or scarring.",
+    "answer": "The chest X-ray is normal except for slightly prominent lung markings. No scarring or fluid collection is observed.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "chest X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from back pain (right side only) for two years, and this hurts a lot when sitting or laying down for a while (like 20 seconds). So I got an electromyography test that",
+    "context_question": "Patient has right-sided back pain for two years, worsening when sitting or lying down. An electromyography test was performed.",
+    "answer": "X-ray and MRI findings indicate an old fracture at L4, left-sided nerve root compressions due to disc herniations, and facet arthropathy at multiple levels.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "electromyography",
+        "X-ray",
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I suffer from back pain. Please give me a second opinion.",
+    "context_question": "Patient seeks a second opinion regarding back pain and has attached reports.",
+    "answer": "Reports show small multilevel osteophytes, desiccated discs at L3-4 and L4-5, and mild disc bulges without nerve root compression. Nature of pain needs clarification.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I need your expert opinion on something really concerning. I am 47 years old and have previously recovered from pneumococcal disease, but for the last few months, I have been struggling wit",
+    "context_question": "Patient, 47 years old, is experiencing worsening shortness of breath after recovering from pneumococcal disease. A CT scan confirmed abnormal patterns linked to previous infections.",
+    "answer": "Shortness of breath may indicate various issues. CT scan report is unclear; further details are needed. Pneumonia, if treated properly, should not lead to complications.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "computed tomography",
+    "entities": {
+      "age": [
+        "47"
+      ],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath"
+      ],
+      "medical_field": [],
+      "disease": [
+        "pneumococcal disease"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a CT scan with contrast (upper abdomen, lungs, head, and neck) due to multiple enlarged right cervical lymph nodes. On biopsy, I was diagnosed with Kikuchi lymphadenitis.",
+    "context_question": "Patient had a CT scan due to enlarged right cervical lymph nodes and was diagnosed with Kikuchi lymphadenitis. There is bulging in the left TMJ and masseter muscle.",
+    "answer": "No mass or inflammation in the left parotid region is observed. The left masseter is bulging, likely due to temporomandibular disorder (TMD).",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "Kikuchi lymphadenitis",
+        "temporomandibular disorder"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Could you provide a second opinion on a radiology report? This is for my friend with right-sided rib fractures (4th and 5th) who exhibits the following symptoms: pain in the right side o",
+    "context_question": "Patient seeks a second opinion on a report for a friend with right-sided rib fractures and symptoms of chest pain and shoulder pain.",
+    "answer": "Rib fractures are old and healed. No pleural reaction or thickening is observed. Symptoms may originate from the cervical spine or spinal cord.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "spinal cord",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in the right side of the chest",
+        "shoulder pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Recently, I had to have a CT scan on my neck vertebrae following an accident. Thankfully, the scan came back as normal; however, I have a question regarding the accuracy of CT scans as a",
+    "context_question": "Patient had a CT scan on neck vertebrae after an accident, which was normal. She questions the accuracy of CT scans for diagnosing bones.",
+    "answer": "CT scans are excellent for detecting bone fractures and abnormalities. Your normal scan effectively ruled out major issues post-accident.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Radiodiagnosis",
+    "article_title": "CT scan",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am experiencing right flank pain and have undergone both a CT scan and an MRI. Please interpret the findings from these examinations.",
+    "context_question": "Patient has right flank pain and has undergone both a CT scan and an MRI, seeking interpretation of the findings.",
+    "answer": "CT shows an extrarenal pelvis in the right kidney with mild fullness, but no calculus or mass. Other abdominal structures appear normal.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "right flank pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CT scan",
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Why does my low back pain and hip and pelvic pain increase suddenly?",
+    "context_question": "Patient inquires about sudden increases in low back, hip, and pelvic pain.",
+    "answer": "MRI shows fluid collection in the uterine cavity and a Tarlov cyst at S2, which may cause pain by compressing the nerve root.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "low back pain",
+        "hip pain",
+        "pelvic pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "It has been three weeks since falling from a height on a straightened dorsally bent palm. Considerable swelling and hematoma appeared near the anatomical snuffbox and on the elbow.",
+    "context_question": "Patient fell from a height three weeks ago, experiencing swelling and hematoma near the anatomical snuffbox and elbow. A scaphoid fracture was diagnosed.",
+    "answer": "Reports show no scaphoid fracture, but soft tissue contusion and mild sprain of the TFCC. Surgery is not required; clinical evaluation is needed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "tendon injury",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "swelling",
+        "hematoma"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Recently, I got a fracture in my sacrum. After taking a rest for two months, the doctor advised me to do an MRI scan.",
+    "context_question": "Patient had a sacral fracture and underwent an MRI after two months of rest. Mild pain and numbness persist after exercise.",
+    "answer": "MRI shows no fractures, only callus formation indicating healing. Avoid heavy lifting and sports, and continue prescribed medications.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "numbness",
+        "pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "sacral fracture"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from poor balance, difficulty in swallowing, tingling in the fourth and fifth fingers of both hands, difficulty in standing for more than three minutes, slow heart rate, a",
+    "context_question": "Patient reports poor balance, swallowing difficulty, tingling in fingers, and dizziness, with symptoms starting suddenly nine years ago.",
+    "answer": "MRI findings show a bony hemangioma in the spine and signs of benign intracranial hypertension. No significant abnormalities are observed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "hemangioma",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "poor balance",
+        "difficulty in swallowing",
+        "tingling in fingers",
+        "dizziness"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a few lumps (my doctor suggested as lipoma) underneath my left breast. They vary in size.",
+    "context_question": "Patient has lumps under left breast for years, with mild right pelvic pain and recent CT scan showing lesions.",
+    "answer": "CT scan shows benign lesions on left iliac and right femoral areas. Follow-up imaging in a year is suggested. The femoral lesion may represent osteoid osteoma, possibly causing right-sided pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lumps",
+        "mild pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "lipoma"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": [
+        "benign lesions"
+      ]
+    }
+  },
+  {
+    "question": "I am a 22-year-old non-smoker, and I have been through a huge number of tests trying to figure out what is wrong. My biggest fear is lung cancer, specifically bronchoalveolar carcinoma.",
+    "context_question": "22-year-old non-smoker fears lung cancer, has shortness of breath, cough with phlegm, finger clubbing, and lymph nodes.",
+    "answer": "CT scan shows ground glass opacity, which is nonspecific and does not indicate bronchoalveolar carcinoma. Follow-up imaging is needed to monitor changes.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Radiodiagnosis",
+    "article_title": "computed tomography",
+    "entities": {
+      "age": [
+        "22"
+      ],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath",
+        "cough",
+        "finger clubbing"
+      ],
+      "medical_field": [],
+      "disease": [
+        "lung cancer",
+        "bronchoalveolar carcinoma"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": [
+        "ground glass opacity"
+      ]
+    }
+  },
+  {
+    "question": "I have been sick for two years. I was diagnosed with human papilloma virus (HPV) two years back, but no treatment was done.",
+    "context_question": "Patient diagnosed with HPV two years ago, now has anemia, lower back pain, fatigue, and pelvic pain.",
+    "answer": "Ultrasound shows normal uterus and ovaries. Endometrial thickness is at the upper limit of normal. Discuss findings with your doctor.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "endometrial thickness",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Effexor",
+        "Adderall"
+      ],
+      "sympt": [
+        "lower back pain",
+        "fatigue",
+        "tingling in legs",
+        "pelvic pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "human papilloma virus",
+        "anemia"
+      ],
+      "Test": [
+        "ultrasound"
+      ],
+      "Result": [
+        "normal uterus",
+        "normal ovaries"
+      ]
+    }
+  },
+  {
+    "question": "During a ski trip a few months ago, I fell on my outstretched hand during a jump and injured my shoulder. I did a magnetic resonance imaging (MRI) scan immediately after, and the radiolo",
+    "context_question": "Patient injured shoulder during a ski trip, MRI scan shows no major issues, but shoulder pain persists.",
+    "answer": "MRI shows bony contusion at the greater tubercle of the humerus. This may require medication and therapy due to prolonged pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "shoulder pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": [
+        "bony contusion"
+      ]
+    }
+  },
+  {
+    "question": "I am a 70 year old female. My height is 5'5' and weight is 155 lbs.",
+    "context_question": "70-year-old female with discomfort in right buttock for one year, recent nuclear scan done.",
+    "answer": "Nuclear scan shows no infection around the prosthesis but suspected infection in the bowel or fallopian tube on the right side.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "CT scan pelvis",
+    "entities": {
+      "age": [
+        "70"
+      ],
+      "medicament": [
+        "Quinapril-HCTZ 20-25 mg",
+        "Diltiazem 24HR ER 120 mg"
+      ],
+      "sympt": [
+        "discomfort in right buttock"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "nuclear scan",
+        "CT scan"
+      ],
+      "Result": [
+        "no infection",
+        "suspected infection"
+      ]
+    }
+  },
+  {
+    "question": "I have had left hip pain for two years. I had hip pain following a bicycle ride and was admitted to the hospital for severe lower back pain on the left side.",
+    "context_question": "Patient has left hip pain for two years, treated with muscle relaxants and physical therapy.",
+    "answer": "MRI shows normal hip structures but suspicious inflammation of the gluteal tendon attachment may contribute to pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "muscle relaxants",
+        "painkillers"
+      ],
+      "sympt": [
+        "left hip pain",
+        "lower back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": [
+        "normal hip structures",
+        "suspicious inflammation"
+      ]
+    }
+  },
+  {
+    "question": "I have been experiencing upper glute pain on the right side for two years, which hurts while sitting or lying down facing upwards. I had an magnetic resonance imaging (MRI) scan done in",
+    "context_question": "Patient has upper glute pain on the right side for two years, MRI scan done previously.",
+    "answer": "MRI shows old fracture at right inferior articular process of L4 and nerve root compressions due to disc herniation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "facet arthropathy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "upper glute pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": [
+        "old fracture",
+        "nerve root compressions"
+      ]
+    }
+  },
+  {
+    "question": "I had done the whole body MRI scan six months ago. Now due to arising some neurological symptoms neurologist advised an MRI brain scan with contrast.",
+    "context_question": "Patient had whole body MRI, now advised MRI brain scan due to neurological symptoms.",
+    "answer": "Whole-body MRI is general and may miss detailed brain assessment, hence a new contrast MRI brain is recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "neurological symptoms"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "whole body MRI",
+        "MRI brain scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from back pain (right side) for a few years now, and this hurts a lot while sitting and lying down. I got an electromyography test showing mild chronic dysfunction on",
+    "context_question": "Patient has right side back pain for years, with electromyography test showing mild chronic dysfunction.",
+    "answer": "CT and MRI show disc desiccation, mild posterior disc bulge, and neural foraminal compromise at L4-L5 levels.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "electromyography",
+        "CT",
+        "MRI"
+      ],
+      "Result": [
+        "disc desiccation",
+        "mild posterior disc bulge",
+        "neural foraminal compromise"
+      ]
+    }
+  },
+  {
+    "question": "I am 27 years old, and I have been dealing with a lump under my left rib cage that is visible. Alongside this, I have been experiencing constant nausea, dizziness, and stomach pain for s",
+    "context_question": "27-year-old with visible lump under left rib cage, constant nausea, dizziness, and stomach pain, with history of gastritis.",
+    "answer": "Ultrasound shows normal results. A CT scan is suggested to further characterize the lump under the left rib cage.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "ultrasound",
+    "entities": {
+      "age": [
+        "27"
+      ],
+      "medicament": [],
+      "sympt": [
+        "lump",
+        "nausea",
+        "dizziness",
+        "stomach pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "gastritis"
+      ],
+      "Test": [
+        "ultrasound",
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a computed tomography (CT) scan done for suspected lymphoma because of high C reactive protein (CRP), erythrocyte sedimentation rate (ESR), white blood cells (WBC), night sweats, a",
+    "context_question": "Patient had CT scan for suspected lymphoma due to high CRP, ESR, WBC, night sweats, and fever.",
+    "answer": "Ultrasound shows a hypoechoic nodule likely an enlarged cervical lymph node. No vascularity noted. Other neck structures appear normal.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Radiodiagnosis",
+    "article_title": "Fine needle aspiration cytology (FNAC)",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "night sweats",
+        "intermittent fever"
+      ],
+      "medical_field": [],
+      "disease": [
+        "lymphoma"
+      ],
+      "Test": [
+        "CT scan",
+        "ultrasound"
+      ],
+      "Result": [
+        "hypoechoic nodule",
+        "normal neck structures"
+      ]
+    }
+  },
+  {
+    "question": "I need a detailed magnetic resonance imaging (MRI) review and report for my problem. Is that possible?",
+    "context_question": "Patient requests a detailed MRI review and report.",
+    "answer": "You can upload your scan with a proper history and areas of concern for a detailed review.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My doctor recommended I get an magnetic resonance imaging (MRI) of the prostate and kidney. I have visible blood in the urine after exercise.",
+    "context_question": "Patient advised MRI of prostate and kidney due to visible blood in urine after exercise.",
+    "answer": "MRI is a noninvasive technique for assessing prostate conditions. Gadolinium contrast is optional. PSA levels and urine infection tests are also recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "Transrectal ultrasound",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "visible blood in urine"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been diagnosed with osteoarthritis in both hands. One doctor suggested erosions in the left hand while another read that the right hand did not see evidence of that.",
+    "context_question": "Patient diagnosed with osteoarthritis, questioning the presence of erosions in hands.",
+    "answer": "Osteoarthritis is not autoimmune. X-ray shows joint narrowing and sclerosis in the left hand. Treatment includes anti-inflammatory medications and therapy.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "Acetaminophen",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Acetaminophen"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "osteoarthritis"
+      ],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": [
+        "joint narrowing",
+        "sclerosis"
+      ]
+    }
+  },
+  {
+    "question": "I am looking for a detailed read and interpretation of the MRA. Please be as detailed as possible with any abnormal findings you may see.",
+    "context_question": "Patient requests detailed interpretation of MRA due to progressive vision loss and headaches.",
+    "answer": "MRA shows normal internal carotid arteries, hypoplasia of right anterior cerebral artery, and no vascular malformations. No aneurysm or dissection noted.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "Magnetic resonance",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "progressive vision loss",
+        "temporal headaches"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRA"
+      ],
+      "Result": [
+        "normal arteries",
+        "hypoplasia"
+      ]
+    }
+  },
+  {
+    "question": "I underwent quadriceps tendon repair surgery last year. After that, as per the magnetic resonance imaging (MRI) finding, I developed patchy marrow edema in the patella and lateral femora",
+    "context_question": "I developed patchy marrow edema in the patella and lateral femoral condyle after quadriceps tendon repair surgery last year.",
+    "answer": "MRI shows thinning and irregularity of the patellar articular cartilage, suggestive of chondromalacia patellae. Measurements in DICOM format are needed for further assessment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "patchy marrow edema"
+      ],
+      "medical_field": [
+        "Radiodiagnosis"
+      ],
+      "disease": [
+        "chondromalacia patellae"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I want to know about the vertebral artery dissection. I had a traumatic brain injury (TBI) (with neck trauma too), no loss of consciousness, no amnesia.",
+    "context_question": "I had a traumatic brain injury (TBI) with neck trauma and want to know about vertebral artery dissection.",
+    "answer": "The T2 hyperintensity in the right lateral medulla may indicate mild edema if there is no restricted diffusion. You might have a non-dominant right vertebral artery.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "traumatic brain injury",
+        "neck trauma"
+      ],
+      "medical_field": [
+        "Radiodiagnosis"
+      ],
+      "disease": [
+        "vertebral artery dissection"
+      ],
+      "Test": [
+        "CT",
+        "MR"
+      ],
+      "Result": [
+        "T2 hyperintensity"
+      ]
+    }
+  },
+  {
+    "question": "I have been experiencing persistent loss of balance for the past nine months. Please check my contrast-enhanced magnetic resonance imaging (MRI) brain scan plates, especially the cerebellum",
+    "context_question": "I have been experiencing persistent loss of balance for the past nine months and want to know about my MRI brain scan.",
+    "answer": "The MRI scan shows a normal cerebellum with no obvious abnormality. Enhancement in the cerebellum is normal, but a complete brain scan is necessary to determine the cause of balance loss.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "persistent loss of balance"
+      ],
+      "medical_field": [
+        "Radiodiagnosis"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a level II disc replacement involving C4 - C6 and a Mobi-C disc surgery scheduled soon. I wanted to get your professional opinion on my computed tomography (CAT) (CT) scan.",
+    "context_question": "I have a level II disc replacement involving C4 - C6 and want your opinion on my CT scan.",
+    "answer": "The CT shows that the prosthetic discs are properly aligned, but protruded a few millimeters forwards. Discuss with your spine surgeon whether this is a severe condition.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "aging",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Radiodiagnosis"
+      ],
+      "disease": [],
+      "Test": [
+        "CT"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I did an ultrasound abdomen. I want to know if there is an abnormality in the gallbladder.",
+    "context_question": "I want to know if there is an abnormality in the gallbladder after an ultrasound and I have had right upper quadrant pain for two months.",
+    "answer": "The gallbladder appears normal based on the image, but right upper quadrant pain may indicate other pathologies. A thorough clinical examination is necessary due to ongoing symptoms.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Radiodiagnosis",
+    "article_title": "gallbladder",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "right upper quadrant pain"
+      ],
+      "medical_field": [
+        "Radiodiagnosis"
+      ],
+      "disease": [],
+      "Test": [
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had an abdominal ultrasound for a suspected small superficial lipoma. However, the sonographer advised that nothing showed and that the tissue was normal.",
+    "context_question": "Patient had an abdominal ultrasound for a suspected small superficial lipoma; the sonographer reported normal tissue.",
+    "answer": "The ultrasound report shows the epidermis and dermis as a thin, hyperechoic layer, with a normal subcutaneous layer. The report is normal. Please consult your physician.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Radiodiagnosis",
+    "article_title": "epidermis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "small superficial lipoma"
+      ],
+      "Test": [
+        "abdominal ultrasound"
+      ],
+      "Result": [
+        "normal"
+      ]
+    }
+  },
+  {
+    "question": "Can a person take alcohol after radiotherapy?",
+    "context_question": "Can a person take alcohol after radiotherapy?",
+    "answer": "There is no absolute contraindication for alcohol after radiotherapy. It depends on the condition being treated. If liver capacity is compromised, alcohol may increase liver load.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Radiodiagnosis",
+    "article_title": "radiotherapy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have nose cancer, so I am going to get radiotherapy. The doctor said that the radiation might touch the eye, which may lead to loss of vision and eye removal.",
+    "context_question": "I have nose cancer and will get radiotherapy. Can I prevent loss of vision and eye removal?",
+    "answer": "With conventional radiation, it is difficult to save the eye. Computerized radiation techniques like IMRT or VMAT may reduce the chance of losing the eye, but certainty cannot be guaranteed.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "nose cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I just recently had magnetic resonance imaging (MRI). I wanted to get your opinion on it.",
+    "context_question": "I just had MRI and want your opinion. I am 52 years old with a family history of prostate cancer. My recent PSA score was 2.",
+    "answer": "I am unable to open the files you attached. Please resend them for review.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Radiodiagnosis",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "52"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "prostate cancer"
+      ],
+      "Test": [
+        "magnetic resonance imaging (MRI)",
+        "PSA test"
+      ],
+      "Result": [
+        "PSA score 2"
+      ]
+    }
+  },
+  {
+    "question": "Foot pain started 18 months ago after running. It has persisted, but the severity of pain depends on how active I am.",
+    "context_question": "Foot pain started 18 months ago after running and has become more severe recently. Please review my X-ray.",
+    "answer": "Please send me the full X-ray to review the whole joint, like the talocalcaneal joint.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Radiodiagnosis",
+    "article_title": "talocalcaneal joint",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "foot pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": []
+    }
+  }
+]
