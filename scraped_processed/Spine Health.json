@@ -1,0 +1,3402 @@
+[
+  {
+    "question": "Can you please tell me what is the difference between thoracic, thoracolumbar and lumbar fusion ? Or are they all the same?",
+    "context_question": "What is the difference between thoracic, thoracolumbar, and lumbar fusion?",
+    "answer": "Thoracic fusion is the fusion of vertebrae in the thoracic spine. Thoracolumbar fusion occurs at the junction of the thoracic and lumbar spine, while lumbar fusion involves the lumbar vertebrae. Further examination is needed for accurate diagnosis.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 20 and about every two months I throw out my upper back and neck causing pain in my upper back, shoulders, neck, and down my arms. I am a waitress and I am assuming that is what is",
+    "context_question": "I am 20 and every two months I experience upper back and neck pain.",
+    "answer": "Your symptoms suggest a trigger spot in the upper back and neck likely due to posture from your job. Consult a physiotherapist for postural correction. You are on Fluoxetine and should take NSAIDs, hot packs, or ice, and deep myofascial release.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "physiotherapist",
+    "entities": {
+      "age": [
+        "20"
+      ],
+      "medicament": [
+        "Fluoxetine"
+      ],
+      "sympt": [
+        "upper back pain",
+        "neck pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Hi, I am a 32 year old male. My MRI report says: Posterocentral protrusion of L4-5 disc is abutting the L5 nerve root bilaterally.",
+    "context_question": "I am a 32-year-old male with an MRI report showing L4-5 disc protrusion affecting the L5 nerve root.",
+    "answer": "Your symptoms may indicate a recurrence of disc prolapse. An examination and possibly an MRI are needed to assess the situation. Back pain often results from pressure on ligaments rather than the disc itself.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "32"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have hip joint pain that makes a cracking sound(crepitus) when I flex my hip and rotate it externally. But it has not been affecting my movement but I am scared of the possibility of it a",
+    "context_question": "I have hip joint pain with a cracking sound when flexing and rotating my hip.",
+    "answer": "Your symptoms are likely due to snapping tendons in the hip joint. I recommend temporary medications, stretching exercises, and consulting your physician. Take Ibuprofen 400 mg twice daily for 10 days, Rabeprazole 20 mg twice daily, and Shelcal 500 mg twice daily.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "stretching exercises",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Ibuprofen 400 mg",
+        "Rabeprazole 20 mg",
+        "Shelcal 500 mg"
+      ],
+      "sympt": [
+        "hip joint pain",
+        "cracking sound"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I underwent scoliosis surgery eight years ago and have been experiencing a pain around my left shoulder blade. Recently this pain has gotten so bad it has become difficult to even breat",
+    "context_question": "I had scoliosis surgery eight years ago and now have severe pain around my left shoulder blade.",
+    "answer": "Pain around the shoulder blade may arise from adjacent segments misbehaving due to abnormal loads. Although infection or loosening is unlikely after eight years, you should see your doctor for X-rays and blood work.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain around left shoulder blade"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "X-rays"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 23-year-old male and a former college football player. I retired due to herniated discs (L4, L5, S1) while doing squats.",
+    "context_question": "I am a 23-year-old male with a history of herniated discs (L4, L5, S1) and previous discectomy.",
+    "answer": "Your symptoms may indicate a recurrence of disc prolapse. An examination is necessary to rule this out, and an MRI may be required. Take anti-inflammatory and muscle relaxants until your appointment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [
+        "23"
+      ],
+      "medicament": [
+        "Hydrocodone",
+        "Cyclobenzaprine",
+        "Advil"
+      ],
+      "sympt": [
+        "foot numbness",
+        "muscle spasm"
+      ],
+      "medical_field": [],
+      "disease": [
+        "herniated discs"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had an MRI of the thoracic spine and it showed an intramedullar mass at level T4. I was told it is likely to be a cyst and is not malignant.",
+    "context_question": "I had an MRI showing an intramedullar mass at T4, likely a cyst.",
+    "answer": "Please upload the MRI images for review to provide further insight into your condition.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have neck pain on the right side of my head below my ear. I have extreme stiffness in my neck with constant burns or aches.",
+    "context_question": "I have neck pain below my ear with stiffness and constant burning aches.",
+    "answer": "You may have a pinched nerve in your neck. Continue taking anti-inflammatory tablets and consider Pregabalin 75 mg twice daily for nerve symptoms. Gentle range of motion exercises may help.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pregabalin 75 mg"
+      ],
+      "sympt": [
+        "neck pain",
+        "stiffness",
+        "burning aches"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been in pain and weakness in my lower back, right hip, and leg (which has been severe at times) for three weeks. This resulted from prolonged weeding and lifting heavy objects incorr",
+    "context_question": "I have had pain and weakness in my lower back, right hip, and leg for three weeks.",
+    "answer": "MRI results indicate L2 disc protrusion displacing the nerve. Most back and leg pains can be managed conservatively. Further details about your symptoms are needed for treatment planning.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in lower back",
+        "weakness in leg"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is provisionally diagnosed with SCA (spinocerebellar ataxia). Is this disease treatable or her conditon will worsen?",
+    "context_question": "My mother is diagnosed with SCA (spinocerebellar ataxia). Is it treatable?",
+    "answer": "For SCA, treatments like Idebenone, riluzole, and acetazolamide may offer modest benefits. Identifying treatable conditions is crucial for management.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Idebenone",
+        "riluzole",
+        "acetazolamide"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "spinocerebellar ataxia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have back pain for the past three days. I do not know the reason behind it.",
+    "context_question": "I have back pain for the past three days without knowing the cause.",
+    "answer": "Back pain may arise from fatigued muscles due to prolonged sitting. Perform back extension exercises and take NSAIDs for relief.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "NSAIDs"
+      ],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 22-year-old who has been suffering from back pain for eight years. These past few days, I have been experiencing a lot of pain in my back.",
+    "context_question": "I am a 22-year-old with eight years of back pain, worsening recently.",
+    "answer": "You need to send a picture of your lower back to assess the swelling. Follow instructions to avoid heavy lifting and improve posture. Consider bed rest if pain is severe.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Rabeprazole 20 mg",
+    "entities": {
+      "age": [
+        "22"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "swelling"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have severe pain in my left lower back and calf. Pain medication just mildly subsides.",
+    "context_question": "I have severe pain in my left lower back and calf for over a week.",
+    "answer": "Your pain may be due to vitamin D deficiency or early lumbar spine degeneration. Follow instructions to avoid heavy lifting and improve posture.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe pain in left lower back",
+        "calf pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had pain in my breastbone and shoulder blade for the last two weeks. I have been seeing a chiropractor for the last two weeks.",
+    "context_question": "I have had pain in my breastbone and shoulder blade for two weeks.",
+    "answer": "Shoulder pain may stem from neck issues. Investigations like X-ray and MRI are recommended. Take Piroxicam 20 mg and Rabeprazole 20 mg for pain management.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Piroxicam 20 mg",
+        "Rabeprazole 20 mg"
+      ],
+      "sympt": [
+        "pain in breastbone",
+        "shoulder blade pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "X-ray",
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My wife has cervical disk or spinal issues. It could be probably the long hours of work on the computer.",
+    "context_question": "My wife has cervical disk issues likely due to long hours at the computer.",
+    "answer": "Encourage her to avoid heavy lifting and improve posture. Suggest bed rest if pain is severe. Apply Oxalgin gel for relief.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "neck pain",
+        "muscle weakness",
+        "abnormal sensations"
+      ],
+      "medical_field": [],
+      "disease": [
+        "cervical disk issues"
+      ],
+      "Test": [
+        "X-ray",
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I want to discuss my father's backbone injury. He is feeling a lot of pain in his back and leg joints where the leg joins the backbone.",
+    "context_question": "My father has pain in his back and leg joints after a backbone injury.",
+    "answer": "He has a healed fracture in the L1 vertebra. Due to urinary issues, consult a specialist and consider an MRI of the lumbar spine.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "fracture",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in back",
+        "pain in leg joints"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 21-year-old female. I have been getting upper back pain for nearly a year; usually it is bearable, and I can sleep it off.",
+    "context_question": "I am a 21-year-old female with upper back pain for nearly a year.",
+    "answer": "Your condition is trapezitis due to upper back muscle inflammation. Avoid heavy lifting and improve posture. Do hot fomentations over the affected area.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "trapezitis",
+    "entities": {
+      "age": [
+        "21"
+      ],
+      "medicament": [],
+      "sympt": [
+        "upper back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My daughter is one day old and on an X-ray, it is showing a cleft-like appearance on the T12 vertebra. The hospital is telling us to follow up with an orthopedic.",
+    "context_question": "My one-day-old daughter has a cleft-like appearance on the T12 vertebra.",
+    "answer": "The cleft may be superficial or deep. If deep, it could lead to neurological disorders. An ultrasound of the spine is recommended for further evaluation.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "spinal cord",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "X-ray",
+        "ultrasonography"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband had surgery two weeks ago to fuse his three lowest vertebrae due to degenerative disc disease. He had no issues with his legs or feet before surgery.",
+    "context_question": "Since surgery, my husband has fragile legs, can only walk with a walker, and has drop foot.",
+    "answer": "Foot drop may be due to hematoma compressing the nerve or nerve injury from surgery. If it doesn't improve in six weeks, consider an MRI of the lumbosacral spine and continue with a boot splint and physiotherapy.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "magnetic resonance imagin",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Osteofos (Alendronic acid) 35 mg",
+        "Bio D3 strong",
+        "Uprise D3 (vitamin D)",
+        "Flexon (Paracetamol and Ibuprofen)"
+      ],
+      "sympt": [
+        "back pain",
+        "fragile legs",
+        "drop foot"
+      ],
+      "medical_field": [],
+      "disease": [
+        "degenerative disc disease"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from back pain and neck pain. I have had this problem for the past year, but I did not consider it a problem.",
+    "context_question": "I have back pain and neck pain that increased after sleeping on a threaded bed.",
+    "answer": "Your MRI reports are not confirmatory of your symptoms. You likely have poor posture and muscle tone, leading to non-specific back pain. Core strengthening exercises under physiotherapist supervision are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "physiotherapist",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "neck pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been diagnosed with AVN stage 2. How can I treat myself?",
+    "context_question": "I have been diagnosed with avascular necrosis of the femoral heads.",
+    "answer": "Treatment includes taking Osteofos (Alendronic acid) 35 mg twice a week for one year, Bio D3 strong twice daily for one year, Uprise D3 (vitamin D) 60k once daily for 10 days, and Flexon (Paracetamol and Ibuprofen) twice daily for 15 days.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Osteofos (Alendronic acid) 35 mg",
+        "Bio D3 strong",
+        "Uprise D3 (vitamin D)",
+        "Flexon (Paracetamol and Ibuprofen)"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "avascular necrosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My friend has been detected as HLA-B27 positive and her ESR is 33. She has back pain for the last four years but recently she is feeling more pain.",
+    "context_question": "My friend has back pain for the last four years and is now feeling more pain.",
+    "answer": "This suggests ankylosing spondylitis, which can be treated but not cured. I suggest stopping Dolo and taking Indomethacin 25 mg thrice daily for 10 days, Rabeprazole 20 mg twice daily for 10 days, and continuing calcium and vitamin D.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "31"
+      ],
+      "medicament": [
+        "Indomethacin 25 mg",
+        "Rabeprazole 20 mg"
+      ],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "ankylosing spondylitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have mucosal thickening with aerated secretions in the sphenoid sinuses with surrounding hyperostosis . The mucosal thickening in left maxillary sinus is greater than right maxillary sinu",
+    "context_question": "I have mucosal thickening in the sphenoid and maxillary sinuses.",
+    "answer": "Your MRI report is limited without knowing your symptoms. Consult an ENT surgeon for the mastoids and provide more information for spine health.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 35 year old female. About a month ago, I injured my mid-lower back while doing weightlifting.",
+    "context_question": "I injured my mid-lower back while weightlifting and have localized pain.",
+    "answer": "Localized pain is likely due to muscle or ligament strain. Rest, ice, and Naproxen 500 mg thrice a day for five days are recommended. Apply Diclofenac gel locally and avoid weightlifting.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [
+        "Naproxen 500 mg",
+        "Diclofenac gel"
+      ],
+      "sympt": [
+        "localized pain",
+        "muscle tightness"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been battling with back pain since a year. I associated this pain with a kidney stone which I had for a couple of years.",
+    "context_question": "I have back pain for a year, associated with a kidney stone, and had surgery a month ago.",
+    "answer": "Your blood investigation shows high CRP, indicating possible inflammation or infection. Your x-ray shows retrolisthesis of L4-L5, which may contribute to your back pain. Further evaluation is needed.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "retrolisthesis",
+    "entities": {
+      "age": [
+        "43"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "x-ray"
+      ],
+      "Result": [
+        "high CRP"
+      ]
+    }
+  },
+  {
+    "question": "My partner is in her early seventies and she has broken her rib for the last ten days. There is very limited mobility and severe pain in getting up.",
+    "context_question": "My partner has a broken rib and severe pain in getting up.",
+    "answer": "She has compression of the lower thoracic vertebra and rib injuries. Continue with medications and maintain bed rest for another four weeks for pain relief.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "parathyroid hormone",
+    "entities": {
+      "age": [
+        "early seventies"
+      ],
+      "medicament": [
+        "Deplatt A 75 mg",
+        "Ivabrad 7.5 mg",
+        "Thyronorm 75 mg",
+        "Ultracet",
+        "Tolperitas 150 mg"
+      ],
+      "sympt": [
+        "severe pain",
+        "limited mobility"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father had sciatica on his lower left leg and back pains. This has continuously happened for the last five months.",
+    "context_question": "My father has had sciatica and back pain for five months.",
+    "answer": "The MRI shows degenerative disease in the lumbar spine. Surgery is indicated only if there are neurological deficits. A non-surgical treatment is recommended first.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "sciatica",
+        "back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "8 months back, had a spinal compression fracture of the T12 vertebrae caused by a large fall into water.",
+    "context_question": "I had a spinal compression fracture of the T12 vertebrae and currently have aggravated pain.",
+    "answer": "Non-invasive treatment includes daily physiotherapy and extension exercises to strengthen muscles. Options for invasive management are limited.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "aggravated pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I was in severe pain in my left leg for almost two months, before an MRI was done. I found out that my pain was not coming from my leg, but it was coming from a herniated disc in my back.",
+    "context_question": "I had severe pain in my left leg due to a herniated disc in my back.",
+    "answer": "Daily physical therapy is essential for leg muscle weakness. Consider steroids for pain relief and take calcium and vitamin D tablets.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "calcium",
+        "vitamin D"
+      ],
+      "sympt": [
+        "severe pain in left leg"
+      ],
+      "medical_field": [],
+      "disease": [
+        "herniated disc"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have attached lumbar spine MRI. I had sciatica for three months with severe pain in the left leg when I walk and stand.",
+    "context_question": "I have had sciatica for three months with severe pain in my left leg.",
+    "answer": "Your MRI shows disc bulges causing nerve irritation. A nerve root injection may help. Avoid arching your back as it may worsen the condition.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "sciatica",
+        "severe pain in left leg"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had lower back pain for the last two to three months. The pain is sharp near my spine and the pain often radiates into my hip near my buttocks.",
+    "context_question": "I have had lower back pain for two to three months, sharp near my spine and radiating into my hip.",
+    "answer": "The pain may be due to a bony defect or disc problems. Avoid heavy lifting and improve posture. Rest and hot fomentations are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Ibuprofen",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain",
+        "sharp pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a male weighing 117 pounds and with a height of 5 feet 3 inches. I am suffering from back pain (mid part of the backbone), and using medicine named Inmecin 50 mg at the suggestion of my doctor.",
+    "context_question": "I am suffering from mid-back pain and using Inmecin 50 mg.",
+    "answer": "Inmecin is effective for pain relief and inflammation. Continue this medicine and follow suggestions for back pain management.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Inmecin 50 mg"
+      ],
+      "sympt": [
+        "mid-back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 71-years old, working part-time as a payroll specialist that makes me believe in a healthy lifestyle. I am faced with actual spinal surgery.",
+    "context_question": "I am 71-years old and facing spinal surgery due to ankylosing spondylitis.",
+    "answer": "Ankylosing spondylitis causes spine fusion and stiffness. Further fusion is not recommended unless complications arise. I need to see your CT scan and x-ray report.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "Spinal stenosis",
+    "entities": {
+      "age": [
+        "71"
+      ],
+      "medicament": [],
+      "sympt": [
+        "bad pain with lateral movement"
+      ],
+      "medical_field": [],
+      "disease": [
+        "ankylosing spondylitis"
+      ],
+      "Test": [
+        "CT scan",
+        "x-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "At 68 years old, my mother faces difficulties walking, especially over long distances, and encounters challenges with stairs. Additionally, she struggles to stand unassisted for more tha",
+    "context_question": "My 68-year-old mother has difficulty walking long distances, struggles with stairs, and cannot stand unassisted for more than a few minutes for the past eight to ten months.",
+    "answer": "The symptoms are attributed to significant canal stenosis in the lumbar spine, leading to nerve compression. Surgery is the only effective treatment. Increase Gabapin (Gabapentin) to 400 mg at bedtime and Dulot (Duloxetine) twice daily. Physiotherapy is also recommended.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "68 years old"
+      ],
+      "medicament": [
+        "Gabapin (Gabapentin) 400 mg",
+        "Dulot (Duloxetine) twice daily"
+      ],
+      "sympt": [
+        "difficulties walking",
+        "challenges with stairs",
+        "struggles to stand unassisted"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "canal stenosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "About four weeks ago, I hurt my back, lifting weights. I went to my chiropractor, who has never been wrong in 12 years.",
+    "context_question": "I hurt my back lifting weights four weeks ago. My chiropractor assures me there is no disk rupture but suspects joint failure. I have pain a couple to three inches right of the center of my back.",
+    "answer": "It seems like the pain is from your sacroiliac joint, but it could also be a muscle strain or a ligament tear. Treatment includes rest, ice application, muscle relaxants, anti-inflammatory tablets, and Paracetamol and Tramadol (Tramadol hydrochloride) for pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "muscle strain",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Paracetamol",
+        "Tramadol (Tramadol hydrochloride)"
+      ],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "muscle strain"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 65-year-old male who fell on his buttocks and now complains of lower back pain with tenderness to the left of the lumbar spine.",
+    "context_question": "I am a 65-year-old male who fell on my buttocks and now have lower back pain with tenderness to the left of the lumbar spine.",
+    "answer": "Avoid heavy lifting, arching your back, and sitting for long hours. Take Pregabalin (anticonvulsant) once daily for ten days and Paracetamol (painkiller) twice daily. Physiotherapy is also recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "65 years old"
+      ],
+      "medicament": [
+        "Pregabalin",
+        "Paracetamol"
+      ],
+      "sympt": [
+        "lower back pain",
+        "tenderness"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from chronic back pain in my lower lumbar spine since I had an epidural 6 years ago. Over the years, my back pain has got severely worse.",
+    "context_question": "I have chronic back pain in my lower lumbar spine since an epidural 6 years ago, and it has worsened to the point where I can't walk without severe pain.",
+    "answer": "You likely need physiotherapy due to disc degeneration. Strengthening exercises and local modalities like IFT and TENS may provide relief without painkillers.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "chronic back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "disc degeneration"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "MRI C6/C7 posterior annular fissures with broad-based bulge impinging anterior CSF space. I need guidance on this as I am in immense pain and dizzy all the time.",
+    "context_question": "I have MRI findings of C6/C7 posterior annular fissures with a broad-based bulge impinging on the anterior CSF space, causing immense pain and dizziness.",
+    "answer": "The C6-7 disc shows significant abnormalities causing pain. If pain management fails, surgery may be necessary. Consult a neurosurgeon for possible endoscopic decompressive surgery.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "pain management",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "immense pain",
+        "dizziness"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "C6-7 disc abnormalities"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have curvature of the spine, cervical scoliosis, and neck damage from a car accident 26 years ago. I have started to get a cold sensation on my little finger and ring finger.",
+    "context_question": "I have curvature of the spine, cervical scoliosis, and neck damage from a car accident 26 years ago. Now I feel a cold sensation in my little and ring fingers.",
+    "answer": "This sensation is related to the neck. You need medications and possibly an MRI of the cervical spine. Take Ibuprofen 400 mg, Pregabalin 75 mg, Rabeprazole 20 mg, Shelcal OS 500 mg, and Vitamin D.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Ibuprofen",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Ibuprofen 400 mg",
+        "Pregabalin 75 mg",
+        "Rabeprazole 20 mg",
+        "Shelcal OS 500 mg",
+        "Vitamin D 60k units"
+      ],
+      "sympt": [
+        "cold sensation"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "cervical scoliosis"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I'm at my wits end, the doctors in my area don't care anymore. It's here some pain meds, have a great day.",
+    "context_question": "I'm frustrated with my doctors. My neck locks up completely, and it gets tense and painful if I hold it in one position.",
+    "answer": "Manual therapy and massage are recommended to relieve muscle knots. Strengthen neck muscles with isometric exercises and consider Pregabalin 75 mg and Duloxetine 30 mg for relaxation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pregabalin 75 mg",
+        "Duloxetine 30 mg"
+      ],
+      "sympt": [
+        "neck locks up",
+        "tense",
+        "painful"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 13 years old and I have scoliosis. I have a spine curve of 24 to 28 degrees.",
+    "context_question": "I am 13 years old with scoliosis and a spine curve of 24 to 28 degrees. I used a brace at night but did not do Schroth exercises.",
+    "answer": "Bracing is recommended, and regular X-rays every six months to one year are necessary to monitor progress. Schroth exercises help strengthen the core and spinal muscles.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "13 years old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "scoliosis"
+      ],
+      "Test": [
+        "X-rays"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have an impression in the MRI, which suggests multilevel cervical spondylotic changes. There is a 2 mm disk protrusion on the left C6-C7, along with 1.5 mm bulging in the central and r",
+    "context_question": "I have MRI findings suggesting multilevel cervical spondylotic changes, with a 2 mm disk protrusion on the left C6-C7 and 1.5 mm bulging at C4-C5.",
+    "answer": "I need more information about your symptoms to provide specific advice. However, anti-inflammatory tablets, Pregabalin, and Duloxetine are recommended for treatment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pregabalin",
+        "Duloxetine"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "cervical spondylotic changes"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I need some advice on a back problem. I have it for almost two years.",
+    "context_question": "I have a back problem for almost two years, with mild inflammation in my lower spine shown on X-rays. The medication hasn't helped.",
+    "answer": "You have mild scoliosis and possible inflamed sacroiliac joints. Please get ESR, CRP, and urine routine tests. Ice the area and apply anti-inflammatory gels.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "mild scoliosis"
+      ],
+      "Test": [
+        "X-rays",
+        "ESR",
+        "CRP",
+        "urine routine"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 27-year-old female, 5 feet 5 inches tall, weighing 125 pounds, and of the white race. I am developing lumps that may be connected to neck trauma.",
+    "context_question": "I am a 27-year-old female developing lumps behind my ear and on the back of my skull, possibly connected to neck trauma.",
+    "answer": "The lumps are likely lymph nodes, specifically posterior auricular and occipital nodes. It is important to monitor them and consult a healthcare provider.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "anxiety",
+    "entities": {
+      "age": [
+        "27 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "lumps"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a diagnosis of disc herniation. I have done an MRI.",
+    "context_question": "I have a diagnosis of disc herniation and severe pain in my left leg for the past two months, starting after lifting a heavy box.",
+    "answer": "You have a large paracentral disc prolapse on the left side. Wait six weeks for possible shrinkage. If no improvement, surgery may be necessary.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe pain in left leg"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "disc herniation"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a diffuse disc bulge noted at LV4-LV5 that has caused thecal sac indentation and there is abutting bilaterally exiting nerve roots. I have severe pain in my legs, and I am current",
+    "context_question": "I have a diffuse disc bulge at LV4-LV5 causing thecal sac indentation and severe pain in my legs while currently taking painkillers and muscle relaxants.",
+    "answer": "You need proper medicines and physiotherapy. Avoid heavy lifting, arching your back, and sitting for long hours. Improve your posture and take breaks while working.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe pain in legs"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 39-year-old female with a past medical history of chronic sinusitis and current use of nasal steroids and antihistamines. I have been experiencing neck pain for the past five year",
+    "context_question": "I am a 39-year-old female with chronic sinusitis and neck pain for the past five years, located on the right side of my mid-lower neck.",
+    "answer": "Your symptoms suggest a joint issue in the lower cervical spine. Lifestyle changes are recommended, and pain medication should be used as needed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "39 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "neck pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have mid-lower back pain that causes breathing difficulties, and the pain extends to my stomach. Whenever I press on it, I can feel a bone.",
+    "context_question": "I have mid-lower back pain causing breathing difficulties and extending to my stomach. I can feel a bone when pressing on it.",
+    "answer": "Investigations like X-rays are recommended. Core strengthening exercises and applying hot packs or ice may help. Consult a specialist for further advice.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "X-rays",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "mid-lower back pain",
+        "breathing difficulties"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "X-rays"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am seeking guidance regarding my father's health situation. He is a heart patient who is currently experiencing persistent low back pain that extends to his legs.",
+    "context_question": "My father, a heart patient, has persistent low back pain extending to his legs. He was diagnosed with early osteoarthritic changes and prescribed calcium without improvement.",
+    "answer": "Your father may have an infection in the lumbar spine area, possibly tuberculosis (TB). Urgent treatment with anti-tuberculosis medication is necessary to prevent worsening symptoms.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "calcium"
+      ],
+      "sympt": [
+        "persistent low back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "early osteoarthritic changes",
+        "tuberculosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been diagnosed with a pinched nerve in the neck. Now, it affects my left arm.",
+    "context_question": "Diagnosed with a pinched nerve in the neck affecting left arm; experiencing numbness in hands while sleeping.",
+    "answer": "You may have double crush syndrome with median nerve compression at the wrist (carpal tunnel syndrome) related to neck issues. Wear a wrist splint, do neck strengthening exercises, and consider nerve conduction studies.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "carpal tunnel syndrome",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "numbness in hands"
+      ],
+      "medical_field": [],
+      "disease": [
+        "pinched nerve",
+        "carpal tunnel syndrome"
+      ],
+      "Test": [
+        "nerve conduction studies"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I suffer from a tingling sensation in my leg due to spondylolisthesis in L4-L5. My doctor has prescribed Disperzyme tablets for this problem.",
+    "context_question": "Suffering from tingling sensation in leg due to spondylolisthesis in L4-L5; prescribed Disperzyme tablets.",
+    "answer": "Disperzyme can help initially, but follow treatment for L4-L5 listhesis. Avoid heavy lifting, arching your back, and long sitting. Improve posture and take bed rest if severe pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "treatment for L4-L5 listhesis",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Disperzyme"
+      ],
+      "sympt": [
+        "tingling sensation in leg"
+      ],
+      "medical_field": [],
+      "disease": [
+        "spondylolisthesis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have lower back pain that radiates to my thighs and knees, especially the left side. Pain comes when I wake up in the morning and while sitting or standing.",
+    "context_question": "Lower back pain radiating to thighs and knees, especially left side; pain increases when standing.",
+    "answer": "This can be due to muscle spasms or facet joint pain. Take Ibuprofen 400 mg twice daily and Rabeprazole 20 mg once daily for ten days. Consult a physician before starting medications.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Ibuprofen 400 mg",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Ibuprofen 400 mg",
+        "Rabeprazole 20 mg"
+      ],
+      "sympt": [
+        "lower back pain",
+        "radiating pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 25 years old and working in the army. I have acute lumbago.",
+    "context_question": "25 years old with acute lumbago; experienced painful spasms after a sudden jerk.",
+    "answer": "No belt is needed unless spasms are present. Take Voveran SR 75 (Diclofenac sodium) twice daily and Ultracet for severe pain. Do core strengthening exercises once pain settles.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Tramadol",
+    "entities": {
+      "age": [
+        "25 years old"
+      ],
+      "medicament": [
+        "Voveran SR 75",
+        "Ultracet"
+      ],
+      "sympt": [
+        "acute lumbago",
+        "painful spasms"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 38 years old. I am having pain in the neck and it has gone to my left arms and there is stretching like pain.",
+    "context_question": "38 years old with neck pain radiating to left arm; had MRI after physiotherapy.",
+    "answer": "You have a C5, C6 level issue with nerve root indentation. Take Voveran 75 mg twice daily and Pregabalin 75 mg twice a day for three to four weeks. Avoid prolonged computer use.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "38 years old"
+      ],
+      "medicament": [
+        "Voveran 75 mg",
+        "Pregabalin 75 mg"
+      ],
+      "sympt": [
+        "neck pain",
+        "pain radiating to left arm"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have muscle spasms and the doctor diagnosed me with sciatica. I have been through chiropractic therapy and had one round of neck injections last year which did not help much.",
+    "context_question": "Diagnosed with sciatica; experienced muscle spasms and previous ineffective treatments.",
+    "answer": "You have disc prolapse at multiple spine regions. Treatment can be conservative with medications and exercises. Need to assess your work and exercise habits.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "muscle spasms"
+      ],
+      "medical_field": [],
+      "disease": [
+        "sciatica"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had pain in my lower back. I did an MRI (magnetic resonance imaging) scan to find out that one disc is abutting the left nerve.",
+    "context_question": "Lower back pain; MRI shows disc abutting left nerve and pain in left leg.",
+    "answer": "Avoid heavy lifting and long sitting. Improve posture and take bed rest. Hot fomentations may help with severe pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Lyrica (Pregabalin)"
+      ],
+      "sympt": [
+        "lower back pain",
+        "pain in left leg"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been having bad back pain for over a year, since I gave birth to my daughter. I have recently started experiencing numbness in my right arm and sharp pains along my spine.",
+    "context_question": "Bad back pain for over a year post childbirth; experiencing numbness in right arm and sharp spine pains.",
+    "answer": "Muscular pain may be due to vitamin deficiency after birth. Avoid heavy lifting and improve posture. Take bed rest if severe pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "vitamin deficiency",
+    "entities": {
+      "age": [
+        "30 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "numbness in right arm",
+        "sharp pains along spine"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 40-year-old, and two days ago, I bent over to pick something up and coughed simultaneously. I got a shooting pain in the bottom of my spine, which still hurts when I move.",
+    "context_question": "40 years old; shooting pain in spine after bending and coughing.",
+    "answer": "This is due to nerve impingement in the spine. Avoid heavy lifting and improve posture. Take bed rest if severe pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "posture",
+    "entities": {
+      "age": [
+        "40 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "shooting pain in spine"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from pain in my lower back. There is pain in my left arm, leg, and foot also.",
+    "context_question": "Lower back pain with pain in left arm, leg, and foot; MRI shows degenerative disk disease.",
+    "answer": "You have degenerative disk disease. Weight reduction is essential to stop degeneration progression. Take Pregabalin 75 mg once daily and Methylcobalamin supplements.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pregabalin 75 mg",
+        "Methylcobalamin"
+      ],
+      "sympt": [
+        "lower back pain",
+        "pain in left arm",
+        "pain in leg",
+        "pain in foot"
+      ],
+      "medical_field": [],
+      "disease": [
+        "degenerative disk disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have neck pain and took a painkiller, but it does not respond.",
+    "context_question": "Neck pain not relieved by painkillers; seeking advice.",
+    "answer": "Neck pain can have various causes. Identifying the cause is essential for treatment. Consider X-rays or MRI for a pinched nerve.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Cervical spondylosis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "neck pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "X-rays",
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been diagnosed with a herniated disc at L5-S1 and bulge at L4-L5. I have some lower back pain, but I also have pain in the groin area which seems to move also in the testicle.",
+    "context_question": "Diagnosed with herniated disc at L5-S1 and bulge at L4-L5; experiencing lower back pain and groin pain.",
+    "answer": "L5-S1 disc herniation can cause pain radiating to the leg. If the disc prolapse is large, it may compress groin nerves. Monitor for bladder issues or numbness.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain",
+        "pain in groin",
+        "pain in testicle"
+      ],
+      "medical_field": [],
+      "disease": [
+        "herniated disc"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 30 years old, female, and unmarried. For the past two months, I have been suffering from severe lower back pain, and it also flows to the front side.",
+    "context_question": "30 years old female with severe lower back pain for two months; pain worsens with elastic clothing.",
+    "answer": "Follow back pain instructions: avoid heavy lifting, improve posture, and take bed rest if severe pain. Apply Oxalgin gel locally.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Rabeprazole",
+    "entities": {
+      "age": [
+        "30 years old"
+      ],
+      "medicament": [
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "severe lower back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been experiencing severe pain in the middle of my back, sometimes extending from my upper stomach area. Currently, the pain is concentrated in the right center of my back.",
+    "context_question": "Severe pain in middle of back extending from upper stomach; pain concentrated in right center.",
+    "answer": "This could be trapezitis. Avoid heavy lifting and improve posture. Apply hot packs to the affected area.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe pain in middle of back"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 38 years old, and I am not overweight. Can you explain what this letter means, please?",
+    "context_question": "38 years old; seeking explanation for MRI findings related to spine.",
+    "answer": "The report indicates degenerative changes in the spine, commonly seen with age. The findings suggest bulging discs affecting nerve roots.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "38 years old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had an MRI last year, which indicated a herniated disc and stenosis at C6-C7 left. So, I had cervical surgery ACDF.",
+    "context_question": "Previous MRI showed herniated disc and stenosis at C6-C7; had cervical surgery but still experiencing pain.",
+    "answer": "Radiculopathy may take time to improve. If neurological function worsens, a repeat MRI is advisable. New symptoms may require EMG or NCS.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "neurological examination",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "herniated disc",
+        "stenosis"
+      ],
+      "Test": [
+        "MRI",
+        "EMG",
+        "NCS"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have pain in the lower left side of my back around the hip joint. I have had this pain for about 3 hours after I bent down and something pinched which resulted in pain.",
+    "context_question": "I have pain in the lower left side of my back around the hip joint for about 3 hours after bending down.",
+    "answer": "This seems to be from the spine or the hip. You need to take X-rays of both the spine and hips. Avoid lifting heavy weights and improve your posture while sitting.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Ibuprofen",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in the lower left side of my back",
+        "pain around the hip joint"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "X-rays of spine",
+        "X-rays of hips"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had several car accidents, ranging from being rear-ended to two accidents where the car was totaled. My X-rays showed that I had a cervical sprain and minor disc narrowing of the C5-6",
+    "context_question": "I had several car accidents and my X-rays showed a cervical sprain and minor disc narrowing of the C5-6 vertebrae.",
+    "answer": "Treatment is based on the severity of the injury. An MRI scan can be done if clinical findings do not match the X-rays.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "cervical sprain",
+        "minor disc narrowing"
+      ],
+      "Test": [
+        "X-rays"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had a sharp pain in my tailbone area when I am sitting or standing up. This has been going on for several months and has not improved.",
+    "context_question": "I have had a sharp pain in my tailbone area for several months when sitting or standing up.",
+    "answer": "This is due to a slightly curved spine in the lower back. Chiropractic adjustments and anti-inflammatory medications like Ibuprofen or Naproxen should help.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Ibuprofen",
+        "Naproxen"
+      ],
+      "sympt": [
+        "sharp pain in my tailbone area"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My age is 26. I have been suffering from lower back pain for the last two years.",
+    "context_question": "I am 26 years old and have been suffering from lower back pain for the last two years.",
+    "answer": "Avoid lifting heavy weights and improve your posture. Take bed rest if severe pain and apply Oxalgin gel locally twice daily.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "sleeping position",
+    "entities": {
+      "age": [
+        "26"
+      ],
+      "medicament": [
+        "Amnurite 10",
+        "Pragabid forte",
+        "Narcogin forte",
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "lower back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a c6 and c7 bulge disc, pushing on derma c34 and c45, fusion degeneration in c5 and c6, small bulges on c2 and c3, arm numbness and pain. Chest pain feels like my heart is flutter",
+    "context_question": "I have a c6 and c7 bulge disc, fusion degeneration in c5 and c6, arm numbness and pain, and chest pain.",
+    "answer": "This cervical pain can cause pain to radiate to the upper limbs. Avoid lifting heavy weights and improve your posture while sitting.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Ibuprofen",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "c6 and c7 bulge disc",
+        "arm numbness and pain",
+        "chest pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "fusion degeneration"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from immense back pain and sudden unbearable pain in my left leg leading to immobilization.",
+    "context_question": "I am suffering from immense back pain and sudden unbearable pain in my left leg.",
+    "answer": "Your pain is due to the compression of the nerves in your lower spine. Avoid lifting heavy weights and improve your posture while sitting.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "immense back pain",
+        "sudden unbearable pain in my left leg"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 25-year-old female experiencing pain in my neck and head. The pain in my head worsens when I laugh or cough, and also when I sit up or stand up.",
+    "context_question": "I am a 25-year-old female experiencing pain in my neck and head that worsens with certain activities.",
+    "answer": "You may have developed occipital neuralgia. Please undergo tests like CBC and CT scan. Take Celecoxib 200 mg and Dexamethasone 4 mg for two weeks.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "25"
+      ],
+      "medicament": [
+        "Celecoxib 200 mg",
+        "Dexamethasone 4 mg"
+      ],
+      "sympt": [
+        "pain in my neck",
+        "pain in my head"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "occipital neuralgia"
+      ],
+      "Test": [
+        "CBC",
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Posterior disc bulge at L4 to L5 intending thecal sac, narrowing bilateral neural foraminae and mild abutting bilateral exiting nerve root.",
+    "context_question": "I have a posterior disc bulge at L4 to L5 intending thecal sac and narrowing bilateral neural foraminae.",
+    "answer": "As the age progresses, the spine undergoes degeneration. Physiotherapy and medications like Zerodol P, Pan 40 mg, and Pregabalin 75 mg are suggested.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Zerodol P",
+        "Pan 40 mg",
+        "Pregabalin 75 mg"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Three days back, I had an MRI scan of my brain and spine. The brain report was normal; however, the spine had some issues.",
+    "context_question": "I had an MRI scan of my brain and spine; the brain report was normal, but the spine showed issues.",
+    "answer": "Your MRI shows severe foraminal stenosis at C5/6. You may need surgery sooner or later due to structural issues.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "severe foraminal stenosis"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from severe spine pain and shoulder pain. At normal times, I do not have pain, but while riding bikes, sitting in front of computers, and standing with both hands on my backs",
+    "context_question": "I am suffering from severe spine pain and shoulder pain during certain activities.",
+    "answer": "You may have cervical spondylitis and myofascial pain. X-rays of the cervical spine are needed to rule out a disc problem.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe spine pain",
+        "shoulder pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "cervical spondylitis"
+      ],
+      "Test": [
+        "X-rays"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My problem is, I wake up in the morning and feel severe pain in my lower back . Please tell me the solution.",
+    "context_question": "I wake up in the morning and feel severe pain in my lower back.",
+    "answer": "Back pain is often felt in the morning due to degenerative or inflammatory disease. Follow steps to improve posture and take bed rest if severe pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Vitamin D",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "severe pain in my lower back"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have degenerated spinal discs and have recently begun taking Thiazide diuretics due to excessive calcium loss through urine. Could the diuretic result in water being drawn from the spi",
+    "context_question": "I have degenerated spinal discs and recently started Thiazide diuretics due to calcium loss through urine.",
+    "answer": "Thiazide diuretics can lead to dehydration, but their impact on spinal disc hydration is minimal. Do not worry about dehydration affecting the discs.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Thiazide diuretics"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "degenerated spinal discs"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from lower back pain for the past five months. After going through physiotherapy and other exercises, I feel better.",
+    "context_question": "I have been suffering from lower back pain for the past five months and feel better after physiotherapy.",
+    "answer": "You have lower back pain controlled with physiotherapy, but have developed upper back and shoulder pain. The MRI report of your neck does not sound worrisome.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain",
+        "upper back and shoulder pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Six months ago, I experienced low back pain and pain in my right foot, along with tingling and numbness. I underwent an MRI, and the results are as follows: There is a mild straightening of",
+    "context_question": "I experienced low back pain and pain in my right foot, along with tingling and numbness.",
+    "answer": "You need to take medicines and do exercises. Apply Oxalgin gel for local application twice daily.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "low back pain",
+        "pain in my right foot",
+        "tingling and numbness"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am experiencing symptoms including back pain, neck pain, numbness radiating down my legs to my feet, as well as numbness in my hands and arms, accompanied by headaches. Can you explain",
+    "context_question": "I am experiencing back pain, neck pain, numbness radiating down my legs, and headaches.",
+    "answer": "The X-ray findings show bulging of the disc and degenerative facet changes. Avoid lifting heavy weights and improve your sitting posture.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "neck pain",
+        "numbness radiating down my legs",
+        "numbness in my hands and arms",
+        "headaches"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "L5/S1 disc disease",
+        "degenerative facet changes"
+      ],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 29-year-old female. I have low back pain with bilateral hip and leg pain to the knees for several years.",
+    "context_question": "I am a 29-year-old female with low back pain and bilateral hip and leg pain to the knees for several years.",
+    "answer": "You have a disc between number 4 and 5 vertebrae causing pain in the legs. You should be on Pregabalin 75 mg twice a day.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "sciatica",
+    "entities": {
+      "age": [
+        "29"
+      ],
+      "medicament": [
+        "Pregabalin 75 mg"
+      ],
+      "sympt": [
+        "low back pain",
+        "bilateral hip and leg pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a female, 30 years old. Questions: 1) How and why do I have all symptoms of c8 radiculopathy confirmed by EMG but not reflective of MRI- c7/t1 normal?",
+    "context_question": "30-year-old female with symptoms of C8 radiculopathy confirmed by EMG but not reflected in MRI.",
+    "answer": "You have chronic C8 radiculopathy. The mismatch between NCV/EMG findings and MRI may be due to a pre-fixed or post-fixed brachial plexus. Actual C8 fibres may be compressed at a higher level. Arachnoiditis is another possibility.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "30"
+      ],
+      "medicament": [],
+      "sympt": [
+        "C8 radiculopathy"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "EMG",
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is having a spine problem. We had done MRI, in that we found few problems in the spine as below: 1) Diffuse disc bulge.",
+    "context_question": "Mother has spine problems found in MRI: diffuse disc bulge, spondylotic change, bilateral facet arthropathy, and disc osteophyte complex.",
+    "answer": "At 64, these findings are not unusual. Start physiotherapy and consider anti-inflammatory tablets. Assess the disc osteophyte complex for nerve irritation and leg symptoms.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "64"
+      ],
+      "medicament": [
+        "anti-inflammatory tablets"
+      ],
+      "sympt": [
+        "spine problem"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Almost two years back, I had slipped and fallen on my back and had spent a few months suffering from back pain. There was not any bone crack or fracture, so I was prescribed only a belt.",
+    "context_question": "Patient has back pain after a fall two years ago, with no fractures, and now experiences radiating pain to thighs after a severe cough.",
+    "answer": "I need to know about your physical activity and daily routine to provide better advice.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "radiating pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband aged 31 is suffering from chronic back pain near the lower part extending till the upper part for the past eight months. Please help with the diagnosis.",
+    "context_question": "31-year-old husband has chronic back pain for eight months, with normal x-ray and ultrasound reports.",
+    "answer": "The x-ray shows mild straightening of the lumbar spine. Lack of exercise and prolonged sitting may lead to weak core muscles, causing back pain. Start physiotherapy and core exercises.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "31"
+      ],
+      "medicament": [],
+      "sympt": [
+        "chronic back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "x-ray",
+        "ultrasound"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 35-year-old man and I have had chronic back pain for years. My doctor thinks it might be non-radiographic axial spondyloarthritis, but they want to do some tests first.",
+    "context_question": "35-year-old man has chronic back pain for years, suspecting non-radiographic axial spondyloarthritis, seeking information on tests and treatment options.",
+    "answer": "MRI is the most sensitive test for non-radiographic axial spondyloarthritis. Blood tests like CRP and ESR can show signs of inflammation. Treatment depends on symptom severity and inflammation levels.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [],
+      "sympt": [
+        "chronic back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "non-radiographic axial spondyloarthritis"
+      ],
+      "Test": [
+        "MRI",
+        "CRP",
+        "ESR"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been diagnosed with a posterior left paracentral and lateral herniation of the C6-7 disc. This condition is causing compression on the anterior subarachnoid space and the left C7.",
+    "context_question": "Patient diagnosed with C6-7 disc herniation causing compression on the anterior subarachnoid space and left C7 nerve root.",
+    "answer": "To manage your pain, avoid heavy lifting, arching your back, and prolonged sitting. Apply Oxalgin gel (diclofenac) for pain relief twice daily.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Oxalgin gel (diclofenac)"
+      ],
+      "sympt": [
+        "C6-7 disc herniation"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from back pain for the past three years. Sciatica treatment and medicine did not reduce my pain.",
+    "context_question": "Patient has back pain for three years, with MRI showing bulge in L4, L5, and S1, and previous treatments ineffective.",
+    "answer": "You may have disc prolapse causing back pain radiating down the legs. A selective nerve root injection, physical therapy, and lifestyle changes may provide relief.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Sciatica",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "sciatica"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "disc prolapse"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am suffering from lumbosacral pain. It started with stiffness followed by two back muscle tear episodes.",
+    "context_question": "Patient has lumbosacral pain, stiffness, and two episodes of back muscle tears, with normal X-rays.",
+    "answer": "Avoid lifting weights and arching your back. Apply Oxalgin gel (Diclofenac 50 mg Paracetamol 325 mg) twice daily and take Pregabalin 75 mg at night.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Oxalgin gel (Diclofenac 50 mg Paracetamol 325 mg)",
+        "Pregabalin 75 mg"
+      ],
+      "sympt": [
+        "lumbosacral pain",
+        "stiffness"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 34 years old. I have chronic back pain.",
+    "context_question": "34-year-old patient has chronic back pain for five years, with tingling and numbness in the left leg and pain in the big toe.",
+    "answer": "The MRI shows a subtle asymmetric diffuse posterior bulge at L5-S1 without neural compromise. The recent onset of symptoms may be due to dynamic nerve compression.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "34"
+      ],
+      "medicament": [],
+      "sympt": [
+        "chronic back pain",
+        "tingling",
+        "numbness"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I slipped while running a month ago after which I suffered from lumbar lordosis. I consulted a doctor who gave me a painkiller and an ointment.",
+    "context_question": "Patient slipped while running, suffering from lumbar lordosis, and received painkiller and ointment but condition did not improve.",
+    "answer": "You may have a muscle spasm. Follow instructions to avoid heavy lifting, improve posture, and apply pain relief gel. Consider taking Pregabalin and Ibuprofen.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pregabalin",
+        "Ibuprofen"
+      ],
+      "sympt": [
+        "lumbar lordosis"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been experiencing pain in my left leg, buttocks, and lower back for a few weeks now. The pain is sometimes sharp and other times it is accompanied by tingling sensations.",
+    "context_question": "Patient has pain in left leg, buttocks, and lower back for weeks, with sharp pain and tingling sensations.",
+    "answer": "Your MRI did not show significant herniated disc. We can manage your symptoms with medication. Consider trying our treatment before surgery.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in left leg",
+        "buttocks pain",
+        "lower back pain",
+        "tingling"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 28 year old female. I am suffering from mid back pain since two days.",
+    "context_question": "28-year-old female has mid back pain for two days, using Moov and Zandu balm without relief.",
+    "answer": "You are young to have persistent back pain. Causes can include faulty posture or weak muscles. Accurate diagnosis is key for proper management.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "28"
+      ],
+      "medicament": [
+        "Moov",
+        "Zandu balm"
+      ],
+      "sympt": [
+        "mid back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had diffuse bulges of desiccated L4-L5 and L-S1 intervertebral discs with posteroventral focal disc protrusions and focal annular tear, indenting anterior thecal sac, causing mild to moderate spinal canal compromise, abutting traversing nerve roots, I have this problem for the past four months. Also, I take tablets Rexite plus and Uprise once a week.",
+    "context_question": "Patient has diffuse bulges of L4-L5 and L-S1 discs with focal protrusions and annular tear for four months, taking Rexite plus and Uprise weekly.",
+    "answer": "Please share your scan reports for assessment. Follow instructions to avoid heavy lifting and improve posture. Regular breaks and walking are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Diclofenac",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Rexite plus",
+        "Uprise"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am an army man. I am having PIVD L4-L5 and neural compression at L5-S1.",
+    "context_question": "Army man has PIVD L4-L5 and neural compression at L5-S1, with numbness in left leg and no control over left big toe.",
+    "answer": "The MRI shows an L4-L5 extruded disc. I agree with your surgeon regarding surgery, but I need to see the MRI films for confirmation.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "PIVD",
+        "neural compression",
+        "numbness"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My wife is 27 years old, and she has been experiencing back pain. She recently underwent an MRI scan, and the report indicates that she is suffering from a loss of lumbar lordosis.",
+    "context_question": "27-year-old wife has back pain and MRI shows loss of lumbar lordosis.",
+    "answer": "She has muscle spasms causing pain. Follow instructions to avoid heavy lifting, improve posture, and take breaks while sitting.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "27"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am experiencing lower back pain, characterized by sharp discomfort, exacerbated by movement.",
+    "context_question": "Patient has lower back pain with sharp discomfort worsened by movement.",
+    "answer": "Follow instructions to manage lower back pain, including avoiding heavy lifting and improving posture.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have sagittal, transverse, and coronary MR sections in standard display techniques. In a series of sagittal, transverse, and coronary MR sections through the area of the cervical spina",
+    "context_question": "Patient has MRI report of cervical spinal canal but needs to correlate with symptoms.",
+    "answer": "The MRI report alone has no value without correlating symptoms. Please provide your symptoms and MRI films for better assistance.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I involved in a car accident seven years ago. I have been having problems with my neck ever since.",
+    "context_question": "Patient has neck problems since a car accident seven years ago and had an MRI showing multilevel degenerative disc disease.",
+    "answer": "Degenerative changes in the neck joints can cause pain. Surgery is often not helpful for joint pain. Active exercise and body awareness are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "neck problems"
+      ],
+      "medical_field": [],
+      "disease": [
+        "degenerative disc disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My problem is lower back pain and burning in both soles. As per the MRI report:- 1.",
+    "context_question": "Patient reports lower back pain and burning in both soles with MRI findings of median disc protrusion and diffuse posterior disc bulge.",
+    "answer": "Treatment includes avoiding heavy lifting, improving posture, and taking bed rest if pain is severe. Hot fomentations are also recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "lower back pain",
+        "burning in both soles"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 23 years old, female, and I have scoliosis. I had surgery 12 years back, and everything was fine.",
+    "context_question": "Patient, 23, has scoliosis and reports pain in left hand and shoulder, tingling in hands and feet, and neck pain.",
+    "answer": "Further clinical findings and X-rays are needed to determine the cause of the new symptoms. Weakness or spasms should be assessed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "23"
+      ],
+      "medicament": [],
+      "sympt": [
+        "pain in left hand",
+        "shoulder pain",
+        "tingling in hands",
+        "tingling in feet",
+        "neck pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "scoliosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am having pain in the spine. I am taking painkillers, calcium tablets and doing exercise.",
+    "context_question": "Patient reports spine pain, taking painkillers and calcium tablets, and inquires about fat burner supplements.",
+    "answer": "Fat burner supplements may worsen osteoporosis in patients with ankylosing spondylitis. Natural weight loss methods are recommended instead.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "painkillers",
+        "calcium tablets"
+      ],
+      "sympt": [
+        "spine pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "ankylosing spondylitis"
+      ],
+      "Test": [
+        "HLA B27 test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I never in my life able to sit straight, like I see people sitting straight for hours, and I get extremely tired in 5-10 minutes maximum while sitting straight. At random times, I just g",
+    "context_question": "Patient experiences inability to sit straight, fatigue after a few minutes, and sharp lumbar pain.",
+    "answer": "Weak core muscles may be the issue. An X-ray is needed to rule out structural problems. Core strengthening exercises and lumbar support are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "inability to sit straight",
+        "fatigue",
+        "sharp lumbar pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "X-ray of the spine"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "In 9th grade, I experienced back pain and had to wear a body cast for a year. At the age of 14, I was diagnosed with Crohn's disease.",
+    "context_question": "Patient experienced back pain in 9th grade, wore a body cast, and was diagnosed with Crohn's disease at 14. Reports ongoing lower back and tailbone pain.",
+    "answer": "MRI findings indicate spondylolisthesis, which may cause back pain. A pain specialist is recommended for targeted treatment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "magnetic resonance imaging",
+    "entities": {
+      "age": [
+        "14"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "tailbone pain"
+      ],
+      "medical_field": [],
+      "disease": [
+        "Crohn's disease",
+        "spondylolisthesis"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 31-year-old male, 6 feet 3 inches in height. I am experiencing sharp back pain and have had minor pain the last few days, but nothing restricting movement or activity.",
+    "context_question": "Patient, 31, reports sharp back pain triggered by sneezing, with minor pain previously.",
+    "answer": "Avoid heavy lifting, improve posture, and take bed rest if pain is severe. Local application of Diclofenac sodium, Methyl salicylate, and Menthol gel is recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Diclofenac",
+    "entities": {
+      "age": [
+        "31"
+      ],
+      "medicament": [
+        "Diclofenac sodium",
+        "Methyl salicylate",
+        "Menthol gel"
+      ],
+      "sympt": [
+        "sharp back pain"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 48-year-old with back pain that radiates to my left leg. I currently take Gabapentin for my back pain, Tylenol and Tizanidine, Warfarin for blood clots, and Simvastatin for a stro",
+    "context_question": "Patient, 48, reports back pain radiating to the left leg with an MRI showing degenerative changes in lumbar spine.",
+    "answer": "Degenerative arthritic facet joints are causing pain. Compression at L5-S1 and L4-5 levels is leading to radiating pain. Treatment options should be discussed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "degenerative arthritic facet joints",
+    "entities": {
+      "age": [
+        "48"
+      ],
+      "medicament": [
+        "Gabapentin",
+        "Tylenol",
+        "Tizanidine",
+        "Warfarin",
+        "Simvastatin"
+      ],
+      "sympt": [
+        "back pain",
+        "radiating pain to left leg"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 24 years old and have degenerative disc disease in my lower back. I am experiencing pain while sitting, standing, and arching my back, but it becomes better while moving.",
+    "context_question": "Patient, 24, reports pain due to degenerative disc disease and seeks advice on activities to avoid.",
+    "answer": "Core strengthening exercises and avoiding prolonged sitting are recommended. NSAIDs may help during bad phases, and physiotherapy is suggested.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "24"
+      ],
+      "medicament": [],
+      "sympt": [
+        "pain while sitting",
+        "pain while standing",
+        "pain while arching back"
+      ],
+      "medical_field": [],
+      "disease": [
+        "degenerative disc disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had a posterior decompression and fusion in t/LIF (2) L4-S1 done eight years ago. Suddenly, this week, I have been experiencing stinging pain in my left buttocks and pain in my left hi",
+    "context_question": "Patient reports stinging pain in left buttocks and hip joint after previous spinal surgery.",
+    "answer": "The pain may be due to nerve compression. A new MRI of the lumbosacral spine is recommended to assess the situation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "stinging pain in left buttocks",
+        "pain in left hip joint"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "When I was 10 years old, I had spine surgery for removing a lipoma tumor. I was fine before surgery.",
+    "context_question": "Patient had spine surgery at 10 for lipoma removal and now experiences difficulty walking and scoliosis.",
+    "answer": "Current pain may be due to muscular strain or early neuro radiculopathy. Antispasmodic muscle relaxants and analgesics are suggested.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "20"
+      ],
+      "medicament": [
+        "Chlorzoxazone",
+        "Thiocolchicoside",
+        "Methylcobalamin",
+        "Folic acid"
+      ],
+      "sympt": [
+        "pain in scoliotic region",
+        "difficulty walking"
+      ],
+      "medical_field": [],
+      "disease": [
+        "scoliosis"
+      ],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 23-year-old female and I had scoliosis. I wore braces for my spine for a while, but it did not really work and it started to affect my breathing.",
+    "context_question": "Patient, 23, had scoliosis and surgery but braces were ineffective and affected breathing.",
+    "answer": "Current spinal appearance is not severe enough to warrant another surgery. New X-rays are needed to assess the implants.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "23"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "scoliosis"
+      ],
+      "Test": [
+        "X-rays"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 26-year-old male with a height of 69.69 inches and weighing 189.59 pounds. I used to be active playing soccer and volleyball but since my injury, I have been sedentary.",
+    "context_question": "Patient, 26, reports pain while sitting for long periods after an injury and has tried physiotherapy.",
+    "answer": "MRI films are needed for better assessment. Pregabalin 75 mg twice a day is suggested for pain management.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "26"
+      ],
+      "medicament": [
+        "Pregabalin 75 mg"
+      ],
+      "sympt": [
+        "pain while sitting"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 15 years old. My legs give out at random times while walking.",
+    "context_question": "Patient, 15, experiences legs giving out randomly while walking.",
+    "answer": "This may indicate muscle weakness. Blood tests and an X-ray of the Lumbo-sacral spine are recommended to investigate further.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "15"
+      ],
+      "medicament": [],
+      "sympt": [
+        "legs giving out"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CBC",
+        "Serum vitamin D levels",
+        "Serum vitamin B12 levels",
+        "Serum electrolytes",
+        "X-ray of the Lumbo-sacral spine"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have severe pain in the neck and shoulders often accompanied by numbness and tingling. I also have frequent migraines and some times dizziness as well with occasional fainting which is",
+    "context_question": "Patient reports severe neck and shoulder pain with numbness, tingling, migraines, dizziness, and fainting.",
+    "answer": "Cervical spondylosis may be the cause. Neck strengthening exercises and medications like Pregabalin and Duloxetine are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Pregabalin",
+        "Duloxetine"
+      ],
+      "sympt": [
+        "severe neck pain",
+        "shoulder pain",
+        "numbness",
+        "tingling",
+        "frequent migraines",
+        "dizziness",
+        "fainting"
+      ],
+      "medical_field": [],
+      "disease": [
+        "cervical spondylosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 21-year-old male. I am currently experiencing slight pain in my tailbone.",
+    "context_question": "21-year-old male experiencing slight pain in tailbone and a small bump on left upper buttock.",
+    "answer": "Diagnosis is coccydynia. Recommendations include avoiding hard surfaces, using a coccyx pillow, applying ice, and taking medications: Tablet Aceclo Plus (Aceclofenac and Paracetamol) twice daily for five days, Tablet Pantop-D (Pantoprazole and Domperidone) once daily for five days, Tablet Chymoral Forte (Trypsin and Chymotrypsin) thrice daily for five days.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Tail bone",
+    "entities": {
+      "age": [
+        "21-year-old"
+      ],
+      "medicament": [
+        "Tablet Aceclo Plus",
+        "Tablet Pantop-D",
+        "Tablet Chymoral Forte"
+      ],
+      "sympt": [
+        "pain in tailbone",
+        "small bump on left upper buttock"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "coccydynia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am uploading the MRI report of my mother. Kindly review and advise what is the best treatment for such patients.",
+    "context_question": "Mother has neck pain and is using Myrin P for the past four months.",
+    "answer": "MRI suggests serious issues with tuberculosis of the bone causing an unstable fracture. Urgent consultation with a spinal surgeon or neurosurgeon is needed. She should lie flat and a collar should be applied before moving her.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Myrin P"
+      ],
+      "sympt": [
+        "neck pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "tuberculosis of the bone"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Two months ago, I received treatment for my condition, and unfortunately, the same muscle issue resurfaced last week.",
+    "context_question": "Muscle issue resurfaced last week after treatment two months ago.",
+    "answer": "Chiropractic care regulations limit coverage to manual manipulation of the spine for subluxation. Other services are not covered. X-rays ordered by chiropractors for documenting a subluxation can be used, but no payment for other diagnostic or therapeutic services.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "X-rays"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have back pain situated just below the rib cage.",
+    "context_question": "Back pain below rib cage, spreading to both sides under ribs down to mid stomach, with stomach distension.",
+    "answer": "An X-ray of the spine is recommended. Avoid heavy lifting, arching back, and sitting for long hours. Hot fomentations and applying Oxalgin gel (Diclofenac sodium, Methyl salicylate and Menthol) twice daily are advised.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "X-ray",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "back pain",
+        "stomach distension"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "What are the long-term consequences of bad posture?",
+    "context_question": "Inquiring about long-term consequences of bad posture.",
+    "answer": "Poor posture can lead to structural changes or fixed musculoligamentous issues, with effects depending on the starting age. Symptoms severity varies based on multiple factors.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had a very sharp pain in my lower back that goes to my neck and hips.",
+    "context_question": "Sharp pain in lower back radiating to neck and hips, difficulty sleeping and standing straight.",
+    "answer": "Possible muscle spasm or nerve impingement. Recommendations include avoiding heavy lifting, improving posture, and taking bed rest if severe pain persists.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "muscle spasm",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "sharp pain in lower back",
+        "difficulty sleeping",
+        "difficulty standing straight"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 26-year-old with spinal cord pain at the end near my butt.",
+    "context_question": "26-year-old with spinal cord pain near butt, swollen, cannot sit or sleep.",
+    "answer": "Diagnosis is coccydynia. Recommended medications include Ibuprofen 400 mg for ten days, Rabeprazole 20 mg for ten days, Shelcal 500 mg for 30 days, and Vitamin D 60K units for ten days. Avoid sitting for seven days.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "coccydynia",
+    "entities": {
+      "age": [
+        "26-year-old"
+      ],
+      "medicament": [
+        "Ibuprofen 400 mg",
+        "Rabeprazole 20 mg",
+        "Shelcal 500 mg",
+        "Vitamin D 60K units"
+      ],
+      "sympt": [
+        "spinal cord pain",
+        "swollen"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "coccydynia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I received my MRI results on the lumbar.",
+    "context_question": "Received MRI results on lumbar, has mild lower back pain when lifting.",
+    "answer": "MRI findings include spondylolisthesis and lysis. There is a forward movement of L5 on S1 and backward movement of L4 on L5. Diagnosis includes ankylosing spondylosis.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "mild lower back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "spondylolisthesis",
+        "ankylosing spondylosis"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am concerned about bone cancer.",
+    "context_question": "Concerned about bone cancer due to terrible upper back pain radiating to ribs and lower back.",
+    "answer": "Further information is needed to assess the risk of cancer. Please provide clinical findings and investigation reports.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "upper back pain",
+        "pain radiating to ribs",
+        "pain radiating to lower back"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My friend has a disc bulge and lipping osteophytes.",
+    "context_question": "Friend has disc bulge and lipping osteophytes, using a belt for support, experiencing continuous pain.",
+    "answer": "Raised ESR and SGPT suggest the possibility of polyarthritis. Further investigations like RA factor and ANA may be needed. MRI shows no significant disc bulge.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "polyarthritis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "continuous pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "disc bulge",
+        "polyarthritis"
+      ],
+      "Test": [
+        "ESR",
+        "SGPT"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I just pulled a muscle in my left middle back.",
+    "context_question": "Pulled muscle in left middle back, hurts when moving and breathing in, took Aleve (Naproxen).",
+    "answer": "This is a common issue. Recommendations include avoiding heavy lifting, improving posture, and taking bed rest if severe pain persists.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "back pain",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Aleve (Naproxen)"
+      ],
+      "sympt": [
+        "pulled muscle",
+        "pain when moving",
+        "pain when breathing in"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had been suffering from low back pain for many years.",
+    "context_question": "Suffering from low back pain for years, X-rays showed disk space narrowing.",
+    "answer": "Symptoms suggest a disc pressing on a nerve root. Options include waiting if no leg weakness or taking Diclofenac 75 mg and Lyrica 75 mg for nerve pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "back pain",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Diclofenac 75 mg",
+        "Lyrica 75 mg"
+      ],
+      "sympt": [
+        "low back pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "X-rays"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had an epidural injection in the left lower back for left leg pain.",
+    "context_question": "Had epidural injection for left leg pain, now experiencing pain in right buttocks.",
+    "answer": "New pain on right side may not be related to the injection. Epidural injections target specific symptoms based on MRI findings.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain in right buttocks"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "Can you review my MRI findings?",
+    "context_question": "Requesting review of MRI findings.",
+    "answer": "MRI shows good alignment, no bulging or prolapse, but some narrowing in the transverse axis. No stenosis or ligament thickening.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Spine Health",
+    "article_title": "prolapse",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My brother has been suffering from sciatica for a long while now.",
+    "context_question": "Brother suffering from sciatica with flare-ups affecting mobility.",
+    "answer": "Persistent pain may require surgery if symptoms last over three months. An MRI is needed to understand the cause of the pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "26 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "sciatica",
+        "flare-ups",
+        "pain affecting mobility"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am experiencing pain between my shoulder blades, around my spine.",
+    "context_question": "Pain between shoulder blades, around spine, with anxiety and hiatal hernia.",
+    "answer": "Shoulder pain may be due to trapezitis. Recommendations include avoiding heavy lifting, improving posture, and regular movement.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "pain between shoulder blades",
+        "anxiety",
+        "hiatal hernia"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "trapezitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been experiencing upper back pain, specifically in my spine, for over two months. I am not sure what caused it, but it hurts when I bend forward and settle when I am still.",
+    "context_question": "Experiencing upper back pain in the spine for over two months, sharp pain when pressure is applied, dull pain after.",
+    "answer": "The discomfort is likely caused by bad posture. Avoid lengthy positions, perform shoulder strengthening exercises, and apply ice and anti-inflammatory gels. Take Diclofenac sodium 75 mg twice a day for 7 to 10 days.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "shoulder strengthening exercises",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Diclofenac sodium 75 mg"
+      ],
+      "sympt": [
+        "upper back pain",
+        "sharp pain",
+        "dull pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Hello, I have had X-ray results and want some professional advice on how to head on with this and what options I should be considering.",
+    "context_question": "Had X-ray results and seeking professional advice on next steps.",
+    "answer": "You have neck spasm, reversal of cervical lordosis, and a round back likely from Scheuermann disease. The neck responds to exercise with muscle relaxants, but mid back issues may require manual therapy.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "Scheuermann disease",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "neck spasm"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "Scheuermann disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Yesterday evening, while bending over and bathing my daughter, I tried to stand straight and had extreme pain down the lower half of my spine. At the time of the incident, it felt as if a tight string down my spine had been plucked and caused shooting severe pain from my tailbone up half my back along the spine. The pain continued all night and is worse today.",
+    "context_question": "Extreme pain down the lower spine after bending over, severe pain from tailbone up the back.",
+    "answer": "Avoid lifting heavy weights and arching your back. Improve posture, take bed rest if severe pain, and apply Oxalgin gel locally. Follow up with prescribed medications.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Spine Health",
+    "article_title": "Diclofenac",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Oxalgin gel"
+      ],
+      "sympt": [
+        "extreme pain",
+        "severe pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "If a patient has the following cervical spine MRI diagnosis, would they have any pain? If so, what pain might they experience?",
+    "context_question": "Inquiring about potential pain from cervical spine MRI diagnosis.",
+    "answer": "The amount of compression does not correlate with pain intensity. Your rib pain may be caused by the MRI findings. Treatment can be managed conservatively.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "rib pain"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 32 years old and had an herinated disc and had surgery a few years back, it was a post delayed surgery. Due to the delay in surgery (18 days) I left with a foot drop and right leg weakness.",
+    "context_question": "32 years old with history of herniated disc and surgery, experiencing foot drop and right leg weakness.",
+    "answer": "Detailed neurological assessment and latest MRI of the LS spine are needed. Early results after spinal decompression surgery are best if motor loss is due to compression.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Spine Health",
+    "article_title": "spinal cord",
+    "entities": {
+      "age": [
+        "32 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "foot drop",
+        "right leg weakness"
+      ],
+      "medical_field": [
+        "Spine Health"
+      ],
+      "disease": [
+        "herniated disc"
+      ],
+      "Test": [
+        "MRI"
+      ],
+      "Result": []
+    }
+  }
+]

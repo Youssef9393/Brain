@@ -1,0 +1,4039 @@
+[
+  {
+    "question": "I am asking about my father; he is 59. He had dull lower back pain for three to four months, and we thought it was a muscle issue.",
+    "context_question": "My 59-year-old father has had dull lower back pain for three to four months, and an MRI showed a lesion. A chest CT confirmed lung cancer that has spread to the spine.",
+    "answer": "Lung cancer can spread to the bones, causing persistent back pain. This often leads to investigations for spine issues, delaying the diagnosis of the primary lung tumor. Early stages may not show obvious symptoms.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "59"
+      ],
+      "medicament": [],
+      "sympt": [
+        "dull lower back pain"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [
+        "MRI",
+        "chest CT"
+      ],
+      "Result": [
+        "lesion"
+      ]
+    }
+  },
+  {
+    "question": "I am a 55-year-old woman and have been experiencing a persistent cough for over a month. I do not smoke, but I am starting to feel concerned.",
+    "context_question": "I am a 55-year-old woman experiencing a persistent cough for over a month. Can a persistent cough mean lung cancer? When should I get evaluated with scans?",
+    "answer": "Most long-lasting coughs are not caused by lung cancer, especially in non-smokers. Coughs lasting more than four to six weeks should be evaluated, often starting with a clinical examination and chest X-ray.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "55"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "chest X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband is 50 years old and has been having a persistent cough for about five months now, along with occasional chest discomfort on his left side.",
+    "context_question": "My 50-year-old husband has had a persistent cough for five months and occasional chest discomfort. A chest X-ray showed normal results, but he is losing weight without dietary changes.",
+    "answer": "A persistent cough with weight loss requires further investigation, especially with a history of smoking. Chest X-rays can miss lung cancer, and a CT scan may be necessary for a clearer diagnosis.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "smoking",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [
+        "cough syrup"
+      ],
+      "sympt": [
+        "persistent cough",
+        "chest discomfort",
+        "weight loss"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "chest X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 40-year-old woman and have been smoking for nearly 20 years. I have tried quitting several times, but I usually slip back whenever I am stressed.",
+    "context_question": "I am a 40-year-old woman who has been smoking for 20 years. I want to know if quit-smoking programs help and if nicotine patches or prescription medicines are safe for women.",
+    "answer": "Quit-smoking programs that combine counseling and medical support are effective. Nicotine patches and medications like Varenicline or Bupropion are generally safe for women under a doctor's supervision.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Quitting smoking",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [
+        "nicotine patches",
+        "Varenicline",
+        "Bupropion"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am writing on behalf of my aunt, who is 63 years old. Last week, we received the shocking news that she has lung cancer, which has already reached stage 4.",
+    "context_question": "My 63-year-old aunt has been diagnosed with stage 4 lung cancer that has spread to her lymph nodes and liver, initially presenting with back pain and fatigue.",
+    "answer": "This situation is emotionally challenging. Stage 4 lung cancer indicates advanced disease, and symptoms like fatigue can arise from the cancer's progression. Monitoring and supportive care are essential.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "hepatic encephalopathy",
+    "entities": {
+      "age": [
+        "63"
+      ],
+      "medicament": [],
+      "sympt": [
+        "back pain",
+        "fatigue"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My nephew is 16 years old and was recently diagnosed with lung cancer, which came as a huge shock since he has never smoked.",
+    "context_question": "My 16-year-old nephew has lung cancer, diagnosed after a persistent cough and chest pain. A CT scan showed a lung mass, and genetic testing is planned for driver mutations.",
+    "answer": "Lung cancer in young non-smokers is rare and often linked to genetic mutations. Driver mutations like EGFR or ALK may be present, which differ from typical smoking-related cancers.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "epidermal growth factor receptor (EGFR)",
+    "entities": {
+      "age": [
+        "16"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough",
+        "chest pain"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 57-year-old uncle was recently diagnosed with lung cancer after developing fluid accumulation around his lungs.",
+    "context_question": "My 57-year-old uncle has lung cancer diagnosed after pleural effusion, which was the first major sign leading to further investigation.",
+    "answer": "Pleural effusion occurs when fluid collects between the lung and chest wall, often due to lung cancer. It can cause breathlessness and is a significant indicator of underlying disease.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Pleural effusion",
+    "entities": {
+      "age": [
+        "57"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 35 years old, and I was recently diagnosed with pneumococcal disease. I have started taking antibiotics now.",
+    "context_question": "I am a 35-year-old with pneumococcal disease and worsening asthma symptoms since starting antibiotics. Should I increase my inhaler dose?",
+    "answer": "Infections can exacerbate asthma. Maintain control with reliever and controller medicines. Monitor your condition and seek medical attention if severe symptoms develop.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "pulmonary function test",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [
+        "antibiotics"
+      ],
+      "sympt": [
+        "worsening asthma symptoms"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "pneumococcal disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had stage 4 lung cancer, and after treatment with targeted therapy, my scans showed NED last year.",
+    "context_question": "I had stage 4 lung cancer, and after targeted therapy, my scans showed no evidence of disease (NED). I am anxious about recurrence.",
+    "answer": "Experiencing anxiety after achieving NED is common. It indicates effective cancer control, but ongoing monitoring is essential as recurrence is possible with stage 4 lung cancer.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "targeted therapy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 38-year-old woman recently diagnosed with A1AD. I have mild COPD symptoms, frequent respiratory infections, and occasional liver function abnormalities noted on my recent labs.",
+    "context_question": "I am a 38-year-old woman with A1AD, mild COPD symptoms, frequent respiratory infections, and elevated liver enzymes. I am concerned about hormonal balance and fertility.",
+    "answer": "Confirm your A1AT genotype and serum levels, and assess lung and liver function. Collaborate with both lung and liver specialists for comprehensive management.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "COVID",
+    "entities": {
+      "age": [
+        "38"
+      ],
+      "medicament": [],
+      "sympt": [
+        "mild COPD symptoms",
+        "frequent respiratory infections"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "A1AD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 35-year-old man recovering from a splenectomy following a car accident last year.",
+    "context_question": "I am a 35-year-old man recovering from a splenectomy and have developed fever, chills, persistent cough, and shortness of breath. I am concerned about pneumonia or sepsis.",
+    "answer": "Patients without a spleen are at higher risk for pneumococcal infections. Vaccination is crucial; verify if you received it post-splenectomy. Monitor your symptoms closely.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Erythrocyte sedimentation rate (ESR)",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [],
+      "sympt": [
+        "fever",
+        "chills",
+        "persistent cough",
+        "shortness of breath"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "Complete blood count"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother, 60, was recently diagnosed with stage 1 lung cancer during a routine scan.",
+    "context_question": "My 60-year-old mother was diagnosed with stage 1 lung cancer during a routine scan. A lobectomy was recommended as a curative treatment.",
+    "answer": "Stage 1 lung cancer is often treated effectively with lobectomy, which can remove the cancer completely if caught early. Many patients live normal lives post-surgery.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "60"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 42 and have been cooking for my family daily for many years, mostly on a gas stove in a not-so-ventilated kitchen.",
+    "context_question": "I am a 42-year-old woman regularly exposed to cooking fumes and oil smoke. I have mild throat irritation after long cooking sessions and want to know if this increases lung cancer risk.",
+    "answer": "Long-term exposure to cooking fumes in poorly ventilated kitchens can irritate airways and may slightly increase lung cancer risk. However, as a non-smoker, your overall risk remains low.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "42"
+      ],
+      "medicament": [],
+      "sympt": [
+        "mild throat irritation"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 60, and for years, he has had heavy snoring and daytime sleepiness.",
+    "context_question": "My 60-year-old father has heavy snoring and daytime sleepiness. A sleep apnea assessment revealed a lung lesion unexpectedly.",
+    "answer": "Incidental findings like lung lesions can occur during evaluations for sleep apnea. Early lung cancers often do not present symptoms, making such discoveries surprising.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "sleep apnea",
+    "entities": {
+      "age": [
+        "60"
+      ],
+      "medicament": [],
+      "sympt": [
+        "heavy snoring",
+        "daytime sleepiness"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "chest imaging"
+      ],
+      "Result": [
+        "lung lesion"
+      ]
+    }
+  },
+  {
+    "question": "I am a 40-year-old woman who has never smoked and was recently diagnosed with stage 4 lung cancer. I am shocked and scared.",
+    "context_question": "40-year-old woman diagnosed with stage 4 lung cancer, seeking explanation for non-smoker developing cancer.",
+    "answer": "Lung cancer in non-smokers can occur due to genetic abnormalities, such as mutations in EGFR, ALK, or ROS1. These mutations develop spontaneously rather than being inherited.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "mutations",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My uncle was told he has lung cancer and also pneumococcal disease. He is 60 years old, and this news has hit us really hard.",
+    "context_question": "60-year-old uncle diagnosed with stage 3 lung cancer and pneumococcal disease, experiencing fevers and weakness.",
+    "answer": "Pneumonia is common in lung cancer patients and can lead to serious complications. Chemotherapy should be postponed until recovery from pneumonia, which may require hospitalization.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "60"
+      ],
+      "medicament": [],
+      "sympt": [
+        "fevers",
+        "weakness"
+      ],
+      "medical_field": [],
+      "disease": [
+        "lung cancer",
+        "pneumococcal disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 40-year-old male who has been running marathons for years. Lately, I have noticed some shortness of breath that is not improving with conditioning.",
+    "context_question": "40-year-old male experiencing shortness of breath not improving with conditioning, concerned about alpha-1 antitrypsin deficiency.",
+    "answer": "Your symptoms suggest alpha-1 antitrypsin deficiency, a genetic disorder that can lead to lung disease. Testing for alpha-1 antitrypsin levels and genetic testing is recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung infections",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath"
+      ],
+      "medical_field": [],
+      "disease": [
+        "alpha-1 antitrypsin deficiency"
+      ],
+      "Test": [
+        "blood test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have a dust allergy. Recently, I had a wheezing problem for a few days that even Asthalin could not help, which I used mildly a few times a year.",
+    "context_question": "Patient with dust allergy experienced wheezing for a few days, Asthalin was ineffective.",
+    "answer": "Asthma and allergic rhinitis are likely. Consultation with a pulmonologist and pulmonary function tests are recommended for proper treatment.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Treatment of asthma",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Asthalin"
+      ],
+      "sympt": [
+        "wheezing"
+      ],
+      "medical_field": [],
+      "disease": [
+        "asthma",
+        "allergic rhinitis"
+      ],
+      "Test": [
+        "PFT"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband was tested COVID positive on the 1st of this month. He had a fever for two days, which is gone now.",
+    "context_question": "Husband tested COVID positive, had fever for two days, now has a wet cough and weakness.",
+    "answer": "COVID-19 can lead to persistent cough and weakness, which may indicate complications like COVID pneumonia. Monitoring and supportive care are essential.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "COVID pneumonia",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "wet cough",
+        "weakness"
+      ],
+      "medical_field": [],
+      "disease": [
+        "COVID-19"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 48-year-old mother has Mycobacterium avium complex (MAC) lung disease, and it has been very difficult to treat.",
+    "context_question": "48-year-old mother with MAC lung disease on triple antibiotic therapy for eight months but still symptomatic.",
+    "answer": "Women after menopause are more prone to MAC lung disease. Treatment challenges may arise due to immune response changes. Continued monitoring and supportive care are essential.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "MAC lung disease",
+    "entities": {
+      "age": [
+        "48"
+      ],
+      "medicament": [
+        "Azithromycin",
+        "Ethambutol",
+        "Rifampin"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "Mycobacterium avium complex (MAC) lung disease"
+      ],
+      "Test": [
+        "chest CT scan",
+        "sputum cultures"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 36 years old and was recently diagnosed with stage 1 lung cancer, which was found during one of my annual CT scans.",
+    "context_question": "36-year-old diagnosed with stage 1 lung cancer during annual CT scans, no symptoms present.",
+    "answer": "Early-stage lung cancer is often asymptomatic and detected incidentally through CT scans. Regular surveillance imaging is beneficial for early detection.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "computed tomography (CT)",
+    "entities": {
+      "age": [
+        "36"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [
+        "CT scans"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 52-year-old woman recently informed that I may require surgery for a lung tumor.",
+    "context_question": "52-year-old woman considering RATS surgery for lung tumor.",
+    "answer": "RATS surgery is a robotic-assisted technique for lung surgery that offers benefits like smaller incisions and quicker recovery compared to traditional surgery.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "keyhole",
+    "entities": {
+      "age": [
+        "52"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung tumor"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 28 and was diagnosed with stage 4 NSCLC five years ago, which still feels unreal when I say it.",
+    "context_question": "28-year-old diagnosed with stage 4 NSCLC five years ago, currently stable after targeted therapy.",
+    "answer": "Stability five years after a stage 4 diagnosis indicates well-controlled disease. Continued treatment is essential for maintaining this stability.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "targeted treatment",
+    "entities": {
+      "age": [
+        "28"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "stage 4 NSCLC"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 33 years old and was diagnosed with stage 4 ROS1-positive lung cancer after experiencing a persistent cough and chest tightness.",
+    "context_question": "33-year-old diagnosed with stage 4 ROS1-positive lung cancer, undergoing first-line targeted therapy.",
+    "answer": "ROS1-positive lung cancer is driven by a gene rearrangement. Targeted therapy can effectively block cancer growth signals, leading to symptom improvement.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "cancer cells",
+    "entities": {
+      "age": [
+        "33"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough",
+        "chest tightness"
+      ],
+      "medical_field": [],
+      "disease": [
+        "stage 4 ROS1-positive lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My brother is 50 years old and recently quit smoking after nearly 25 years of smoking about a pack a day.",
+    "context_question": "50-year-old brother quit smoking after 25 years, experiencing frequent cough and shortness of breath.",
+    "answer": "Quitting smoking initiates recovery in the lungs. Early changes occur within weeks, and some may experience increased coughing as the lungs clear out accumulated toxins.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [
+        "frequent cough",
+        "shortness of breath"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 30 years old and was diagnosed with lung cancer last year. Since the diagnosis, my sleep has been completely disrupted.",
+    "context_question": "30-year-old diagnosed with lung cancer, experiencing severe sleep problems and anxiety.",
+    "answer": "Sleep disturbances and anxiety are common after a cancer diagnosis. These symptoms should be actively addressed to improve quality of life.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "anxiety",
+    "entities": {
+      "age": [
+        "30"
+      ],
+      "medicament": [],
+      "sympt": [
+        "sleep problems",
+        "anxiety"
+      ],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from severe sneezing for 24 months.",
+    "context_question": "Patient suffering from severe sneezing for 24 months, taking Aerius during pregnancy, worsening after delivery.",
+    "answer": "Allergy testing is recommended to identify triggers. Treatment options can be discussed based on test results.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Aerius"
+      ],
+      "sympt": [
+        "severe sneezing"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "skin prick allergy testing",
+        "blood allergy profile"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 52-year-old man with a long history of smoking, and my cardiologist recently ordered a CT angiogram to check my heart arteries after I complained of chest pain and shortness of breath.",
+    "context_question": "52-year-old man with a history of smoking, undergoing CT angiogram due to chest pain and shortness of breath.",
+    "answer": "CT angiograms can incidentally reveal lung nodules. These may be benign and often result from past infections or inflammation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung nodule",
+    "entities": {
+      "age": [
+        "52"
+      ],
+      "medicament": [],
+      "sympt": [
+        "chest pain",
+        "shortness of breath"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CT angiogram"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 35-year-old woman who has recently been diagnosed with tumors in both lungs, and I have a few questions regarding my treatment options.",
+    "context_question": "35-year-old woman diagnosed with tumors in both lungs, seeking information on radiation therapy.",
+    "answer": "Radiation therapy targets individual tumor regions to shrink them. It is effective for lung tumors, especially when surgery is not an option.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Radiation therapy",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "tumors in both lungs"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 40 and recently diagnosed with stage 4 NSCLC, which came as a total shock because I never had lung symptoms. What first appeared was a painless swelling in my neck that did not go away.",
+    "context_question": "Patient, 40, diagnosed with stage 4 NSCLC, initially had painless neck swelling without lung symptoms.",
+    "answer": "Stage 4 NSCLC can first present as neck swelling due to lymph node involvement. FNAC showed malignancy, leading to further investigation for the lung primary. It's common for lung cancer to present without typical symptoms.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [],
+      "sympt": [
+        "painless swelling in neck"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 4 NSCLC"
+      ],
+      "Test": [
+        "FNAC"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 56-year-old mother was diagnosed with obstructive sleep apnea four months ago after a sleep study showed she stops breathing 42 times per hour. She has been using a CPAP machine, but",
+    "context_question": "Patient's mother, 56, diagnosed with obstructive sleep apnea, stops breathing 42 times/hour, struggles with CPAP.",
+    "answer": "Your mother has severe obstructive sleep apnea. CPAP is the gold standard treatment, but many struggle with initial use. It's important to find long-term solutions for her condition.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "obstructive sleep apnea",
+    "entities": {
+      "age": [
+        "56"
+      ],
+      "medicament": [
+        "CPAP"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "obstructive sleep apnea"
+      ],
+      "Test": [
+        "sleep study"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 65 and was recently diagnosed with mesothelioma limited to one lung. Doctors said it is a serious cancer but also mentioned that the extent and spread matter a lot.",
+    "context_question": "Patient, 65, diagnosed with mesothelioma limited to one lung, concerned about outlook and past asbestos exposure.",
+    "answer": "Mesothelioma is serious and linked to asbestos exposure. If confined to one lung, treatment options are better compared to widespread disease, which affects the outlook.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "chemotherapy",
+    "entities": {
+      "age": [
+        "65"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "mesothelioma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 58 and has been smoking since he was 18. He says he wants to quit, but always relapses after a week or two.",
+    "context_question": "Patient's father, 58, a long-time smoker, wants to quit but relapses; inquiring about effectiveness of Varenicline and Bupropion.",
+    "answer": "Varenicline and Bupropion are effective for smoking cessation. Managing withdrawal cravings involves pharmacotherapy and behavioral support, which can significantly increase success rates.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Varenicline",
+    "entities": {
+      "age": [
+        "58"
+      ],
+      "medicament": [
+        "Varenicline",
+        "Bupropion"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 38-year-old friend has been diagnosed with stage IV NSCLC with a HER2 mutation, and the first few weeks after his diagnosis have been extremely confusing for him. Several treatment options have been presented, and he feels unable to decide what to pursue first.",
+    "context_question": "Patient's friend, 38, diagnosed with stage IV NSCLC with HER2 mutation, feeling confused about treatment options.",
+    "answer": "It's common to feel overwhelmed after an advanced lung cancer diagnosis. Treatment options depend on the tumor's molecular profile and the patient's health, and guidance from the oncology team is crucial.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "38"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage IV NSCLC"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am asking about my mother, who has NSCLC and has relapsed multiple times over the last few years. She has had surgery, chemo, radiation, immunotherapy, and now the oncologist has suggested Enhertu after HER2 mutation was found.",
+    "context_question": "Patient's mother has NSCLC, multiple relapses, and is suggested Enhertu after HER2 mutation.",
+    "answer": "Enhertu is a targeted treatment for HER2-mutated NSCLC and can produce meaningful responses even after multiple treatments. Managing expectations is important in this emotionally exhausting journey.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "non-small cell lung cancer",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Enhertu"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "NSCLC"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Given my family history, could I be at risk for lung cancer? My mother had tuberculosis and later died of lung cancer at 85.",
+    "context_question": "Patient, 36, concerned about lung cancer risk due to family history of tuberculosis and mother's lung cancer.",
+    "answer": "Tuberculosis does not cause cancer directly. Your symptoms of wheezing and coughing could indicate lung disease, but current tuberculosis likelihood is low. Testing is recommended if symptoms develop.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "cancer",
+    "entities": {
+      "age": [
+        "36"
+      ],
+      "medicament": [],
+      "sympt": [
+        "wheezing",
+        "coughing"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer",
+        "tuberculosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 47 and recently diagnosed with lung cancer; the biopsy showed an ALK mutation on report.",
+    "context_question": "Patient, 47, diagnosed with lung cancer; biopsy shows ALK mutation, confused about treatment options.",
+    "answer": "ALK inhibitors like Lobrena are effective for ALK-mutated lung cancer. Several options exist, and newer drugs often provide better control and prevent spread to the brain.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "ALK (anaplastic lymphoma kinase) mutation",
+    "entities": {
+      "age": [
+        "47"
+      ],
+      "medicament": [
+        "Lobrena"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 32 and currently nine weeks pregnant. I have had asthma since I was a child and use a daily inhaled steroid along with albuterol when needed.",
+    "context_question": "Patient, 32, pregnant, has asthma, concerned about medication safety and risks during pregnancy.",
+    "answer": "Well-controlled asthma is safe during pregnancy. Continue using inhaled corticosteroids and albuterol, as poorly managed asthma can lead to complications for both mother and baby.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "asthma during pregnancy",
+    "entities": {
+      "age": [
+        "32"
+      ],
+      "medicament": [
+        "inhaled steroid",
+        "albuterol"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "For 7 years, I was affected by chronic hypersensitivity pneumonitis (HP). From that time, I have been on oxygen therapy and steroids 4 mg.",
+    "context_question": "Patient with chronic hypersensitivity pneumonitis on oxygen therapy and steroids, experiencing issues after tapering off steroids.",
+    "answer": "HP is a chronic lung disease requiring long-term treatment. Stopping steroids can lead to recurrence or other complications. Further evaluation is needed to assess lung condition.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "interstitial lung disease",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "steroids 4 mg"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "chronic hypersensitivity pneumonitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is 58 and underwent a routine checkup with no major complaints, except mild fatigue. The scan unexpectedly showed multiple lesions, and doctors said it was stage 4 cancer.",
+    "context_question": "Patient's mother, 58, routine checkup revealed stage 4 cancer with multiple lesions.",
+    "answer": "Stage 4 cancer can sometimes be asymptomatic until advanced. Mild fatigue is often overlooked. It's important to process this shocking diagnosis carefully.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "cancer",
+    "entities": {
+      "age": [
+        "58"
+      ],
+      "medicament": [],
+      "sympt": [
+        "mild fatigue"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 4 cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 50-year-old woman who recently learned that my basement has mold and may be exposed to radon. Does mold or radon exposure cause lung cancer at 50?",
+    "context_question": "Patient, 50, concerned about lung cancer risk from mold and radon exposure.",
+    "answer": "Radon exposure over time can increase lung cancer risk, but mold typically causes irritation, not cancer. It's important to address environmental risks appropriately.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 25-year-old male. I smoked weed daily for one year.",
+    "context_question": "Patient, 25, concerned about lung cancer risk after smoking weed daily for one year.",
+    "answer": "Short-term cannabis smoking at age 25 does not significantly increase lung cancer risk. Long-term exposure is more concerning, and current evidence does not link short-term use to lung cancer.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "Lung cancer",
+    "entities": {
+      "age": [
+        "25"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 45 and was diagnosed with stage 3B lung cancer, and he started chemotherapy recently. Surprisingly, within just two weeks, doctors said the tumor had significantly reduced in size on the scan.",
+    "context_question": "Patient's father, 45, diagnosed with stage 3B lung cancer, tumor reduced in size after two weeks of chemotherapy.",
+    "answer": "A reduction in tumor size within weeks of chemotherapy can occur if the tumor is sensitive to treatment. Early changes on imaging can indicate effective response to the regimen.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "chemotherapy",
+    "entities": {
+      "age": [
+        "45"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 3B lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 24 and was recently diagnosed with lung cancer, which itself feels unreal at my age. Before diagnosis, my biggest issue was severe breathlessness, even while resting or talking, but",
+    "context_question": "Patient, 24, diagnosed with lung cancer, experienced severe breathlessness before diagnosis.",
+    "answer": "Severe breathlessness in lung cancer can occur due to airway blockage, pleural effusion, or pressure from lymph nodes. These factors can lead to low oxygen levels and significant shortness of breath.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "pleural effusion",
+    "entities": {
+      "age": [
+        "24"
+      ],
+      "medicament": [],
+      "sympt": [
+        "severe breathlessness"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 35-year-old woman, and I sometimes use marijuana. I am concerned about whether this could increase my risk of lung cancer.",
+    "context_question": "35-year-old woman concerned about marijuana use and lung cancer risk.",
+    "answer": "Cigarette smoking is strongly linked to lung cancer, while evidence for marijuana is less clear. Marijuana smoke contains similar irritants as tobacco, but users smoke less frequently, making long-term cancer risk harder to demonstrate.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "35-year-old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am writing about my mother, who is 67 years old. She quit smoking about 14 months ago after smoking a pack a day for nearly 35 years.",
+    "context_question": "67-year-old mother quit smoking 14 months ago after 35 years of smoking.",
+    "answer": "Insurance covers annual lung cancer screening with a low-dose CT scan for those aged 50-77 with a 20 pack-year smoking history, including those who quit within the last 15 years.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "smoking",
+    "entities": {
+      "age": [
+        "67 years old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am really struggling and do not know where to turn anymore. For the last four to five months, I have had ongoing throat and neck problems that no one seems able to explain.",
+    "context_question": "Ongoing throat and neck problems for four to five months.",
+    "answer": "Ask your ENT if a nasopharyngolaryngoscopy has been done, as it is often the next informative step when scans are normal but symptoms persist.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "CT (computed tomography) scans",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "throat problems",
+        "neck problems"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "nasopharyngolaryngoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 67 years old. He had a persistent cough and weight loss for several weeks, and he has now been diagnosed with stage IV lung cancer.",
+    "context_question": "67-year-old father diagnosed with stage IV lung cancer after persistent cough and weight loss.",
+    "answer": "Stage IV lung cancer means the disease has spread beyond the lungs. Treatment focuses on controlling the disease and relieving symptoms rather than curing it.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "67 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough",
+        "weight loss"
+      ],
+      "medical_field": [],
+      "disease": [
+        "stage IV lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 30-year-old female. I sometimes experience sharp chest pain and shortness of breath, especially during stressful situations.",
+    "context_question": "30-year-old female experiences sharp chest pain and shortness of breath during stress.",
+    "answer": "At 30, lung cancer is very uncommon without risk factors. Symptoms described are consistent with anxiety, which can cause chest tightness and brief sharp pains.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "chest pain",
+    "entities": {
+      "age": [
+        "30-year-old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "sharp chest pain",
+        "shortness of breath"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My uncle is 70 years old and was recently diagnosed with lung cancer. Doctors found a 1.57 inch tumor in his left lung, and he has already started chemotherapy.",
+    "context_question": "70-year-old uncle diagnosed with lung cancer and a 1.57 inch tumor.",
+    "answer": "Cryoablation is a procedure to freeze cancer cells, but it is not a common treatment for lung cancer after chemotherapy has started. Treatment depends on cancer advancement.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Cryoablation",
+    "entities": {
+      "age": [
+        "70 years old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband is 39-years-old, and he went for high resolution computed tomography (HRCT) as a prerequisite for eye surgery to check for COVID.",
+    "context_question": "39-year-old husband had HRCT for eye surgery, negative for COVID.",
+    "answer": "The HRCT report shows small subpleural fibrotic densities, which are post-infectious. This indicates thickening or scarring of lung tissue.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "fine needle aspiration",
+    "entities": {
+      "age": [
+        "39-years-old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "HRCT"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 62-year-old mom was diagnosed with Mycobacterium avium complex (MAC) lung disease eight months ago, and the treatment is making her extremely sick.",
+    "context_question": "62-year-old mom diagnosed with Mycobacterium avium complex lung disease eight months ago.",
+    "answer": "Your mother has MAC lung disease, and the treatment involves Azithromycin, Ethambutol, and Rifampin, which is standard for MAC and continued for at least 12 months after negative sputum cultures.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Mycobacterium avium complex (MAC) lung disease",
+    "entities": {
+      "age": [
+        "62 years old"
+      ],
+      "medicament": [
+        "Azithromycin",
+        "Ethambutol",
+        "Rifampin"
+      ],
+      "sympt": [
+        "chronic cough",
+        "weight loss"
+      ],
+      "medical_field": [],
+      "disease": [
+        "Mycobacterium avium complex (MAC) lung disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is around 65 years old and slightly overweight. She seems to be experiencing asthma, as her breathing becomes heavy even after walking a short distance.",
+    "context_question": "Around 65-year-old mother experiencing asthma symptoms.",
+    "answer": "Breathlessness in someone around 65 years old requires evaluation. It could be due to asthma, COPD, or heart-related causes. A pulmonologist should assess her condition.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "asthma",
+    "entities": {
+      "age": [
+        "65 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "breathing becomes heavy"
+      ],
+      "medical_field": [],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 45-year-old wife has been battling MAC (Mycobacterium avium complex) lung disease for over a year, and it is not improving despite multiple antibiotics.",
+    "context_question": "45-year-old wife battling MAC lung disease for over a year.",
+    "answer": "MAC lung infection can be stubborn despite treatment. When cultures remain positive, it indicates a refractory form of the disease, especially if cavities are present.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "MAC (Mycobacterium avium complex)",
+    "entities": {
+      "age": [
+        "45 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough",
+        "weight loss"
+      ],
+      "medical_field": [],
+      "disease": [
+        "Mycobacterium avium complex (MAC) lung disease"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 62-year-old man and smoked for almost 30 years before quitting five years ago.",
+    "context_question": "62-year-old man with a long smoking history.",
+    "answer": "Lung cancer screening with a low-dose CT scan is recommended for those aged 50-80 with a 20 pack-year smoking history. You may benefit from this screening.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Lung cancer",
+    "entities": {
+      "age": [
+        "62 years old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [
+        "low-dose CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 45-year-old brother was recently told, based on initial scans, that he likely has lung cancer.",
+    "context_question": "45-year-old brother likely has lung cancer based on initial scans.",
+    "answer": "It is common for patients to feel overwhelmed after being told they may have lung cancer. Emotional reactions can be intense due to uncertainty before meeting the oncology team.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "45 years old"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I was diagnosed with tuberculosis (TB). After six months of anti-TB treatment, my X-ray test showed that I still have TB.",
+    "context_question": "Diagnosed with tuberculosis and still have TB after six months of treatment.",
+    "answer": "I need more details about your initial symptoms, X-ray report, and current sputum report to guide you further regarding your tuberculosis treatment.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "tuberculosis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "tuberculosis"
+      ],
+      "Test": [
+        "X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 60-year-old father has a long history of COPD and emphysema due to smoking.",
+    "context_question": "60-year-old father with a long history of COPD and emphysema.",
+    "answer": "COPD and emphysema can make it harder to recognize early lung cancer symptoms, as chronic cough and breathlessness may mask new symptoms.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "COPD (chronic obstructive pulmonary disease)",
+    "entities": {
+      "age": [
+        "60 years old"
+      ],
+      "medicament": [],
+      "sympt": [
+        "chronic cough",
+        "breathlessness"
+      ],
+      "medical_field": [],
+      "disease": [
+        "COPD",
+        "emphysema"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been using Albuterol and a combination of Fluticasone and Salmeterol twice a day for about a month now, but my wheezing has not improved.",
+    "context_question": "Using Albuterol, Fluticasone, and Salmeterol for a month, but wheezing hasn't improved. Allergy pills like Loratadine and Cetirizine are ineffective. Chest X-ray showed no issues.",
+    "answer": "You have asthma, which seems to have become more severe. I recommend Albuterol 100 mcg four times daily, followed by Fluticasone and Salmeterol (500/50) four times daily, tapering after 15 days. Montelukast can help reduce symptoms.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "asthma",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Albuterol",
+        "Fluticasone",
+        "Salmeterol",
+        "Montelukast"
+      ],
+      "sympt": [
+        "wheezing"
+      ],
+      "medical_field": [],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [
+        "chest X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 55-year-old woman trying to understand my risk. I read that 20 percent of lung cancer patients never smoke.",
+    "context_question": "As a 55-year-old woman, I'm curious why 20% of lung cancer patients never smoked. What causes cancer in these patients?",
+    "answer": "Lung cancer can occur without smoking due to factors like second-hand smoke, indoor pollution, and radon exposure. Non-smokers often have a type of cancer that grows more quietly.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "55"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am experiencing breathing difficulty that is relieved by an inhaler, and my oxygen (O₂) saturation ranges between 93–95%.",
+    "context_question": "Experiencing breathing difficulty relieved by an inhaler, oxygen saturation 93-95%, coughing up phlegm mixed with blood, negative for COVID-19 and TB.",
+    "answer": "You have breathing difficulties and a productive cough with blood. Your HRCT shows mass-like consolidation in the right lower lobe, suggestive of bronchial carcinoma. Your COVID-19 and MRB tests are negative.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "bronchial carcinoma.",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "breathing difficulty",
+        "coughing up phlegm mixed with blood"
+      ],
+      "medical_field": [],
+      "disease": [
+        "bronchial carcinoma"
+      ],
+      "Test": [
+        "HRCT",
+        "COVID-19 test",
+        "MRB gene expert test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been diagnosed with lung cancer and pneumonia, and I am feeling very overwhelmed by my situation.",
+    "context_question": "Diagnosed with lung cancer and pneumonia, feeling overwhelmed. I'm 46 years old, and breathing has become extremely difficult.",
+    "answer": "Cancer treatments can weaken your immune system, making it harder to fight pneumonia. Symptoms may overlap, as both conditions can cause coughing and breathing difficulties.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "chemotherapy",
+    "entities": {
+      "age": [
+        "46"
+      ],
+      "medicament": [],
+      "sympt": [
+        "breathing difficulty"
+      ],
+      "medical_field": [],
+      "disease": [
+        "lung cancer",
+        "pneumonia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My uncle, 65 years old, was recently diagnosed with stage 3 lung cancer after a biopsy confirmed malignancy.",
+    "context_question": "My uncle is 65 years old, diagnosed with stage 3 lung cancer after a biopsy. He feels weak, has a loss of appetite, and a constant cough.",
+    "answer": "For stage 3 lung cancer, combined chemotherapy and radiation are often recommended as they can improve treatment effectiveness. Side effects may include fatigue, nausea, and hair loss.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "stage 3 lung cancer",
+    "entities": {
+      "age": [
+        "65"
+      ],
+      "medicament": [],
+      "sympt": [
+        "weakness",
+        "loss of appetite",
+        "constant cough"
+      ],
+      "medical_field": [],
+      "disease": [
+        "stage 3 lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 59 years old, and 18 months ago, a routine chest X-ray detected a small nodule in my left lung.",
+    "context_question": "I'm 59 years old, and a chest X-ray detected a small nodule in my left lung 18 months ago. I'm on a watch-and-wait protocol.",
+    "answer": "Monitoring small lung nodules with serial CT scans is standard, as most are benign. This approach helps assess any changes over time.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "computed tomography",
+    "entities": {
+      "age": [
+        "59"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "chest X-ray",
+        "CT scans"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am concerned about carbon dioxide and the range of absolute eosinophils. Please review my laboratory report.",
+    "context_question": "I'm concerned about carbon dioxide and absolute eosinophils. I'm taking HCT (Hydrochlorothiazide), Vitamin D3, and Vitamin C.",
+    "answer": "Your lab reports show elevated absolute eosinophil count and blood carbon dioxide levels. Absolute eosinophilia can result from infections, allergies, or inflammation.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "HCT (Hydrochlorothiazide)",
+        "Vitamin D3"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 27-year-old male asking about my mother, who had surgery for lung cancer when she was 52.",
+    "context_question": "I'm a 27-year-old male inquiring about my mother, who had a lobectomy for lung cancer at age 52.",
+    "answer": "Lobectomy is a standard operation for lung cancer when the tumor can still be removed. It ensures all cancer cells are removed, reducing the chance of recurrence.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Lobectomy",
+    "entities": {
+      "age": [
+        "27",
+        "52"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My brother is 39 years old and was diagnosed with stage 4 non-small cell lung cancer (NSCLC) about six years ago.",
+    "context_question": "My brother, 39, was diagnosed with stage 4 NSCLC six years ago. Molecular testing revealed a specific mutation, and he started targeted therapy.",
+    "answer": "Targeted therapy is designed to block specific pathways that cancer cells depend on. This can help control the disease for a long time, improving quality of life.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "39"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "stage 4 non-small cell lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am asking about my brother, who is 50 years old and has been a heavy smoker for nearly 25 years.",
+    "context_question": "My brother is 50, a heavy smoker for 25 years. A CT scan found a small 6 mm nodule in his right lung, likely benign.",
+    "answer": "An increase in nodule size can be concerning, as it may indicate lung cancer. Irregular margins raise suspicion, but non-cancerous conditions can also cause growth.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My cousin, 35, has been advised to undergo a biopsy for a 2.4-inch lung mass.",
+    "context_question": "My cousin is 35 and is scared of the biopsy for a 2.4-inch lung mass, worried about pain and complications.",
+    "answer": "It's common to fear the biopsy procedure. Lung biopsies are generally safe when performed by experienced teams, with mild discomfort rather than significant pain.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "computed tomography",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am contacting you on behalf of someone diagnosed with lung cancer. I need further treatment guidance.",
+    "context_question": "I'm contacting you about someone with lung cancer needing guidance. The patient cannot eat or drink for seven days and is vomiting.",
+    "answer": "The patient has metastatic adenocarcinoma and is on Crizalk (Crizotinib) 250 mg. Despite chemotherapy, there's no improvement. A small lesion in the liver may be metastatic.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Crizalk (Crizotinib)"
+      ],
+      "sympt": [
+        "vomiting"
+      ],
+      "medical_field": [],
+      "disease": [
+        "metastatic adenocarcinoma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "As a 31-year-old woman with uncontrolled asthma, I am worried about how it might affect my pregnancy.",
+    "context_question": "I'm a 31-year-old woman with uncontrolled asthma, worried about its impact on my pregnancy and seeking safe medications.",
+    "answer": "Managing your asthma is crucial for your health and the baby's well-being. I recommend tests like a complete blood count and pulmonary function tests to assess your condition.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "bronchial asthma",
+    "entities": {
+      "age": [
+        "31"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [
+        "complete blood count",
+        "pulmonary function tests"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 20-year-old son has been diagnosed with lung cancer, and we were told his case might be managed under younger or pediatric-type protocols.",
+    "context_question": "My 20-year-old son has lung cancer, and we are confused about pediatric-type protocols for treatment.",
+    "answer": "At 20, your son is in the adolescent and young adult group. Pediatric-style care may be considered, but there is no completely separate treatment for this age.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "20"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 42 and was recently found to have a small lung nodule on a routine health check CT scan. I do not smoke, but I was exposed to passive smoking at home for many years.",
+    "context_question": "42-year-old with a small lung nodule found on CT scan, occasional dry cough and mild breathlessness.",
+    "answer": "Small lung nodules found incidentally on CT scans are often harmless, especially in non-smokers. While early lung cancer can present without significant symptoms, most nodules do not indicate cancer.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "computed tomography",
+    "entities": {
+      "age": [
+        "42"
+      ],
+      "medicament": [],
+      "sympt": [
+        "dry cough",
+        "mild breathlessness"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": [
+        "small lung nodule"
+      ]
+    }
+  },
+  {
+    "question": "I started Tezspire for severe asthma two months ago, and while my breathing has improved, I have been experiencing persistent muscle pain and extreme fatigue. I did not have these sympto",
+    "context_question": "Started Tezspire for severe asthma, improved breathing but persistent muscle pain and extreme fatigue.",
+    "answer": "Tezspire can cause side effects like sore throat and joint pain, but persistent muscle pain and fatigue are less common. It is used for severe asthma in individuals aged 12 and older.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "asthma treatments",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Tezspire"
+      ],
+      "sympt": [
+        "muscle pain",
+        "extreme fatigue"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "severe asthma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 47-year-old woman, and for the past four months, I have had a cough that will not go away. I also experience occasional chest pain when I breathe deeply, and I have lost about sev",
+    "context_question": "47-year-old woman with a persistent cough for four months, occasional chest pain, and unexplained weight loss.",
+    "answer": "A persistent cough lasting four months should be evaluated. Symptoms like chest pain, unexplained weight loss, and a history of secondhand smoke exposure warrant further investigation.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "47"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough",
+        "chest pain",
+        "weight loss"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 25-year-old woman struggling with pollen allergies, especially during this season. It is making it difficult for me to breathe comfortably.",
+    "context_question": "25-year-old woman struggling with pollen allergies, difficulty breathing comfortably.",
+    "answer": "To manage pollen allergies, consider avoiding triggers, using antihistamines, and discussing treatment options with your doctor. Preventive measures can help alleviate symptoms.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "excessive alcohol consumption",
+    "entities": {
+      "age": [
+        "25"
+      ],
+      "medicament": [],
+      "sympt": [
+        "difficulty breathing"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "pollen allergies"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My friend is 33 years old and recently diagnosed with stage 4 lung cancer with ROS1 mutation after symptoms of cough and unexplained weight loss. Doctors started targeted therapy, and ea",
+    "context_question": "33-year-old diagnosed with stage 4 lung cancer with ROS1 mutation after cough and unexplained weight loss.",
+    "answer": "ROS1-positive lung cancer is driven by a genetic mutation. Targeted therapy can block signals that promote cancer growth, leading to tumor shrinkage in many patients.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Targeted therapy",
+    "entities": {
+      "age": [
+        "33"
+      ],
+      "medicament": [],
+      "sympt": [
+        "cough",
+        "unexplained weight loss"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am really worried about my 28-year-old sister, who recently recovered from pneumococcal pneumonia but is still experiencing complications three weeks later. She was hospitalized for five",
+    "context_question": "28-year-old sister recovering from pneumococcal pneumonia, experiencing complications three weeks later.",
+    "answer": "Complications after severe pneumococcal pneumonia can occur, including persistent cough and fatigue. Follow-up is necessary to ensure proper healing and address any residual inflammation.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "pneumococcal pneumonia",
+    "entities": {
+      "age": [
+        "28"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough",
+        "fatigue"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "pneumococcal pneumonia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I recently had a low-dose CT scan of my chest. The investigation showed that there was congestion in the pulmonary vascular system, more marks in the lower lobes' interstitial space, and",
+    "context_question": "Recent low-dose CT scan showed congestion in the pulmonary vascular system and subpleural lung nodule.",
+    "answer": "Pulmonary vascular congestion may indicate heart issues and requires careful evaluation. The growth of a subpleural nodule should be monitored, especially if previously stable.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Pulmonary vascular congestion",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": [
+        "congestion in the pulmonary vascular system",
+        "subpleural lung nodule"
+      ]
+    }
+  },
+  {
+    "question": "I am a 62-year-old man, a lifelong tobacco user, chewing tobacco, not cigarettes. Just got a CT back showing multiple small nodules in my right lung, at least three of them near the outer e",
+    "context_question": "62-year-old man with multiple small nodules in the right lung, history of tobacco use.",
+    "answer": "Given your tobacco history, a CT-guided biopsy is necessary to determine the nature of the nodules, which could be due to infections or lung cancer.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "sarcoidosis",
+    "entities": {
+      "age": [
+        "62"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": [
+        "multiple small nodules"
+      ]
+    }
+  },
+  {
+    "question": "My mother is 75 years old and was recently diagnosed with a 1.18 inch lung tumor in the upper lobe of her right lung. She had a mild cough and fatigue, which led to a CT scan where the t",
+    "context_question": "75-year-old diagnosed with a 1.18 inch lung tumor after mild cough and fatigue.",
+    "answer": "Early detection of lung cancer can lead to curative surgery. The tumor's small size and limited location are positive factors for treatment.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "75"
+      ],
+      "medicament": [],
+      "sympt": [
+        "mild cough",
+        "fatigue"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My uncle is 62 years old and was recently diagnosed with lung cancer. Before the diagnosis, he mainly had ankle swelling and mild tiredness, with no cough or chest pain.",
+    "context_question": "62-year-old uncle diagnosed with lung cancer, previously had ankle swelling and mild tiredness.",
+    "answer": "Lung cancer can sometimes present with non-specific symptoms like ankle swelling. It's important to recognize that not all patients exhibit typical respiratory symptoms.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "62"
+      ],
+      "medicament": [],
+      "sympt": [
+        "ankle swelling",
+        "mild tiredness"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mom is 54 years old and has been coughing for almost eight months. Unfortunately, it was not taken seriously until last month when she finally had a bronchoscopy.",
+    "context_question": "54-year-old mother coughing for eight months, diagnosed with Mycobacterium avium complex lung disease.",
+    "answer": "Mycobacterium avium complex lung disease is a chronic infection that can be aggressive, especially in patients with bronchiectasis. Treatment may be challenging, and close monitoring is necessary.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Mycobacterium avium complex",
+    "entities": {
+      "age": [
+        "54"
+      ],
+      "medicament": [],
+      "sympt": [
+        "coughing"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "Mycobacterium avium complex lung disease",
+        "bronchiectasis"
+      ],
+      "Test": [
+        "bronchoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My brother is 32 and has lung cancer with metastasis, currently on treatment. He struggles a lot with pain, fatigue, nausea, and emotional ups and downs.",
+    "context_question": "32-year-old brother with lung cancer and metastasis, experiencing pain, fatigue, nausea, and emotional issues.",
+    "answer": "Palliative care focuses on relieving symptoms and improving quality of life for patients with serious illnesses like lung cancer. It can be beneficial alongside ongoing treatment.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "palliative care",
+    "entities": {
+      "age": [
+        "32"
+      ],
+      "medicament": [],
+      "sympt": [
+        "pain",
+        "fatigue",
+        "nausea"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My CT scan says defined streaky opacity with associated loss of volume, and clustered tree in bud nodules have developed in the anterior segment of the upper left lobe. The associated centr",
+    "context_question": "CT scan shows streaky opacity and clustered tree in bud nodules in the upper left lobe.",
+    "answer": "A tree in bud appearance on a CT scan typically suggests an infection. Further evaluation is needed, but lung cancer is less likely.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My brother is 45 years old and currently receiving treatment for lung cancer. His oncologist mentioned that even within the same tumor, cancer cells can behave differently, which can som",
+    "context_question": "45-year-old brother with lung cancer, experiencing variability in cancer cell behavior.",
+    "answer": "Cancer cells within the same tumor can exhibit different characteristics due to genetic changes, affecting treatment responses. This variability can complicate treatment strategies.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "cancer",
+    "entities": {
+      "age": [
+        "45"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 57-year-old woman concerned about lung cancer because my friend was diagnosed at stage 4 with barely any warning signs. Does lung cancer always show symptoms before stage 4?",
+    "context_question": "57-year-old woman concerned about lung cancer symptoms before stage 4.",
+    "answer": "Lung cancer can be present at advanced stages without clear symptoms. Not all patients exhibit early warning signs, and some may be diagnosed incidentally.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "57"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am writing about my cousin, who was diagnosed with stage 4 non-small cell lung cancer (NSCLC) at age 32. At that time, doctors told the family that survival might be around 12 months.",
+    "context_question": "My cousin was diagnosed with stage 4 non-small cell lung cancer (NSCLC) at age 32. He has now completed five years and is still alive on intermittent treatments.",
+    "answer": "Your cousin's situation is increasingly seen in lung cancer cases. Survival estimates are based on averages, not exact predictions. An epidermal growth factor receptor (EGFR) mutation can lead to effective targeted treatments, allowing for long-term control of the disease.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "32"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 4 non-small cell lung cancer (NSCLC)"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 56-year-old woman currently undergoing treatment for lung cancer, and I have been struggling with shortness of breath even during simple activities. Will shortness of breath impro",
+    "context_question": "I am a 56-year-old woman undergoing treatment for lung cancer and struggling with shortness of breath during simple activities. Will this improve?",
+    "answer": "Shortness of breath is common in lung cancer patients due to tumor pressure on airways or treatment side effects. As treatment works and the tumor shrinks, many patients notice improved breathing. Chemotherapy and radiation can also contribute to this symptom.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Shortness of breath",
+    "entities": {
+      "age": [
+        "56"
+      ],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 55 and has stage 4 lung cancer with painful spine and chest wall involvement. The radiation oncologist suggested something called IMRT instead of regular radiation.",
+    "context_question": "My father is 55 and has stage 4 lung cancer with painful spine and chest wall involvement. What is IMRT for pain relief or tumor control?",
+    "answer": "IMRT, or intensity-modulated radiation therapy, is an advanced radiation technique that targets tumors while minimizing damage to surrounding tissues. In stage 4 lung cancer, it is primarily used for symptom relief, especially pain from bone involvement.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "intensity-modulated radiation therapy",
+    "entities": {
+      "age": [
+        "55"
+      ],
+      "medicament": [],
+      "sympt": [
+        "painful spine",
+        "painful chest wall"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 4 lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 45-year-old woman who has had a persistent dry cough for almost six weeks now. It started like a normal cold, but the cough has not gone away.",
+    "context_question": "I am a 45-year-old woman with a persistent dry cough for almost six weeks after a cold. Does this mean lung cancer?",
+    "answer": "Most persistent coughs are not caused by lung cancer, especially in non-smokers. A cough lasting several weeks often follows a viral infection, known as a post-viral cough. At 45, lung cancer is much less likely in a non-smoker.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "45"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent dry cough"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I always seem to have a cold, and it never really goes away. I am 55 years old, and I have had this problem for a long time.",
+    "context_question": "I am 55 years old and always seem to have a cold. Could this be related to uncontrolled asthma?",
+    "answer": "You may be suffering from allergic rhinitis, not asthma. If there are no symptoms of shortness of breath, asthma is unlikely. Suggested tests include a complete blood count and pulmonary function testing. Treatment includes steam inhalation and Fluticasone nasal spray.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "shortness of breath",
+    "entities": {
+      "age": [
+        "55"
+      ],
+      "medicament": [
+        "Fluticasone nasal spray"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "allergic rhinitis"
+      ],
+      "Test": [
+        "Complete blood count",
+        "Pulmonary function testing"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I would like advice on my 40-year-old brother's asthma management. He has been having more frequent nighttime asthma flare-ups, which are disrupting his sleep.",
+    "context_question": "My 40-year-old brother has frequent nighttime asthma flare-ups disrupting his sleep. Should we change his medication regimen?",
+    "answer": "Nocturnal asthma can worsen due to natural body rhythms and allergens. Since the steroid inhaler is not effective, consider adding a long-acting bronchodilator or leukotriene receptor antagonists like Montelukast for better control.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Montelukast",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [
+        "Montelukast"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been struggling with severe breathing problems for a few years. My doctor says I have an asthma-COPD overlap.",
+    "context_question": "I have severe breathing problems and an asthma-COPD overlap. Is this condition likely to worsen?",
+    "answer": "Asthma-COPD overlap is challenging but manageable. Your hospitalizations indicate a need for treatment adjustment. Options include biologic therapies for asthma, which can improve lung function and reduce flare-ups.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Dupilumab",
+        "Omalizumab",
+        "Mepolizumab"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "asthma-COPD overlap"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 43-year-old woman who was recently diagnosed with lung cancer, despite having never smoked. I am still trying to process how this could happen and what it means for my future.",
+    "context_question": "I am a 43-year-old woman diagnosed with lung cancer despite never smoking. What does this mean for my prognosis?",
+    "answer": "Nonsmokers can develop lung cancer, and many respond well to treatment. Nonsmokers often have genetic mutations that can be targeted, making treatment more effective compared to smokers.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "43"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 39-year-old woman who has never smoked but was recently told that I have a suspicious lung nodule. I am confused about how lung cancer can develop in people who do not smoke.",
+    "context_question": "I am a 39-year-old woman with a suspicious lung nodule. How can lung cancer develop in non-smokers?",
+    "answer": "Lung cancer can occur in non-smokers due to factors like air pollution and genetic predisposition. Most lung nodules are harmless, but further tests like a biopsy are needed to confirm cancer.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "39"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My dad quit smoking about 8 months ago after smoking for nearly 22 years and we just found out last week that his CT scan showed some suspicious nodules in his left lung. the pulmonologist said its to",
+    "context_question": "My dad quit smoking 8 months ago after 22 years and has suspicious nodules in his left lung. What does this mean?",
+    "answer": "Quitting smoking is beneficial, reducing lung damage and improving health. Suspicious nodules do not mean lung cancer; they can be caused by infections or inflammation. A PET scan is the next step to assess these nodules.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "54"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "CT scan",
+        "PET scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband is 40 years old and was recently diagnosed with ROS1-positive NSCLC after a CT scan showed a 3.2 cm mass in his left lung with mediastinal lymph node involvement. The oncologist",
+    "context_question": "My husband is 40 and diagnosed with ROS1-positive NSCLC after a CT scan showed a mass in his left lung. What is targeted therapy?",
+    "answer": "ROS1-positive NSCLC indicates a specific genetic change in the cancer cells. Targeted therapies are designed to block this mutation, providing a more precise treatment compared to traditional chemotherapy.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "non-small cell lung cancer",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "ROS1-positive NSCLC"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 58-year-old female. My doctor suggested getting a pneumococcal vaccine, but I am a bit confused.",
+    "context_question": "I am a 58-year-old female and confused about getting a pneumococcal vaccine after having pneumonia.",
+    "answer": "Given your history of pneumonia and mild COPD, the pneumococcal vaccine is important. It protects against bacterial pneumonia caused by Streptococcus pneumoniae, which can lead to hospitalization.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "COPD",
+    "entities": {
+      "age": [
+        "58"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "COPD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is 46 and had stage 3B lung adenocarcinoma, and she underwent a lobectomy followed by targeted therapy with Tagrisso as advised. Her scans are currently clear, but we keep worr",
+    "context_question": "My mother is 46 and had stage 3B lung adenocarcinoma. Can she avoid recurrence after lobectomy and Tagrisso?",
+    "answer": "It's natural to worry about recurrence after treatment for stage 3B adenocarcinoma. Her clear scans are encouraging. Tagrisso (Osimertinib) is effective in reducing the risk of cancer recurrence in patients with EGFR mutations.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "chemotherapy",
+    "entities": {
+      "age": [
+        "46"
+      ],
+      "medicament": [
+        "Tagrisso"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 3B lung adenocarcinoma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 67-year-old father recently underwent a sleep study due to suspected sleep apnea. During the evaluation, doctors discovered a small lesion in his lung, which was later diagnosed as ea",
+    "context_question": "My 67-year-old father had a sleep study that found a small lung lesion diagnosed as early-stage cancer. How are these findings connected?",
+    "answer": "Early-stage lung cancer is often found incidentally during tests for other conditions, like sleep apnea. It's common for lung nodules to be discovered this way, especially during chest imaging.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "67"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "early-stage lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I had pneumococcal disease about two years ago, which was tough to recover from. After months of treatment, I finally got better, but now I am back in the same boat.",
+    "context_question": "Patient had pneumococcal disease two years ago, recovered, but now has shortness of breath and chest tightness for the last month. A CT scan shows recurrent infection.",
+    "answer": "Recurrent pneumococcal infections may indicate lingering lung damage or reduced immunity. Persistent symptoms despite antibiotics could mean resistant bacteria. Strengthening the immune system with vaccines and pulmonary rehabilitation could improve recovery.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath",
+        "chest tightness"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "pneumococcal disease"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": [
+        "recurrent infection"
+      ]
+    }
+  },
+  {
+    "question": "I am 55 and was diagnosed with stage 4 NSCLC adenocarcinoma two years ago with spread to bones and lymph nodes. I have already been through chemo and am now on targeted treatment.",
+    "context_question": "Patient, 55, diagnosed with stage 4 NSCLC adenocarcinoma two years ago, has undergone chemo and is on targeted treatment. Scans show mixed responses.",
+    "answer": "Stage 4 non-small cell lung cancer means the disease has spread, but survival varies. New targeted therapies have improved outcomes for some patients, allowing them to live longer than older statistics suggest.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "non-small cell lung cancer",
+    "entities": {
+      "age": [
+        "55"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "NSCLC adenocarcinoma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 67 years old, and I went to my doctor last year because of loud snoring and daytime fatigue that my wife had been complaining about for years. I was referred for a sleep study to investigate suspected obstructive sleep apnea, and as part of the workup, they performed a chest CT scan to look at my airways.",
+    "context_question": "Patient, 67, referred for a sleep study due to loud snoring and daytime fatigue. A chest CT scan was performed to investigate suspected obstructive sleep apnea.",
+    "answer": "For suspected obstructive sleep apnea, chest CT scans are sometimes requested to evaluate the airways. These scans can reveal incidental findings unrelated to the original reason for the test.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "CT scan",
+    "entities": {
+      "age": [
+        "67"
+      ],
+      "medicament": [],
+      "sympt": [
+        "loud snoring",
+        "daytime fatigue"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "obstructive sleep apnea"
+      ],
+      "Test": [
+        "chest CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My sister was recently diagnosed with lung cancer at a young age, and during discussions, someone mentioned possible exposure to radon gas at home. Now we are trying to understand What is radon remediation after a young cancer diagnosis? Does this mean testing and fixing the home environment immediately?",
+    "context_question": "Patient's sister diagnosed with lung cancer at a young age. Concern about possible radon gas exposure and understanding radon remediation.",
+    "answer": "Radon is a radioactive gas linked to lung cancer. Long-term exposure can occur without detection. Testing for radon and remediation can help reduce risk, especially after a young cancer diagnosis.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Radon",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "Query 1 Hello doctor, My father is 62 and undergoing chemotherapy for lung cancer. After the last cycle, his blood counts dropped a lot, and chemotherapy was delayed.",
+    "context_question": "Patient's father, 62, undergoing chemotherapy for lung cancer, had blood counts drop significantly after the last cycle, delaying treatment.",
+    "answer": "Blood counts often drop after chemotherapy, leading to treatment delays. White blood cell injections can stimulate bone marrow to produce cells faster, allowing chemotherapy to continue safely.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Chemotherapy",
+    "entities": {
+      "age": [
+        "62"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 65 and has overlapping asthma and COPD. He has been admitted twice this year with severe attacks, and his eosinophil count is 520/Î¼L.",
+    "context_question": "Patient's father, 65, has overlapping asthma and COPD, admitted twice this year with severe attacks. Eosinophil count is 520/μL.",
+    "answer": "Elevated eosinophil count suggests an eosinophilic phenotype, responding well to biologics like Mepolizumab or Dupilumab, which target different inflammatory pathways in asthma and COPD.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Mepolizumab",
+    "entities": {
+      "age": [
+        "65"
+      ],
+      "medicament": [
+        "Mepolizumab",
+        "Dupilumab"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "asthma",
+        "COPD"
+      ],
+      "Test": [],
+      "Result": [
+        "eosinophil count 520/μL"
+      ]
+    }
+  },
+  {
+    "question": "My brother is 44, has been working in a factory environment for nearly 15 years, where he is exposed to dust and some chemical fumes. Recently, he has been having a persistent cough.",
+    "context_question": "Patient's brother, 44, works in a factory with dust and chemical fumes, recently developed a persistent cough.",
+    "answer": "Long-term exposure to dust and chemical fumes can increase the risk of lung diseases, including lung cancer. A persistent cough should not be ignored, regardless of age.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "44"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My brother is just 24 and has been diagnosed with stage 4 lung cancer. His scan shows nodules in both lungs, even though he had no symptoms before this year.",
+    "context_question": "Patient's brother, 24, diagnosed with stage 4 lung cancer, scan shows nodules in both lungs without prior symptoms.",
+    "answer": "Stage 4 lung cancer indicates that cancer cells have spread. Nodules in both lungs suggest cancer cells traveled through the bloodstream or lymphatic system.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "24"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My kid is seven years old. He was suffering from a cough with phlegm, fever, chills, and difficulty breathing a week ago.",
+    "context_question": "Patient's 7-year-old child had a cough with phlegm, fever, chills, and difficulty breathing a week ago, diagnosed with pneumonia.",
+    "answer": "Pneumonia is common in children. Initial treatment includes empirical antibiotics, and supportive care depends on the patient's status. Regular vaccinations can help prevent pneumonia.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "hemodynamic",
+    "entities": {
+      "age": [
+        "7"
+      ],
+      "medicament": [],
+      "sympt": [
+        "cough with phlegm",
+        "fever",
+        "chills",
+        "difficulty breathing"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "pneumonia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 40-year-old woman scheduled for lung cancer surgery and occasionally use marijuana. Does marijuana always worsen post-surgical lung recovery in cancer resection patients at 40?",
+    "context_question": "Patient, 40, scheduled for lung cancer surgery, occasionally uses marijuana, concerned about its effects on post-surgical recovery.",
+    "answer": "Marijuana smoke can irritate the airways and lungs, potentially complicating recovery after lung cancer surgery. It may increase the risk of certain problems during healing.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 67-year-old mom has severe asthma that developed into COPD from years of smoking, and now she can barely breathe even with all her medications. She quit smoking five years ago, but th",
+    "context_question": "Patient's mother, 67, has severe asthma developed into COPD from smoking, struggles to breathe despite medications.",
+    "answer": "An FEV1 of around 35 percent indicates minimal lung reserve. Current medications may not be sufficient, and management may need to move beyond basic inhalers.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Albuterol",
+    "entities": {
+      "age": [
+        "67"
+      ],
+      "medicament": [
+        "Albuterol"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "asthma",
+        "COPD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 50-year-old woman with a family history of lung cancer. Although I quit smoking about 10 years ago, I remain concerned about my risk and would appreciate your guidance.",
+    "context_question": "Patient, 50, with a family history of lung cancer, quit smoking 10 years ago, seeks guidance on lung cancer screening and safety of low-dose CT scans.",
+    "answer": "A low-dose chest CT scan is used for lung cancer screening, revealing small nodules or early malignancies. It is considered safe for those at higher risk.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "chest CT",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "low-dose chest CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is 59 years old and had undergone a mitral valve replacement operation 15 days ago. Now she is having breathing difficulty, sometimes.",
+    "context_question": "Patient's mother, 59, had mitral valve replacement 15 days ago, now experiences occasional breathing difficulty.",
+    "answer": "Your mother suffers from mild MR and TR post-surgery. Breathing difficulties may be related to these cardiac issues. She is taking prescribed medications regularly.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "oxygen saturation",
+    "entities": {
+      "age": [
+        "59"
+      ],
+      "medicament": [],
+      "sympt": [
+        "breathing difficulty"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "mitral regurgitation",
+        "tricuspid regurgitation"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother is 68 years old. She has been diagnosed for lung fibrosis she was taking Lumenac 600mg three times, Iveprid 10 mg for last years, no progression in disease but her saturation w",
+    "context_question": "Patient's mother, 68, diagnosed with lung fibrosis, taking Lumenac 600mg three times and Iveprid 10 mg, no disease progression but saturation fell.",
+    "answer": "Your mother has idiopathic pulmonary fibrosis. Long-term use of Ivepred may cause side effects. Current medications aim to prevent further lung damage but won't reverse fibrosis.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "idiopathic pulmonary fibrosis",
+    "entities": {
+      "age": [
+        "68"
+      ],
+      "medicament": [
+        "Lumenac 600mg",
+        "Iveprid 10 mg"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung fibrosis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 37-year-old male and an occasional smoker. Recently, I have been experiencing persistent chest tightness along with a dry cough that does not go away.",
+    "context_question": "Patient, 37, occasional smoker, experiencing persistent chest tightness and dry cough.",
+    "answer": "Chest tightness and a persistent dry cough can be caused by several common issues, including airway irritation from smoking, allergies, or mild bronchitis. Lung cancer is less likely at this age.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "37"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent chest tightness",
+        "dry cough"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My aunt is 50 years old and was diagnosed with stage 4 endometrial cancer, but doctors told us that the spread is minimal, with only tiny nodules seen in both lungs on a CT scan. She doe",
+    "context_question": "My 50-year-old aunt has stage 4 endometrial cancer with minimal spread, tiny nodules in both lungs, no cough or breathing difficulty, and stable overall health. Her CA-125 is 72 U/mL.",
+    "answer": "The diagnosis indicates that once cancer spreads outside its original site, treatment targets not only visible spots but also undetectable cancer cells. Chemotherapy will work throughout the body to control cancer cells.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung nodules",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [
+        "CA-125"
+      ],
+      "sympt": [
+        "tiny nodules",
+        "no cough",
+        "breathing difficulty",
+        "stable overall health"
+      ],
+      "medical_field": [
+        "oncology"
+      ],
+      "disease": [
+        "endometrial cancer"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have shortness of breath and inflammation from my throat to my lungs. It feels like something is poking in my lungs.",
+    "context_question": "I have shortness of breath and inflammation from my throat to my lungs, feeling like something is poking in my lungs.",
+    "answer": "Shortness of breath and a poking sensation in the lungs with throat inflammation may indicate respiratory infections like pneumonia or asthma. GERD could also cause similar symptoms.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Pulmonary embolism",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath",
+        "inflammation",
+        "poking sensation"
+      ],
+      "medical_field": [
+        "pulmonology"
+      ],
+      "disease": [
+        "pneumonia",
+        "asthma",
+        "GERD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 52-year-old woman who never smoked but recently had a suspicious lung nodule detected. I have a few questions, like: Can a non-smoker in their 50s get lung cancer?",
+    "context_question": "I am a 52-year-old woman, a non-smoker, with a suspicious lung nodule. Can non-smokers in their 50s get lung cancer?",
+    "answer": "Non-smokers can develop lung cancer, though it is less common. Risk factors exist, and while lower than smokers, the risk is not zero.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "52"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "oncology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 20-year-old male, and I used to vape almost every day for about a year before quitting recently. After seeing several health articles and warnings about vaping and lung diseases,",
+    "context_question": "I am a 20-year-old male who vaped daily for a year and recently quit. I'm worried about potential lung damage.",
+    "answer": "Quitting vaping is beneficial for lung health. Short-term exposure at a young age does not guarantee lung cancer. Symptoms from vaping may improve after cessation.",
+    "language": "en",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "Lung cancer",
+    "entities": {
+      "age": [
+        "20"
+      ],
+      "medicament": [],
+      "sympt": [
+        "worry about lung damage"
+      ],
+      "medical_field": [
+        "pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mom is 54 and has been living with lupus for almost 11 years. Last month, doctors found a mass in her left lung.",
+    "context_question": "My 54-year-old mom has lupus and a recently found mass in her left lung after complaining of shortness of breath.",
+    "answer": "Symptoms like breathlessness in lupus patients can be misattributed to lupus activity, making it hard to recognize other conditions. Lupus can affect the lungs in various ways.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Lupus",
+    "entities": {
+      "age": [
+        "54"
+      ],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath"
+      ],
+      "medical_field": [
+        "rheumatology"
+      ],
+      "disease": [
+        "lupus"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 5-year-old daughter often gets cold, cough, and end up with a fever and slight wheezing. No history of wheezing in the family.",
+    "context_question": "My 5-year-old daughter frequently has colds, coughs, fevers, and slight wheezing. No family history of wheezing.",
+    "answer": "Your daughter may be developing asthma. A pediatric evaluation is recommended, with tests like a chest x-ray and complete blood count. Possible medications include bronchodilators and inhaled steroids.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [
+        "5"
+      ],
+      "medicament": [
+        "bronchodilators",
+        "inhaled steroids"
+      ],
+      "sympt": [
+        "cold",
+        "cough",
+        "fever",
+        "wheezing"
+      ],
+      "medical_field": [
+        "pediatrics"
+      ],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [
+        "chest x-ray",
+        "complete blood count"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother's present complaint is weakness. She is also suffering from diabetes, high blood pressure, chronic kidney disease, and a heart problem.",
+    "context_question": "My mother has weakness and suffers from diabetes, high blood pressure, chronic kidney disease, and heart problems.",
+    "answer": "Your mother's CT chest suggests left upper lobe density. It is essential to determine if it is an infection or malignant. A CT-guided biopsy is recommended.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "CT chest",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "weakness"
+      ],
+      "medical_field": [
+        "nephrology"
+      ],
+      "disease": [
+        "diabetes",
+        "high blood pressure",
+        "chronic kidney disease"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 45, and for the last few weeks, I have been feeling short of breath while climbing stairs. No cough, no fever, no chest pain.",
+    "context_question": "I am 45 years old and have been feeling short of breath while climbing stairs for weeks, without cough, fever, or chest pain.",
+    "answer": "Shortness of breath only while climbing stairs, without other symptoms, does not strongly suggest lung cancer. Other causes are more likely.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "shortness of breath",
+    "entities": {
+      "age": [
+        "45"
+      ],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath"
+      ],
+      "medical_field": [
+        "pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been suffering from fever, cold, and cough for the past week. Along with these symptoms, I have a sore throat and feel weakness throughout the day.",
+    "context_question": "I have had fever, cold, cough, sore throat, and weakness for a week.",
+    "answer": "Your symptoms suggest a viral upper respiratory tract infection (URTI), such as the common cold or influenza. Bacterial infection cannot be ruled out.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "upper respiratory tract infection",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "fever",
+        "cold",
+        "cough",
+        "sore throat",
+        "weakness"
+      ],
+      "medical_field": [
+        "infectious disease"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had asthma since childhood and was later diagnosed with COPD after smoking for about 20 years. Over the past few years, my breathing has become very difficult.",
+    "context_question": "I have asthma and COPD, and my breathing has become very difficult over the past few years.",
+    "answer": "Your symptoms suggest asthma-COPD overlap (ACO). Asthma involves reversible airway inflammation, while COPD leads to permanent airway damage from long-term exposure to irritants.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Asthma",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "breathing difficulty"
+      ],
+      "medical_field": [
+        "pulmonology"
+      ],
+      "disease": [
+        "asthma",
+        "COPD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My sister is 39 and was recently diagnosed with stage 4 lung adenocarcinoma, and the diagnosis came after she kept complaining of persistent back pain for months.",
+    "context_question": "My 39-year-old sister has stage 4 lung adenocarcinoma diagnosed after persistent back pain.",
+    "answer": "In some lung cancer patients, the first symptom may arise from metastasis rather than the lungs. Lung adenocarcinoma can spread to bones, causing back pain.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Lung adenocarcinoma",
+    "entities": {
+      "age": [
+        "39"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent back pain"
+      ],
+      "medical_field": [
+        "oncology"
+      ],
+      "disease": [
+        "lung adenocarcinoma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 11-year-old daughter has been struggling with some serious allergy issues lately. Every morning, she starts sneezing like crazy, like a hundred times in a row!",
+    "context_question": "My 11-year-old daughter has serious allergy issues, sneezing excessively every morning.",
+    "answer": "Your daughter has severe allergic rhinitis. Cetirizine helps control symptoms but may cause drowsiness. Non-sedating antihistamines like Loratadine or Desloratidine could be alternatives.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "antihistamines",
+    "entities": {
+      "age": [
+        "11"
+      ],
+      "medicament": [
+        "Cetirizine",
+        "Loratadine",
+        "Desloratidine"
+      ],
+      "sympt": [
+        "sneezing",
+        "runny nose",
+        "watery eyes"
+      ],
+      "medical_field": [
+        "allergy"
+      ],
+      "disease": [
+        "allergic rhinitis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been coughing for almost a month, and have pain in the left part of my ribs. And I am not able to taste food.",
+    "context_question": "I have been coughing for a month, with left rib pain and loss of taste.",
+    "answer": "Your chest X-ray shows significant fluid accumulation, causing persistent cough and rib pain. This fluid needs direct evaluation.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "chest X-ray",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [
+        "cough",
+        "pain in left ribs",
+        "loss of taste"
+      ],
+      "medical_field": [
+        "pulmonology"
+      ],
+      "disease": [],
+      "Test": [
+        "chest X-ray"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have been using Tezspire for my severe asthma for the past eight weeks, as you prescribed. Initially, I experienced a significant improvement in my pulmonary function tests, which allo",
+    "context_question": "I have been using Tezspire for severe asthma for eight weeks and saw improvement in pulmonary function tests.",
+    "answer": "Tezspire can cause side effects like sore throat and joint pain. It is essential to continue using a bronchodilator alongside it for managing severe asthma.",
+    "language": "en",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "tezepelumab",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "Tezspire"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "pulmonology"
+      ],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My uncle is 50 years old and was recently diagnosed with lung cancer, which has already involved nearby lymph nodes. We were surprised at how quickly the disease seemed to progress, espe",
+    "context_question": "My 50-year-old uncle has lung cancer that has spread to nearby lymph nodes, progressing quickly.",
+    "answer": "Lung cancer often progresses silently in early stages, with symptoms appearing only after it has spread. This can lead to rapid progression despite initially mild symptoms.",
+    "language": "en",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "oncology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 70-year-old female and I have been undergoing treatment for nontuberculous mycobacterium. I have been using the Arikayce inhaler for the past six months.",
+    "context_question": "70-year-old female undergoing treatment for nontuberculous mycobacterium, using Arikayce inhaler for six months, inquiring about treatment duration.",
+    "answer": "The treatment duration with Amikacin for nontuberculous mycobacteria depends on the specific type of infection and severity. It can range from several months to years, and your healthcare provider will monitor your response closely.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "spirometry",
+    "entities": {
+      "age": [
+        "70"
+      ],
+      "medicament": [
+        "Arikayce",
+        "Amikacin"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "nontuberculous mycobacterium"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband is a person with diabetes and was discharged from the hospital after COVID treatment one and a half months ago. His computed tomography (CT) showed early fibrosis at the time",
+    "context_question": "Husband with diabetes discharged after COVID treatment, CT showed early fibrosis, reports not looking good after follow-up.",
+    "answer": "The HRCT report shows scattered areas of fibrosis in both lungs, indicating post-COVID pulmonary fibrosis. No proven treatment options are available for this condition currently.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Azithromycin",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "COVID-19",
+        "fibrosis"
+      ],
+      "Test": [
+        "HRCT"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I underwent a comprehensive health checkup recently and it revealed multiple small nodules in both my lungs from the high-resolution CT scan. Presently, I have sporadic recurring breathless",
+    "context_question": "Recent health checkup revealed multiple small lung nodules, experiencing sporadic breathlessness, seeking advice on next steps.",
+    "answer": "CT scan suggests nodular lesions, but symptoms do not correlate. Nodules less than 0.2 inches are insignificant. Follow-up with CECT after six months is recommended for nodules of 0.3 inches or larger.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "osteopenia medication",
+        "calcium",
+        "calcinase nasal spray"
+      ],
+      "sympt": [
+        "breathlessness"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have finished six cycles of chemotherapy for stage I ovarian cancer. In the CT scan performed last week, a 13mm left hilar node and a 17mm right hilar node with a 6mm right lung nodule",
+    "context_question": "Finished six cycles of chemotherapy for stage I ovarian cancer, recent CT scan showed hilar nodes and lung nodule, concerned about biopsy results.",
+    "answer": "The presence of lymph nodes and lung nodules does not necessarily indicate cancer. A biopsy is crucial to determine if they are cancerous, and your healthcare provider will assess the situation based on your history.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "biopsy",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "stage I ovarian cancer"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am looking for a second opinion regarding oxygen charts.",
+    "context_question": "Seeking a second opinion on oxygen saturation charts.",
+    "answer": "The mean oxygen saturation (SpO2) is 97.2%, which is good. Normal SpO2 is usually around 95%. Monitor for any significant drops below 90% with associated symptoms.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "oxygen saturation",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I have had mild asthma with a cough for two weeks. I am a COVID-19 patient.",
+    "context_question": "Mild asthma with a cough for two weeks, currently a COVID-19 patient, seeking treatment advice.",
+    "answer": "Your cough is dry, and treatment depends on severity. If Albuterol does not help, consider a corticosteroid inhaler. Monitor oxygen saturation and isolate for at least 14 days.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Albuterol",
+    "entities": {
+      "age": [
+        "20"
+      ],
+      "medicament": [
+        "Benzo 200 mg",
+        "Famotidine 20 mg",
+        "Albuterol"
+      ],
+      "sympt": [
+        "cough"
+      ],
+      "medical_field": [],
+      "disease": [
+        "COVID-19"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 63 years old and have both severe asthma and COPD, which makes breathing extremely difficult daily. I smoked for 30 years but quit five years ago when I was diagnosed.",
+    "context_question": "63-year-old with severe asthma and COPD, experiencing daily breathing difficulties, previously smoked for 30 years.",
+    "answer": "You have high-risk asthma–COPD overlap with severe limitations. Your regimen may need adjustment; consider switching to a single-inhaler triple therapy for better control.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "asthma–COPD (chronic obstructive pulmonary disease) overlap (ACO)",
+    "entities": {
+      "age": [
+        "63"
+      ],
+      "medicament": [
+        "Advair",
+        "Spiriva",
+        "Montelukast",
+        "albuterol"
+      ],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "asthma",
+        "COPD"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I recently had two CT scans. The first was with contrast, and they found a pulmonary nodule measuring two millimeters in the lateral right lung base.",
+    "context_question": "Recent CT scans found a pulmonary nodule in the right lung base and multiple nodules in both lungs.",
+    "answer": "The presence of multiple lung nodules does not necessarily indicate cancer. Consult a healthcare provider for further evaluation and treatment options.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung nodules",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [],
+      "Test": [
+        "CT scans"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 50 years old and has been undergoing treatment for lung cancer for the past year. Initially, his scans showed a good response to therapy, but recently the doctor mentioned t",
+    "context_question": "Father, 50 years old, undergoing treatment for lung cancer, recent scans indicate potential resistance to current medication.",
+    "answer": "Cancer cells can develop genetic changes over time, leading to resistance against treatment. This may explain the changes observed in his condition.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Cancer",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 35 and was diagnosed with asthma last year, and I use an inhaler occasionally when I get breathing difficulty. Recently, I noticed that I get short of breath even with mild activity",
+    "context_question": "35-year-old diagnosed with asthma, using inhaler occasionally, now experiencing shortness of breath with mild activity.",
+    "answer": "Your asthma seems uncontrolled. Frequent breathlessness and night symptoms indicate a need for a regular inhaler to manage your condition better.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "breathless",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [],
+      "sympt": [
+        "shortness of breath"
+      ],
+      "medical_field": [],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I recently read about a case of a 46-year-old with stage IV non-small cell lung cancer who survived for six and a half years after diagnosis, which made me curious because I thought stag",
+    "context_question": "Curious about survival rates for stage IV non-small cell lung cancer after reading about a specific case.",
+    "answer": "Survival rates for stage IV non-small cell lung cancer have improved due to newer therapies. Genetic mutations in tumors can influence survival outcomes significantly.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "non-small cell lung cancer",
+    "entities": {
+      "age": [
+        "46"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "stage IV non-small cell lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 35-year-old woman weighing 207.23 pounds with a BMI of 34. I have been struggling to lose weight despite trying diets and walking.",
+    "context_question": "35-year-old woman with a BMI of 34, struggling to lose weight, reports borderline insulin resistance and high triglycerides.",
+    "answer": "Your symptoms suggest a hormonal–metabolic pattern. Addressing insulin resistance systematically can help. Additional tests for HbA1c and thyroid profile are recommended.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Semaglutide",
+    "entities": {
+      "age": [
+        "35"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "insulin resistance",
+        "PCOS"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My brother had lung cancer treatment recently and developed a severe infection during recovery. Doctors said he went into sepsis and needed ICU care.",
+    "context_question": "Brother developed severe infection and sepsis after lung cancer treatment, seeking information about plasmapheresis.",
+    "answer": "Sepsis is a severe response to infection, especially in patients with weakened immune systems post-cancer treatment. Antibiotics are crucial, and plasmapheresis may be used to control inflammation.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Sepsis",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [],
+      "disease": [
+        "lung cancer",
+        "sepsis"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 40-year-old woman who has been experiencing a persistent cough and occasional chest discomfort for several months. After reading about lung cancer symptoms online, I have become c",
+    "context_question": "40-year-old woman experiencing persistent cough and chest discomfort for several months, concerned about lung cancer symptoms.",
+    "answer": "A persistent cough is a common early symptom of lung cancer, along with chest pain and dyspnea. However, non-cancerous conditions are often the cause of these symptoms.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "cough",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [],
+      "sympt": [
+        "persistent cough",
+        "chest discomfort"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 20 years old, and for the past one and a half months, I have been experiencing episodes of breathlessness, especially when climbing stairs or even during normal walking. It is not c",
+    "context_question": "20-year-old experiencing episodes of breathlessness for one and a half months, concerned about the frequency.",
+    "answer": "At 20, lung cancer is unlikely, especially without risk factors. Breathlessness is usually due to more common and benign causes.",
+    "language": "English",
+    "urgency": "Faible",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "20"
+      ],
+      "medicament": [],
+      "sympt": [
+        "breathlessness"
+      ],
+      "medical_field": [],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My 41-year-old husband was admitted to the hospital nine days ago with severe pneumococcal pneumonia. Despite receiving aggressive IV antibiotics for over a week, his recovery has been v",
+    "context_question": "My 41-year-old husband was admitted nine days ago with severe pneumococcal pneumonia. His recovery has been slow despite aggressive IV antibiotics.",
+    "answer": "Your husband has severe pneumococcal pneumonia, a serious lung infection. This infection can be aggressive even in healthy adults. Recovery may take time, and it is not due to any weakness.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "pneumococcal pneumonia",
+    "entities": {
+      "age": [
+        "41"
+      ],
+      "medicament": [],
+      "sympt": [
+        "severe pneumococcal pneumonia"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "pneumococcal pneumonia"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 36-year-old male. I am feeling very anxious about my health due to a family history of lung cancer.",
+    "context_question": "I am a 36-year-old male feeling anxious about my health due to a family history of lung cancer.",
+    "answer": "To reduce your risk of lung cancer, quit smoking entirely and avoid exposure to secondhand smoke and air pollutants. Regular exercise and a healthy diet are also important. Screening for lung cancer is recommended for high-risk individuals.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "risk of lung cancer",
+    "entities": {
+      "age": [
+        "36"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 50 and recently started treatment for stage 4 lung cancer, and the oncologist recommended both chemotherapy and immunotherapy together from the beginning. We were earlier to",
+    "context_question": "My father is 50 and recently started treatment for stage 4 lung cancer with chemotherapy and immunotherapy.",
+    "answer": "In stage 4 lung cancer, treatment aims to control the cancer and prolong life. Combining chemotherapy with immunotherapy is becoming common as both treatments work differently to fight the disease.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "targeted therapy",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 4 lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 32 and was recently diagnosed with stage IVa lung cancer, and I am trying to understand the long-term outlook instead of just immediate treatment. Please let me know: Can a 32-year-",
+    "context_question": "I am 32 and recently diagnosed with stage IVa lung cancer, seeking to understand the long-term outlook.",
+    "answer": "Stage IVa lung cancer means the disease has spread but is still limited. The outlook depends on the tumor's genetic profile, which can significantly influence treatment options.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "32"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage IVa lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 56 and was diagnosed with mycobacterium avium complex lung disease six months ago after having a chronic cough for over a year. My pulmonologist did a bronchoscopy, and cultures cam",
+    "context_question": "I am 56 and diagnosed with mycobacterium avium complex lung disease after a chronic cough for over a year.",
+    "answer": "You are on the standard triple-drug regimen for MAC treatment. These medications can have significant side effects, and your blurry vision may need urgent review by an eye doctor.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "Mycobacterium avium complex",
+    "entities": {
+      "age": [
+        "56"
+      ],
+      "medicament": [
+        "Azithromycin",
+        "Ethambutol",
+        "Rifampin"
+      ],
+      "sympt": [
+        "chronic cough"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "mycobacterium avium complex lung disease"
+      ],
+      "Test": [
+        "bronchoscopy"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 31 years old, and my asthma has been completely out of control since having my baby 10 months ago. Before pregnancy, my asthma was well-managed using only an Albuterol inhaler as ne",
+    "context_question": "I am 31 years old, and my asthma has been out of control since having my baby 10 months ago.",
+    "answer": "Your asthma is now moderate-to-severe allergic asthma, requiring stronger control. Hormonal changes after pregnancy may influence airway inflammation, making asthma harder to manage.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "asthma",
+    "entities": {
+      "age": [
+        "31"
+      ],
+      "medicament": [
+        "Albuterol"
+      ],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "asthma"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My mother has lung cancer, stage 1, I believe, the slowest-growing type. I have some questions.",
+    "context_question": "My mother has lung cancer, stage 1, and I have questions about the prognosis.",
+    "answer": "Stage 1 lung cancer is highly curable if detected early. Surgical intervention is often necessary, followed by chemotherapy or radiotherapy if needed.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "stage 1 lung cancer",
+    "entities": {
+      "age": [],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 1 lung cancer"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is 50 and was recently diagnosed with small-cell lung cancer, and doctors said it is present in both lungs already. His CT report mentions bilateral lung masses with mediastina",
+    "context_question": "My father is 50 and diagnosed with small-cell lung cancer present in both lungs.",
+    "answer": "Small-cell lung cancer grows rapidly and can spread quickly, often being present in multiple areas at diagnosis due to the fast division of cancer cells.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "small-cell lung cancer",
+    "entities": {
+      "age": [
+        "50"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "small-cell lung cancer"
+      ],
+      "Test": [
+        "CT report"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 40 years old and recently had a lung cancer scare after some tests showed a suspicious finding, although nothing has been confirmed yet. This has made me quite concerned about my li",
+    "context_question": "I am 40 years old and had a lung cancer scare after tests showed a suspicious finding.",
+    "answer": "Quitting smoking years ago is a positive step for your lung health. Alcohol is not a direct cause of lung cancer, but caution is reasonable after a scare.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "lung cancer",
+    "entities": {
+      "age": [
+        "40"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "My husband, 45, snores loudly and sometimes gasps in his sleep. A home sleep test showed moderate obstructive sleep apnea.",
+    "context_question": "My husband, 45, snores loudly and has moderate obstructive sleep apnea.",
+    "answer": "Moderate obstructive sleep apnea can cause airway narrowing during sleep. CPAP is the most reliable treatment, although it may be uncomfortable initially.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "obstructive sleep apnea(OSA)",
+    "entities": {
+      "age": [
+        "45"
+      ],
+      "medicament": [],
+      "sympt": [
+        "snoring",
+        "gasping in sleep"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "obstructive sleep apnea"
+      ],
+      "Test": [
+        "home sleep test"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "My father is in ICU (intubated ventilator) since one week for severe pneumonia/bronchitis with fungal and bacterial infection in the lungs and is on below mentioned medication. B -cagin",
+    "context_question": "My father is in ICU for severe pneumonia/bronchitis with fungal and bacterial infection.",
+    "answer": "Your father has pneumonia with bacterial and fungal infections. His treatment includes several medications, and his oxygen saturation is currently stable.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "oxygen saturation",
+    "entities": {
+      "age": [],
+      "medicament": [
+        "B -cagin (Micafugin)",
+        "Elores 1.5 gm",
+        "Tigefic plus",
+        "Moxidac 100 ml"
+      ],
+      "sympt": [
+        "severe pneumonia",
+        "bronchitis"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 57-year-old woman who has recently been advised to consider stereotactic body radiation therapy for a lung tumor. I would greatly appreciate your help in understanding this treatm",
+    "context_question": "I am a 57-year-old woman advised to consider stereotactic body radiation therapy for a lung tumor.",
+    "answer": "Stereotactic body radiation therapy (SBRT) is a precise treatment for lung cancer that delivers targeted doses of radiation directly to the tumor in fewer sessions.",
+    "language": "English",
+    "urgency": "Moyen",
+    "speciality": "Pulmonology",
+    "article_title": "Stereotactic body radiation therapy",
+    "entities": {
+      "age": [
+        "57"
+      ],
+      "medicament": [],
+      "sympt": [],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "lung tumor"
+      ],
+      "Test": [],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am 57, and I went for a sleep study because of loud snoring and breathing pauses, but the test came inconclusive. The doctor asked for a chest CT scan to check the airways before repea",
+    "context_question": "I am 57 and had a sleep study that was inconclusive, leading to a CT scan that showed stage 1 lung cancer.",
+    "answer": "It is surprising to receive a cancer diagnosis after seeking help for sleep issues. The CT scan revealed a lung lesion that may not have been detected otherwise.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "CT scan",
+    "entities": {
+      "age": [
+        "57"
+      ],
+      "medicament": [],
+      "sympt": [
+        "loud snoring",
+        "breathing pauses"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "stage 1 lung cancer"
+      ],
+      "Test": [
+        "chest CT scan"
+      ],
+      "Result": []
+    }
+  },
+  {
+    "question": "I am a 52-year-old woman, and I have had a chronic cough for months. My CT scan showed bronchiectasis, and my sputum tested positive for MAC infection.",
+    "context_question": "I am a 52-year-old woman with a chronic cough, CT scan showed bronchiectasis, and positive for MAC infection.",
+    "answer": "Bronchiectasis and MAC infection often develop slowly. The treatment is long-term, and the combination of these conditions is common in women who have never smoked.",
+    "language": "English",
+    "urgency": "High",
+    "speciality": "Pulmonology",
+    "article_title": "bronchiectasis",
+    "entities": {
+      "age": [
+        "52"
+      ],
+      "medicament": [],
+      "sympt": [
+        "chronic cough"
+      ],
+      "medical_field": [
+        "Pulmonology"
+      ],
+      "disease": [
+        "bronchiectasis",
+        "MAC infection"
+      ],
+      "Test": [
+        "CT scan"
+      ],
+      "Result": []
+    }
+  }
+]
